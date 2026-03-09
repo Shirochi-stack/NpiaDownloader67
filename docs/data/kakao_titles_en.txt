@@ -64,7 +64,7 @@
 59854139|||아빠가 힘을 숨김|||Dad Hides His Strength
 58925330|||내가 키운 마수가 드래곤을 물고 왔다|||The Magical Beast I Raised Brought Back a Dragon
 51683079|||어느 날 공주가 되어버렸다|||Who Made Me a Princess
-66000425|||너희가 집 가자며, 왜 황궁 가는데|||You Said We Were Going Home, Why Are We Going to the Imperial Palace?
+66000425|||너희 집 가자며, 왜 황궁 가는데|||You Said We Were Going Home, Why Are We Going to the Imperial Palace?
 61738876|||전설급 귀환자가 살아가는 법|||How a Legendary Returnee Lives
 49418698|||전생의 프로가 꿀 빠는 법|||How a Pro from a Past Life Lives the Easy Life
 58852658|||마도왕국 천재가 살아가는 법|||How a Genius of the Magic Kingdom Lives
@@ -117,7 +117,7 @@
 58076044|||가짜는 꽃가마를 탄다|||The Fake Rides a Flower Palanquin
 51245449|||후작가에 가정 교사가 필요한 이유|||The Reason Why the Marquis's Family Needs a Tutor
 53923182|||폭군 오빠가 셋이래요 [완결]|||There Are Three Tyrant Brothers [Completed]
-64012492|||사천당가 침술명의가 되었다|||I Became a Master of Acupuncture in the Sichuan Tang Clan
+64012492|||사천당가 침술명의가 되었다|||I Became a Master of Acupuncture in the Sichuan Tang Clan
 50058336|||그녀가 공작저로 가야 했던 사정 [단행본]|||The Reason Why She Had to Go to the Duke's Mansion [Volume Edition]
 53998505|||너의 아이가 아니야|||It's Not Your Child
 55988501|||가짜를 위한 장소는 없다|||There is No Place for the Fake
@@ -630,7 +630,7 @@
 57225178|||무림 속 외노자가 되었다|||I Became a Foreign Worker in Murim
 58853159|||귀환 용사가 너무 강함 [완결]|||The Returned Hero is Too Strong [Completed]
 58173476|||나쁜 며느리가 되고 싶어요|||I Want to Be a Bad Daughter-in-Law
-54966780|||바람에 달 가듯 &amp; 구름에 달 가듯|||Like the Moon Passing Through the Wind &amp; Like the Moon Passing Through the Clouds
+54966780|||바람에 달 가듯 & 구름에 달 가듯|||Like the Moon Passing Through the Wind &amp; Like the Moon Passing Through the Clouds
 59778597|||폭군의 반려 토끼가 되었다|||I Became the Tyrant's Companion Rabbit
 62025840|||죽은 아내가 돌아왔다|||My Dead Wife Has Returned
 61020714|||남편과 사이가 안 좋을 때|||When You're Not on Good Terms with Your Husband
@@ -672,7 +672,7 @@
 64286634|||꼬마 며느리가 다 살림!|||The Little Daughter-in-Law Saves Everything!
 54746707|||무공 가르치는 천마님|||The Heavenly Demon Who Teaches Martial Arts
 61114566|||어프록시말 가이드|||Proximal Guide
-58402432|||작가님은 부캐 채부자|||The Writer is Rich in Sub-Characters
+58402432|||작가님은 부캐 부자|||The Writer is Rich in Sub-Characters
 61376715|||내가 죽은 뒤 꼬마 신랑은|||After I Died, the Little Groom
 58003899|||폭군의 시한부 아내가 되었는데|||I Became the Tyrant's Terminally Ill Wife
 61118013|||남주가 돈으로 나를 조련한다|||The Male Lead Trains Me with Money
@@ -869,7 +869,7 @@
 58244646|||무공이 복사가 된다고!|||Martial Arts Are Being Copied!
 63346087|||빙의한 악녀가 깽판 침|||The Possessed Villainess Causes a Scene
 68099510|||여주가 탈주했더니 메인 남주가 폭군의 황후가 되었다 [19세 완전판]|||The Heroine Ran Away and the Main Male Lead Became the Tyrant's Empress [19+ Uncut]
-47931855|||에드가&amp;재호|||Edgar &amp; Jaeho
+47931855|||에드가&재호|||Edgar &amp; Jaeho
 48734941|||외공의 대가|||Master of External Arts
 56829046|||형사, 무림에 가다|||Detective Goes to Murim
 62087156|||보상 특전! 가족을 드립니다|||Reward Perk! We Give You a Family
@@ -1758,7 +1758,7 @@
 59643792|||아웃 오브 가이드|||Out of Guide
 57846458|||노르드 월드에서 힐러로 살아가고 있습니다|||I'm Living as a Healer in Nord World
 68317490|||즉사급 올마스터가 레벨업을 잘함|||The Instant-Death Class All-Master is Good at Leveling Up
-66973175|||피폐물 감금물의 토끼 신부가 되었다|||I Became the Rabbit Bride in a Dark Imprisonment Story
+66973175|||피폐 감금물의 토끼 신부가 되었다|||I Became the Rabbit Bride in a Dark Imprisonment Story
 56297631|||의대생, 꽃다미가 날아들다 [단독선공개]|||Medical Student, Flower Petals Fly In [Exclusive Pre-release]
 64471887|||무한 회귀로 천마가 되다|||Becoming the Heavenly Demon Through Infinite Return
 50157069|||아내가 수상하다|||My Wife is Suspicious
@@ -1983,7 +1983,7 @@
 58135786|||수수께끼의 황제가 나에게 반해버렸다|||The Mysterious Emperor Has Fallen for Me
 68306007|||환생한 감독님은 축구가 너무 쉽다|||The Reincarnated Manager Finds Soccer Too Easy
 46883856|||나무를 담벼락에 끌고 들어가지 말라 [연재]|||Don't Drag the Tree Over the Wall [Serialization]
-66973194|||피폐물 감금물의 토끼 신부가 되었다 [19세 완전판]|||I Became the Rabbit Bride in a Dark Imprisonment Story [19+ Full Version]
+66973194|||피폐 감금물의 토끼 신부가 되었다 [19세 완전판]|||I Became the Rabbit Bride in a Dark Imprisonment Story [19+ Full Version]
 48347596|||가지고 싶어서|||Because I Want to Have You
 52462814|||혼날 때가 꽃|||When You Get Scolded is the Flower
 56251957|||깡패국가 조선 [완결]|||Gangster Nation Joseon [Completed]
@@ -2387,7 +2387,6 @@
 66774307|||가챠로 요리의 신을 뽑았다|||I Pulled the God of Cooking with Gacha
 54172471|||고양이가 주워온 용 [완결]|||The Dragon the Cat Picked Up [Completed]
 64117380|||어쩌다 보니 S급 가이드가 되었습니다|||I Accidentally Became an S-Class Guide
-52911430|||용사가 없는 세계의 영웅|||Hero in a World Without a Hero
 63982478|||파리를 잡았더니 초월급 헌터가 되었다|||I Caught a Fly and Became a Transcendent Hunter
 52911430|||벼락맞은 작가님 [완결]|||Lightning-Struck Writer [Completed]
 67166506|||민폐캐가 S급 등급을 숨김|||The Nuisance Character Hides Their S-Class Rating
@@ -3276,7 +3275,7 @@
 52018077|||천하제일고수 - 학교에 가다 [완결]|||The World's Best Master - Goes to School [Completed]
 56006845|||암살자인 내 스테이터스가 용사보다도 훨씬 강한데요|||My Stats as an Assassin Are Much Stronger Than the Hero's
 66769186|||외계 나무가 천재 작곡가를 키움|||An Alien Tree Raises a Genius Composer
-52327491|||메이지 &amp; 가드 : 전설의 시작|||Mage &amp; Guard: The Beginning of a Legend
+52327491|||메이지 & 가드 : 전설의 시작|||Mage &amp; Guard: The Beginning of a Legend
 68287776|||재벌가 망나니 헌터가 되었다|||I Became the Chaebol Family's Scoundrel Hunter
 58034094|||전하가 잠든 사이에|||While His Highness is Asleep
 53532253|||기가 막힌 내 여자|||My Amazing Woman
@@ -3625,7 +3624,7 @@
 63991457|||천재 작가에게 러브콜이 쇄도한다|||Love Calls Flood the Genius Writer
 62592021|||장르가 바뀐 것 같다|||It Seems the Genre Has Changed
 68235142|||가짜 영매사인 내가 진짜들의 세계에 엮이고 말았다|||I, a Fake Medium, Got Involved in the World of the Real Ones
-60577208|||버림받은 황후가 남작 영애로 살아가는 법|||How the Abandoned Empress Lives as a Baron's Daughter
+60577208|||버림받은 왕비가 남작 영애로 살아가는 법|||How the Abandoned Empress Lives as a Baron's Daughter
 63969997|||박정의의 조카가 되었다|||I Became Park Jung-ui's Nephew
 67723744|||가슬추연;복수로 물든 연정|||Gaseulchuyeon; Love Stained with Revenge
 58822811|||C급 가이드로 살아남는 법|||How to Survive as a C-Rank Guide
@@ -3860,7 +3859,7 @@
 61724876|||축구단장은 능력치가 보인다|||The Soccer Team Owner Can See Stats
 62453903|||헌터 내가 해봤는데 별거 없더라 [단행본]|||I Tried Being a Hunter, but It Was Nothing Special [Volume]
 67348673|||S급 탑스타들이 집착하는 천재작가|||The Genius Writer That S-Rank Top Stars Are Obsessed With
-60299201|||마법 명가의 약제사가 되었다 [단행본]|||I Became the Pharmacist of a Magic Clan [Volume]
+60299201|||마법명가의 약제사가 되었다 [단행본]|||I Became the Pharmacist of a Magic Clan [Volume]
 47647245|||보디가드|||Bodyguard
 62500319|||시한부 가이드는 살아남을 것을 예상하지 못했다 [단행본]|||The Terminally Ill Guide Didn't Expect to Survive [Volume]
 68602658|||최강이 되어 버린 투수가 환생을 숨김|||The Pitcher Who Became the Strongest Hides His Reincarnation
@@ -4883,7 +4882,7 @@
 48914210|||가람휘아|||Garamhwia
 63050753|||가환고 [단행본]|||Gahwango [Volume Edition]
 50531209|||다가오지 마라 [완결]|||Don't Come Closer [Completed]
-66774581|||대영국의 총리가 되었다|||I Became the Prime Minister of the British Empire
+66774581|||대영제국의 총리가 되었다|||I Became the Prime Minister of the British Empire
 62916937|||상태창을 보는 천재 성우가 되었다|||I Became a Genius Voice Actor Who Sees Status Windows
 57095374|||책 보고 가라 [단행본]|||Read a Book Before You Go [Volume Edition]
 61119309|||널 갖는 대가|||The Price of Having You
@@ -5343,7 +5342,7 @@
 60333334|||내 아이의 아빠가 황제랍니다|||They Say My Child's Father is the Emperor
 61676694|||가이드북으로 꿀빠는 플레이어 [단행본]|||The Player Who Has It Easy with a Guidebook [Volume Edition]
 52526248|||그 섬에 가면[할리퀸]|||If You Go to That Island [Harlequin]
-60947971|||남작가의 마법사의 회귀 [단행본]|||Regression of the Baron Family's Mage [Volume Edition]
+60947971|||남작가 마법사의 회귀 [단행본]|||Regression of the Baron Family's Mage [Volume Edition]
 55358259|||임페리얼 가드 [단행본]|||Imperial Guard [Volume Edition]
 65591884|||흑막을 가정부로 들여 버렸다 [단행본]|||I Hired the Mastermind as a Housekeeper [Volume Edition]
 48262001|||공주, 용사가 되기로 결심하다 !|||Princess, Decides to Become a Hero!
@@ -5639,7 +5638,7 @@
 59593409|||하룻밤도 변호가 되나요?|||Can One Night Be a Defense?
 59090083|||대체불가 슈퍼스타 [단행본]|||Irreplaceable Superstar [Volume Edition]
 66636559|||원수였던 언니가 나를 아낀다 [단행본]|||My Sister, Who Was My Enemy, Cherishes Me [Volume Edition]
-61105984|||아카데미의 신화급 교수 [단행본]|||The Myth-Rank Professor of the Academy [Volume Edition]
+61105984|||아카데미의 신화급 교수가 되었다 [단행본]|||The Myth-Rank Professor of the Academy [Volume Edition]
 68605642|||천재 이도류가 코칭을 더 잘함|||The Genius Dual-Wielder Is Better at Coaching
 67223513|||재벌가 차남은 가슴에 금배지를 달았다 [단행본]|||The Chaebol Family's Second Son Wears a Gold Badge on His Chest [Volume Edition]
 66268306|||천재 아이돌인데 패시브가 개복치 [단행본]|||I'm a Genius Idol, but My Passive Skill Is Sunfish [Volume Edition]
@@ -6014,7 +6013,6 @@
 66757739|||몰락한 남작가의 창술천재|||The Spear-Arts Genius of a Fallen Baron Family
 62640238|||한국의 메시가 되었다 [단행본]|||I Became Korea's Messi [Volume Edition]
 66944632|||그 고아가 가디언이라고? [단행본]|||That Orphan Is a Guardian? [Volume Edition]
-61199714|||마법경영학과 20학번 김가을|||Kim Gaeul, Class of '20, Department of Magic Management
 63127616|||나를 차별한 가족을 버립니다|||I'm Abandoning the Family That Discriminated Against Me
 63304388|||피아노 천재가 재능을 못숨김[단행본]|||The Piano Genius Doesn't Hide His Talent [Volume Edition]
 49986744|||아가씨와 건달[할리퀸]|||Guys and Dolls [Harlequin]
@@ -6268,7 +6266,6 @@
 62342203|||레벨 999 흑막 공녀가 되었다 [단행본]|||I Became a Level 999 Dark Mastermind Duchess [Volume Edition]
 66246540|||재벌집 침술명의가 되었다 [단행본]|||I Became a Master Acupuncturist in a Chaebol Family [Volume Edition]
 57751750|||내가 안아 줄게|||I'll Hug You
-55396065|||(이용권) 달마야 중원가자 [단행본]|||Dalma, Let's Go to the Central Plains [Volume Edition]
 61576245|||최소 메시가 되었다 [단행본]|||I Became at Least Messi [Volume Edition]
 67445659|||천재 노예가 살아남는 법|||How the Genius Slave Survives
 48171773|||숨길 수 없어요 (15세 이용가)|||I Can't Hide It (Rated 15+)
@@ -6303,7 +6300,7 @@
 66309594|||회귀한 헌터가 너무 잘 생김|||The Regressed Hunter Is Too Handsome
 47415700|||손가락 끝에 걸린 사랑|||Love Hanging on the Fingertips
 68659918|||어서와, 오메가 입덕은 처음이지? [19세 완전판]|||Welcome, Is This Your First Time Getting into Omegas? [Rated 19+ Uncut Edition]
-49435910|||[15세_이용가 개정판]나미이야기|||[Rated 15+ Revised Edition] Nami's Story
+49435910|||[15세 이용가_개정판]나미이야기|||[Rated 15+ Revised Edition] Nami's Story
 46818340|||꽃보다 그대가|||You Are More Than Flowers
 68391304|||혁련세가 차남이 되었다|||I Became the Second Son of the Hyeokryeon Clan
 66332936|||톱스타의 오빠가 작곡 천재였다[단행본]|||The Top Star's Older Brother Was a Composition Genius [Volume Edition]
@@ -7160,7 +7157,7 @@
 65550250|||둘뿐인데 삼각관계가 되었다|||There Are Only Two of Us, But It Became a Love Triangle
 63299049|||아카데미에 천사가 산다 [단행본]|||An Angel Lives in the Academy [Book]
 67558417|||천재영주가 제국을 건설함[단행본]|||The Genius Lord Builds an Empire [Book]
-65484192|||용사는 용사가 되고 싶다|||The Hero Wants to be a Hero
+65484192|||용사는 용사가 되고 싶지 않다|||The Hero Wants to be a Hero
 60926793|||순결을 지켜주세요 [15세 이용가]|||Please Protect My Purity [15+ Edition]
 59622182|||새장 속은 아늑한가요 [단행본]|||Is the Inside of the Birdcage Cozy? [Book]
 67095140|||초월자들에게 사랑받는 외노자가 되었다 [단행본]|||I Became a Foreign Worker Loved by Transcendents [Book]
@@ -7227,7 +7224,7 @@
 65012231|||아케인 시티의 빌런으로 살아가는 법[단행본]|||How to Live as a Villain in Arcane City [Book]
 62015655|||아빠가 기획사에서 잘렸다 [단행본]|||Dad Got Fired from the Agency [Book]
 61666296|||수능을 끝냈더니, 게임 속 농부가 됐다 [단행본]|||I Finished the Suneung and Became a Farmer in a Game [Book]
-62739986|||인투 The 로즈 가든 외전1 [19세 완전판][단행본]|||Into the Rose Garden Side Story 1 [19+ Edition][Book]
+62739986|||인투 더 로즈 가든 외전1 [19세 완전판][단행본]|||Into the Rose Garden Side Story 1 [19+ Edition][Book]
 61592698|||프로게이머 덕질하다 보니 어느새 랭커가 돼 있었다 [단행본]|||I Was Fan-Girling a Pro Gamer and Suddenly Became a Ranker [Book]
 65407526|||우리는 세종의 노예가 되지 않는다! [단행본]|||We Will Not Become Sejong's Slaves! [Book]
 60774861|||가족들이 나한테 집착한다 스페셜 외전 [단행본]|||My Family Is Obsessed With Me: Special Side Story [Book]
@@ -7327,7 +7324,6 @@
 65085285|||이제 그만 새가족을 찾으려합니다 [단행본]|||I'm Going to Stop Looking for a New Family Now [Book]
 66441698|||아카데미 히든 스킬 독식자가 되었다 [단행본]|||I Became the Monopolizer of Academy Hidden Skills [Book]
 68046459|||망나니 검사가 달라졌다[단행본]|||The Scoundrel Prosecutor Has Changed [Book]
-60510561|||[BL] 힐러가 어때서? 1권 [단행본]|||[BL] What's Wrong with Being a Healer? Vol. 1 [Book]
 68157429|||돌아온 이유가 있었다|||There Was a Reason for Returning
 67373152|||퍼펙트 가든|||Perfect Garden
 62986188|||그녀가 떠난 뒤에 남겨진 것 [단행본]|||Things Left Behind After She Left [Book]
@@ -7367,7 +7363,7 @@
 65867980|||마법사가 살아남는 법 [단행본]|||How a Mage Survives [Book]
 68621418|||잘못 귀환했지만 돈 벌기가 쉽다[단행본]|||I Returned Wrong, But Making Money Is Easy [Book]
 62125105|||당신이 나의 소꿉친구라는 가정하에 [단행본]|||Assuming You Are My Childhood Friend [Book]
-62740518|||인투 The 로즈 가든 외전2 [19세 완전판][단행본]|||Into the Rose Garden Side Story 2 [19+ Edition][Book]
+62740518|||인투 더 로즈 가든 외전2 [19세 완전판][단행본]|||Into the Rose Garden Side Story 2 [19+ Edition][Book]
 62927374|||용사님! 로그아웃이 뭔가요? [단행본]|||Hero! What Is Logout? [Book]
 65644002|||밝히는 공주님의 발칙한 보디가드|||The Lustful Princess's Cheeky Bodyguard
 66715396|||제갈세가 대종사[단행본]|||The Grand Master of the Zhuge Clan [Book]
@@ -7427,7 +7423,7 @@
 64711521|||내 친구가 마왕이 될 것 같다 외전 [19세 완전판][단행본]|||My Friend Seems Like He Will Become the Demon King: Side Story [19+ Edition][Book]
 67977095|||마교교주가 정체를 숨김[단행본]|||The Demonic Cult Leader Hides His Identity [Book]
 68345541|||남궁세가 망나니는 천마의 제자였다 [단행본]|||The Scoundrel of the Namgung Clan Was the Heavenly Demon's Disciple [Book]
-61890096|||메이지 &amp; 가드 : 전설의 시작 [단행본]|||Mage &amp; Guard: The Beginning of the Legend [Book]
+61890096|||메이지 & 가드 : 전설의 시작 [단행본]|||Mage &amp; Guard: The Beginning of the Legend [Book]
 66959089|||남궁세가 막내는 가출을 꿈꾼다 [단행본]|||The Youngest of the Namgung Clan Dreams of Running Away [Book]
 66157115|||몬스터의 목소리가 들려! [단행본]|||I Can Hear the Voices of Monsters! [Book]
 64337906|||천재 작가의 비밀 어플 1~6권 [단행본]|||The Genius Writer's Secret App, Vol. 1-6 [Book]
@@ -7723,7 +7719,7 @@
 62644546|||[BL] 오메가 아닌데요 4권 [19세 완전판][단행본]|||[BL] I'm Not an Omega, Vol. 4 [19+ Uncut Edition][Volume Edition]
 66575781|||이 결혼은 문제가 있다 [19세 완전판][단행본]|||There Is a Problem With This Marriage [19+ Uncut Edition][Volume Edition]
 68642454|||흑막 아기 흑표범의 가정 교사가 뱁새라니요! [단행본]|||A Parrotbill as the Tutor for the Villainous Baby Black Leopard! [Volume Edition]
-55708128|||에드가&amp;재호 [단행본]|||Edgar &amp; Jaeho [Volume Edition]
+55708128|||에드가&재호 [단행본]|||Edgar &amp; Jaeho [Volume Edition]
 67928034|||여주가 내 약혼자와 바람났다 [단행본]|||The Female Lead Cheated With My Fiancé [Volume Edition]
 55450122|||이상한 황성의 가짜 남편 [단행본]|||The Fake Husband of the Strange Imperial Palace [Volume Edition]
 64856081|||차 비서가 탐나면 [단행본]|||If You Covet Secretary Cha [Volume Edition]
@@ -8179,7 +8175,7 @@
 67500030|||이웃집 여주가 자꾸 회귀함 [단행본]|||The Female Lead Next Door Keeps Regressing [Volume Edition]
 67550172|||남자가 넷이나 [단행본]|||There Are Four Men [Volume Edition]
 66936270|||흑막 여주가 날 새엄마로 만들려고 해 [단행본]|||The Villain Female Lead Is Trying to Make Me Her Stepmother [Volume Edition]
-65768314|||용사는 용사가 되고 싶다[단행본]|||The Hero Wants to Be a Hero [Volume Edition]
+65768314|||용사는 용사가 되고 싶지 않다[단행본]|||The Hero Wants to Be a Hero [Volume Edition]
 68609631|||저주받은 공작의 하녀가 되었다 [단행본]|||I Became the Maid of the Cursed Duke [Volume Edition]
 68507727|||관상가의 화장법 [단행본]|||The Physiognomist's Makeup Method [Volume Edition]
 68295917||| 망한 대마법사 가문으로 갈아탑니다 [단행본]|||I'm Switching to a Ruined Great Mage Family [Volume Edition]
@@ -8776,7 +8772,6 @@
 67240697|||전직 용병의 슬기로운 빙의 생활|||The Former Mercenary's Wise Possession Life
 63907849|||현대에 강림한 정령사는 헌터 아이돌|||The Spirit Master Who Descended to the Modern Era Is a Hunter Idol
 62167974|||마지막 여행이 끝나면 외전 Ⅱ [19세 완전판] [단행본]|||When the Last Journey Ends: Side Story II [19+ Uncut Edition] [Volume Edition]
-59529764|||다른 남자의 아내|||Another Man's Wife
 50045433|||파머킹 [완결]|||Farmer King [Finale]
 65353901|||악당에서 재벌까지!|||From Villain to Chaebol!
 61205731|||평행세계의 나는 축구천재|||I Am a Soccer Genius in a Parallel World
@@ -9291,7 +9286,7 @@
 55439608|||정과장의 목선이 좋아 [단행본]|||I Like Manager Jeong's Neckline [Volume Edition]
 61265835|||절벽 위에 들꽃 따라 범이 온다 [단행본]|||Following the Wildflower on the Cliff, the Tiger Comes [Volume Edition]
 60220569|||다정한 악몽 [단행본]|||Kind Nightmare [Volume Edition]
-65157903|||BRUNHILD 용을 죽인 브띀힐드 [단행본]|||BRUNHILD: Brunhild Who Killed the Dragon [Volume Edition]
+65157903|||BRUNHILD 용을 죽인 브륀힐드 [단행본]|||BRUNHILD: Brunhild Who Killed the Dragon [Volume Edition]
 65499693|||마법사와 기묘한 소환수 [단행본]|||The Wizard and the Strange Summon [Volume Edition]
 62107597|||섬전신표 [단행본]|||Flash Lightning Divine Manual [Volume Edition]
 65730304|||(이용권) 야반도주는 신중히 (특별 외전) [단행본]|||(Ticket) Be Careful with Elopement (Special Side Story) [Volume Edition]
@@ -9835,7 +9830,7 @@
 52900626|||나의 웬수같은 동행[단독선공개]|||My Enemy-like Companion (Exclusive Pre-release)
 50333211|||나를 마시는 남자|||The Man Who Drinks Me
 58061774|||나쁜 감각|||Bad Senses
-49891264|||나를 봐주세요 [외전증보판]|||Please Look at Me [Side Story Expanded Edition]
+49891264|||나를 봐주세요 [외전증보개정판]|||Please Look at Me [Side Story Expanded Edition]
 53042489|||나쁜 남편 [개정판]|||Bad Husband [Revised Edition]
 67257568|||나의 겨울에게|||To My Winter
 65877820|||원나잇은 안 합니다|||I Don't Do One-Night Stands
@@ -10554,7 +10549,7 @@
 59177519|||나 혼자 이세계 게이머|||I Alone Am an Isekai Gamer
 67861852|||나의 추모식에 초대합니다|||Inviting You to My Memorial Service
 61125557|||저주는 끝나지 않았다|||The Curse Has Not Ended
-61411867|||전남편이 내게 한 나쁜 짓||| The Bad Things My Ex-Husband Did to Me
+61411867|||전남편이 내게 한 나쁜 짓|||The Bad Things My Ex-Husband Did to Me
 63976094|||나쁜 상사를 사랑하지 않는 방법|||How Not to Love a Bad Boss
 54747276|||영웅 따위 너나 해라 [완결]|||You Be the Hero [Completed]
 60405108|||몰래 저지른 나쁜 짓|||Bad Things Done in Secret
@@ -10769,7 +10764,7 @@
 54064470|||나의 어린 악녀 [단행본]|||My Young Villainess [Volume Edition]
 61655451|||검찰청 망나니 [단행본]|||Prosecutor's Office Scoundrel [Volume Edition]
 46518608|||실로아 나무 그늘 아래|||Under the Shade of the Siloa Tree
-50230674|||밤의 안부 &amp; 그대, 들리나요?(외전증보판)|||Night Greetings &amp; Can You Hear Me? (Expanded Side Story Edition)
+50230674|||밤의 안부 & 그대, 들리나요?(외전증보판)|||Night Greetings &amp; Can You Hear Me? (Expanded Side Story Edition)
 56445875|||다시 태어나도 그 놈은 피해라 [단행본]|||Even If You Are Reborn, Avoid That Guy [Volume Edition]
 53388735|||아르카나 마법도서관 [단행본]|||Arcana Magic Library [Volume Edition]
 49443795|||나쁜 만남|||Bad Encounter
@@ -11500,7 +11495,7 @@
 49594385|||안텔라이나 전서 [완결]|||Antelina Chronicles [Completed]
 58688621|||망나니 7황자는 꿀 빨고 싶다 [단행본]|||The Scoundrel 7th Prince Wants to Live Easy [Volume Edition]
 61959745|||결국 그들은 나를 죽이지 못했다|||In the End, They Couldn't Kill Me
-47386942|||다시 만나다|||Meet Again
+47386942|||다시 만나도|||Meet Again
 61693286|||비틀린 나무도 하늘을 향한다 [개정판]|||Twisted Trees Also Face the Sky [Revised Edition]
 50933063|||나는 너를 거부한다|||I Reject You
 53314913|||나의 계약 남편은 구미호 [외전 선공개]|||My Contract Husband is a Nine-Tailed Fox [Side Story Pre-release]
@@ -11648,7 +11643,6 @@
 48797022|||멜데나의 봄|||Spring of Meldena
 56218090|||사랑을 알면 얼마나 안다고|||How Much Do You Know About Love?
 68442406|||당신과 나의 답장 사이 [단행본]|||Between Your Reply and Mine [Volume Edition]
-50899763|||나의 빨간 머리 앤|||My Anne of Green Gables
 49897160|||클리파 나헤마|||Kliffa Nahema
 51843876|||눈부시게 빛나는|||Dazzlingly Shining
 64142920|||나쁜 너|||Bad You
@@ -11829,7 +11823,6 @@
 48115202|||안티 시나몬 스캔들|||Anti-Cinnamon Scandal
 58315708|||나는 너를 사랑하지 않는다 [개정판]|||I Do Not Love You [Revised Edition]
 58553705|||나쁜 재회 [단행본]|||Bad Reunion [Volume Edition]
-63661179|||나의 오만한 구원자에게|||To My Arrogant Savior
 52115628|||하나의 시(翅)[15세개정판]|||One Wing [15+ Revised Edition]
 50091361|||나만의 영웅[할리퀸]|||My Own Hero [Harlequin]
 57719117|||나혼자 현실조작 [단행본]|||I Alone Manipulate Reality [Volume Edition]
@@ -11991,7 +11984,7 @@
 56757202|||감춰진 시간은 달빛에 빛나고|||The Hidden Time Shines in the Moonlight
 67320007|||나를 잊은 에스퍼에게|||To the Esper Who Forgot Me
 59521015|||기억나지 않는 허니[15세 개정판]|||Unremembered Honey [15+ Revised Edition]
-68553975|||나폴레옹 괴담에 너무 잘 적응했다|||I Adapted Too Well to Neapolitan Ghost Stories
+68553975|||나폴리탄 괴담에 너무 잘 적응했다|||I Adapted Too Well to Neapolitan Ghost Stories
 55364655|||나는 골렘입니다 [단행본]|||I Am a Golem [Volume Edition]
 67261083|||야한 짓은 나하고만|||Only Do Naughty Things with Me
 60982822|||부디, 나의 죽음을 잊어 주세요|||Please, Forget My Death
@@ -13065,7 +13058,7 @@
 55221789|||별에게 부탁해|||Ask the Stars
 64756819|||데칼코마니|||Decalcomanie
 67587003|||디자인 안 하는 디자이너|||The Designer Who Doesn't Design
-50638520|||게스트&amp;하우스|||Guest &amp; House
+50638520|||게스트&하우스|||Guest &amp; House
 57001209|||독설 영애와 짐승 공작의 결혼 [단행본]|||Marriage of the Sharp-Tongued Lady and the Beast Duke [Volume Edition]
 55915143|||옥토패스 트래블러 (OCTOPATH TRAVELER)|||Octopath Traveler
 56599043|||잘생긴 그녀석|||That Handsome Guy
@@ -13348,7 +13341,7 @@
 64607631|||전생이 최종보스였다[단행본]|||My Past Life Was the Final Boss [Volume Edition]
 62752948|||조명이 네게 떨어질 때|||When the Spotlight Falls on You
 68428756|||아카데미에 입대당했다 [단행본]|||I Was Forced to Enlist in the Academy [Volume Edition]
-63858178|||피폐물 힐링 로판 단편집 : 이실리스 × 아멜리안 [단행본]|||Angst Healing Romance Fantasy Short Story Collection: Isilis x Amelian [Volume Edition]
+63858178|||피폐 힐링 로판 단편집 : 이실리스 × 아멜리안 [단행본]|||Angst Healing Romance Fantasy Short Story Collection: Isilis x Amelian [Volume Edition]
 57056831|||연리비익 [단행본]|||Intertwined Branches [Volume Edition]
 66606581|||현대로 떨어진 신의 아들[단행본]|||Son of God Who Fell into the Modern Era [Volume Edition]
 64968829|||약속의 네버랜드 -추억의 필름들- [단행본]|||The Promised Neverland -Memory Films- [Volume Edition]
@@ -14678,7 +14671,7 @@
 53239972|||다정한 전남편 [외전 선공개]|||Sweet Ex-Husband [Side Story Pre-release]
 54064702|||회귀한 게임천재, 권신이 되다!|||Regressed Game Genius Becomes a Powerful Official!
 50678824|||경계를 넘다|||Crossing the Boundary
-49544259|||내 아름다운 신부에게 &amp; 모쏠의 연애혁명 [외전선공개]|||To My Beautiful Bride &amp; Dating Revolution for a Solo [Side Story Pre-release]
+49544259|||내 아름다운 신부에게 & 모쏠의 연애혁명 [외전선공개]|||To My Beautiful Bride &amp; Dating Revolution for a Solo [Side Story Pre-release]
 60956589|||남편을 바꿔치기당했다|||My Husband Was Swapped
 63804667|||드래곤 레어 옆에 여관을 차렸다|||I Opened an Inn Next to a Dragon's Lair
 53993655|||저번에 죽인 건 죄송합니다|||I'm Sorry for Killing You Last Time
@@ -14727,7 +14720,7 @@
 58137854|||축구재능 다 내꺼|||All the Soccer Talent is Mine
 51154208|||내 심장을 늑대신께 바칩니다|||I Offer My Heart to the Wolf God
 63776400|||올 마스터는 쉬고 싶다|||The All-Master Wants to Rest
-57018108|||여고생 앞 카페에 마왕이 산다|||A Demon King Lives in a Cafe in Front of a Girls' High School
+57018108|||여고 앞 카페에 마왕이 산다|||A Demon King Lives in a Cafe in Front of a Girls' High School
 53590193|||달라진 건 남편만이 아니었습니다|||It Wasn't Just My Husband Who Changed
 56296184|||돈 잘 법니다|||I Make Good Money
 56221807|||갑자기 남편과 자식이 생겨버렸습니다|||I Suddenly Got a Husband and Child
@@ -15413,7 +15406,7 @@
 61843333|||만렙요원 : 재벌이 되다|||Max-Level Agent: Becoming a Chaebol
 60163839|||늙은 죄수는 고독에 산다|||The Old Prisoner Lives in Solitude
 57994834|||다섯 살이 된 전남편|||My Ex-Husband Who Became Five Years Old
-53943527|||October Flower &lt;愛, 사로잡히다&gt;|||October Flower <love, captured="">
+53943527|||October Flower <愛, 사로잡히다>|||October Flower <love, captured="">
 53667901|||해우의 봄은 너였다|||The Spring of Haewoo Was You
 52176065|||당신과 비를 긋다|||Drawing Rain with You
 63163354|||병약천재 4황자는 살고 싶다|||The Sickly Genius 4th Prince Wants to Live
@@ -16014,7 +16007,6 @@
 63680590|||주인 놈이 너무 야수다|||The Master is Too Much of a Beast
 55492138|||최강최악의 빌런, 소설 속 세상에 환생하다|||The Strongest and Worst Villain, Reincarnated Into a Novel World
 66958019|||회귀 천마는 무엇도 잃지 않는다|||The Regressed Heavenly Demon Loses Nothing
-61731738|||로또 1등도 농사를 합니다|||Even a Lottery Winner Farms
 67297386|||지옥 농부는 탑이 너무 쉽다|||The Hell Farmer Finds the Tower Too Easy
 57150785|||너를 옭아매다|||Snaring You
 61778087|||전직 용병 마왕이 되었다!|||I Became a Former Mercenary Demon King!
@@ -16419,7 +16411,7 @@
 67560914|||원수의 남자를 빼앗았다|||I Stole the Enemy's Man
 68176602|||세계관 최강자를 욕하다 걸리면 생기는 일|||What Happens When You Get Caught Insulting the Strongest Character
 68335185|||우리 카페, 정상 영업합니다!|||Our Cafe is Open for Business!
-61436082|||어느 날 곱게 키웠던 흑막이 도망갔다|||One Day the Mastermind I Raised Well Ran Away
+61436082|||어느 날 곱게 키운 흑막이 도망갔다|||One Day the Mastermind I Raised Well Ran Away
 64731941|||후회는 필요 없습니다 [19세 완전판]|||Regrets Are Not Needed [19+ Edition]
 52177731|||타격에 눈을 뜨다! [완결]|||Opening My Eyes to Hitting! [Completed]
 53893615|||강해져서 놀러왔다|||I Got Stronger and Came to Play
@@ -16607,7 +16599,7 @@
 66174195|||힐링 농장에 손님들이 몰려온다|||Guests Are Flocking to the Healing Farm
 67539638|||피아니스트, 오른손이 독립했다|||Pianist, the Right Hand Became Independent
 57812446|||남주의 시한부 여동생이 된다는 건|||What It Means to be the Male Lead's Terminally Ill Younger Sister
-63777800|||&lt;결혼&gt; 촬영 시작합니다!|||<marriage> Filming Starts!
+63777800|||<결혼> 촬영 시작합니다!|||<marriage> Filming Starts!
 68206561|||회귀한 악녀는 순결서약 합니다|||The Regressed Villainess Takes a Vow of Purity
 67555551|||검은 늑대에게 냥줍 당했습니다|||I Was Picked Up by a Black Wolf
 63013746|||연기 천재를 시작당했다|||I Was Started as an Acting Genius
@@ -17322,7 +17314,7 @@
 66604880|||장갑차로 고종을 죽였다|||Killed Gojong with an Armored Vehicle
 59829565|||후회 광공의 여동생이 되었다 [단행본]|||Became the Younger Sister of the Regretful Maniac [Volume Edition]
 62711120|||이 헌터는 염동력으로 팹니다|||This Hunter Beats People with Psychokinesis
-63192314|||삼국지 : 조조의 보급관은 살고 싶다|||Three Kingdoms: Cao Cao's Supply Officer Wants to Live
+63192314|||삼국지 싸이코패스의 딸이 되어버렸다|||Three Kingdoms: Cao Cao's Supply Officer Wants to Live
 46874629|||내게 다시 사랑이[할리퀸]|||Love Again to Me [Harlequin]
 61550729|||육식 동물은 풀잎을 뜯는다 [19세 완전판]|||Carnivores Eat Grass Leaves [19+ Full Version]
 47763012|||그녀에게 젖어들다|||Soaking into Her
@@ -17491,7 +17483,7 @@
 59106819|||다정한 소유|||Kind Possession
 63134879|||집착 흑막에게 사기결혼 당해버렸다|||I Was Fraudulently Married to an Obsessive Dark Master
 59960554|||마법의 신이 되다|||Became the God of Magic
-56326595|||회귀한 기사는 후회하고 싶다 [완결]|||The Returned Knight Doesn't Want to Regret [Completed]
+56326595|||회귀한 기사는 후회하고 싶지 않다 [완결]|||The Returned Knight Doesn't Want to Regret [Completed]
 63559128|||삼국지 다정다한|||Three Kingdoms Kind and Affectionate
 60689122|||하늘을 품다 [특별외전 선공개]|||Embracing the Sky [Special Side Story Pre-release]
 48226315|||사랑은 장마다[클린버전]|||Love Is Jang [Clean Version]
@@ -17599,7 +17591,7 @@
 64112080|||술 마시다 각성한 SSS급 던전 마스터|||SSS-Class Dungeon Master Who Awakened While Drinking
 61005623|||폭군 아빠들 때문에 폐업합니다 [단행본]|||Closing Down Because of Tyrant Dads [Volume Edition]
 47632754|||태양을 삼키다|||Swallowing the Sun
-54433645|||감&amp;고(감사합니다 그리고 고맙습니다)|||Thank You &amp; Thanks (Thank You and Thank You)
+54433645|||감&고(감사합니다 그리고 고맙습니다)|||Thank You &amp; Thanks (Thank You and Thank You)
 68280678|||악역은 악역으로 남고 싶다|||The Villain Wants to Remain a Villain
 62210775|||조선, 제국주의에 물들다|||Joseon, Tainted by Imperialism
 59880358|||지존은 서울에 있다|||The Supreme One Is in Seoul
@@ -17760,7 +17752,7 @@
 52927609|||사랑, 흘러간다|||Love, Flows
 66388263|||남편이 돌아왔다|||My Husband Has Returned
 62223957|||후배는 진화한다 [19세 완전판] [단행본]|||The Junior Evolves [19+ Full Version] [Volume Edition]
-65707676|||아포칼립스이지만 잘 먹고 잘 삽니다|||It's the Apocalypse, But I Eat and Live Well
+65707676|||아포칼립스지만 잘 먹고 잘 삽니다|||It's the Apocalypse, But I Eat and Live Well
 59799695|||환생했더니 무능한 적국 왕자였다|||Reincarnated as an Incompetent Prince of an Enemy Country
 63948561|||내 휴대폰에서 군단이 자란다|||An Army Grows in My Phone
 67526416|||조선에 우주선이 추락했다|||A Spaceship Crashed in Joseon
@@ -18395,7 +18387,7 @@
 62180911|||죽느니 퇴사하겠습니다, 이사님!|||I'd Rather Quit Than Die, Director!
 59842898|||전쟁광 남편의 아이를 빼돌렸다 [단행본]|||I Stole the War-Maniac Husband's Child [Volume Edition]
 56533371|||후원이 필요합니다 [단행본]|||I Need Sponsorship [Volume Edition]
-59664136|||정부는 도망친 날 [단행본]|||The Mistress Runs Away [Volume Edition]
+59664136|||정부는 도망친다 [단행본]|||The Mistress Runs Away [Volume Edition]
 58717882|||(이용권) 천마님 천하를 뒤집어 놓으셨다 [단행본]|||(Ticket) The Heavenly Demon Has Overturned the World [Volume Edition]
 53896451|||뜨겁게 움켜쥐다|||Grasping Hotly
 64177144|||안 진다는 마인드|||The Mindset of Not Losing
@@ -19438,7 +19430,7 @@
 64057520|||후회물 악녀는 이혼해서 행복합니다 [단행본]|||The Regretful Villainess is Happy After Divorce [Volume Edition]
 46557443|||황금거리에 잠들다|||Sleeping on Golden Street
 65862835|||무협 육아물로 바꿨더니 집착물이 되어간다|||I Changed It to a Martial Arts Parenting Story, but It's Becoming an Obsessive Story
-64684165|||후회하는 폭군 남편이 찾아왔다|||The Regretful Tyrant Husband Has Come
+64684165|||후회하는 폭군 남편이 찾아왔습니다|||The Regretful Tyrant Husband Has Come
 61999552|||10년지기 소꿉친구와 황궁에 감금되었다|||I Was Imprisoned in the Imperial Palace with My 10-Year Childhood Friend
 60087828|||아포칼립스도 운빨입니다 [단행본]|||Apocalypse is Also About Luck [Volume Edition]
 49276995|||천사, 여우를 사랑하다|||Angel, Loves the Fox
@@ -19485,7 +19477,6 @@
 56930640|||악역 NPC는 고인물이었습니다 [단행본]|||The Villain NPC Was a Veteran [Volume Edition]
 64806962|||당신의 아내이기를 그만두겠습니다|||I Will Stop Being Your Wife
 65591529|||사형수들과 커플 게임에 갇혔다|||Trapped in a Couple Game with Death Row Inmates
-62385167|||[BL] 짝사랑 끝내려다 내 인생을 끝내게 생겼다 (외전) [19세 완전판]|||[BL] I Tried to End My Unrequited Love, but I Ended Up Ending My Life (Side Story) [19+ Complete Edition]
 64271698|||오늘부터 성녀 그만둡니다|||I'm Quitting Being a Saintess Starting Today
 55514617|||마지막 황제, 칼끝에 서다 [단행본]|||The Last Emperor, Standing on the Edge of a Sword [Volume Edition]
 56658753|||지구를 재활용하다 [단행본]|||Recycling the Earth [Volume Edition]
@@ -21460,10 +21451,10 @@
 62075032|||공작을 꼬셔 버렸다 [단행본]|||I Seduced the Duke [Book]
 58812643|||슈퍼컴퓨터, 마법사 되다 6권 (완결) [단행본]|||Supercomputer Becomes a Wizard Vol. 6 (End) [Book]
 65324484|||황제의 덕질을 한 몸에 받는 중입니다 [단행본]|||I Am Receiving the Emperor's Fan-Love All by Myself [Book]
-62753054|||키다리 수호령[단행본]||| Daddy Long Legs Guardian Spirit [Book]
+62753054|||키다리 수호령[단행본]|||Daddy Long Legs Guardian Spirit [Book]
 50594147|||던전리셋|||Dungeon Reset
 65533014|||계약 위반 남편 때문에 너무 피곤하다 [단행본]|||I'm So Tired Because of My Contract-Breaking Husband [Book]
-62880630|||(이용권) 최애작의 외전이 좀 이상합니다 [단행본]||| (Ticket) The Side Story of My Favorite Work Is a Bit Strange [Book]
+62880630|||(이용권) 최애작의 외전이 좀 이상합니다 [단행본]|||(Ticket) The Side Story of My Favorite Work Is a Bit Strange [Book]
 60468084|||절대안경으로 미다스 [단행본]|||Midas with Absolute Glasses [Book]
 67461809|||이번 생엔 사랑하지 않는다 [단행본]|||I Will Not Love in This Life [Book]
 62376389|||하녀는 더 이상 그를 원하지 않는다 외전 [단행본]|||The Maid No Longer Wants Him: Side Story [Book]
@@ -21522,7 +21513,7 @@
 65323435|||악당의 뒤통수를 갈겨버리는 엑스트라로 빙의했다 [단행본]|||I Possessed an Extra Who Hits the Villain in the Back of the Head [Book]
 65531282|||두 번째 이혼이 어렵다 [단행본]|||The Second Divorce Is Difficult [Book]
 62131814|||그 청혼은 거부합니다 [단행본]|||I Refuse That Proposal [Book]
-62880645|||(이용권) 최애작의 외전이 좀 이상합니다 외전 [단행본]||| (Ticket) The Side Story of My Favorite Work Is a Bit Strange: Side Story [Book]
+62880645|||(이용권) 최애작의 외전이 좀 이상합니다 외전 [단행본]|||(Ticket) The Side Story of My Favorite Work Is a Bit Strange: Side Story [Book]
 65167363|||악마를 탐하다 [단행본]|||Coveting the Devil [Book]
 62009742|||잘 부탁드립니다 [단행본]|||Please Take Care of Me [Book]
 68108828|||세계 최강 약혼자와 파혼하겠습니다 [단행본]|||I Will Break Up with the World's Strongest Fiancé [Book]
@@ -21544,7 +21535,7 @@
 66927721|||악역공녀님은 마시멜로를 굽는다[단행본]|||The Villainess Duchess Roasts Marshmallows [Book]
 68128979|||여왕벌은 왕좌에 앉아 웃었다 [단행본]|||The Queen Bee Sat on the Throne and Laughed [Book]
 65341498|||버려진 아내에게 새 남편이 생겼습니다 [단행본]|||The Abandoned Wife Has a New Husband [Book]
-62880656|||(이용권) 최애작의 외전이 좀 이상합니다 if 외전 [단행본]||| (Ticket) The Side Story of My Favorite Work Is a Bit Strange: IF Side Story [Book]
+62880656|||(이용권) 최애작의 외전이 좀 이상합니다 if 외전 [단행본]|||(Ticket) The Side Story of My Favorite Work Is a Bit Strange: IF Side Story [Book]
 64059272|||소하(銷夏) : 사신을 구하다 [단행본]|||Soha: Saving the Grim Reaper [Book]
 64437241|||머랭 치다 세상을 구함 [단행본]|||Saved the World While Making Meringue [Book]
 64082500|||사내연애는 싫습니다 [단행본]|||I Don't Like Office Romance [Book]
@@ -21934,7 +21925,7 @@
 58710021|||부부 관계|||Marital Relations
 58960766|||원작이 끝난 줄 알았는데|||I Thought the Original Story Was Over
 51132491|||향기의 바람이 닿은 곳은|||Where the Wind of Scent Reaches
-54609151|||(이용권) 던전리셋 [단행본]||| (Ticket) Dungeon Reset [Book]
+54609151|||(이용권) 던전리셋 [단행본]|||(Ticket) Dungeon Reset [Book]
 67686750|||헬로해피헬|||Hello Happy Hell
 58199687|||섹시한 와이프|||Sexy Wife
 49743425|||그 남자의 변신 [단독 선공개]|||That Man's Transformation [Exclusive Pre-release]
@@ -22101,7 +22092,7 @@
 60704446|||차원을 넘는 레벨제로 헌터|||Level Zero Hunter Crossing Dimensions
 53540225|||분신의 제왕|||King of Clones
 61846698|||고블린 동생 삼고 역대급 재벌|||Adopted a Goblin Brother and Became an All-Time Chaebol
-64176383|||(이용권) 타람 타람 타람 [19세 완전판][단행본]||| (Ticket) Taram Taram Taram [19+ Full Version] [Book]
+64176383|||(이용권) 타람 타람 타람 [19세 완전판][단행본]|||(Ticket) Taram Taram Taram [19+ Full Version] [Book]
 61321115|||모든 것은 공작님의 뜻대로|||Everything Is According to the Duke's Will
 50535123|||퍼펙트 게임 - 더 라스트 볼|||Perfect Game - The Last Ball
 59514454|||환생한 SSS급 기갑파일럿 생존기|||Survival Story of a Reincarnated SSS-Class Mech Pilot
@@ -22291,7 +22282,7 @@
 56412517|||조선대혁명 [단행본]|||Joseon Revolution [Book]
 58297762|||회귀빨 글로벌 재벌기 [단행본]|||Global Chaebol Chronicles Through Regression [Book]
 58172559|||별안간 친구에서 연인|||Suddenly from Friends to Lovers
-65767917|||(이용권) 뜨겁게, 너를 [19세 완전판][단행본]||| (Ticket) Hotly, You [19+ Full Version] [Book]
+65767917|||(이용권) 뜨겁게, 너를 [19세 완전판][단행본]|||(Ticket) Hotly, You [19+ Full Version] [Book]
 56373608|||[개정판] 유적 포식자 [단행본]|||[Revised Edition] Relic Eater [Book]
 60456850|||안경 쓴 에이스의 재림 [완결]|||Return of the Ace with Glasses [End]
 47549649|||처음 본 순간부터[할리퀸]|||From the Moment I First Saw You [Harlequin]
@@ -22352,7 +22343,7 @@
 61942695|||막내 도련님은 퇴마되고 싶어!|||The Youngest Young Master Wants to Be an Exorcist!
 58859328|||Deeper|||Deeper
 46932601|||벨뷰의 봄날[할리퀸]|||Spring Day in Bellevue [Harlequin]
-64191252|||(이용권) 타람 타람 타람 외전 [단행본]||| (Ticket) Taram Taram Taram: Side Story [Book]
+64191252|||(이용권) 타람 타람 타람 외전 [단행본]|||(Ticket) Taram Taram Taram: Side Story [Book]
 57125371|||발롱도르 타는 역대급 미드필더의 탄생 [단행본]|||Birth of an All-Time Midfielder Who Wins the Ballon d'Or [Book]
 48447544|||완벽한 그녀를 위한 은밀한 임무|||Secret Mission for the Perfect Her
 48018703|||닉의 사랑[할리퀸]|||Nick's Love [Harlequin]
@@ -22425,7 +22416,7 @@
 65513081|||돈걱정 없는 현대 마법사[단행본]|||Modern Wizard Without Money Worries [Book]
 64910053|||임신의 덫|||Trap of Pregnancy
 49446879|||추운 날, 반짝거리는|||Sparkling on a Cold Day
-64776637|||(이용권) 마음이 이끄는 대로 1권 [단행본]||| (Ticket) As the Heart Leads Vol. 1 [Book]
+64776637|||(이용권) 마음이 이끄는 대로 1권 [단행본]|||(Ticket) As the Heart Leads Vol. 1 [Book]
 58192006|||움직이지 않는 그림자|||Immovable Shadow
 60270253|||소현세자, 선남후북벌(先南後北伐) [단행본]|||Crown Prince Sohyeon, South First North Expedition [Book]
 65130771|||던전리셋[단행본]|||Dungeon Reset [Book]
@@ -22440,7 +22431,7 @@
 65768640|||탐욕의 덫 [단행본]|||Trap of Greed [Book]
 65829003|||매달려도 소용없어 [단행본]|||It's Useless Even If You Cling [Book]
 59454388|||응시|||Gaze
-58664448|||(이용권) 제국의 시녀 [단행본]||| (Ticket) The Empire's Maid [Book]
+58664448|||(이용권) 제국의 시녀 [단행본]|||(Ticket) The Empire's Maid [Book]
 62869837|||슬기로운 마에스트로|||Wise Maestro
 48079100|||미슬토우 마을의 전설[할리퀸]|||Legend of Mistletoe Village [Harlequin]
 62342752|||[BL] 인투 더 헤일로 (Into the Halo)|||[BL] Into the Halo
@@ -22563,11 +22554,11 @@
 68310850|||속삭이는 밤|||Whispering Night
 60258200|||살수월혼 [단행본]|||Assassin Moon Soul [Book]
 47853018|||사랑의 사기꾼|||Love Swindler
-62230447|||난공불락 그 남자 [19세 완전판][단행본]|||That Impregnable Man [19+ Full Version] [Book]
+62230447|||난공불락 그 여자 [19세 완전판][단행본]|||That Impregnable Man [19+ Full Version] [Book]
 54127868|||쉿, 팬님 이러시면 안 돼요 [단행본]|||Shh, Fan, You Can't Do This [Book]
 54830862|||엘리자베스의 날개 [단행본]|||Elizabeth's Wings [Book]
 55612148|||영화의 한 장면처럼[할리퀸] [개정판]|||Like a Scene from a Movie [Harlequin] [Revised Edition]
-64777780|||(이용권) 마음이 이끄는 대로 2~3권 [단행본]||| (Ticket) As the Heart Leads Vol. 2-3 [Book]
+64777780|||(이용권) 마음이 이끄는 대로 2~3권 [단행본]|||(Ticket) As the Heart Leads Vol. 2-3 [Book]
 62331883|||발푸르기스의 마녀 의사 [단행본]|||Witch Doctor of Walpurgis [Book]
 67958338|||친절한 교수님의 유혹|||Kind Professor's Seduction
 66881399|||죽고 싶지 않으니 파혼해 주세요, 공작님|||I Don't Want to Die, So Please Break Off the Engagement, Duke
@@ -22575,18 +22566,18 @@
 54574483|||샴페인 같은 남자[할리퀸]|||Champagne-Like Man [Harlequin]
 65625671|||끝도 없이 널|||Endlessly You
 67732038||| 계약 연애에 흑심을 품지 말아주세요|||Please Don't Harbor Ulterior Motives for Contract Dating
-61069462|||순진 남 &amp; 야한 여|||Innocent Man &amp; Lewd Woman
+61069462|||순진 남 & 야한 여|||Innocent Man &amp; Lewd Woman
 62232137|||애인 대행 [19세 완전판][단행본]|||Lover Agency [19+ Full Version] [Book]
 64596300|||지존급 알바생|||Supreme Part-Time Worker
 57377992|||Sleeping Ugly|||Sleeping Ugly
 47863998|||신비한 매력|||Mysterious Charm
 61617183|||귀멸의 칼날 노벨라이즈 [단행본]|||Demon Slayer Novelization [Book]
 61863132|||그날 밤, 호텔에서|||That Night, at the Hotel
-64176378|||(이용권) 타람 타람 타람 [개정판][단행본]||| (Ticket) Taram Taram Taram [Revised Edition] [Book]
+64176378|||(이용권) 타람 타람 타람 [개정판][단행본]|||(Ticket) Taram Taram Taram [Revised Edition] [Book]
 62853412|||이계에서 장사천재 [단행본]|||Business Genius in Another World [Book]
 67199721|||끝내주는 야구감독 김승리|||Awesome Baseball Manager Kim Seung-ri
 63573431|||크리티컬 스테이지(Critical Stage)|||Critical Stage
-60037726|||남장여주라고 했잖아요! 특별 외전 2 [단행본]|||I Said I Was a Cross-Dressing Heroine!: Special Side Story 2 [Book]
+60037726|||남장여주라고 했잖아요! 특별 외전 [단행본]|||I Said I Was a Cross-Dressing Heroine!: Special Side Story 2 [Book]
 52067158|||틴에이지 슈퍼스타[할리퀸]|||Teenage Superstar [Harlequin]
 64486135|||이웃집 연하남|||Younger Man Next Door
 67958395|||페치 업 피버|||Fetch Up Fever
@@ -22595,7 +22586,7 @@
 47887515|||아프로디테의 반지|||Aphrodite's Ring
 61620585|||빛을 잃은 밤|||Night That Lost Its Light
 62676566|||하늘은 보라 [GL]|||The Sky Is Purple [GL]
-64778101|||(이용권) 마음이 이끄는 대로 4권 [단행본]||| (Ticket) As the Heart Leads Vol. 4 [Book]
+64778101|||(이용권) 마음이 이끄는 대로 4권 [단행본]|||(Ticket) As the Heart Leads Vol. 4 [Book]
 47843513|||자마리스의 여인|||Woman of Jamaris
 64261958|||오직 당신의 아래에서[개정판]|||Only Under You [Revised Edition]
 60508966|||미래를 보는 프로게이머 [단행본]|||Pro Gamer Who Sees the Future [Book]
@@ -22658,7 +22649,7 @@
 59003027|||상냥한 그이 [단행본]|||Kind Him [Book]
 66943850|||도깨비 딸이 너무 귀여워 [단행본]|||The Goblin's Daughter Is So Cute [Book]
 47849081|||아마릴리스의 선택|||Amaryllis's Choice
-58664469|||(이용권) 제국의 시녀-외전[단행본]||| (Ticket) The Empire's Maid - Side Story [Book]
+58664469|||(이용권) 제국의 시녀-외전[단행본]|||(Ticket) The Empire's Maid - Side Story [Book]
 62230572|||난공불락 그 남자 [19세 완전판][단행본]|||That Impregnable Man [19+ Full Version] [Book]
 49480321|||상상속의 입맞춤|||Kiss in the Imagination
 60784791|||국민의 복지|||National Welfare
@@ -22962,7 +22953,6 @@
 59929650|||광화, 폭군의 꽃을 꺾어라|||Gwanghwa, Pluck the Tyrant's Flower
 52357619|||엑스트라 공녀|||Extra Duchess
 57629207|||잇츠 마이 라이프|||It's My Life
-60027481|||냥줍했더니 황제라니요|||I Picked Up a Cat, But It's the Emperor?
 55244592|||유령이라 불리는 저격수|||The Sniper Called a Ghost
 51023422|||미라클 스티치|||Miracle Stitch
 53310398|||천재배우의 아우라Aura [완결]|||Genius Actor's Aura [End]
@@ -23001,7 +22991,6 @@
 65779664|||사랑 따위 바라지 말 것|||Don't Wish for Love
 59595891|||팔라딘 키우기|||Raising a Paladin
 53548146|||소크라테스와 귀찮은 제자들 [완결]|||Socrates and the Annoying Disciples [End]
-50739895|||Kiss Me, Liar(키스 미, 라이어)|||Kiss Me, Liar
 56116561|||회귀자의 성공 라이프|||The Regressor's Success Life
 51185553|||시골 소녀라도 회귀할 수 있어!|||Even a Country Girl Can Regress!
 54976779|||응답하라 1979|||Reply 1979
@@ -23511,7 +23500,7 @@
 66148042|||은퇴한 초인의 슬로우라이프|||Retired Superman's Slow Life
 53506303|||미티어 스트라이커 [완결]|||Meteor Striker [End]
 58964618|||그라운드의 지배자 [단행본]|||Ruler of the Ground [Volume Edition]
-49839628|||리빈 헤라스 &amp; 토르 오딘|||Livin Heras &amp; Thor Odin
+49839628|||리빈 헤라스 & 토르 오딘|||Livin Heras &amp; Thor Odin
 53481799|||리스타트 라이프 [완결]|||Restart Life [End]
 60271702|||암살 그렇게 하는 거 아니라고 [독점]|||That's Not How You Assassinate [Exclusive]
 46643507|||벨라트릭스 [개정판]|||Bellatrix [Revised Edition]
@@ -24000,7 +23989,7 @@
 62432848|||효도하라 키워놨더니 집착광공 됐는데 외전 2 [19세 완전판]|||I Raised You to Be Filial, But You Became an Obsessive Man Side Story 2 [19+ Uncut]
 47343718|||킬 미 플라워 (Kill Me Flower) (개정판)|||Kill Me Flower (Revised Edition)
 50394092|||시스콤 브라더스|||Sister-Complex Brothers
-61840696|||(이용권)강아지는 건드리지 마라 외전2[단행본]|||(Ticket) Don't Touch the Puppy Side Story 2 [Volume Edition]
+61840696|||(이용권)강아지는 건드리지 마라 외전2[단행본]|||Kill the Wizard
 49237621|||한밤의 드라이브[할리퀸]|||Midnight Drive [Harlequin]
 56647755|||리메이킹 라이프|||Remaking Life
 53443829|||리노 트라이 [단행본]|||Reno Try [Volume Edition]
@@ -24121,7 +24110,6 @@
 58233087|||여름의 언어를 신데렐라에게 [단행본]|||The Language of Summer to Cinderella [Volume Edition]
 61822134|||애들이 달라졌어요 [단행본]|||The Kids Have Changed [Volume Edition]
 49741263|||브라더 [Brother]|||Brother
-61840696|||마법사를 죽여라|||Kill the Wizard
 54692356|||카키브라운|||Khaki Brown
 61840670|||(이용권)강아지는 건드리지 마라 외전[단행본]|||(Ticket) Don't Touch the Puppy Side Story [Volume Edition]
 66015209|||대공님, 시한부라도 과보호는 싫은데요|||Grand Duke, I'm Terminally Ill, But I Don't Like Overprotection
@@ -24182,7 +24170,7 @@
 55393413|||플라잉 버스터 [단행본]|||Flying Buster [Book]
 56065630|||지우수드라 - 바람과 물의 전쟁|||Ziusudra - War of Wind and Water
 67329050|||치트라 - 미남을 뽑는 황제 [단행본]|||Chitra - The Emperor Who Picks Handsome Men [Book]
-49008896|||타탄&amp;데미그라스|||Tartan &amp; Demiglace
+49008896|||타탄&데미그라스|||Tartan &amp; Demiglace
 68129120|||방구석 소환사의 시골 힐링 라이프 [단행본]|||The Homebody Summoner's Rural Healing Life [Book]
 46821546|||드라마보는 남자|||The Man Who Watches Dramas
 49614451|||미이라소녀|||Mummy Girl
@@ -24822,7 +24810,7 @@
 61764634|||스킬진화로 빌런 응징|||Punishing Villains with Skill Evolution
 47533275|||도시정복자|||City Conqueror
 61701805|||짙은 탐닉 [외전 선공개]|||Deep Indulgence [Side Story Pre-release]
-64875620|||빌드보드 1위로 시작하는 작곡생활|||Composer Life Starting with a Billboard #1
+64875620|||빌보드 1위로 시작하는 작곡생활|||Composer Life Starting with a Billboard #1
 61202468|||감자세자와 뒤주대왕|||Potato Crown Prince and Rice Chest King
 64562389|||상사의 사생활|||The Boss's Private Life
 60856198|||결혼 후 인생 대박 [완결]|||Life Jackpot After Marriage [End]
@@ -25222,7 +25210,7 @@
 60762730|||역대급 헌터의 계승자|||Successor of the Greatest Hunter
 57554951|||대한민국의 비상 [단행본]|||Emergency of the Republic of Korea [Book]
 66710238|||기억 끝에|||At the End of Memories
-46577345|||풍기문란 [증보판]|||Public Morals Violation [Expanded Edition]
+46577345|||풍기문란 [증보판]|||Forbidden City
 65591505|||빛 사이로 흐르는 [19세 완전판] [단행본]|||Flowing Through the Light [19+ Uncut Edition] [Book]
 48433142|||비밀의 수도원[할리퀸]|||Secret Monastery [Harlequin]
 53932859|||용왕이 하는 일! [단행본]|||The Ryuo's Work is Never Done! [Book]
@@ -25500,11 +25488,10 @@
 67379410|||화사(花蛇)한 이혼 계약 [19세 완전판] [단행본]|||Flowery Snake Divorce Contract [19+ Uncut Edition] [Book]
 66944368|||방출되고 발롱도르 [단행본]|||Released and Then Ballon d'Or [Book]
 47882553|||비너스의 주인|||Venus's Master
-46577345|||자금성|||Forbidden City
 54244410|||모건의 신랑감[할리퀸]|||Morgan's Groom [Harlequin]
 67598874|||짐승의 낙원|||Paradise of Beasts
 62440233|||함선으로 귀환해서 이세계 최강 [단행본]|||Returning with a Spaceship to Become the Strongest in Another World [Book]
-54656954|||사막의 연인[할리퀸]|||Desert Lover [Harlequin]
+54656954|||사막의 연인[할리퀸]|||Stigma of That Night [Harlequin]
 53342014|||센트널 월드(개정판) [단행본]|||Sentinel World (Revised Edition) [Book]
 64659469|||스카우트|||Scout
 64842634|||두 번 사는 전격계 헌터 [단행본]|||The Lightning Hunter Who Lives Twice [Book]
@@ -25555,7 +25542,6 @@
 54321567|||베일에 싸인 그녀[할리퀸]|||Veiled Woman [Harlequin]
 64626681|||사상 최강의 군주[단행본]|||Strongest Monarch in History [Book]
 54936661|||사랑해도 될까요?[할리퀸]|||Can I Love You? [Harlequin]
-54656954|||그 밤의 낙인[할리퀸]|||Stigma of That Night [Harlequin]
 61061912|||빌런이 엔딩을 바꿈 [단행본]|||The Villain Changed the Ending [Book]
 54244406|||챗스필드의 마지막 승부[할리퀸]|||Chatsworth's Last Match [Harlequin]
 65491126|||딸바보는 컨셉이었잖아요, 공작님! [단행본]|||You Were Only Pretending to Be a Doting Father, Duke! [Book]
@@ -25959,7 +25945,7 @@
 63939834|||바이올렛의 한마디|||Violet's One Word
 59828568|||환생마검|||Reincarnated Magic Sword
 50231117|||굿바이 악마[단독선공개]|||Goodbye Devil [Exclusive Pre-release]
-54187662|||영웅&amp;마왕&amp;악당|||Hero &amp; Demon King &amp; Villain
+54187662|||영웅&마왕&악당|||Hero &amp; Demon King &amp; Villain
 54774417|||멸마신화|||Demon-Destroying Myth
 48864543|||천마왕 [완결]|||Heavenly Demon King [End]
 50281956|||마왕강림|||Descent of the Demon King
@@ -27906,7 +27892,6 @@
 55316236|||봉마록 [단행본]|||Demon Sealing Record [Volume]
 65597578|||수마수기|||Water Demon Water Chronicles
 64282958|||시네마데이 [개정판]|||Cinema Day [Revised Edition]
-61231526|||전대미문천마 [단행본]|||The Unprecedented Heavenly Demon [Volume]
 58308843|||마이스터 : 황제의 귀환 [단행본]|||Meister: Return of the Emperor [Volume]
 66538598|||마왕님은 투잡 중|||The Demon King is Working Two Jobs
 67315406|||불씨를 품은 소드마스터|||Sword Master Carrying the Ember
@@ -28399,7 +28384,7 @@
 66102907|||조무래기 악역에게 집착하지 마세요 [단행본]|||Do Not Obsess Over a Small-Fry Villain [Volume]
 65016584|||킹메이커 꼬마 황녀님 [단행본]|||Kingmaker Little Princess [Volume]
 67370842|||마왕의 전생은 대리기사 [단행본]|||The Demon King's Past Life is a Designated Driver [Volume]
-60911015|||그 마물에 대한 논문 9권|||Thesis on That Monster Vol. 9
+60911015|||그 마물에 대한 논문 4권|||Thesis on That Monster Vol. 9
 60911116|||그 마물에 대한 논문 10권|||Thesis on That Monster Vol. 10
 60912281|||그 마물에 대한 논문 11권|||Thesis on That Monster Vol. 11
 64487277|||마왕님의 슬기로운 결혼 생활 [단행본]|||The Demon King's Wise Married Life [Volume]
@@ -29349,7 +29334,7 @@
 67130576|||바이트 (Bite)|||Bite
 60702619|||악녀와 바람난 남주를 버렸더니|||I Dumped the Villainess and the Cheating Male Lead
 64746839|||올 어바웃 유어 러브 [19세 완전판]|||All About Your Love [19+ Uncut Edition]
-57993958|||레디, 액션 &amp; 스탠바이|||Ready, Action &amp; Standby
+57993958|||레디, 액션 & 스탠바이|||Ready, Action &amp; Standby
 63050125|||스펠바운드 [개정판]|||Spellbound [Revised Edition]
 47527712|||피의 노래 바람의 시|||Song of Blood, Poem of the Wind
 58193810|||바람둥이 길들이기|||Taming the Playboy
@@ -29482,7 +29467,7 @@
 65559362|||몸을 바쳐 얻은 것은|||What I Gained by Dedicating My Body
 52139972|||숨바꼭질|||Hide and Seek
 61196796|||원 바잇 더 더스트|||One Bite the Dust
-46576959|||카사노바&amp;쇼걸|||Casanova &amp; Showgirl
+46576959|||카사노바&쇼걸|||Casanova &amp; Showgirl
 53970427|||소주는 알리바이|||Soju is an Alibi
 68220986|||칼바람소리|||Sound of Cold Wind
 67925108|||뒤바뀐 남편|||Swapped Husband
@@ -30757,7 +30742,7 @@
 63692357|||감히, 사랑 [19세 완전판][외전 독점]|||How Dare, Love [19+ Uncut Edition] [Side Story Exclusive]
 64919972|||사상 최강의 사냥꾼|||The Strongest Hunter in History
 50159088|||상사화_이루어질 수 없는 사랑|||Lycoris_Unattainable Love
-52553440|||차원&amp;사업 [완결]|||Dimension &amp; Business [Completed]
+52553440|||차원&사업 [완결]|||Dimension &amp; Business [Completed]
 54852336|||변호의 신, 강태풍 변호사!|||God of Defense, Lawyer Kang Taepung!
 55796786|||(이용권) 금발의 정령사 1부 [단행본][개정판]|||Blonde Spirit Master Part 1 [Book Edition] [Revised Edition]
 50168383|||사커 매니저|||Soccer Manager
@@ -31524,7 +31509,7 @@
 55359721|||생사검 [단행본]|||Life and Death Sword [Volume]
 50746610|||청랑비사 [완결]|||Secret History of the Blue Wolf [Completed]
 55805501|||무명무사 [단행본]|||Nameless Warrior [Volume]
-51876770|||사랑, 그 건 아니고|||Love, That's Not It
+51876770|||사랑, 그건 아니고|||Love, That's Not It
 59390653|||아찔한 사내 연애|||Dizzying Office Romance
 53503676|||지구촌 용사 스미스 씨|||Global Hero Mr. Smith
 68180312|||죽어야 사는 호위무사|||The Bodyguard Who Must Die to Live
@@ -31818,7 +31803,7 @@
 56908927|||멸망한 세계의 커뮤니티 사용법 [단행본]|||How to Use the Community in a Ruined World [Volume]
 56159278|||사냥개들의 왕|||King of Hunting Dogs
 64740883|||MZ사원 성공기|||Success Story of an MZ Employee
-57732628|||&lt;영웅불사지체 : 제국의후예&gt;|||<immortal body:="" descendant="" empire="" hero="" of="" the="">
+57732628|||<영웅불사지체 : 제국의후예>|||<immortal body:="" descendant="" empire="" hero="" of="" the="">
 65112756|||그 인턴과 그 팀장의 사정 [19세 완전판][단행본]|||The Intern and the Team Leader's Circumstances [19+ Uncut Edition] [Volume]
 52538080|||사랑니 뽑는 남자|||The Man Who Pulls Wisdom Teeth
 49369297|||혈의천사 [완결]|||Angel of Blood [Completed]
@@ -32387,7 +32372,7 @@
 60993790|||결혼할 사이|||Relationship to Marry
 65984722|||개의 사정|||Dog's Circumstances
 68475096|||회귀한 연예부 기자는 사기급 매니저|||Regressed Entertainment Reporter is a Scam-Level Manager
-60261224|||상사의 결혼 연습|||Boss's Marriage Practice
+60261224|||상사와의 결혼 연습|||Boss's Marriage Practice
 66283582|||사랑하게 될, 저주|||A Curse That Will Make You Love
 52999312|||두 지붕 두 사람|||Two Roofs, Two People
 64036119|||위험한 사내부부|||Dangerous Office Couple
@@ -32439,7 +32424,7 @@
 61336055|||백은의 사자|||White Silver Lion
 52821507|||미룰 수 없는 사랑|||Love That Cannot Be Delayed
 50258123|||첫사랑 우선순위|||First Love Priority
-49874349|||말괄량이 여배우 길들이기 &amp; 저승사자 연애록|||Taming the Tomboy Actress &amp; Grim Reaper Love Record
+49874349|||말괄량이 여배우 길들이기 & 저승사자 연애록|||Taming the Tomboy Actress &amp; Grim Reaper Love Record
 51348212|||사랑니|||Wisdom Tooth
 62199664|||흔한 사랑 이야기 [19세 개정판] [단행본]|||Common Love Story [19+ Revised Edition] [Volume]
 60968899|||흑사자[단행본]|||Black Lion [Volume]
@@ -34366,7 +34351,7 @@
 50786314|||아티팩트 메이커|||Artifact Maker
 49605134|||아레스의 밤|||Night of Ares
 46404405|||아니 땐 굴뚝?|||No Smoke Without Fire?
-47376784|||유 앤 아이(You &amp; I)|||You &amp; I
+47376784|||유 앤 아이(You & I)|||You &amp; I
 68740280|||아내 연습|||Wife Practice
 66425385|||아삭아삭|||Crunchy
 48410027|||뜨거워도 괜찮아|||It's Okay Even If It's Hot
@@ -34383,7 +34368,7 @@
 67623914|||탑 아이돌의 만렙 공략법|||Top Idol's Max-Level Strategy
 55004199|||백작영애의 우아한 악행|||Count's Daughter's Elegant Evil Deeds
 64330287|||아카데미에서 신분 상승 [외전 선공개]|||Rising in Status at the Academy [Side Story Pre-release]
-46648884|||아르트레스(데로드 &amp; 데블랑 2부)|||Arthress (Derod &amp; Deblanc Part 2)
+46648884|||아르트레스(데로드 & 데블랑 2부)|||Arthress (Derod &amp; Deblanc Part 2)
 50425642|||슈퍼파워 코리아 [완결]|||Superpower Korea [Completed]
 58712273|||우리의 계절은 아직 그곳에 남아 [개정판]|||Our Season Still Remains There [Revised Edition]
 57940132|||아포칼립스의 이방인 [단행본]|||Stranger in the Apocalypse [Book Edition]
@@ -34549,7 +34534,7 @@
 48335041|||아주 특별한 그녀|||A Very Special Her
 60685450|||아찔한 너의 향기[개정판]|||Your Dizzying Scent [Revised Edition]
 54945957|||아침이 오지 않아도|||Even If Morning Doesn't Come
-48606421|||아이언 &amp; 블러드|||Iron &amp; Blood
+48606421|||아이언 & 블러드|||Iron &amp; Blood
 47411929|||용혈의 아르투르|||Dragon-Blooded Arthur
 49873767|||그냥 아는 오빠|||Just an Acquaintance Oppa
 47175722|||달빛 아래|||Under the Moonlight
@@ -34674,7 +34659,7 @@
 47062488|||보여도 보이지 않아도|||Whether Seen or Unseen
 58401951|||아포칼립스의 고인물 [단행본]|||Veteran of the Apocalypse [Book Edition]
 60399085|||빙의한 악녀는 이혼을 원하지 않아요|||The Possessed Villainess Doesn't Want a Divorce
-59664494|||‘쓱쓱’ 내 안에 이야기 &amp; 내 아내 이야기|||'Sseuk-Sseuk' Story Inside Me &amp; My Wife's Story
+59664494|||‘쓱쓱’ 내 안에 이야기 & 내 아내 이야기|||'Sseuk-Sseuk' Story Inside Me &amp; My Wife's Story
 49276996|||이상형을 찾아서|||In Search of My Ideal Type
 59890388|||편하게 살아볼까 했더니|||I Thought I'd Live Comfortably, But
 66282543|||슈퍼 솔져 in 아포칼립스|||Super Soldier in the Apocalypse
@@ -35069,7 +35054,6 @@
 56326559|||로그아웃 전 신혼여행|||Honeymoon Before Logging Out
 47254381|||아이니|||Aini
 61679387|||과거에서 재능이 쏟아져 [단행본]|||Talent Poured In from the Past [Book Edition]
-59269556|||아카데미에서 쉴게요 [단행본]|||I'll Rest at the Academy [Book Edition]
 68208818|||왕야, 아안연무방|||Prince, A-An's Martial Arts Room
 55215720|||제아|||Jea
 64885407|||판타지 속 공무원으로 살아남기|||Surviving as a Civil Servant in Fantasy
@@ -35191,7 +35175,7 @@
 47572117|||미녀는 추남을 좋아해|||Beauty Likes the Ugly Man
 66988482|||우아한 재혼|||Elegant Remarriage
 63929286|||달아오른 숨결[개정판]|||Heated Breath [Revised Edition]
-63419168|||결혼 말고 아이만 주세요, 대공님|||Give Me Just the Child, Not Marriage, Duke
+63419168|||결혼 말고 아이를 주세요, 대공님|||Give Me Just the Child, Not Marriage, Duke
 49143712|||아실리|||Asili
 55300370|||지옥의 조동아리|||Hell's Big Mouth
 54706273|||아침|||Morning
@@ -35216,7 +35200,7 @@
 67904391|||아씨의 향 아래 젖어드는 검|||Sword Soaking Under the Young Lady's Scent
 54548579|||너를 앓아|||I Suffer for You
 57977401|||놓치지 않아|||Won't Let You Go
-60769107|||그 용병이 게임에서 살아남기|||How That Mercenary Survives in the Game
+60769107|||그 용병이 게임에서 살아남는 법|||How That Mercenary Survives in the Game
 56907841|||히스토리아 베온|||Historia Veon
 66969632|||돌아온 아내 [단행본]|||Returned Wife [Book Edition]
 67748020|||아포칼립스 속 절대 감각|||Absolute Sense in the Apocalypse
@@ -35253,7 +35237,7 @@
 67145269|||아포칼립스의 유일한 플레이어 [단행본]|||The Only Player of the Apocalypse [Book Edition]
 64741033|||말하지 않아도 알잘딱깔센|||Knowing Everything Without Being Told
 63053515|||우아하게 때론 잔인하게|||Elegantly, Sometimes Cruelly
-64286512|||제발 멈추지 말아요 외전 [단행본]|||Please Don't Stop Side Story [Book Edition]
+64286512|||제발 멈추지 말아요 [단행본]|||Please Don't Stop Side Story [Book Edition]
 58219789|||냄새맡아 인생역전 [단행본]|||Life Reversal by Smelling [Book Edition]
 61040805|||돌아온 천재 배우 [단행본]|||Returned Genius Actor [Book Edition]
 46511631|||오아시스 내 청춘 (이조영)|||Oasis My Youth (Lee Jo-young)
@@ -35499,7 +35483,7 @@
 62372313|||후궁으로 살아남기 [단행본]|||Surviving as a Concubine [Book]
 68581008|||귀농했더니 쏟아지는 이종족 러브콜 [단행본]|||Returning to Farming and Getting Flooded with Non-Human Love Calls [Book]
 66989128|||판게아 연대기: 어둠 속의 불꽃|||Pangaea Chronicles: Flame in the Darkness
-67534292|||그 누구도 아닌 너에게|||To You, Who Are No One Else
+67534292|||그 누구도 아닌 너에게|||This is a Pharmacy, Not a Teahouse [Book]
 66319296|||아젤란의 창|||Spear of Azelan
 68581548|||피 빨아먹는 연애 [19세 완전판]|||Blood-Sucking Romance [19+ Uncut Edition]
 66921473|||연기 천재, TOP 아이돌! [단행본]|||Acting Genius, TOP Idol! [Book]
@@ -35752,7 +35736,6 @@
 67297651|||조선 피아니스트 [단행본]|||Joseon Pianist [Book]
 55851006|||혁명의 아이오너 [단행본]|||Ionah of the Revolution [Book]
 67729587|||너구리는 돈이 제일 좋아! [단행본]|||Raccoons Love Money the Most! [Book]
-67534292|||여기는 약방이지 찻집이 아닌데요 [단행본]|||This is a Pharmacy, Not a Teahouse [Book]
 65407331|||흑막을 구원하려던 건 아니었는데요 [단행본]|||I Didn't Mean to Save the Mastermind [Book]
 68212500|||공포게임 속 미친 악령으로 살아남기 [단행본]|||Surviving as a Crazy Evil Spirit in a Horror Game [Book]
 62143500|||피아노 치는 교수님 외전 [단행본]|||The Piano-Playing Professor Side Story [Book]
@@ -36158,7 +36141,7 @@
 64731865|||스무 살의 신부 [19세 완전판]|||Twenty-Year-Old Bride [19+ Uncut Edition]
 62173234|||타락의 형태 [19세 완전판]|||Form of Corruption [19+ Uncut Edition]
 54142761|||데드맨 스위치|||Deadman Switch
-63081204|||태생부터 강한 먼치킨 천재공자[단행본]|||Born Strong Munchkin Genius Young Master [Book]
+63081204|||태생부터 강한 먼치킨 천재공자|||Born Strong Munchkin Genius Young Master [Book]
 54814866|||포텐 보는 축구천재 [완결]|||Soccer Genius Who Sees Potential [End]
 62162947|||불순한 애착 관계|||Impure Attachment Relationship
 50792040|||떨리는 손끝 그대의 숨결|||Trembling Fingertips, Your Breath
@@ -36710,7 +36693,6 @@
 55479340|||환룡의 전승자[단행본]|||Successor of the Illusion Dragon [Book]
 57818928|||월급쟁이 에이스 [단행본]|||Salaryman Ace [Book]
 64275239|||귀농 후 인생 대박 [단행본]|||Life Jackpot After Returning to Farming [Book]
-65502584|||향기|||Scent
 68716144|||파혼의 미학|||Aesthetics of Breaking Off an Engagement
 62342336|||[BL] 금침 (외전) [19세 완전판][단행본]|||[BL] Geumchim (Side Story) [19+ Uncut Edition] [Book]
 57996176|||화양연화-짓밟힌 꽃 [단행본]|||In the Mood for Love - Trampled Flower [Book]
@@ -36752,7 +36734,7 @@
 65910482|||더러운 계집[개정판]|||Dirty Girl [Revised Edition]
 59872046|||풍수남녀|||Feng Shui Man and Woman
 67396073|||당신의 불행을 위하여|||For Your Misfortune
-65801728|||거짓말[개정판]|||Lies [Revised Edition]
+65801728|||거짓말[개정판]|||Awesome, Amazing, Let It Go
 60502683|||불타는 초원 위에|||On the Burning Grassland
 63381685|||운명 같은 소리 하네|||Talk About Fate
 65241210|||AI로 슈퍼스타[단행본]|||Superstar via AI [Book]
@@ -36788,7 +36770,6 @@
 53044690|||산장의 여인[할리퀸]|||Woman of the Mountain Cabin [Harlequin]
 67971849|||양심의 문제 [19세 완전판]|||Problem of Conscience [19+ Uncut Edition]
 62906533|||대놓고 유혹 [단행본]|||Blatant Seduction [Book]
-65801728|||오지고 지리고 렛잇고|||Awesome, Amazing, Let It Go
 55745480|||위험한 키스 [단행본]|||Dangerous Kiss [Book]
 64976976|||신들의 정원 [단행본]|||Garden of Gods [Book]
 57839889|||심연의 신부 [단행본]|||Bride of the Abyss [Book]
@@ -37154,7 +37135,7 @@
 56598013|||암살자였던 군주|||The Monarch Who Was an Assassin
 63176786|||천재 개발자 게임으로 역대급 재벌|||Genius Developer Becomes the Greatest Chaebol Through Games
 56211871|||망겜 개발자의 던전 관리 지침서|||Dungeon Management Guidebook for a Ruined Game Developer
-51802632|||그림자 머리에게 잘 해줘 봤자|||It's No Use Being Nice to the Black-Haired One
+51802632|||검은 머리에게 잘 해줘 봤자|||It's No Use Being Nice to the Black-Haired One
 58267923|||남자 비서|||Male Secretary
 65377096|||북부 대공을 최강자로 키우는 법|||How to Raise the Northern Grand Duke Into the Strongest
 50185757|||그 남자의 늪|||That Man's Swamp
@@ -37182,7 +37163,7 @@
 48069878|||십자성-전왕의검|||Cross Star - Sword of the War King
 53957150|||회귀자의 요리비책|||The Returnee's Cooking Secret Book
 54970216|||성황의 손자는 네크로맨서 [단행본]|||The Holy Emperor's Grandson is a Necromancer [Volume Edition]
-47451658|||결혼하자는 남자 &amp; 이혼하자는 남자|||The Man Who Wants to Marry &amp; The Man Who Wants to Divorce
+47451658|||결혼하자는 남자 & 이혼하자는 남자|||The Man Who Wants to Marry &amp; The Man Who Wants to Divorce
 64907360|||그X의 남자|||That Bitch's Man
 50150698|||황태자의 정략결혼|||The Crown Prince's Political Marriage
 64353043|||살인귀 황태자를 교육하는 법|||How to Educate the Murderous Crown Prince
@@ -37195,7 +37176,7 @@
 64231387|||회귀자의 보법이 너무 강함|||The Returnee's Footwork is Too Strong
 60449471|||타자 인생 3회차!|||Batter's 3rd Life!
 57486953|||포식자의 숲|||Predator's Forest
-63376466|||재앙급 귀환자의 현대생활|||Modern Life of a Disaster-Class Returnee
+63376466|||재앙급 귀환자의 현대 생활|||Modern Life of a Disaster-Class Returnee
 51615297|||칼든 자들의 도시 [완결]|||City of the Sword-Wielders [Completed]
 55696689|||자,극적인 로맨스|||Stimulating Romance
 56394731|||꼬리 치는 황태자님|||The Wagging Crown Prince
@@ -37552,7 +37533,7 @@
 62277016|||인류 최초 각성자의 생존기|||Survival Story of Humanity's First Awakened
 62205623|||욕망을 보는 투자 천재|||Investment Genius Who Sees Desire
 48090155|||이계십자로[연재]|||Otherworld Crossroad [Serialized]
-67602008|||자운표국-사별후애|||Jaun Escort Agency - Love After Parting
+67602008|||자운표국-死別後愛|||Jaun Escort Agency - Love After Parting
 52627615|||재능 캐는 남자 [완결]|||The Man Who Digs Talents [Completed]
 67198614|||1조 부자 강대리는 오늘도 출근|||1 Trillion Won Rich Assistant Manager Kang Goes to Work Today
 55339533|||헬 난이도의 회귀자 [완결]|||Hell Difficulty Returnee [Completed]
@@ -37904,7 +37885,7 @@
 50695614|||에틸렌의 소공자|||Ethylene's Young Duke
 48844751|||천일야화(千一夜話) - 술탄의 남자 [완결]|||One Thousand and One Nights - Sultan's Man [Completed]
 55284617|||실격문장의 최강 현자|||The Strongest Sage of the Disqualified Crest
-49516626|||백 교수의 수제자|||Professor Baek's Favorite Disciple
+49516626|||백교수의 수제자|||Professor Baek's Favorite Disciple
 62383034|||추락자의 결말 [19세 완전판]|||The Fallen One's Ending [19+ Uncut Edition]
 66497186|||능력 흡수로 이세계 초월자|||Otherworld Transcendent Through Ability Absorption
 57802058|||칼든 자들의 도시 [단행본]|||City of the Sword-Wielders [Volume Edition]
@@ -38872,7 +38853,7 @@
 59113426|||엘리|||Ellie
 62213364|||야만의 그대 [19세 완전판] [단행본]|||My Savage You [19+ Uncut Edition] [Volume Edition]
 49188470|||세이크의 위험한 연인|||Sheikh's Dangerous Lover
-53681591|||레코드 보이스|||Record Voice
+53681591|||레코드 보이스|||Every Day with Tea Boss
 68653860|||패스의 길이 보이는 천재미드필더|||Genius Midfielder Who Sees the Path of Passes
 62200348|||깊은 유혹 [19세 완전판]|||Deep Temptation [19+ Uncut Edition]
 65206214|||맵핵 쓰는 선장님|||The Captain Who Uses Map Hacks
@@ -39049,7 +39030,6 @@
 68052873|||차원식당으로 차원최강|||Strongest in the Dimension Through a Dimensional Restaurant
 65828780|||[GL] 낙차 [19세 완전판] [단행본]|||[GL] Drop [19+ Uncut Edition] [Volume Edition]
 49826759|||우연의 교차로|||Intersection of Chance
-53681591|||차 보스와 매일매일|||Every Day with Tea Boss
 65682005|||어차피 본능|||Anyway, Instinct
 68388922|||천재 보컬 트레이너의 인생 2회차|||Genius Vocal Trainer's 2nd Life
 63051234|||예쁜 개차반|||Pretty Jerk
@@ -39573,7 +39553,7 @@
 55109901|||악녀인데요, 왜 집착하시죠?|||I'm a Villainess, Why Are You Obsessed?
 54315558|||생존학 개론|||Introduction to Survival
 51859696|||고블린 슬레이어 [단독선공개]|||Goblin Slayer (Exclusive Pre-release)
-49440534|||서툰 유혹 &amp; 서툰 키스[합본]|||Clumsy Temptation &amp; Clumsy Kiss [Omnibus]
+49440534|||서툰 유혹 & 서툰 키스[합본]|||Clumsy Temptation &amp; Clumsy Kiss [Omnibus]
 48742330|||미약 키스[단독 선공개]|||Aphrodisiac Kiss (Exclusive Pre-release)
 46799637|||은빛어비스|||Silver Abyss
 58992869|||너의 비급을 먹고 싶어|||I Want to Eat Your Secret Manual
@@ -39753,7 +39733,7 @@
 47836218|||타임리스 타임|||Timeless Time
 52503345|||뒤주를 타고 온 후궁 [단독선공개]|||The Concubine Who Came in a Rice Chest (Exclusive Pre-release)
 66133314|||릴리에타의 귀환|||Return of Lillieta
-52597284|||타임리스 &amp; 타임리스 테이크2|||Timeless &amp; Timeless Take 2
+52597284|||타임리스 & 타임리스 테이크2|||Timeless &amp; Timeless Take 2
 52972359|||타격의 신[연재]|||God of Hitting [Serialized]
 53938449|||0살부터 슈퍼스타|||Superstar from Age 0
 46861702|||타이탄 에이지|||Titan Age
@@ -40520,7 +40500,7 @@
 52776692|||고교파워클럽|||High School Power Club
 58691481|||만렙 농부의 무한 꿀파밍 [단행본]|||Max-Level Farmer's Infinite Honey Farming [Volume Edition]
 60724230|||파산 후 먼치킨 [단행본]|||Munchkin After Bankruptcy [Volume Edition]
-52409447|||랭커파왕  [완결]|||Ranker Supreme King [Completed]
+52409447|||랭커파왕&nbsp; [완결]|||Ranker Supreme King [Completed]
 62437354|||파고드는 밤|||Digging Night
 58209374|||불온하고 파멸적인|||Subversive and Ruinous
 47108751|||최고의 파트너[할리퀸]|||Best Partner [Harlequin]
@@ -40987,7 +40967,7 @@
 60222494|||각성하고 레벨업하고|||Awakening and Leveling Up
 54804173|||폐하 옷 좀 입으면 안 될까요|||Majesty, Can't You Please Put Some Clothes On?
 52767826|||내 친구의 부도덕성에 관하여[완결]|||Regarding My Friend's Immorality [Completed]
-58257706|||취하게 싶은 밤|||Night I Want to Get Drunk
+58257706|||취하고 싶은 밤|||Night I Want to Get Drunk
 62606718|||몸이 기억하는 관계|||Relationship Remembered by the Body
 50536501|||하룻밤의 로맨스[단독선공개]|||One Night Romance [Exclusive Pre-release]
 59745879|||구박데기 영애의 반격을 조심하세요|||Beware the Counterattack of the Mistreated Lady
@@ -41667,7 +41647,7 @@
 48670710|||[미스터리] 살인하기 좋은 날|||[Mystery] A Good Day to Murder
 63195585|||전하, 뒤를 조심하셔요|||Your Highness, Watch Your Back
 55839201|||환생 천하무적 [단행본]|||Reincarnated Invincible [Book]
-59621478|||하트리스(Heartless) &amp; 노 모어(NO MORE)|||Heartless &amp; NO MORE
+59621478|||하트리스(Heartless) & 노 모어(NO MORE)|||Heartless &amp; NO MORE
 56892328|||폐하의 어린 신랑님|||Your Majesty's Young Groom
 61260539|||쿨하게 [단행본]|||Coolly [Book]
 46608495|||블루 하트|||Blue Heart
@@ -41996,7 +41976,7 @@
 60758037|||J를 위하여|||For J
 51994782|||샤이엔의 푸른 하늘[할리퀸]|||Cheyenne's Blue Sky [Harlequin]
 68431944|||각성했더니 빙하기의 신 [단행본]|||Awakened as the God of the Ice Age [Book]
-63352047|||평범하게 살고 싶은데 결혼했는데 [단행본]|||I Wanted to Live Normally But I Got Married [Book]
+63352047|||평범하게 살고 싶어 결혼했는데 [단행본]|||I Wanted to Live Normally But I Got Married [Book]
 55777026|||그 여름을 기억하니 [단행본]|||Do You Remember That Summer [Book]
 56463868|||단하루 부부 [단행본]|||One-Day Couple [Book]
 67939710|||버림받은 성녀를 구하는 방법|||How to Save the Abandoned Saintess
@@ -42907,3 +42887,1795 @@
 68813187|||응급 플러팅 [단행본]|||Emergency Flirting [Book]
 68735740|||밤 근무 시간에는 [단행본]|||During Night Shift [Book]
 68566815|||처음부터 여기 있었는데요 [단행본]|||I Was Here from the Beginning [Book]
+52952255|||용사가 없는 세계의 영웅|||
+61119714|||마법경영학과 20학번 김가을|||
+55396060|||(이용권) 달마야 중원가자 [단행본]|||
+60509561|||[BL] 힐러가 어때서? 1권 [단행본]|||
+59537582|||다른 남자의 아내|||
+50897763|||나의 빨간 머리 앤|||
+60107653|||짐승에게 나를 보낸다|||
+64605728|||마법학교 망나니로 살아남기|||
+63666053|||나의 오만한 구원자에게|||
+51421747|||만 년 만에 귀환한 플레이어|||
+46790791|||버림 받은 황비|||
+50659635|||전생자|||
+68301756|||고립된 후작 영애는 먹고살고 싶어서|||
+58819634|||전설급 영웅은 아카데미 우등생|||
+55067834|||주치의는 할 일 다 하고 사표 씁니다|||
+46638928|||마검왕|||
+57243596|||최강자 남주의 라이벌을 그만두었더니|||
+59767798|||던전 호텔에 오신 것을 환영합니다|||
+53913576|||돈으로 약혼자를 키웠습니다|||
+52957727|||튜린의 릴리엔|||
+54250440|||아드님 말고 아버님이요|||
+54184726|||레벨업하기 싫은 천마님|||
+60651868|||이상한데 효과적인 악녀 생활|||
+56382480|||사랑받는 막내는 처음이라|||
+49308677|||스타 메이커[개정판]|||
+51860886|||FFF급 관심용사|||
+58452553|||시한부를 즐겼을 뿐이었는데|||
+55684232|||랭킹 1위를 영혼까지 털어버림|||
+56160964|||이 용사 실화냐?|||
+46674609|||조선 세자빈 실종 사건|||
+52171569|||선량한 남자 주인공을 타락시켰다 [완결]|||
+61513346|||신이 쓰는 웹소설|||
+48955521|||데스마치에서 시작되는 이세계 광상곡|||
+56603128|||악역 남편님, 집착할 분은 저쪽인데요|||
+52392714|||일단 결혼부터|||
+54753163|||수련으로 초월한다|||
+57128444|||시한부 연인과 동거 생활 중입니다|||
+56067256|||구미호를 잘못 키웠다|||
+64911750|||말석 영웅이 회귀했다|||
+52813938|||환생표사|||
+55673558|||착하게 살고 싶었답니다|||
+55093183|||청혼하라고 구해준 건 아니었는데|||
+54155503|||시한부라서 파업했는데|||
+65012983|||소꿉친구와 절교하면 생기는 일|||
+50106413|||황후님의 바늘 [완결]|||
+57780274|||미친 공작에게 납치당했다|||
+51295827|||이혼이 조건입니다|||
+58825221|||성황의 아이들|||
+61738873|||역대급 천재 랭커의 귀환|||
+67537823|||초인으로 각성한 검은머리 투자자|||
+57547985|||공녀님은 독수공방 체질입니다|||
+46753602|||궁신|||
+67870477|||힘을 숨긴 공무원이 빙의를 너무 잘함|||
+59181509|||남편의 말대로 정부를 들였다|||
+52397089|||펜들턴 혁명|||
+52574856|||갑자기 사랑받으려니 간지러워요|||
+51579669|||애착 인형|||
+54443850|||그것들, 내 인생에서 삭제합니다|||
+53654722|||오빠들 사이에서|||
+59183008|||아기 남편의 흑막 아내입니다|||
+49951938|||책벌레의 하극상|||
+52576376|||이 헌터 실화냐|||
+58559558|||세 살 아기는 관리자네 딸이랍니다|||
+49390285|||후궁에 피는 꽃|||
+48380703|||단아한 그녀의 최강 연애 코치|||
+51535295|||무림 드래곤(개정판)|||
+51966021|||인생은 마리아 르웰린처럼|||
+50611349|||레벨업 머신[완결]|||
+47412009|||프라하, 그 유혹의 밤|||
+53212551|||거미입니다만, 문제라도?|||
+62219410|||흑막의 조기교육을 너무 잘해 버렸다|||
+51912973|||강제 결혼|||
+55588798|||전신|||
+50866012|||웨딩드레스를 벗기는 방법|||
+48898038|||리턴 오브 에이스 [완결]|||
+51404446|||귀신 보는 성녀님|||
+56280619|||더는 싫었다|||
+49451758|||마왕의 비서|||
+54635687|||여주와 남주의 아이들을 키우게 되었습니다|||
+53397125|||동생을 예쁘게 키웠다 [완결]|||
+55716061|||F급 사주 헌터|||
+63491166|||빌어먹을 아이돌|||
+49443680|||륜의 반려|||
+48152498|||더 랩스타[개정판]|||
+53832746|||남사친이 변했다|||
+54158055|||악녀는 패밀리의 숭배를 받고|||
+49609253|||대놓고 들이대는 남자[단독 선공개]|||
+53314853|||최고의 결혼 계약|||
+56559725|||S급 각성자의 딸이랍니다|||
+52285191|||살수(殺手), 로그인하다|||
+53792678|||폐후의 스캔들|||
+65081594|||천하무적대총관 천신우|||
+52147044|||완벽한 황후 [외전 단독선공개]|||
+51069767|||뽑기 마스터|||
+49065360|||위험한 프러포즈 [완결]|||
+49767406|||이사장님, 여기선 곤란해요|||
+47601528|||내 안에 퐁당|||
+51211425|||계약 결혼이 끝났다|||
+58083565|||불공정 결혼|||
+57367782|||집착의 이유|||
+54689507|||애타는 신상남|||
+61771359|||삼류|||
+58383453|||대놓고 신혼 생활|||
+53690107|||세피로트|||
+61337082|||마지막에는, 사라지겠습니다 [특별외전 독점공개]|||
+66606252|||로열 스캔들(Royal Scandal)|||
+54923053|||낙하산 사내 연애|||
+54767161|||히로인 메이커|||
+51061067|||황궁에 미친 꽃이 필 때 [외전단독선공개]|||
+52377656|||역대급 문지기|||
+55261040|||상사병에 빠진 남편|||
+52266268|||101번째 여주인공|||
+51841348|||지금까지 친구였던 그 남자|||
+56215383|||취접냉월|||
+61095320|||이 악녀를 살려보겠습니다|||
+47479800|||붉은 물빛의 레이디|||
+57491655|||한번 해 봅시다|||
+50734927|||수상한 입주 과외 [단독선공개]|||
+54555562|||공작님의 구질구질한 전남편들|||
+52796894|||법적 부부의 사생활|||
+59771843|||무신|||
+46561169|||황금백수|||
+52849943|||오피스 스캔들 [단독선공개]|||
+54501964|||버그 덩어리 남자 주인공에게 사랑받고 있습니다|||
+55835566|||흑역사를 없애는 법|||
+56599963|||아프도록 깊이|||
+56726899|||널 안을까 해|||
+54341604|||아름다우십니다, 재상님|||
+63467942|||황자의 보모, 특기는 암살입니다|||
+55966092|||24시간 수행비서|||
+52124737|||뜨거웠던 우리 [단독선공개]|||
+63100087|||후회는 알아서들 하세요|||
+50303064|||베드걸 굿걸 [단독 선공개]|||
+54361942|||격랑의 바다|||
+48805377|||소녀지몽 [완결]|||
+50663082|||주상전하의 수석비서|||
+63535397|||악녀는 로판을 연출한다|||
+58638743|||빈궁의 이중생활 [완결]|||
+60828341|||14년 차 천재 연습생의 데뷔 공략|||
+59785986|||회귀한 검왕은 폭군이 되기로 했다|||
+53078612|||그거 고백 아니었는데|||
+59114447|||북부의 미친개는 꼬리를 흔든다|||
+60675821|||서로 원할 때마다|||
+58936593|||내 친구와의 은밀한|||
+47371566|||병아리|||
+53894958|||만렙 영주님의 고급 과금상점|||
+55038517|||익명으로 전해드립니다|||
+50338522|||Please Why Me(플리즈 와이 미)[단독선공개]|||
+49740806|||주종 관계, Yes my pet! [단독선공개]|||
+52219610|||트로피 웨딩|||
+53898249|||좋아하게 되면 꼭 말해줘|||
+49441943|||이 멋진 세계에 축복을!|||
+56841763|||발칙한 아내의 비밀|||
+52568260|||공작영애의 은밀한 외출|||
+54244337|||디어, 썸머: 훼손된 계절 [단독 선공개]|||
+59960715|||다른 남자와 결혼해|||
+57025606|||하룻밤 낭군님|||
+57197705|||회귀빨로 레벨업|||
+67899689|||역대급 돈지랄 천재 강화사로 각성하다|||
+65714426|||전역 후 메이저리그 정복|||
+48040479|||레벨 0 마스터|||
+55913444|||착한 신데렐라는 죽었습니다|||
+53898178|||갓핸드 - 신을 삼킨 헌터|||
+59410047|||깊게 새긴 밤|||
+64165710|||천재 아이돌이 회사를 탈주함|||
+59720770|||악녀는 돈 쓰는 게 일이랍니다|||
+60601759|||집어삼키는 맛|||
+54834645|||설계자의 공략방법 [완결]|||
+55872568|||충동의 밤|||
+48809375|||데이트 어 라이브|||
+59682375|||드림 브레이커|||
+59152594|||회귀한 아기궁녀의 목표는 출궁입니다!|||
+56207364|||오늘 밤에도 당신은|||
+57034293|||재앙을 입양하다|||
+52627103|||바른 생활 악녀님 [단독선공개]|||
+62863706|||대공님이 이상한 데에 눈을 떴습니다|||
+61686907|||우리 아이를 위해|||
+54682475|||또다시 사랑일까|||
+50774392|||악마 수집하는 성녀님|||
+47796037|||카르페디엠|||
+54103934|||스페이스 오딧세이 2099|||
+52240603|||공작이 회귀함[완결]|||
+51413807|||그 남자, 처음, 로맨틱 [삽화본 선공개]|||
+60927281|||피폐물 남주의 부관은 피곤합니다|||
+55696780|||미치게 만들었다면|||
+52578616|||반격의 엑스트라 [완결]|||
+52149295|||그자. 후에…|||
+50400001|||대역공녀|||
+60492178|||고품격 애인대행|||
+58137939|||S급 정령사의 테이밍 일기|||
+48824122|||깊고도 강렬한[완결]|||
+56078502|||곰 곰 곰 베어|||
+57355564|||바라고 바라옵건대|||
+58016995|||우울한 공작의 비서님|||
+52334875|||기적의 스킬 자판기[완결]|||
+55973512|||독립하려는데 남주들이 집착한다|||
+52618964|||이계학 개론 [완결]|||
+56376500|||적국 황제의 딸로 태어났습니다|||
+53314226|||냉혈한 공작의 아내는 바꿔치기 되었다|||
+59247680|||방과 후 옆집 애인|||
+58650869|||뉴비 소드마스터|||
+59433300|||홍도화|||
+51719420|||무적검제|||
+58505941|||개연성 말아먹은 수인물 엑스트라입니다|||
+58053732|||13일의 저주에서 살아남기|||
+64232094|||악당을 바르게 키워보겠습니다|||
+49386661|||해밝은 밤의 산책|||
+62818920|||흑막과의 소개팅을 파투 내는 방법|||
+52045993|||헤스티아|||
+50310432|||이세계 셰프님|||
+50000644|||(이용권) 버림 받은 황비 [단행본]|||
+57151627|||우리 결혼 끝난 거 아니었어요?|||
+51147823|||그녀는 호상이고 싶다|||
+66066130|||무한회귀 기사전|||
+54168501|||천마와 하이드|||
+54465447|||공작님을 선물 받는다면 어디에 쓰시겠어요?|||
+52125079|||있다 없으니까|||
+60571833|||손맛으로 구제하는 망돌 인생|||
+61156371|||보스는 죽고 싶어 해|||
+51838549|||잘못된 욕망|||
+59246626|||아카데미에서 연애하면 죽음|||
+52862412|||책임지지 마세요|||
+52065009|||메마른 햇빛 아래, 안개꽃 한 송이|||
+60803366|||S급 잡화점을 후원받았습니다|||
+66512926|||위험한 남사친 |||
+56185812|||이혼의 시작은 재혼부터|||
+53043051|||스카우트|||
+50881391|||황후 아닌 황제?!|||
+56692251|||결혼은 사양합니다|||
+59743023|||아카데미 담당 일진|||
+62137611|||오빠 생각|||
+51966774|||흔하고 신비한 잡화점|||
+53826007|||이리 와요, 폭군님!|||
+50089712|||장군의 꽃|||
+52450879|||공작님을 부탁해|||
+52320348|||괴수처럼 [완결]|||
+54203706|||저, 능력은 평균치로 해달라고 말했잖아요! [연재]|||
+50372317|||신의 축구 [완결]|||
+62893257|||책임져 신비서|||
+60404685|||한 손으로 움켜잡은|||
+56876398|||유혹하지 말아줘, 오빠|||
+64076425|||오빠 친구와 연애하는 법|||
+49304300|||좋은 꿈 꾸세요|||
+53640592|||폐하, 이혼하겠습니다 [연재]|||
+65699674|||쫓겨난 황태자의 검이 되었다|||
+46833923|||죽지않는 무림지존 [완결]|||
+64254194|||애지중지 동거|||
+62811528|||아기 다람쥐는 건강만 비축하려 했는데|||
+55528249|||웹소설 먹고 레벨업|||
+65899394|||재벌 서자를 떠맡게 되었다|||
+64406985|||막장 비서|||
+48029463|||일념일로|||
+64431196|||그 집 안에서|||
+55721827|||전생자 [단행본]|||
+49455656|||집사 그레이스|||
+50833693|||봄의 에스프레소|||
+63218339|||엑스 허즈번드|||
+68292201|||솔라 레메게톤 [개정판]|||
+49875260|||사외 연애|||
+57522896|||오, 친애하는 숙적|||
+51784681|||모로코, 하룻밤의 사정[단독선공개]|||
+63612781|||대마법사 외동딸의 회귀|||
+48708870|||The SECRET 비밀|||
+54132711|||순수하지 않은 감각|||
+54608682|||악의에 젖다|||
+51206239|||내 인생 최고의 스캔들|||
+50245953|||베로니카 레퀴엠|||
+64249577|||반려견이 반려를 물어옴|||
+57639309|||공작님, 이 독약은 어떠세요?|||
+60729559|||아폴론의 심장 [19세 완전판]|||
+56219964|||짐승의 품격|||
+53807213|||염라를 길들이는 법 [단독 선공개]|||
+50045782|||빌어먹을 연애 [완결]|||
+52460844|||카인의 흉터 [외전선공개]|||
+66047862|||신객|||
+58623664|||상사와의 결혼|||
+53612619|||세모달|||
+51289753|||열 살 어린 그 녀석 [단독선공개]|||
+53753893|||용이 피우는 꽃|||
+64198460|||고인물이 공략을 알려줌|||
+56320539|||고인물은 썩기 마련|||
+61262201|||당신 아이는 아니지만|||
+52048359|||바람둥이 파파 [단독선공개]|||
+53891888|||억지 결혼|||
+46558522|||황금신수|||
+56439953|||독설 영애와 짐승 공작의 결혼|||
+64212961|||이미 한 번 망하고 왔습니다|||
+46718617|||천지를 먹다 [완결]|||
+55727187|||책벌레 공주|||
+47636273|||내게 와 준다면|||
+50329141|||사귀다|||
+59513875|||집착광공을 피해 아이를 낳는 방법|||
+56393516|||황제를 유혹합니다|||
+52477948|||짐승이 되는 시간|||
+59537244|||강 팀장은 하룻밤이 부족하다|||
+54260955|||한 번 더 할래|||
+52610457|||진세의 그물|||
+50104173|||스타의 연애병[단독선공개]|||
+65834429|||재벌집 외동딸과 하룻밤을 보냈다|||
+56333550|||계약 신부|||
+59734067|||멘탈 꽉 잡아드립니다|||
+51524191|||우리는 커플이다 [단독선공개]|||
+55557519|||왕세자의 프러포즈|||
+55861777|||을과 을의 연애|||
+49237082|||손도 다 잡아놓고|||
+58247152|||결혼 먼저|||
+50751695|||오늘의 연애, 맑음|||
+59492713|||쓰레기통 취향이라 죄송합니다|||
+54454149|||정혼 말고 비혼|||
+52883611|||지금, 안고 싶어|||
+60414291|||고려식당|||
+53514261|||너를, 갖고 싶어|||
+51590058|||다시, 너|||
+66382056|||연하동 531|||
+54468369|||우연의 오류|||
+68102668|||도련님, 제발 바지 좀 입어 주세요!|||
+52266684|||본능이 시키는 대로|||
+58231338|||부적격 부부|||
+51984996|||시크릿 만남 [완결]|||
+53276687|||신데렐라의 반지 [단독 선공개]|||
+58408070|||너의 옷깃에 입 맞추다|||
+58748798|||악마의 딸은 신의 아들을 사랑한다|||
+62716697|||귀신 잡느라 연차 씁니다|||
+49577846|||후궁의 행복라이프|||
+53308093|||수상한 VIP [단독선공개]|||
+47891100|||당신이 잠들때까지|||
+53580289|||대표님과 여배우 [단독선공개]|||
+57889025|||조건 결혼|||
+54801741|||아폴론의 심장|||
+66793798|||사장님의 특별지시|||
+52454336|||유폐황후|||
+52159614|||태왕의 여인 수랑|||
+66799856|||단짝 V-log인데 단짝은 아닙니다|||
+53965976|||다시 찾은 신부|||
+53997314|||美치도록 위험한|||
+49788918|||오직 사랑뿐 [완결]|||
+47814723|||호시탐탐|||
+49486160|||완 치프와 양갱이|||
+47602232|||두 번째 결혼|||
+65662481|||한낱 비서|||
+53530028|||착한 타락|||
+53534555|||아내를 돌려주세요|||
+46420770|||눈을 감으면|||
+59143433|||악당 대공녀님은 파혼을 싫어해! [완결]|||
+58377574|||불친절한 계모|||
+53522092|||기다리는 황제님|||
+60863732|||처절한 흥밋거리 [완결]|||
+55262204|||그 대표님의 추파 견디기|||
+46821850|||악마본색|||
+54745536|||함부로 마음이 마음에게|||
+48839936|||Lovers [완결]|||
+56895406|||갑의 품격|||
+47421920|||모든 행복을 파랑새에게|||
+54371565|||당신은 생각보다 [단독선공개]|||
+53803151|||사로잡힌 시간|||
+55187487|||제발 좀 헤어져 줘![단독선공개]|||
+50862601|||사랑 중독[단독 선공개]|||
+54301514|||꼬리치는 남자[단독 선공개]|||
+48151005|||황금수|||
+46556251|||하오대문|||
+50670474|||수상한 남자 [완결]|||
+55057657|||작곡천재의 멜로디 [완결]|||
+59748311|||고백만 할게요|||
+50888291|||사슴 신부 [단독선공개]|||
+47648551|||연애의 이유|||
+58730122|||밤 계약|||
+62042321|||반역자는 왕이 되기로 했다|||
+54174614|||디저트 먹여 주는 남자|||
+62029706|||시한부는 당신 아니었어요?|||
+59135499|||클로즈업|||
+48413812|||부서질만큼|||
+53218240|||은밀한 제안|||
+55185844|||스타 메이커 [단행본][개정판]|||
+49319199|||원하고 원망하다|||
+48366948|||내 품에 안겨[외전 단독선공개]|||
+55270033|||치열하게, 더 뜨겁게[외전공개]|||
+56346037|||사적 영역|||
+50767619|||이 남자의 사랑법|||
+63353590|||이번 생, 끝까지 살아남겠습니다|||
+51513023|||그 사람이니까 [단독선공개]|||
+51263085|||[BL] 인턴|||
+56603143|||배덕 결혼|||
+52511750|||사랑 벗|||
+48314610|||역사는 반지하에서 이루어진다[단독 선공개]|||
+59948442|||전생이 천재였다 [완결]|||
+51312615|||특별한 너에게[단독 선공개]|||
+53892267|||달고 오묘한 [단독 선공개]|||
+68158869|||이 봄, 인기급상승|||
+53921672|||그 남자와의 비밀 계약|||
+57689550|||그 연하남의 유혹|||
+52155175|||미로 정원|||
+56380660|||알바 신부|||
+50550041|||형의 친구[BL]|||
+55483005|||적의 왕비 [단독 선공개]|||
+48314502|||어차피 다 볼 사이|||
+64643947|||몸을 공유하는 사이|||
+57729915|||달콤한 계약 결혼|||
+55523439|||함부로 후회하지 말 것|||
+62789498|||전남편과 여동생이 결혼했다|||
+58550152|||백일의 후궁|||
+50809451|||이별을 말하다|||
+65296726|||계약된 제물 신부|||
+54048869|||책쾌 덕생 [단독 선공개]|||
+57461063|||동갑내기 상사와 운명의 실|||
+52442229|||작전명 : Red shoes|||
+62962342|||악마들에게 돌봄 당하고 있습니다|||
+54594977|||해피엔딩을 위한 메르헨|||
+62210363|||2회차, 빌런 프로게이머|||
+57640835|||모의연애를 이용하세요|||
+57702048|||후회하지 마세요|||
+52378885|||왕의 딸은 힘듭니다|||
+65416239|||천마진격|||
+49751084|||머물다|||
+62555576|||마석을 먹어야산다|||
+49976637|||사막은 사랑을 꽃피운다|||
+68059343|||매화궁 공주님|||
+53616089|||둠(DOOM)|||
+59042952|||당신의 우주|||
+51874565|||Holy shit[단독선공개]|||
+55862885|||녹지전 [개정판]|||
+54025089|||폭우|||
+53517863|||일방적 감사와 보편적 사랑|||
+67448576|||전생에 쇼팽이었다|||
+50101251|||뗄 수 없는|||
+60209861|||겁도 없이 결혼|||
+59996941|||수련으로 초월한다 [단행본]|||
+59957089|||대역 아내[외전 선공개]|||
+52226619|||밀렵감시구역|||
+58912510|||수보수책|||
+50028035|||분명한 악의|||
+62191168|||천재 배우 복귀했습니다|||
+59593002|||중독주의|||
+56576598|||비밀은 없어|||
+58377211|||위험한 청혼|||
+55704442|||한번 더 안아줘|||
+56859368|||백야의 연인|||
+58717156|||(이용권) 레벨업하기 싫은 천마님 [단행본]|||
+49228692|||도망쳐 봐요, 쉽지 않을걸 [외전선공개]|||
+58181884|||망천의 새|||
+63835216|||알고보니 천재 용병|||
+58539705|||체리 밤|||
+49306859|||신의 강수 [단독선공개]|||
+67358776|||폐S급 재활용 전문 기쁨 엔터테인먼트|||
+57415225|||웃지 않는 벽아|||
+47976851|||드래곤이 된 남자|||
+59410432|||발칙한 계약 왕비|||
+62446324|||코드네임 하백|||
+55914013|||열차 너머의 시간|||
+62844768|||재벌에서 광복군까지|||
+58814219|||[오디오드라마] 주치의는 할 일 다 하고 사표 씁니다|||
+62858616|||버려지다|||
+56140763|||로그인, 너에게로 [단독선공개]|||
+54304567|||변경의 팔라딘 [연재]|||
+56252424|||환생이 빙의를 숨김 [연재]|||
+63429951|||서녘에 부는 바람|||
+47171009|||월아(月兒, 달의 아이)|||
+59908164|||황태자비의 암행 [단독선공개]|||
+60454472|||여름 복숭아의 맛[19세 완전판]|||
+62758086|||살려 놨더니 죽이기 아까워졌다|||
+48588042|||너에게 닿을 때면|||
+62205375|||날 채워줄|||
+57888524|||포켓 갓 (Pocket God)|||
+65410680|||이 악녀의 양육법은 주먹입니다|||
+49188486|||기묘한 뜰 개정판 [전권무료/ 완결]|||
+62703728|||늪에 빠진 결혼|||
+62730421|||살려 놨더니 죽이기 아까워졌다 [19세 완전판]|||
+52651502|||주식 재벌 박태준|||
+67196629|||다정하게 대하지 마세요|||
+53138752|||아이템 치트로 노예 하렘 건국기|||
+65433552|||대마법사님 게임하신다|||
+48106436|||던전카드 사용백서|||
+63058013|||공작님, 감히 거절하지 마세요|||
+60681242|||[BL] Innocent Scandal (이노센트 스캔들)|||
+63174530|||맹수들의 소굴에 감금당했다|||
+51361626|||주먹쓰는 사제님[연재]|||
+61894844|||여왕을 위한 진혼곡 [개정판]|||
+62305826|||회귀자 전담 처리반|||
+62082281|||마운드 너머의 지배자|||
+63158428|||뱀파이어 아카데미의 그냥 인간|||
+61604708|||SSS급 초능력자|||
+61883269|||아프간에서 각성하다|||
+60282765|||악기 만드는 음악천재 [완결]|||
+65226087|||최애에게 꽃길만 깔아줬을 뿐인데|||
+67726732|||남주를 주머니 속에서 키우고 있습니다|||
+63242484|||이혼 사유 비밀 수칙|||
+62685547|||사기 치려 했는데 취업 제안이라니요|||
+65563388|||발칙한 아내|||
+62777044|||아기 황녀님의 통역사입니다|||
+64855986|||임신 실전, 빙의도 타이밍! [19세 완전판]|||
+55358320|||환생표사 [단행본]|||
+59182398|||귀환자의 길드는 바르게 커야 합니다|||
+62916718|||하연의 자리|||
+46553715|||그랜드 크로스|||
+66799985|||단짝 V-log인데 단짝은 아닙니다 [19세 완전판]|||
+48467765|||마담 티아라|||
+66028191|||전생했더니 신입사원|||
+54755840|||학자인데 너무 강함|||
+67165524|||남주의 연애 상담은 안 받습니다!|||
+65256049|||순수하지 않은 감각 [19세 완전판]|||
+67934901|||집착 도련님들 사이에서 살아남기|||
+60985901|||미쳤다고 할지라도|||
+58595838|||100억 골드부터 시작하는|||
+65580743|||개뿔도 없는 무림환생|||
+48678845|||계약약혼-개정 증보판|||
+63951394|||미친 사랑 끝에|||
+55620055|||문구로 재벌까지 [완결]|||
+51892098|||검의 세계|||
+56863932|||골프를 너무 잘함|||
+46546685|||천왕무|||
+64519462|||날 싫어하는 남의 편|||
+60963366|||역대급 재벌 상속자|||
+49085631|||후궁부(後宮部)|||
+67926985|||폭군의 막내딸인데 심리 상담도 해요|||
+50189966|||조선 세자빈 실종 사건[단행본]|||
+65207394|||대제희|||
+49059351|||The TEMPTATION 유혹|||
+49427176|||달빛이 반짝반짝 [개정판] 전권무료|||
+66705813|||최강의 결혼 계약|||
+63994515|||천재 프로듀서 아이돌 되다|||
+47578133|||성인용 야설|||
+60333353|||두 번째 첫 만남은 청혼부터 [특별외전 선공개]|||
+47814389|||지금 키스한 거예요|||
+49441944|||이 멋진 세계에 폭염을!|||
+46533605|||광풍무|||
+46536831|||무극신갑|||
+46539236|||무적군림보|||
+67529514|||아기 악당의 목표는 세계 구원!|||
+57978349|||네 번째 생은 용의 딸로 삽니다|||
+48924594|||세아린느 이야기|||
+65332433|||S급 센티넬의 비서로 살아남는 법|||
+64777574|||친구 오빠랑|||
+64171361|||임신 실전, 빙의도 타이밍!|||
+68428843|||점술사 성녀님|||
+46672738|||마법무적 [완결]|||
+55004628|||피치 앤 머스크|||
+52321494|||조선 쌍놈 [완결]|||
+60257752|||악녀는 두 번 이혼하겠습니다|||
+61570374|||이 결혼도 잊어주세요|||
+54606757|||성녀의 마력은 만능입니다|||
+50755426|||아공간수취인 [완결]|||
+67754335|||성녀는 라면이 먹고 싶어|||
+61237302|||전략적 이혼 설계|||
+47437512|||맥스씨 [연재]|||
+54074358|||미친 재능의 B급 용병[완결]|||
+48053571|||엑스트라A[BL]|||
+46819500|||악마 같은 남자|||
+52778549|||강남 점쟁이 [완결]|||
+50069532|||사랑이었고, 사랑이다|||
+60781324|||완벽한 독립을 위한 의존적인 대책|||
+62132350|||상사의 시대(완결)|||
+61903433|||그 남자의 아이 [외전 선공개]|||
+47720968|||얼어붙은 심장이 뛸 때 [BL]|||
+67729991|||애인 상실|||
+47775387|||황제의 반려|||
+52105655|||베이비 리포트 (15세 개정판) [완결]|||
+50315989|||약한 것은 잡아먹힌다|||
+67475870|||불순(중생)|||
+66185695|||아기 황녀는 성녀 말고 마왕이 될 꼰데?|||
+60439517|||회귀 3회차! 재벌빌런|||
+46537716|||파천마흔|||
+60526773|||황제의 비서는 살아남고 싶습니다|||
+61883277|||우주 전쟁의 검성이 되었다|||
+59462480|||사일런트 위치|||
+47812852|||보일락 말락|||
+52387474|||용의 황자님|||
+55805929|||악역영애 레벨 99|||
+48048591|||총비, 소유당하다|||
+48690464|||우아한 본능|||
+54312862|||변경의 팔라딘 [단행본]|||
+63591077|||천일의 아내: 더 노블 [19세 완전판][외전 독점]|||
+57646207|||리빌드 월드|||
+65654978|||빙하기 아포칼립스의 회사원|||
+49946081|||비하인드 트랙(Behind Track)|||
+60729582|||아폴론의 심장 [19세 완전판][단행본]|||
+47959387|||특별수업|||
+58097144|||반골(反骨), 세상을 바꾸다|||
+47867015|||무슨 사이|||
+62385078|||지금, 안고 싶어 [19세 완전판]|||
+61036624|||럭키독 징크스|||
+48044179|||러브리스(Loveless)|||
+57197939|||PD님은 방송천재|||
+47062487|||김도령의 은밀한 사생활|||
+48516372|||사랑 있음에|||
+59019230|||신부는 오늘도 죽고 싶다|||
+47544085|||별을 안아 보세요|||
+47814499|||핫 세레모니|||
+55943905|||공작님, 저랑 하실래요?|||
+62192166|||고대신을 계승했다|||
+49294126|||하룻밤의 스캔들|||
+48381799|||참을 수 없는 너|||
+57954101|||튜린의 릴리엔 [단행본]|||
+64536922|||도망쳐 봤자|||
+48346327|||만지고 싶다|||
+62332656|||너를, 갖고 싶어 [19세 완전판]|||
+46420816|||행복 대기중|||
+47348493|||조선 노비 공주|||
+54662428|||낭만적인 초능력을 위하여|||
+56738114|||탑매니저 김강호 [완결]|||
+67165527|||악마를 쫓아내는 101번째 방법|||
+47013171|||어느 날 이야기|||
+64258240|||(이용권) 시한부를 즐겼을 뿐이었는데 [단행본]|||
+56327717|||스트롱거(Stronger)|||
+46476959|||1%를 향하여|||
+60515856|||(이용권) 사랑받는 막내는 처음이라 [단행본]|||
+54582762|||사이 영 재림하다 [완결]|||
+50835876|||밤에 피는 꽃|||
+59881169|||치트키 플레이어|||
+62075732|||히어로에게 먹힌 빌런 [19세 완전판][외전 독점]|||
+67507914|||탑스타 여배우와 하룻밤을 보냈다|||
+48981859|||악녀를 길들이는 법|||
+48689593|||천사의 문양[BL]|||
+49067220|||별당아씨의 외출|||
+47789997|||꿈을 꾸다 - 그 남자의 이야기|||
+62759129|||마왕이 될 NPC를 구해 보았습니다|||
+47043193|||악마의 청혼[할리퀸]|||
+54806742|||문신으로 레벨업|||
+55991183|||내 글에 미친 팬이 집착한다|||
+46549423|||와일드문|||
+50210066|||금서관의 마법사 [전권무료]|||
+51283581|||처음이라서|||
+64803063|||악역의 최후는 임신|||
+49029344|||어느 여왕 전하의 우울|||
+67482392|||도로, 하다|||
+49983989|||여왕의 복속|||
+50995052|||너를 파괴하다|||
+57646786|||리빌드 월드 [단행본]|||
+57943706|||무인전성시대|||
+60231361|||악역 남편님, 집착할 분은 저쪽인데요 [단행본]|||
+63990939|||은퇴한 전설은 조용히 살고 싶다|||
+51983550|||관계중독|||
+64740458|||레이디 클래스 [삽화본][19세 완전판]|||
+59249658|||이상적인 기둥서방 생활|||
+52924592|||인피니티 클레임|||
+49875622|||마피아와 마법사|||
+50446012|||경성마녀록|||
+56088016|||야수의 밤|||
+48570068|||돌맹, 연필과 연애담|||
+54051235|||컴플리트 포워드 [완결]|||
+47648334|||사고쳤어요|||
+56179518|||겨울 정원의 하와르|||
+47757809|||귀여운 여의사[할리퀸]|||
+52382908|||살육의 천사 [완결]|||
+49801033|||너라는 이유만으로|||
+60218874|||내 러시아에 세계를 바친다 [완결]|||
+65048954|||대공은 순결을 원한다[19세 완전판]|||
+51283702|||햇살 세 스푼|||
+49586883|||소꿉 오빠|||
+55319617|||그리고 다시 한번|||
+63323642|||(이용권) 만 년 만에 귀환한 플레이어 [단행본]|||
+67391560|||세기의 천재 제국을 건설하다|||
+49088114|||환향|||
+54910388|||세계 최강의 후위|||
+50615136|||방탕후궁전|||
+55852272|||계약 결혼 파트너|||
+54339277|||벙어리 왕좌|||
+62212998|||무시무시한 게임 재능|||
+61259897|||불온한 세자저하|||
+60640540|||이 사랑에서 빠지겠습니다|||
+54671935|||역대급 제작사의 탄생 [완결]|||
+62446310|||현대로 온 대령숙수|||
+54240906|||공허의 마도사 [완결]|||
+59093353|||악녀, 그만두겠습니다|||
+65892229|||조연출 말고 탑스타합니다|||
+62686171|||폭군의 붉은 침실|||
+47657673|||비겁한 여자|||
+54147172|||악역 바스타드입니다만 [완결]|||
+65256481|||사외 연애 [19세 완전판]|||
+49681225|||미스매치 MISMATCH|||
+48752785|||금단의 유혹에 젖다|||
+63141092|||아는 남편|||
+59037751|||은룡전기|||
+47849829|||오! 셰프 [단독선공개]|||
+63210657|||신부는 오늘도 죽고 싶다 [19세 완전판][외전 독점]|||
+48269882|||임프린팅(각인)|||
+60144761|||(이용권)주치의는 할 일 다 하고 사표 씁니다 [단행본]|||
+53537663|||손을 잡아 줘|||
+61095539|||불순한 임신|||
+50425636|||1%를 향하여 [완결]|||
+49952373|||결혼 다음 이혼|||
+60720265|||조건 이혼|||
+62014709|||결혼 환상곡|||
+58600705|||당신이 울었으면 좋겠어|||
+63591095|||천일의 아내: 더 노블 [개정판]|||
+49897362|||한 번 더 웨딩!|||
+62994457|||완벽한 프러포즈|||
+49570856|||월야의 신부|||
+65050180|||대공은 순결을 원한다|||
+66112179|||연애 주의|||
+54354860|||주인을 밟은 노비|||
+53373707|||열렬히, 박히다 [완결]|||
+58912409|||수보수책 [단행본]|||
+47013228|||처음부터 사랑이었어[할리퀸]|||
+47778916|||백작과 낭자|||
+51774531|||오랜만이죠, 우리|||
+60841236|||읽은 적 없는 소설에 빙의해 버렸습니다|||
+61631738|||로또 1등도 농사를 합니다|||
+62386942|||[BL] 짝사랑 끝내려다 내 인생을 끝내게 생겼다 (외전) [19세 완전판]|||
+62728395|||폭군의 간신이 되었다 4권 [단행본]|||
+55464537|||하급 표사 용병왕 되다 [단행본]|||
+53430720|||어쩌다 싱글맘[할리퀸]|||
+63240754|||고인물은 레벨업이 싫다 [단행본]|||
+67642524|||드래곤에게 사기당했다|||
+65225448|||회귀한 대장장이는 템빨로 강해진다 [단행본]|||
+57825383|||해왕, 하늘을 건너다 (완전판) [단행본]|||
+63306042|||차원상인은 오늘도 포털을 넘는다[단행본]|||
+57275832|||조상 덕에 영주 합니다만 [단행본]|||
+62605561|||약혼자의 동생과 결혼했다 [단행본]|||
+68282027|||버림받기 전에 버리기로 결심했다|||
+66254173|||언니의 첫날밤을 훔쳤다|||
+59282826|||기적을 노래하다 [단행본]|||
+64820450|||이 교단 전략천재는 접니다|||
+64475546|||양치기 소년에게 납치당했습니다|||
+63163850|||다시 너의 품에|||
+58266066|||그릴수록 강해진다 [단행본]|||
+60631230|||짐승은 있다|||
+64972043|||3회차 타자는 조용히 살 수 없다[단행본]|||
+63892054|||사장님과 동거 중입니다|||
+64100660|||신랑을 바꿔서 입장합니다|||
+62074636|||축구를 못하면 죽습니다 [단행본]|||
+53044501|||무엇이든 해 드립니다 [클린버전]|||
+46643498|||기억 속을 걷다|||
+66230571|||악역을 강요받고 있는거다|||
+59872251|||지오르다노의 남자|||
+63342463|||걸려들다|||
+64139555|||계약 완료, 법적으로 애인입니다|||
+57189884|||전남편과 다시 한번 [단행본]|||
+67257350|||만렙 사냥꾼, 회귀하다 [단행본]|||
+62837877|||검귀는 살생부를 본다. [단행본]|||
+64920615|||당신의 아내는 사양하겠습니다|||
+67824331|||군인 소녀, 황립 마법 학원에 잠입하게 되었습니다. ~여성향 게임? 그런 거 못 들었습니다만?~|||
+62135094|||격렬하게 탐하다  [19세 완전판] [단행본]|||
+65999645|||회귀한 재벌은 미국을 사기로했다[단행본]|||
+64416925|||왕은 심장이 없다 [19세 완전판] [외전 독점] |||
+68018869|||무한 불러오기, 황제는 웁니다 [단행본]|||
+62878167|||발롱도르 5번 받고 회귀했다 [단행본]|||
+57977834|||어쩌다 계약 연애|||
+67009607|||먼치킨 스킬 도둑이 되었다 [단행본]|||
+62686071|||이세계, 갓겜으로 정복하다 [단행본]|||
+63472096|||판타지 세계로 돌아오다 [단행본]|||
+51081334|||고소공포증 새도 하늘을 난다|||
+59743270|||악녀는 대공을 사로잡았다 5권 [단행본]|||
+56125988|||아직 동거 중입니다.|||
+68419909|||EX급 이동 요새를 각성했다[단행본]|||
+54297172|||아름다운 티끌|||
+63934998|||연기 천재를 시작당했다[단행본]|||
+63490170|||정령과 함께 돌아왔습니다.[단행본]|||
+67741149|||이제 혈마로 살겠다|||
+68250963|||회귀한 마공학자는 종말을 막는다|||
+61624679|||무명 배우, 성우 되다 [단행본]|||
+63325050|||반로환동인 줄 알았다 [단행본]|||
+61017897|||고려 무신이 삼국지를 다 때려부숨 [단행본]|||
+51877150|||부다페스트 스캔들[할리퀸]|||
+56615281|||몰락했더니 다들 그녀를 원해 [단행본]|||
+66659696|||분신술사 헌터는 기간트로 꿀 빱니다[단행본]|||
+67393042|||근수저 오크는 근손실이 싫다|||
+53134474|||조르다|||
+63105799|||남주의 집을 잘못 찾았다|||
+66054532|||망할 게임 속 네안데르탈인이 되었다|||
+68080404|||늪에 갇히다|||
+59537248|||바람이, 분다|||
+62092715|||레이디는 싫습니다 [단행본]|||
+62060521|||[BL] 용사는 영웅이 되고 싶다|||
+58204043|||회귀해서 게임한다 [단행본]|||
+68613247|||다시 사는 패션 천재|||
+67154426|||용사 파티 때려치웁니다 [단행본]|||
+66179634|||악녀는 모래시계를 되돌린다 [단행본]|||
+63034940|||천재 타자, 재벌과 결혼합니다 [단행본]|||
+65797271|||흑막과 한 침대를 공유합니다|||
+65548995|||혁명은 내 취향이 아니었다 [단행본]|||
+59094457|||사이코패스 마녀입니다만 [단행본]|||
+66294950|||망돌이어도 행복합니다|||
+58509718|||[BL] 무당집 아들, 실전뜁니다 1권 [단행본]|||
+65460695|||인생 4회차 조연남과 엮였다|||
+62373970|||환생해도 아카데미는 갑니다 [단행본]|||
+56912058|||이유따윈 없다|||
+60745131|||무신은 멸망한 세계를 되돌리고 싶다 [단행본]|||
+62135591|||다이브(Dive) [19세 완전판] [단행본]|||
+53927505|||다시 한번, 로미오[할리퀸]|||
+66956869|||여주 대신 흑막을 주워버렸습니다|||
+61437316|||다정한 덫|||
+66668442|||주인을 내려다보는 개|||
+66325700|||출근 첫날 천재배우로 각성했다 [단행본]|||
+66527243|||흑막인 줄 모르고 원작을 말해 버렸다|||
+56352279|||NPC라 불리었다 [단행본]|||
+61903902|||소드마스터, 낙제생 되다 [단행본]|||
+67412750|||그대들의 파멸을 원합니다|||
+58494505|||음성사서함으로 연결합니다 [개정판]|||
+64488756|||저승에서 스카우트 제안을 받았습니다 (15세 개정판) |||
+65619312|||전남편 대신 노예와 결혼했다|||
+64757517|||날 죽인 남자를 키우게 되었다|||
+63821364|||빙의자를 즉결 처형합니다|||
+55789168|||달이, 스며들다|||
+55503326|||홧병신공: 빡칠수록 쎄진다 [단행본]|||
+66654356|||공작 부인은 죽지 않았다|||
+61699864|||남주와 파혼하겠습니다.|||
+58092010|||악녀지만 귀농하겠습니다 [단행본]|||
+65343215|||조선 무관, 발해를 세우다 [단행본]|||
+58993969|||노병의 시간은 거꾸로 흐른다 [단행본]|||
+63178399|||평행 우주를 구해보겠습니다|||
+58854537|||헌터는 순직이 힘들다 [단행본]|||
+60724790|||삼국지 마등의 아들이 되었다 [단행본]|||
+65794891|||채팅으로 만난 남편이 수상하다|||
+57323418|||격투기에 산다! [단행본]|||
+61296296|||반로환동이 너무 과했다 [단행본]|||
+56886208|||검은 머리 짐승에게 물려버렸다 [단행본]|||
+66063146|||다이아수저 발롱도르[단행본]|||
+57740310|||실연을 부탁합니다|||
+57848962|||또 다른 사랑 [단행본]|||
+61357136|||던전에서 왔습니다만 [단행본]|||
+57167032|||되돌릴 수 있다면 [15세 개정판]|||
+66016854|||어떤 바람은 사람을 미치게 한다|||
+55244201|||두 번째 사랑이 오셨습니다|||
+64330924|||4회차는 명전이다 [단행본]|||
+67730092|||13층엔 팀장님이 산다|||
+65083041|||절교한 소꿉친구와 결혼까지 갔다|||
+52422382|||다시 한 번, 우리|||
+63177853|||다시 너를 찾는 밤|||
+63715665|||서브 남주지만, 여자입니다 [단행본]|||
+58439783|||망한 인생 고쳐드립니다. 구미호 재활센터|||
+61105512|||마도장교는 총을 든다 [단행본]|||
+65934285|||역대급 장문인, 문파를 재건하다|||
+59537579|||심장을 훔치다|||
+64365774|||천재 신입사원 버거왕이 되다[단행본]|||
+60488990|||어쩌다 미녀와 야수|||
+61621602|||언니의 인생을 연기중입니다 [단행본]|||
+57671968|||휩쓸리다|||
+57708017|||다시 베르사유|||
+66270280|||뱀술 먹다 만독불침 독공천재 [단행본]|||
+66366319|||천마를 체포하겠습니다|||
+61332318|||이번 생은 집사로 살겠다[단행본]|||
+63225659|||다시 찾은 에반스빌|||
+59902091|||야만사냥꾼이 되었다 [단행본]|||
+65773135|||당신의 다정함에 대하여|||
+62820083|||몰락한 천재 대공자는 살고 싶다 [단행본]|||
+65978014|||너를 미워한 적은 없었다|||
+66183909|||미친 대마법사의 연구 대상이 되었습니다|||
+65396083|||대뜸 연금술을 배웠다[단행본]|||
+63847038|||세 번째 전생이지만 그래도 대장장이를 한다 [단행본]|||
+54558490|||사소한 복수를 해드립니다|||
+61731195|||1년 동안 미녀로 살게 되었습니다|||
+53109208|||우리 집에 왕자님이 산다|||
+67838717|||차원이 다른 각성자의 외동아들|||
+66921425|||1979 김부장이 독재를 계승 중입니다! [단행본]|||
+59743261|||악녀는 대공을 사로잡았다 4권 [단행본]|||
+62482654|||[BL] 부활한 마왕은 살고 싶다 (외전) [19세 완전판]|||
+64199556|||킬러 그만두고 축구합니다[단행본]|||
+67644002|||신입사원은 거물이 되기로 했다[단행본]|||
+62135290|||격렬하게 탐하다 외전 [19세 완전판] [단행본]|||
+62684787|||월클 형제들보다 축구를 잘함 [단행본]|||
+65297128|||혼자 다 해 먹는 먼치킨 [단행본]|||
+47760846|||운명보다 깊은 사랑|||
+68426224|||친일파인데 독립운동합니다|||
+63028361|||환생 폭군은 살고 싶다 [단행본]|||
+66161465|||이제 와 당신을 원한다 해도|||
+55742016|||깊고 푸른 바다[할리퀸] [개정판]|||
+64777777|||폭군의 침대를 책임지겠습니다|||
+55719145|||주먹으로 힐링한다 [단행본]|||
+68415835|||이혼했더니 인생이 너무 잘 풀린다[단행본]|||
+56222160|||아름다운 사실|||
+58776527|||우리는 시한부 계약부부입니다|||
+67929345|||베이비시터는 그만 죽고 싶다|||
+65649785|||악녀도 행복하고 싶다|||
+57326977|||다 해 먹는 배우님 [단행본]|||
+60445931|||회귀한 무명 배우, 새 조선을 세우다 [단행본]|||
+59644189|||여신이 되었다 [개정판]|||
+57662883|||중원이 지다 [단행본]|||
+67798820|||아포칼립스, 항공 요새로 꿀 빱니다[단행본]|||
+46629919|||큐피트의 화살을 꺾다|||
+48750130|||아름다운 너에게|||
+56392572|||기다림 끝의 허니문[할리퀸] [개정판]|||
+66399739|||엑스트라 GM님은 오늘도 야근한다|||
+68180048|||드림노트를 주워버렸다|||
+67607274|||던전이 로판 세계면 하렘이 형성됩니다|||
+63984322|||우리 딸들이 연기를 잘 한다[단행본]|||
+67397654|||내 동생 건들면 너희는 다 죽은 목숨이다 스페셜 외전 [단행본]|||
+64633322|||악마님, 메탈하신다!|||
+65679896|||짐승 대공을 조련하는 남장 여주입니다|||
+63059142|||다정강호|||
+59367120|||첫사랑을 그놈 손에 쥐여 줬다|||
+62254683|||내 [감정] 스킬이 너무 사기다|||
+60975928|||술 먹으면 레벨업 합니다! [단행본]|||
+65997562|||위험한 후견인에게서 도망쳤다|||
+66373045|||기억 상실증에 걸린 척했는데, 폭군에게 들켜버렸다 [단행본]|||
+67252285|||남편 몰래 흑막이랑 신혼생활 중입니다 |||
+61108849|||성기사는 마검으로 군림한다 [단행본]|||
+64366031|||SSS급 회귀 빌런이 다 씹어 먹음[단행본]|||
+64227410|||주인공 따라다니며 꿀 빠는 무림 생활 [단행본]|||
+62383036|||유감이지만 황좌는 제것입니다|||
+52798640|||바람이 머물다|||
+67596245|||원작은 완결난 지 한참 됐습니다만|||
+64365843|||대한민국 전쟁영웅이 되었다.[단행본]|||
+58954474|||불순하게 탐하다|||
+66181902|||저기요 환생이 좀 이상합니다|||
+64557449|||이번 생에도 날 죽이겠다면|||
+61384897|||밤에 젖어들다|||
+64651712|||대영제국 함장이 되었다[단행본]|||
+68714336|||집순인데, 피폐감금물에 빙의해 버렸다[단행본]|||
+68196363|||미혼부 AI로 세상을 지배하다 [단행본]|||
+59879904|||안다미로|||
+68681873|||집착 광공인데, 집착 안 합니다 [19세 완전판]|||
+63811359|||10만 마검의 주인이 되었다[단행본]|||
+56868861|||왕은 돈이 고프다 [단행본]|||
+59692969|||그렇다면 남색이 맞소이다 1~5권 [단행본]|||
+66952961|||별안간 톱스타와 첫키스를 해버렸다.[단행본]|||
+68090033|||인소 속 엑스트라는 분량을 원한다|||
+56986329|||마음을 그리다 [개정판] [BL]|||
+65546990|||환생한 영웅은 빌런이 되었습니다 [단행본]|||
+64600452|||투자의 신으로 살겠다[단행본]|||
+61729430|||그놈이 그놈이다 [단행본]|||
+59005172|||소설 속 야수의 동생입니다 [단행본]|||
+68638454|||남편의 앞에서 시한부 선고를 받아버렸다|||
+60892660|||손만 대면 다 고쳐 [단행본]|||
+67135829|||공작 영애는 맹수들을 조련한다|||
+61458652|||악녀의 기억이 사라졌다 [단행본]|||
+65141335|||전남편에게 복수하기 위해 황태자와 재혼합니다|||
+64928440|||이번 앨범의 컨셉은 복수다|||
+65656583|||은퇴 헌터는 만병통치약을 재배한다 [단행본]|||
+59673624|||피폐 소설 속 여동생은 살고 싶다 [단행본]|||
+67442499|||안길 때마다 우는 주제에|||
+65742540|||천재 의사는 조용히 살기로 했다 [단행본]|||
+64770813|||귀환해서 복수한다[단행본]|||
+61771562|||우리 매니저는 초능력을 쓴다[단행본]|||
+60745493|||후작님은 그에게만 다정해 외전 [19세 완전판] [단행본]|||
+65453485|||전생에 미켈란젤로였다[단행본]|||
+68104431|||황제의 정원에는 꽃이 없다|||
+65308810|||섭종한 게임에 갇혀 버렸다|||
+64484597|||도련님의 흑염룡이 너무합니다|||
+60745620|||마왕의 딸은 결혼하고 싶다|||
+65700413|||죽고 싶어 환장한 건 맞습니다|||
+67387421|||악녀는 들러리를 희망합니다|||
+63961037|||내 남편이 바람났다|||
+68426227|||비틀린 동화세계 속 차원상점상이 되었다|||
+62574124|||구원의 불꽃은 꺼지지 않는다|||
+67637276|||꽃을 지우다|||
+62098663|||회귀자의 술은 특별합니다 [단행본]|||
+68326028|||아포칼립스의 천재저격수는 득템이 너무 쉽다.[단행본]|||
+65209888|||저는 주인공이 아닙니다|||
+63679862|||네크로맨서는 두 번째 삶을 산다[단행본]|||
+65462087|||내 원룸에 던전이 생겼다 [단행본]|||
+60799692|||삼국지 : 여백사의 아들이 되었다 [단행본]|||
+65957591|||내 휴대폰에서 군단이 자란다 [단행본]|||
+55698429|||배고픈 기다림|||
+66098662|||이 헌터는 염동력으로 팹니다 [단행본]|||
+61549917|||악녀지만, 그렇게 살지 않겠습니다 [단행본]|||
+68498144|||멸망했어도 쌀밥이 먹고 싶다|||
+64993156|||아찔하게, 다시 한번|||
+57150067|||너, 스며들다|||
+58735093|||너에게 길들다|||
+62136698|||다정한 이웃 [19세 완전판] [단행본]|||
+68674685|||지금부터 청혼만이 살길이다 [19세 완전판]|||
+63396863|||150억으로 요리한다[단행본]|||
+66629046|||망한 아이돌이 천재 배우였다 [단행본]|||
+65155308|||옆집 월클이 축구 재능을 갖다줌[단행본]|||
+55481767|||폐위된 왕녀는 아리스만의 황후를 꿈꾼다 [단행본]|||
+61046618|||원티드: 아이돌의 아이돌이 되었다 [단행본]|||
+66325540|||전능의 혀를 얻었다 [단행본]|||
+65259884|||이름 없는 기사는 금지된 마검으로 복수한다|||
+64869403|||EX급 미믹의 주인이 되었다 [단행본]|||
+65555496|||탈출 대신 당신의 몰락을 준비합니다|||
+67354269|||탑스타의 남동생이 되었다[단행본]|||
+66503766|||EX급 축구화를 얻었다.[단행본]|||
+65986257|||소설 속 몰락한 귀족이 되었다 [단행본]|||
+61492882|||연애 오피스에서 퇴사하고 싶습니다|||
+59813629|||길에서 너를 줍다|||
+62227477|||그라운드를 씹어 먹다 [단행본]|||
+68157722|||태양을 안을 수 있다면|||
+68420358|||회귀했는데 힘이 그대로다[단행본]|||
+63404365|||우주 게임 속 용병이 되었다[단행본]|||
+67946721|||회귀하자마자 반역자와 정략결혼했다|||
+53267129|||다이의 에르마노|||
+65462658|||병원입니다만, 병이 아니라 운을 고칩니다 [단행본]|||
+53355517|||다크 킹덤|||
+67370127|||죽었던 남편이 살아 돌아왔다|||
+61642883|||당신의 후회는 이미 늦었다 [단행본]|||
+59366383|||사랑이 걸리다|||
+63583549|||공작님이 마법을 너무 잘 쓴다 [단행본]|||
+64024362|||후궁은 황제를 사랑하지 않는다|||
+58068266|||그리움에 닿다|||
+68745706|||보물상자에 미친년입니다|||
+57050872|||책에서 연기를 배웠습니다 [단행본]|||
+62990476|||괴물 황자를 길들여버렸다 [단행본]|||
+64926015|||조연 오리는 파혼만을 기다립니다 [단행본]|||
+68682456|||악역은 장르를 바꾸고 싶다 [19세 완전판][단행본]|||
+53936855|||자연을 사랑합니다|||
+65082417|||상사 놈이 냅다 고백함 1권 [단행본]|||
+68656253|||아이돌이 폐급 배우로 지정되었습니다 [19세 완전판]|||
+62605523|||공작님의 아내로 취업합니다 [단행본]|||
+65485101|||라이벌을 도왔더니 남편이 되었다|||
+59730498|||사랑에 물들다|||
+65938400|||황족을 노예로 길들였더니 애착대상이 되었다|||
+63305697|||금지된 서고의 주인이 되었다[단행본]|||
+55800667|||한강은 흐른다 [단행본]|||
+62188308|||별채에는 불이 꺼지지 않는다 [19세 완전판][단행본]|||
+68389059|||육성 실패? 치트급 딸들이 날 돕는다|||
+68713033|||겁없이 탐하다|||
+66162337|||대한제국의 수도는 만주로 정한다 [단행본]|||
+53706246|||어쩌다 이지경 [단행본]|||
+63833808|||2회차는 서포터로 캐리합니다[단행본]|||
+63583403|||다시 태어난 천재 산골요리사 [단행본]|||
+58297101|||세 명이서 결혼생활 중입니다 [단행본]|||
+61903627|||소대장, 참모총장 되다 [단행본]|||
+68483869|||미치겠다 예뻐서|||
+57673055|||봄빛에 묻다|||
+66626427|||아포칼립스에서 개미 키웁니다 [단행본]|||
+55425595|||향기 다른 남자 [단행본]|||
+68681782|||악당이 적성에 맞습니다 [외전] [19세 완전판]|||
+66968166|||드래곤 레어 옆에 여관을 차렸다 [단행본]|||
+67567789|||악처로 빙의되었습니다만?|||
+64497385|||아우터 갓이 되어버렸다[단행본]|||
+66694214|||용사는 쿠데타를 결심했다|||
+60262893|||사랑한다, 살아간다 [단행본]|||
+66631309|||전하의 건강을 책임집니다|||
+62642934|||공작이 맹독을 삼키려 한다|||
+68025257|||병약한 황자를 치료했더니 미친 집착이 시작되었다|||
+67744396|||재벌이 반도체 전쟁을 기다림 [단행본]|||
+63487964|||2회차 드래곤은 유희를 즐긴다 [단행본]|||
+49204041|||드링크 다이어리|||
+65101099|||최초의 여성 백작이 되겠습니다|||
+67780877|||한국대재벌의 거식증 딸을 살려버렸다[단행본]|||
+55452253|||그를 건드렸다면 마땅히 [단행본]|||
+65387904|||은퇴한 소드마스터는 귀농을 꿈꾼다[단행본]|||
+66204354|||위험한 연하남의 눈에 들어버렸다|||
+67693679|||대공성의 행운 토템이 되었다|||
+67260887|||반려동물들이 따라왔다[단행본]|||
+67147031|||역대급 네크로맨서는 탑을 공략한다 [단행본]|||
+59678989|||붉고 아름다운 계약|||
+65367772|||말은 싫다고 하면서|||
+57623551|||사랑을 취재하다|||
+57067072|||공녀, 치유사로 살다 [단행본]|||
+53235207|||순결한 바다[할리퀸]|||
+65258089|||사기꾼은 회귀자와 함께 탑을 오른다|||
+62749820|||망국의 대공과 함께 회귀했습니다|||
+46614848|||꿈에 이백을 보다|||
+66945182|||아기 용과 시골에서 힐링합니다 [단행본]|||
+60515873|||이혼한 악녀는 전남편의 집착을 받는다 1~4권 [단행본]|||
+65588823|||이 계약의 마지막은 제 죽음이었습니다, 대공|||
+67122346|||결혼하면 전재산을 주신다고요?|||
+57089102|||사랑보다 뜨거운 [단행본]|||
+65373772|||결혼 사기를 당했는데 임신해 버렸다|||
+65354786|||흑화한 집사와 첫키스를 해버렸다|||
+68489042|||누명을 쓴 빌런이 되었다|||
+67116220|||저 비렛타, 용을 잡으러 갑니다|||
+65266092|||명예퇴직 용사님은 잡아먹힌다|||
+65251802|||행복축구로 힐링합니다 [단행본]|||
+55347108|||다잉 메시지: 개도깨비 진돌|||
+60798959|||전생이 셰익스피어였다 [단행본]|||
+61497955|||SSS급 제작계로 이직했습니다 [단행본]|||
+65108710|||시련의 꽃에서 탈출하겠다 [단행본]|||
+63458767|||처음부터 다시 쓰는 이야기|||
+63416060|||흑막 공작이 계약 결혼을 제안했다[단행본]|||
+65868081|||구원이 타락한 자리에 집착이 피어난다|||
+62403354|||버림받은 사냥개는 황자를 노린다|||
+65071745|||수상한 연하남과의 재혼을 거절합니다|||
+60574116|||전남편이 부임했다 [단행본]|||
+62087997|||트라웃의 동창으로 산다는 건 [단행본]|||
+67972104|||흑막 아빠의 청혼을 거절하겠습니다|||
+65232188|||차원여행자는 미궁의 주인이 되었습니다[단행본]|||
+67558527|||예쁜 아내랑 농사짓고 정령 키우면서 알콩달콩 산다[단행본]|||
+51751818|||크랜베리소다|||
+67731511|||잘못된 결혼을 끝내려 합니다|||
+62332337|||삼국지: 조조의 장남이 되었다 [단행본]|||
+67387422|||리셋 끝에 EX급 헌터되다[단행본]|||
+65836657|||조선을 강제한다. [단행본]|||
+68495778|||날 죽일 남편을 소환해 버렸다|||
+65577381|||열 일했더니 마왕이 심장을 준단다|||
+64151882|||1세대 각성자는 과보호받는 중입니다 [단행본]|||
+60863579|||시한부는 야반도주를 한다 [단행본]|||
+68293482|||완결 후, 남주의 내연녀로 빙의했다|||
+67968624|||우리는 서로에게 연연하고 있다|||
+65881424|||왕녀는 미친 척을 한다 [단행본]|||
+49258238|||당신과 이야기해 드립니다. 바쁘지만…|||
+63038896|||어느 순간, 너였다|||
+65381899|||회귀했는데 남편은 빙의했답니다|||
+68085282|||여주의 대역에서 하차하겠습니다|||
+66063165|||천재 컬렉터는 주목이 부담스럽다[단행본]|||
+62957507|||별채에는 불이 꺼지지 않는다 (외전2) [19세 완전판][단행본]|||
+67689496|||너드 공작님의 연애를 조작하겠습니다|||
+58875454|||죽은 남편이 아내를 데려왔다 [단행본]|||
+63731485|||환생한 무림고수, 배신한 여자를 만났다 [단행본]|||
+60660180|||명예로운 빌런이 되겠다 [단행본]|||
+66709447|||숨겨진 거물이 전역해버렸다 [단행본]|||
+60258775|||아카데미 속으로 캐스팅되셨습니다 [단행본]|||
+60261618|||한여름을 앓다|||
+66748562|||흑마법사 재벌되다 [단행본]|||
+63318085|||너에게 감기다|||
+65435996|||대한민국엔 천하제일인이 산다 [단행본]|||
+65436122|||멸망이 예정된 세상에서 산다 [단행본]|||
+66355615|||그 짐승은 폐황후의 목을 물었다|||
+64687458|||국정원 또라이 폼 미쳤다[단행본]|||
+65831134|||이 결혼은 반드시 성공해야 한다 [완결]|||
+61352663|||처음부터 다시 키우겠습니다 [단행본]|||
+66897774|||충무공의 아들이 되었다[단행본]|||
+63219932|||반동 브로커지만 재벌입니다 [단행본]|||
+66485051|||회귀자는 파멸을 꿈꾼다|||
+67278302||| 회귀했더니 무인이 되었다[단행본]|||
+59648617|||올 힘스탯 폭군이 되었다 [단행본]|||
+65147115|||새 남편을 구합니다 [단행본]|||
+64773302|||(이용권) 악녀는 두 번 산다 [외전][단행본]|||
+60915719|||별게 다 애틋해서|||
+63726549|||톱스타 시스템을 시작합니다[단행본]|||
+66955502|||망국의 왕녀는 도망치고 싶다|||
+65906249|||무신들의 단톡방에 초대되었다[단행본]|||
+67895238|||마법사입니다만 검도 조금[단행본]|||
+60700883|||무협지 악역을 살짝만 고쳤습니다 1~6권 [단행본]|||
+63412548|||피폐물인데 엔딩이 없다|||
+58361018|||달콤하게 홀리다|||
+68224943|||영약을 팔았더니 거물들이 몰려온다[단행본]|||
+62324572|||로또 맞고 야구단을 샀다 [단행본]|||
+68524665|||다시 만난 환희 (15세 개정판)|||
+46636669|||그래도 사랑은 남는다|||
+67522279|||폐교에서 다시 시작하는 신혼생활[단행본]|||
+56755401|||안녕하세요, 연애추노꾼입니다|||
+65508229|||40년 만에 제대했는데, 다시 이등병[단행본]|||
+53101096|||여름을 달리다|||
+67001117|||후회물 남주를 잘못 훈육해버렸다|||
+63926709|||여름의 끝에 태풍이 있다[개정판]|||
+65215508|||초월자는 분식집을 합니다[단행본]|||
+63582241|||이 거지같은 제국에서 탈출하겠습니다|||
+49212985|||페리 베다운라|||
+63965077|||이런 회귀는 바라지 않았다|||
+63123977|||천사님, 신분 좀 도용하겠습니다|||
+65814528|||신빨 헌터는 던전에 갑니다 [단행본]|||
+64840503|||엔딩 후 악역을 돈으로 구원했습니다 [단행본]|||
+60024781|||냥줍했더니 황제라니요|||
+50734985|||Kiss Me, Liar(키스 미, 라이어)|||
+61840962|||마법사를 죽여라|||
+46577346|||자금성|||
+54656952|||그 밤의 낙인[할리퀸]|||
+52909667|||귀신 보는 퇴마사|||
+61237566|||전대미문천마 [단행본]|||
+62614147|||소마고 외전 [단행본]|||
+60911058|||그 마물에 대한 논문 6권|||
+60911105|||그 마물에 대한 논문 8권|||
+60912352|||그 마물에 대한 논문 12권|||
+58190166|||길에서 만난 마음 [개정판][단행본]|||
+64212496|||절대마조[단행본]|||
+60911023|||그 마물에 대한 논문 5권|||
+60911082|||그 마물에 대한 논문 7권|||
+59806556|||Repeat Mark: 리핏 마크 외전 [단행본]|||
+65319693|||죽은 악녀를 되살리지 마세요[단행본]|||
+65836704|||공작님, 제발 죽지 마세요! [단행본]|||
+55384017|||엄마는 절대고수 [단행본]|||
+66169870|||더럽혀 마땅할 왕비여 [단행본]|||
+67309785|||그 용사님을 믿지 마세요 [단행본]|||
+64773934|||상자 속의 마리골드 [단행본]|||
+65323152|||오해하지 마세요! [단행본]|||
+63823052|||대악마첩보기관 A.D.I[단행본]|||
+60911110|||그 마물에 대한 논문 9권|||
+59561275|||사막위의 열정|||
+50353143|||두 번 사는 랭커|||
+65104589|||시간치료사 세레스|||
+29226849|||달빛조각사|||
+48601828|||방패 용사 성공담|||
+56614555|||밥만 잘 사주는 이상한 이사님(클린버전)|||
+47910754|||혈사자|||
+62978673|||불탄 사막의 모래술사|||
+48093493|||외과의사 엘리제|||
+52822434|||SSS급 죽어야 사는 헌터|||
+60068176|||야만전사 하록|||
+57549867|||사형, 저 사실 여자예요|||
+50127648|||사내 맞선|||
+67144359|||레벨업 하는 약물 치료사|||
+50746174|||금발의 정령사 [개정판]|||
+50553638|||회귀자 사용설명서|||
+58512441|||폭군에게 사기계약당해 친구 된 사연|||
+54950682|||황녀님이 사악하셔|||
+53021399|||악인들의 대사형|||
+56909387|||불사자 대 저승사자|||
+54976296|||전직 사기꾼의 신앙생활|||
+48600615|||황제와 여기사|||
+48604762|||학사재생|||
+50108724|||학사신공|||
+64777568|||퇴사 후 남주들의 집착은 사절이에요|||
+64061210|||세 번 사는 악녀의 소소한 복수 플랜|||
+63243059|||남편은 분명 성기사였는데 [19세 완전판]|||
+50089099|||힐통령-태양의 사제|||
+51411947|||역대급 창기사의 회귀|||
+62523567|||악녀님의 최애로 간택된 사정|||
+49868256|||사천사|||
+65464081|||부부 사정|||
+65633717|||사천광룡(四川狂龍)|||
+55706014|||사신표월|||
+55912087|||사생아 공주로 살아남기|||
+57218156|||의원님이 보우하사|||
+49003766|||연(戀) 사랑하는 사람아[완결]|||
+56248760|||열일하는 과금 기사|||
+48397962|||드림사이드|||
+52832407|||그 대공의 화려한 결혼은 사기|||
+51632130|||흔한 환생녀의 사정|||
+47784012|||불사무적|||
+47929124|||단한사람|||
+54838771|||고용인과의 사적 관계|||
+65832123|||적국의 왕자를 기사로 들이면|||
+49884781|||사랑은 너 [단독 선출간]|||
+50724624|||평안감사의 은밀한 사생활|||
+46911657|||신군 : 시간을 사는 남자|||
+60772282|||수의사님! 안녕하세요?|||
+56951408|||공무원 헌터의 S급 퇴사일지|||
+52125291|||대놓고 사내연애|||
+53374181|||순백의 엘리사벳|||
+59068978|||악녀는 백만장자 해결사|||
+46764793|||능력복제술사 [완결]|||
+47096955|||사상 최강 집사|||
+55384729|||뱀파이어 로드로 사는 법|||
+68388632|||쌀먹 용사의 자본주의 스트리밍|||
+60560157|||말단 사원이 너무 유능함|||
+64289472|||천재 주술사의 전생일지|||
+59188650|||무공 쓰는 외과 의사|||
+55546402|||사기꾼이지만 괜찮아|||
+49337780|||응급! 사랑에 대처하는 방법 [완결]|||
+48557511|||만렙으로 사는 법|||
+51942771|||사상 최강의 오빠|||
+67154747|||십도종사|||
+53407884|||여주인공의 첫사랑을 타락시켜 버리면[완결]|||
+58026225|||이혼은 전문 변호사에게 맡기세요|||
+53269498|||대사형 이회|||
+57928893|||아기 약사 황녀님|||
+58735077|||당신이 사랑하는 동안에|||
+61058875|||기사아카데미의 기사단 소환사|||
+55595698|||결혼 사정|||
+58156497|||사망 직전의 악녀로 살아남는 방법|||
+49698747|||응급! 사랑으로 치료하는 방법|||
+50565591|||얼음꽃 기사|||
+51444812|||사자와 왕녀|||
+54607251|||사신|||
+53891182|||위험한 사내연애|||
+53028388|||짝사랑의 끝|||
+50119645|||사람답게 살자|||
+53316160|||정령 농사꾼|||
+48836576|||형사의 게임|||
+63243048|||남편은 분명 성기사였는데|||
+56242073|||우리 이제 모르는 사이 해요|||
+53818280|||천년방사|||
+52329538|||결혼 장사|||
+47271060|||두번 사는 플레이어 [외전선공개]|||
+58298315|||콜사인|||
+49977793|||그녀를 사수하세요![단독선공개]|||
+47204864|||학사귀환|||
+54051376|||한 번 해본 사이|||
+48553615|||사신의 연인 [완결]|||
+46335255|||어느 전투조종사의 사랑|||
+51093755|||병 수발 드는 물의 정령사 [단독 선공개]|||
+57923649|||뜨겁지 않은 사랑 [개정판]|||
+52761245|||사내 짝사랑의 행방|||
+67777358|||즉사수선전: 선협 세계에서 즉사기로 살아남기|||
+54407115|||정치 9단 변호사|||
+52878082|||말단 병사에서 군주까지|||
+63189400|||사랑하지 않으려 사랑할 것|||
+63189405|||사랑하지 않으려 사랑할 것 [19세 완전판]|||
+53745680|||맹주 사후|||
+58773411|||회귀자의 증권사 생활|||
+49587102|||집사야, 이리 와 봐|||
+60374376|||결혼 장사[19세 완전판]|||
+52763506|||환관의 요리사[완결]|||
+51625642|||요리의 신께서 보우하사|||
+57074729|||천재 정령사의 힐링상점|||
+58310906|||혼술사 도로테아|||
+51020434|||망향무사|||
+64559285|||신이 내린 장사 천재|||
+51465449|||먹이사슬|||
+52083400|||백 검사와 홍 수사관 [단독선공개]|||
+57405459|||어려운 상사|||
+55938951|||친구 사이, 십구 사이|||
+56987730|||사랑스러운 공작 부인의 비밀|||
+64411711|||육아 예능 찍는 막내님은 사랑스러워|||
+61921614|||사내 욕망|||
+59839613|||사랑까진 아니어도|||
+51688016|||달빛야사[단독선공개]|||
+58838222|||던전 안 푸드 트럭 사장님|||
+53839706|||반란군의 돌팔이 의사|||
+55088207|||스타 피디로 사는 법|||
+53216209|||판사님과 밀착 연애|||
+54968294|||천하제일 표사|||
+64007540|||악역 황녀님이 망할 기사단을 살림|||
+61706093|||짝사랑 맞선|||
+48256193|||무한전생-무림의 사부[완결]|||
+52515285|||농사짓는 영주님|||
+48962137|||용사님의 스승님 [완결]|||
+55610597|||그녀와 그 집사의 사정|||
+48552694|||최강무사|||
+54587282|||정령사용설명서|||
+56140684|||기사 컬렉터(Knight Collector)|||
+48468914|||의사|||
+53498307|||첨탑의 10포인트 용사|||
+52218908|||악역 대공을 사랑하지 않는 방법|||
+54157852|||역대급 용사의 귀환|||
+49926845|||기적의 소환사|||
+51307054|||사부작사부작|||
+51578737|||불사단-체력의 제왕|||
+55929750|||위험한 사내 결혼|||
+60240559|||세계수 여행사 : S급 먹방대모험 패키지!|||
+63359357|||전직 사단장이 러일전쟁을 캐리함|||
+62216930|||전세사기 전담수사본부의 민간인 특별 용역|||
+52000305|||룡이 보우하사|||
+49688144|||사랑해 사랑해|||
+55895720|||사내 연애 전선|||
+54795417|||사상최강의 데릴사위|||
+55631089|||밤의 집사님|||
+54085137|||두 번 사는 프로게이머|||
+54992615|||검사 김서진|||
+56363108|||연금술사의 24시간 약국|||
+51122843|||오만한 사장님의 치료법|||
+46491406|||천사지인|||
+53571053|||사고 치고 싶은 밤|||
+51025610|||그녀와 그의 사정|||
+53393491|||격정: 사랑과 배덕 사이|||
+49406036|||사모님의 야릇한 침실 [외전합본]|||
+50920714|||사자님은 비정규직(단독 선공개)|||
+50929302|||에덴의 사자|||
+52085754|||사랑처럼 사랑하듯|||
+56011342|||상사의 청혼|||
+55939854|||이사님과의 스캔들|||
+65182287|||풀어 줘요, 변호사님|||
+57995942|||차원을 넘는 연금술사|||
+54837032|||불순한 상사|||
+52044658|||지극히, 사적인 [단독선공개]|||
+62137763|||지옥에서 온 검사|||
+49413637|||경성 탐정 사무소|||
+51971850|||무한경쟁던전사회|||
+49925824|||신들의 연애사정|||
+58235809|||상사의 본색|||
+46621621|||이 검사, 사랑해|||
+56275044|||인생을 쉽게 사는 방법|||
+68103364|||연봉 1조 신입사원|||
+52652845|||사파 조연으로 살아남는 법|||
+59203335|||죽음의 신, 하 변호사|||
+58290374|||알고 보면 쓸모 있는 사기결혼|||
+50041269|||현질 전사|||
+47119799|||예문관 연애사|||
+53244406|||헌터 세상의 정원사 [완결]|||
+53537660|||원망하고 사랑하죠|||
+46384218|||일곱 번째 기사 [개정판]|||
+55264462|||달콤한 사이코|||
+51662121|||사이드 스토리|||
+61069088|||사내 S 스캔들|||
+58536392|||아발론의 기사들|||
+52721743|||이세계에서 책사로 취직한 건에 대하여|||
+51038813|||생사검|||
+57791676|||빌런 사냥꾼|||
+60199866|||인류최강 남사친|||
+56505242|||무사정천|||
+47716023|||정령사 헌터 성공기 [완결]|||
+63561888|||검신학사|||
+46890429|||낙향무사|||
+58945209|||짙게 물든 사이|||
+58698643|||전남편은 이웃사촌|||
+60162718|||사망 엔딩을 피하는 완벽한 플랜|||
+46829657|||사냥학개론 [개정판]|||
+55772559|||사랑이 오기 전에|||
+59535314|||용사 파티부터 시작하는 아이돌 생활|||
+49728918|||인사동 인챈터|||
+48523818|||호위무사의 남자 [외전공개]|||
+56244044|||안 좋은 사이|||
+48905597|||무한의 강화사 [완결]|||
+64817181|||두 번 사는 흑기사|||
+53115914|||이미 넌 사랑[단독 선공개]|||
+49371060|||51%의 사랑, 49%의 사랑|||
+63120711|||일인군단 분신술사|||
+47087336|||대사형 선유 [개정판]|||
+53535924|||사상 최강의 드루이드|||
+60806130|||영광의 영화사|||
+53990439|||결국 사랑할 운명|||
+55688421|||사내고백 금지조항|||
+51868469|||우리 지검 평검사는 최대 형량 2부|||
+52689168|||사랑에 빠지는 7초의 법칙 [단독 선공개]|||
+57575011|||성직자 아카데미의 사이비|||
+58242647|||상사의 온도|||
+51533205|||사랑 정복 [완결]|||
+47239048|||호위무사|||
+55898770|||두 번 사는 미대생|||
+64933084|||호위무사의 여자|||
+61921620|||사내 욕망 [19세 완전판]|||
+53849893|||신경외과의사 박재현 [연재]|||
+59641171|||소란한 연애사|||
+51653485|||상태창으로 스타강사|||
+49272386|||당문 소공자 당사독|||
+52589363|||천사의 아이|||
+56444704|||귀신 보는 변호사|||
+58115598|||1살부터 의사 생활|||
+63647365|||회생무사|||
+57442011|||상사의 취향|||
+59840960|||사랑하지 않을 방법|||
+59311415|||용사 동생은 아카데미 고인물|||
+46861313|||내 사랑 반토막|||
+50140174|||아델리아 - 꽃의 속박|||
+56451537|||천재 아이돌의 연예계 공략법|||
+49905159|||내 아버지의 아들을 찾아서|||
+50784296|||양판소 주인공의 아내로 살아남기|||
+62199533|||아기 황태자비의 아틀리에|||
+49324516|||문제아 건드리고 살아남기|||
+52032167|||괴물 공작의 아내로 살아남는 법|||
+53676512|||아빠, 저는 아무것도 하지 않을게요 [완결]|||
+52163090|||아이 아빠는 처음이에요|||
+65824981|||위험한 아이 아빠|||
+52875066|||아빠는 그냥 강해|||
+64409109|||괴담학교에서 살아남기|||
+56235990|||아찔한 하숙생 오빠들|||
+66290733|||산적 두목의 금지옥엽 아기님|||
+47674166|||아도니스|||
+51571285|||아찔한 취향[외전선공개]|||
+54286286|||알아채기 쉬운|||
+61847828|||초심 잃은 아이돌을 위한 회귀 백서|||
+62490614|||흙수저 막내아들|||
+58115603|||아랫집 남자|||
+62026001|||백호 황녀님은 위험하지 않아요|||
+62112560|||은해상단 막내아들|||
+51208779|||룬의 아이들|||
+49259211|||아리스를 위하여 / 줄리아, 어디에 있니?|||
+56351223|||모든 건 아기님 발 아래|||
+63298785|||병아리반 헌터는 효도 중!|||
+59489611|||아이돌 게임 속에서 살아남기|||
+49215222|||아빠의 레이드|||
+56393507|||내 집 아래 경험치 800% 지하던전|||
+56345334|||내 아이돌의 꽃길을 위해|||
+54701995|||괴담 동아리|||
+48385161|||되돌아온 시간 2부(이어지는 시간)|||
+59466906|||도요시절-복숭아 도둑|||
+61269475|||육아물 아니고 계약 결혼|||
+59156934|||제발 멈추지 말아요|||
+55253865|||우리 아들은 월드클래스|||
+48475385|||아빠의 축구|||
+46440769|||아크 더 레전드|||
+51679218|||폐하, 또 죽이진 말아주세요|||
+64904038|||집착광공이 아방수에 미치는 이유|||
+54364589|||황제의 아이를 숨기는 방법|||
+57109925|||아역부터 월드스타!|||
+48269353|||부부잖아요, 우리?|||
+67654503|||아빠를 교체하는 법|||
+49412304|||시녀로 살아남기|||
+60062296|||흑막 범고래 아기님|||
+51033306|||아델리아 - 꽃의 속박[단행본]|||
+53230180|||재벌집 막내아들|||
+55495187|||지옥에서 돌아온 성좌님|||
+55276574|||악녀 황후님이 날 너무 좋아해|||
+52019717|||아내의 조건[단독 선공개]|||
+60947960|||수인 아카데미|||
+64496417|||악당 아기님이 예언을 함|||
+53953352|||장 비서의 애 아빠|||
+55776107|||연기 천재, TOP 아이돌!|||
+59357531|||계획된 아내|||
+55725050|||헌터 아카데미의 최강투신|||
+53696269|||그 공작의 아내 집착|||
+57583245|||집착 시종으로 살아남기|||
+58592326|||집착 광공들이 잡아먹으려고 해|||
+64904037|||집착광공이 아방수에 미치는 이유 [19세 완전판]|||
+49018698|||좋아 시리즈|||
+49120476|||후아유|||
+52238204|||소웅성좌의 아우렐리아 [단독선공개]|||
+56473574|||친구끼리 이러는 거 아니야|||
+49578243|||아카디아의 빛|||
+56466838|||제 아이를 살려 주세요|||
+61028002|||겨울성의 아기 죄수님|||
+54943770|||반려로 맞아주세요|||
+64169221|||아카데미 악당으로 살아남는 법|||
+54365934|||아파도 하고 싶은|||
+52043347|||아슬아슬 위험하게|||
+50177460|||제독의 괴물아내|||
+58196306|||내 남편의 새 아내에게|||
+63960345|||아포칼립스 판타지에서 살아남는 법|||
+54333158|||아기부터 시작하는 연예계 생활|||
+53059126|||너무 아찔한 그대|||
+59464942|||인생 2회차 아이돌의 럭키플랜|||
+53338080|||병약한? 남편의 계약 아내|||
+48670768|||아슬아슬 로맨스|||
+58330560|||대막리지 막내아들|||
+57660667|||아카데미 S급의 아저씨|||
+53832318|||흑막과의 육아일기|||
+53439502|||아이를 낳아 줘|||
+49041202|||작은 게 좋아|||
+55721438|||천적이 악녀를 잡아먹을 때|||
+60848615|||악당 삼촌이랑 살아요|||
+64967507|||시한부 아기 의원이 천재인 걸 안 숨김|||
+66653193|||오빠 입술이 아니었어요|||
+58956049|||육아물 여주인공의 새언니|||
+63278899|||영조의 아들로 살아남기|||
+62904005|||아카데미 학생회장으로 살아남는 법|||
+54839240|||아기 황후님|||
+64346673|||아이 아빠는 언니의 남자|||
+55005685|||아쉴레앙 공작의 계약 결혼|||
+66339017|||이런 장르 아니었잖아요! [19세 완전판][완결]|||
+56483521|||아카데미 천재단역|||
+55091425|||울 아빠 좀 안아 줄래요?|||
+53657304|||그 남자의 아찔한 유희|||
+54473842|||늑대지만 해치지 않아요|||
+55943419|||두 번째 커밍아웃|||
+57504761|||S급 아기 황녀님이 너무 강해|||
+52973293|||신의 아이돌|||
+58857108|||아카데미의 무기복제자|||
+51945813|||위층 아이 아빠|||
+55676951|||아홉 번째의 꼬리|||
+46281858|||아크(ARK)|||
+48165688|||아슬아슬 신혼일기|||
+48640702|||아이작|||
+56799975|||귀환자의 육아일기|||
+52839235|||남자 주인공이 없어도 괜찮아|||
+58146031|||공포게임 메이드로 살아남기|||
+53090459|||새아빠는 이웃 왕|||
+59471024|||병약한 아빠를 간호했을 뿐인데|||
+49572407|||전신의 탄생 : 양아치|||
+50898244|||그 악녀로 살아남는 방식[단독 선공개]|||
+57274579|||세계관 최약체 하녀로 살아남기|||
+50361045|||아빠의 게임|||
+60665383|||내 눈에만 아공간이 보여|||
+50985098|||아이딘 [외전 선공개]|||
+57398676|||구조 조정에서 살아남는 법|||
+54212688|||카르세아린|||
+57679821|||아주 달콤한 갈증|||
+52387574|||아빠 친구 아들|||
+60589851|||서브남 아빠를 지키는 법|||
+59823586|||살아남은 왕녀의 웃음 뒤에는|||
+48696528|||아카시아[BL]|||
+58288430|||아카데미의 천재 테이머|||
+46753610|||지천명 아비무쌍|||
+51856277|||악녀는 아이들에게 친절해요|||
+66653636|||오빠 입술이 아니었어요 [19세 완전판]|||
+48610080|||아리스미아|||
+54494280|||청기와집 막내아들|||
+48873342|||아해의 장 [완결]|||
+52802971|||계약연장 아내|||
+68494341|||입을 맞추자는 게 그 뜻이 아니잖아!|||
+52185545|||아름답게 용과 이혼하는 방법|||
+56851539|||아기부터 시작하는 무신생활|||
+60814868|||당신 아이 아닙니까|||
+53563742|||아이엠 이블|||
+53860957|||이만 놓아주세요, 공작님|||
+54613646|||너 말고 새아빠|||
+66339024|||이런 장르 아니었잖아요! [완결]|||
+52875264|||본의 아니게 결혼|||
+64868650|||육아 아니고 작전 중!|||
+55727614|||아찔한 신혼|||
+49833795|||로자리아|||
+57806820|||제 유서는 그런 뜻이 아니었는데|||
+55850726|||미친 새아빠를 구해버렸어요!|||
+61723843|||게임 속 천재 스파이로 살아남는 법|||
+58990277|||절대 실패하지 않는 아이돌의 기술|||
+59162134|||아카데미 환생 실패자 전형|||
+49917587|||대공님의 우렁아씨|||
+56259149|||그 아빠에 그 딸|||
+52138442|||내공이 너무 많아|||
+57464102|||이혼하기로 약속했잖아요|||
+49000620|||시리아의 늑대|||
+50890767|||빠져도 괜찮아|||
+57195597|||아무도 모르게 둘이서|||
+56371379|||돌아온 아내|||
+64953981|||우아한 계약|||
+58806974|||회귀한 아포칼립스의 폭군|||
+55797297|||돌아온 보스|||
+54654917|||그녀의 아찔한 이중생활|||
+62407918|||닥터 레이디 아델리아|||
+53518985|||춘향전에서 들러리로 살아남기|||
+65721646|||무명 여배우인데 모두 날 알아|||
+50277047|||남겨진 아이 버려진 아이|||
+59958719|||1만 년 동안 살아온 배우님|||
+53535879|||아빠는 S급 월드스타|||
+56149358|||돌아온 막내 영애님을 조심하세요|||
+65128866|||오빠니까 괜찮아|||
+58240598|||우주재벌 막내아들|||
+54859115|||아델린의 깊은 밤|||
+63786828|||공포게임 속 백치 영애로 살아남기|||
+65411376|||괴물 남편은 괴물이 아닐 거야!|||
+58583084|||악녀님에겐 새 남편 따위 필요하지 않아요!|||
+54267668|||게임 특성으로 살아남기|||
+55247763|||피아노 천재의 예고 생활|||
+49393099|||만월의 아키텍처|||
+57641739|||잘 고쳐서 탑아이돌|||
+62018277|||내 어린 아내에게|||
+50837094|||엘시아 [완결]|||
+65011245|||구원의 이름 아래 [19세 완전판]|||
+49411755|||데블 & 아이스|||
+55889676|||악녀님의 우아한 야반도주|||
+52223753|||아키에이지 연대기|||
+56918680|||요리신동 막내아들|||
+62090884|||아포칼립스에서 시한부로 살아남기|||
+56756958|||알고 보니 아랍왕자|||
+59075621|||어차피 탑 아이돌|||
+68389103|||괴물 공작의 아내로 살아남는 법 [19세 완전판]|||
+55637757|||아포칼립스의 유일한 황태자|||
+54794284|||아포칼립스의 고인물|||
+54816719|||돌아온 황후의 역습|||
+55603615|||과거에서 재능이 쏟아져|||
+55039959|||아욕봉천|||
+57703910|||아내 대행|||
+47915752|||달의 아이|||
+54776739|||뽑기게임에서 살아남는 법|||
+61876877|||지옥에서 돌아온 아이돌|||
+59507375|||멸망한 세계의 기억을 담아온 회귀자|||
+65667275|||아내 대역|||
+57152424|||악당을 조련하는 아기님|||
+50805407|||우아한 새벽 [단독선공개]|||
+50547203|||보스의 셋째아들|||
+56719344|||남작 아들은 초상능력자|||
+60296160|||갓 아이돌 프로젝트 : 희망편|||
+54241247|||100배로 갚아 주겠어! [완결]|||
+52248787|||지옥에서 돌아온 한대성|||
+57525531|||흑막을 구원하려던 건 아니었는데요|||
+52881138|||내 집 아니고 네 집 [단독 선공개]|||
+54154703|||우아하게 이별하기[단독 선공개]|||
+51807985|||디아블로 씨는 조용히 살고 싶어[완결]|||
+54992575|||몰락무관 둘째 아들|||
+60296122|||쇼윈도 아내|||
+56886138|||아낌없이, 기꺼이|||
+56773546|||아기 공녀님의 생존 일지|||
+60713326|||아내의 의무는 이혼|||
+57254380|||남편이니까 괜찮아|||
+52440178|||냄새맡아 인생역전|||
+56860051|||아포칼립스의 검술 천재|||
+59627601|||돈과 재능이 쏟아져|||
+55650041|||재능천재 막내아들|||
+65011216|||구원의 이름 아래|||
+48202934|||성녀 아녜스 [76~78화 외전 공개]|||
+64126792|||공작아들 :Re|||
+47958047|||요아전|||
+63653273|||아빠 황태자 만들기|||
+59553926|||무림고수 공작부인은 참지 않아|||
+55780156|||벽 짓고 살아남기|||
+56929438|||아찔하게 갖고 싶은|||
+56656110|||아찔한 비행|||
+54904873|||아포칼립스의 유일한 건물주|||
+54998070|||아포칼립스 만능기계|||
+61325688|||달 그늘 아래 부서진 각인|||
+58436496|||아카데미 속 궁술천재|||
+66402494|||회귀 아이돌의 멤버 육아일기|||
+63348439|||내 아공간 속 던전 147,916,482,938개|||
+47749564|||대항해-아티팩트 에이지[완결]|||
+60343753|||아기님이 만드는 파멸엔딩!|||
+56543327|||너는, 달아|||
+52765914|||100년 만에 돌아온 망캐|||
+57779183|||김부장 아들은 트롯천재|||
+55894031|||죽음으로부터 돌아온 자, 카운트 리더|||
+58036047|||얼어붙은 심장의 아이|||
+49802521|||아드리샤|||
+62240963|||계획된 아내 [19세 완전판]|||
+53840400|||아티스트 메이커|||
+61911152|||악역 동생이 살아남는 법|||
+55757823|||초보아빠 김태건|||
+50860286|||아빠는 탑스타|||
+51179723|||유산 받아 레벨 업!|||
+50873321|||유월의 복숭아|||
+49287568|||날개 아래[완결]|||
+53648761|||우리 둘만 아는 [단독선공개]|||
+53653359|||신의 아티스트 강중기|||
+59552810|||홍 비서에게서 살아남는 법|||
+62277805|||천재 아이돌은 선비님!|||
+59247311|||뱀파이어는 아카데미 우등생|||
+51654546|||돌아온 미드필더|||
+64665286|||우리 오빠들 악역 아니에요!|||
+47344332|||우아한 짐승의 연애(외전포함)|||
+56742705|||원코인 게이머 아포칼립스|||
+59422122|||시작부터 천재 피아니스트|||
+67475238|||하기 싫어요, 아저씨|||
+52278470|||던전에서 살아남기![완결]|||
+53569235|||하루만 아는 남자|||
+64922796|||후아유[개정판]|||
+59390783|||아찔한 투자 계약|||
+55396394|||즐거운 아포칼립스 생활|||
+58818955|||만렙으로 돌아온 귀환병|||
+48815419|||공주님의 육아일기|||
+57367510|||[속보] 대공님과의 결혼, 저도 지금 알아|||
+66611775|||아카데미의 피해자|||
+58444207|||아기를 부탁해!|||
+54123746|||흑막 공작님, 제발 놓아주세요!|||
+52483386|||여신의 아이 [선공개]|||
+51448446|||우아한 짐승의 세계|||
+61654125|||전남편의 아이|||
+54930664|||아기부터 검신|||
+56736144|||아카데미의 금태양|||
+54948118|||죽을 예정인데, 방해하지 말아 줄래요?|||
+61641080|||아공간으로 인생 대박|||
+52247030|||레미테로아의 별|||
+53812227|||해피엔딩을 찾아 줘|||
+65139204|||서브 남주로 살아남기|||
+50923876|||공작님 아이를 주세요 [완결]|||
+54529456|||악당들의 우아한 밤을 위하여|||
+48566365|||스펠아처 [완결]|||
+50597512|||해치지 않아요|||
+58087207|||유황숙네 천재 아들|||
+57887867|||고인물은 옷을 입지 않아|||
+51121316|||아이네, 탑의 노래|||
+47796192|||피아트룩스|||
+49521612|||완벽한 아내 [단독선공개]|||
+61899354|||남편의 아이|||
+55675108|||공작님, 제 발목 좀 놓아주세요!|||
+51033401|||아실리의 회귀 [단독 선공개]|||
+52284327|||돌담 밖의 리첸티아|||
+54602829|||아이돌 육성의 천재|||
+58578618|||위스테리아|||
+51621379|||아발론의 여왕|||
+64493365|||복숭아 심장|||
+56970903|||이걸 실장님이? : 아이돌 방생 프로젝트|||
+63888004|||죽을 땐 아프지 않았으면 좋겠어|||
+49159484|||아르카디아 대륙기행|||
+60052713|||주의! 우리 아이돌은 물어요|||
+55126551|||아내 계약|||
+61650339|||악당 후견인이 날 잡아먹으려 해|||
+53383472|||황태자비의 대역으로 살아남기|||
+50500708|||웨데니아의 정원|||
+57583812|||아이고, 폐하!(완전판)|||
+67689193|||무신으로 살아남기|||
+58816529|||공포 게임의 고인물이 살아남는 법|||
+53582807|||더아레스[완결작]|||
+63187041|||아포칼립스에 아공간을 숨김|||
+66749723|||러시아 제국의 조선인 대원수|||
+56505921|||악역도 귀찮아서|||
+46606996|||달빛 오아시스|||
+62959885|||아내 실종|||
+50848220|||꽃담장 아래 엄지공주|||
+57924161|||돌아온 인공지능으로 재벌인생!|||
+67725921|||망국에서 아이돌 프로듀서로 살아남기|||
+51188073|||내 아이돌은 인생 2회차 [완결]|||
+60943116|||흑막 아빠를 프로듀스|||
+56516132|||룬의 아이들 - 데모닉(완전판) [단행본]|||
+67475247|||하기 싫어요, 아저씨 [19세 완전판]|||
+48642635|||헤스키츠 제국 아카데미(개정판)|||
+52800863|||아이리스|||
+56265112|||피폐 역하렘물에서 살아남는 방법|||
+63363133|||은퇴한 대장군의 육아일기|||
+62610763|||복숭아색에 홀리지 말 것 [19세 완전판]|||
+56155841|||삼국지 속에서 살아남는 법|||
+67546922|||우리 아빠 너 해!|||
+53756144|||짓궂을수록 좋아 [단독 선공개]|||
+48509319|||아주 특별한 프러포즈|||
+58443646|||(이용권) 내 아버지의 아들을 찾아서 [단행본]|||
+48860527|||태자의 색동, 류인아 [개정판, 외전선공개]|||
+51778529|||그림자 아내|||
+66924626|||아포칼립스에 EX급 방공호를 숨김|||
+58745739|||아기 성녀님은 세상을 멸망시키고 싶어!|||
+54274633|||(이용권) 양판소 주인공의 아내로 살아남기 [단행본]|||
+55237205|||시칠리아의 밤|||
+58328029|||아포칼립스로 억만장자|||
+56141358|||복숭아꽃 지는 곳의 노래|||
+59945166|||애아빠 용의자는 셋|||
+62828572|||받아보면 아는 포수|||
+68073449|||무협지 악녀의 하인으로 살아남기|||
+49275454|||매일 밤, 아슬해|||
+67135563|||블루 아카이브 X 카카오페이지 웹소설 총력전 수상작|||
+52185508|||로아즈 성의 주인|||
+54835175|||우리 둘만 살아요|||
+52779551|||축구소설인데 주인공이 아님[연재]|||
+62588640|||아르테 님을 믿으십니까?|||
+63802840|||몰아친 계약 결혼|||
+64064070|||은밀한 아내 중독|||
+49286625|||아재력스 [완결]|||
+48892733|||내 아내는 짐승|||
+49733317|||우아한 짐승과의 결혼 [외전선공개]|||
+46695553|||G맨상의 아리아|||
+68054927|||재벌집 만렙 아들|||
+63615017|||무한전생-아서 허트|||
+62957823|||아내 실종 [19세 완전판]|||
+55883291|||돌아온 전남편|||
+52316587|||일탈을 꿈꾸는 게 아니었어|||
+46436192|||아이스 블루|||
+62720209|||아내를 찾는 방법|||
+49538112|||아포칼립스|||
+54010489|||햇살 아래 카페에서|||
+55565374|||아저씨, 내 기분 왜 이래요?|||
+57562611|||아빠! 왜 이제 오셨어요?|||
+65194707|||아기 대신 근육을 키워 보세요!|||
+49583365|||밤의 아내|||
+64814568|||이동 요새로 아포칼립스 살아남기|||
+68130218|||미친놈과 육아를|||
+63982088|||충직한 아내|||
+63638610|||아내 상실|||
+48076217|||아이러니|||
+49955735|||러브 미, 아이 러브 유|||
+49518052|||아이언 더 레전드 [완결]|||
+52252805|||던만추 외전 : 파밀리아 크로니클 episode 류|||
+52901218|||안녕, 내 똥강아지|||
+52113385|||아내를 되찾기 위해 [단독선공개]|||
+51385989|||여명의 린시아|||
+49293259|||단아한 유혹 [완결]|||
+60464059|||아무도 모르게, 쉿!|||
+64491246|||아내 소유|||
+60017316|||SSS급 창고 캐릭터로 살아남기|||
+63259034|||악당에게 살아있는 걸 들켜버리면|||
+50364691|||아내의 선택|||
+54656599|||아내 인형|||
+53044496|||인썸니아|||
+59613510|||능력을 숨긴 천재 아이돌|||
+62893586|||살아 있는 무공백과|||
+53521662|||아찔하게 한 번 더|||
+66132858|||악성 민원인은 더는 받고 싶지 않아요!|||
+50361990|||어느날 아침 (외전증보판)|||
+61857131|||옭아매는|||
+67366178|||아공간 팩토리로 초월급 헌터|||
+52614420|||우아한 짐승과의 동거[단독선공개]|||
+53127328|||이 남자에게 반하지 말아요 [외전 선공개]|||
+59264045|||아카데미에서 쉴게요 [단행본]|||
+67536236|||여기는 약방이지 찻집이 아닌데요 [단행본]|||
+55502584|||향기|||
+65850403|||오지고 지리고 렛잇고|||
+53681615|||차 보스와 매일매일|||
+65972676|||쓰레기 전남편을 되살릴 때는 신중히 [단행본]|||
