@@ -1,0 +1,11 @@
+{
+  "chunks": 5,
+  "totalEntries": 75895,
+  "files": [
+    "novelpia_chunk_0.json.gz",
+    "novelpia_chunk_1.json.gz",
+    "novelpia_chunk_2.json.gz",
+    "novelpia_chunk_3.json.gz",
+    "novelpia_chunk_4.json.gz"
+  ]
+}

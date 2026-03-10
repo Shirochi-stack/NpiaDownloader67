@@ -1,0 +1,9 @@
+{
+  "chunks": 3,
+  "totalEntries": 44681,
+  "files": [
+    "kakao_chunk_0.json.gz",
+    "kakao_chunk_1.json.gz",
+    "kakao_chunk_2.json.gz"
+  ]
+}
