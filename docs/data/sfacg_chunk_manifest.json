@@ -12,5 +12,6 @@
     "sfacg_chunk_7.json.gz",
     "sfacg_chunk_8.json.gz",
     "sfacg_chunk_9.json.gz"
-  ]
+  ],
+  "embedded": true
 }

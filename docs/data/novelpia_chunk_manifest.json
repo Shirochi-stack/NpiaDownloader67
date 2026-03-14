@@ -7,5 +7,6 @@
     "novelpia_chunk_2.json.gz",
     "novelpia_chunk_3.json.gz",
     "novelpia_chunk_4.json.gz"
-  ]
+  ],
+  "embedded": true
 }
