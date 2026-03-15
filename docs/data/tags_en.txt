@@ -280,6 +280,7 @@ A4|||A4
 AA|||AA
 AA물|||AA Style
 AA물기반|||AA Based
+ABO|||ABO
 AC|||AC
 AC130|||AC-130
 ADHD|||ADHD
@@ -356,6 +357,7 @@ BLACKSOULS|||Black Souls
 BLACKSUN|||Black Sun
 BLAZBLUE|||BlazBlue
 BLEACH|||Bleach
+BLM|||BLM
 BLNTR없음|||No BL NTR
 BLOOD|||Blood
 BL로맨스|||BL Romance
@@ -515,6 +517,7 @@ GIANTESS|||Giantess
 GL|||Girls' Love
 GLSM|||GLSM
 GL안하면노맨스|||No Yuri No Romance
+GO|||GO
 GOAT|||GOAT
 GOAT물|||GOAT Story
 GOC|||GOC
@@ -573,6 +576,7 @@ IT|||IT
 JOREAL|||JOREAL
 JPOP|||J-Pop
 JRPG|||JRPG
+K|||K
 K2|||K2
 KBC|||KBC
 KBL|||KBL
@@ -723,6 +727,7 @@ ONYU|||Onyu
 OO|||OO
 OOO|||OOO
 OP|||Overpowered
+OR|||OR
 ORI|||Ori
 ORIGINAL|||Original
 ORION|||Orion
@@ -835,6 +840,7 @@ SM플레이|||SM Play
 SM협박공개수치조교|||SM Public Training
 SNS|||SNS
 SOFTNTR|||Soft NTR
+SOS|||SOS
 SPANKING|||Spanking
 SPH|||SPH
 SRPG|||SRPG
@@ -968,6 +974,7 @@ ULTRAKILL|||ULTRAKILL
 UMP45|||UMP45
 UTA|||Uta
 V|||V
+V3|||V3
 VFLOWER|||Vflower
 VLOG인방|||Vlog Broadcast
 VR|||VR
@@ -1292,6 +1299,7 @@ ZZZ|||ZZZ
 가면라이더|||Kamen Rider
 가면라이더555|||Kamen Rider 555
 가면라이더가|||Kamen Rider
+가면라이더가브|||Kamen Rider Gavv
 가면라이더갓챠드|||Kamen Rider Gotchard
 가면라이더기츠|||Kamen Rider Geats
 가면라이더더블|||Kamen Rider Double
@@ -1401,6 +1409,7 @@ ZZZ|||ZZZ
 가족관계|||Family Relations
 가족문제|||Family Issues
 가족물|||Family
+가족물인가|||Family Drama
 가족붕괴|||Family Breakdown
 가족사랑|||Family Love
 가족상봉|||Family Reunion
@@ -2827,6 +2836,7 @@ ZZZ|||ZZZ
 궁극폼|||Ultimate Form
 궁녀|||Court Lady
 궁상|||Destitute
+궁서체다|||Gungseoche Style
 궁수|||Archer
 궁예|||Gung Ye
 궁정|||Court
@@ -3572,6 +3582,7 @@ ZZZ|||ZZZ
 나호님|||Na Ho Nim
 나혼뉴|||Solo Newbie
 나혼렙|||Solo Leveling
+나혼렙빠돌이들은|||Solo Leveling Fans
 나혼렙아주조금|||Solo Leveling Touch
 나혼렙오마주|||Solo Leveling Homage
 나혼소|||Solo Leveling
@@ -3618,6 +3629,7 @@ ZZZ|||ZZZ
 난장판|||Mess
 난장판코미디|||Chaotic Comedy
 난쟁이|||Dwarf
+난죽경없|||No Death Scene
 난천|||Hard Heaven
 난해|||Obscure
 날개|||Wings
@@ -4151,6 +4163,7 @@ ZZZ|||ZZZ
 늑대인간|||Werewolf
 늑대황녀|||Wolf Princess
 늑향|||Wolf Spice
+는역시통기타|||Neun Yeoksi Tonggita
 는토가와|||Is Togawa
 늘어남|||Increasing
 늙은주인공|||Old Protagonist
@@ -5867,6 +5880,7 @@ ZZZ|||ZZZ
 루시루트|||Lucy Route
 루시퍼|||Lucifer
 루우타|||Luuta
+루이나|||Ruina
 루치오|||Lucio
 루트|||Route
 루트는알수없습니다|||Route Unknown
@@ -6022,6 +6036,7 @@ ZZZ|||ZZZ
 링크|||Link
 링크소환|||Link Summon
 링크소환은있다|||Link Summon Exists
+링크차원없|||No Dimensional Link
 마|||Ma
 마검|||Magic Sword
 마검사|||Magic Swordsman
@@ -10319,6 +10334,7 @@ ZZZ|||ZZZ
 순애같은하렘|||Pure Love Harem
 순애네토|||Pure Netori
 순애는사랑이다|||Pure Love is Love
+순애다|||Pure Love
 순애도가끔|||Occasional Pure Love
 순애도있음|||Pure Love Too
 순애디펜스|||Pure Love Defense
@@ -11544,6 +11560,7 @@ ZZZ|||ZZZ
 아츠코|||Atsuko
 아침드라마|||Morning Drama
 아카게이살|||Akagei Kill
+아카납치|||Akanamchi
 아카네|||Akane
 아카데미|||Academy
 아카데미X|||No Academy
@@ -11602,6 +11619,7 @@ ZZZ|||ZZZ
 아크TS|||Arc TS
 아크나이츠|||Arknights
 아크놀로기아|||Arcnologia
+아크서바이벌|||Ark Survival
 아크원|||Ark One
 아크파이브|||Arc-V
 아키|||Aki
@@ -13491,6 +13509,7 @@ ZZZ|||ZZZ
 왕|||King
 왕가슴|||King Boobs
 왕게임|||King Game
+왕과|||King And
 왕국|||Kingdom
 왕국마법기사|||Kingdom Magic Knight
 왕국육아물|||Kingdom Childcare
@@ -14438,6 +14457,7 @@ ZZZ|||ZZZ
 의리|||Loyalty
 의리섹스|||Loyalty Sex
 의문|||Question
+의미모를|||Incomprehensible
 의미불명|||Unclear Meaning
 의미없는태그|||Meaningless Tag
 의부증|||Stepmom Complex
@@ -17713,6 +17733,7 @@ ZZZ|||ZZZ
 친세대|||Parent Generation
 친엄마|||Birth Mom
 친엄마맞음|||Real Mom
+친없|||No Relatives
 친여동생|||Close Sis
 친우|||Close Friend
 친위쿠데타|||Praetorian Coup
@@ -20528,6 +20549,7 @@ ZZZ|||ZZZ
 후계자|||Heir
 후공여수|||Bottom Female Top
 후공후수|||Bottom Top
+후궁암투|||Harem Intrigue
 후기|||Afterword
 후까시|||Hukashi
 후남|||Later Male
