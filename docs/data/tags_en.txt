@@ -511,6 +511,7 @@ FUMO|||Fumo
 FURRY|||Furry
 FWB|||Friends with Benefits
 FYL|||FYL
+FZ|||FZ
 Fㅖ급|||F Grade
 F급|||F-Rank
 F등급|||F-Rank
@@ -5459,6 +5460,7 @@ ZZZ|||ZZZ
 땅크|||Tank
 때때로시점변경NTR|||Occasional POV NTR
 때때로어두움|||Sometimes Dark
+때때로피폐|||Occasional Despair
 때로는고구마|||Sometimes Sweet Potato
 때로는잔혹|||Sometimes Brutal
 떠돌이|||Wanderer
@@ -6243,6 +6245,7 @@ ZZZ|||ZZZ
 마법사우월주의|||Mage Supremacy
 마법사의밤|||Wizard Night
 마법사의신부|||Magician's Bride
+마법사회|||Magic Society
 마법생물|||Magic Creatures
 마법서|||Magic Book
 마법세계|||Magic World
@@ -9729,6 +9732,7 @@ ZZZ|||ZZZ
 설정|||Setting/Worldbuilding
 설정각색|||Setting Adapt
 설정개변|||Setting Alter
+설정교체될수있음|||Settings May Change
 설정노트|||Setting Notes
 설정놀음|||Setting Play
 설정딸|||Setting Daughter
@@ -11731,6 +11735,7 @@ ZZZ|||ZZZ
 아카데미|||Academy
 아카데미X|||No Academy
 아카데미는2부부터|||Academy Part2
+아카데미늦게감|||Late Academy
 아카데미로간다|||To Academy
 아카데미를씹어먹음|||Devours Academy
 아카데미물아님|||Not Academy
@@ -12341,6 +12346,7 @@ ZZZ|||ZZZ
 약물중독|||Drug Addiction
 약백합|||Soft Yuri
 약병맛|||Light Sick
+약병약|||Weak Potions
 약빙의|||Weak Possession
 약빤소설|||Drug Trip Novel
 약사|||Apothecary
@@ -12470,6 +12476,7 @@ ZZZ|||ZZZ
 양면스쿠나|||Two-Face Sukuna
 양미카|||Yang Mika
 양산형|||Mass-Produced
+양산형니케|||Mass-Produced Nikke
 양성|||Bisexuality
 양성구유|||Bi Use
 양성생식|||Bisexual Reproduction
@@ -14327,6 +14334,7 @@ ZZZ|||ZZZ
 유대인학살ㄴ|||No Holocaust
 유동관점|||Fluid POV
 유라|||Yura
+유라유라|||Yurayura
 유랑|||Wandering
 유랑민|||Nomads
 유랑자|||Wanderer
@@ -14893,6 +14901,7 @@ ZZZ|||ZZZ
 이세계콰르텟|||Isekai Quartet
 이세계탈출|||Isekai Escape
 이세계판타지|||Isekai Fantasy
+이세계포탈|||Isekai Portal
 이세계표절|||Isekai Plagiarism
 이세계환생|||Isekai Reincarnation
 이세계히로인|||Isekai Heroine
@@ -16715,6 +16724,7 @@ ZZZ|||ZZZ
 주인공인간임|||Human Protagonist
 주인공일당|||Protagonist Party
 주인공일행아님|||Not Protagonist Party
+주인공임신함|||MC Pregnancy
 주인공쟁탈전|||MC争夺 War
 주인공중먼치킨있음|||Munchkin Protagonist
 주인공짱셈|||MC Best
@@ -17632,6 +17642,7 @@ ZZZ|||ZZZ
 초반부NTR|||Early NTR
 초반부NTR있음|||Early NTR
 초반부강간|||Early Rape
+초반부느린전개|||Slow Start
 초반부성장형주인공|||Early Growth Protagonist
 초반부약간피폐|||Early Light Abuse
 초반부약피폐|||Early Weak Tragic
@@ -17640,6 +17651,7 @@ ZZZ|||ZZZ
 초반부피폐|||Early Mild Yandere
 초반부후회|||Early Regret
 초반빌드업|||Early Buildup
+초반빠른전개|||Fast Start
 초반살짝고구마|||Early Mild Frustration
 초반생존|||Early Survival
 초반성장|||Early Growth
@@ -18747,6 +18759,7 @@ ZZZ|||ZZZ
 턴제배틀|||Turn-Based Battle
 털|||Fur
 털박이|||Fur Beating
+텅텅이|||Empty
 테가소드|||Tega Sword
 테니스|||Tennis
 테라리아|||Terraria
