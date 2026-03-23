@@ -1756,6 +1756,7 @@ ZZZ|||ZZZ
 개연성버림|||Plausibility Abandoned
 개연성없음|||No Plausibility
 개이득|||Huge Profit
+개인만족|||Personal Satisfaction
 개인방송|||Personal Broadcast
 개인사설|||Personal Talk
 개인설정|||Personal Setting
@@ -2899,6 +2900,7 @@ ZZZ|||ZZZ
 권력암투|||Power Intrigue
 권력자|||Powerholder
 권력투쟁|||Power Struggle
+권마|||Fist Demon
 권모술수|||Intrigue
 권법|||Fist Law
 권사|||Sword Master
@@ -3166,6 +3168,7 @@ ZZZ|||ZZZ
 글자수|||Word Count
 글쟁이S|||Writer S
 글처음써봐요|||First Writing
+금강불괴|||Indestructible
 금고|||Vault
 금기|||Taboo
 금기교전|||Taboo War
@@ -3499,6 +3502,7 @@ ZZZ|||ZZZ
 꿈같은|||Dreamlike
 꿈과|||Dream and
 꿈과희망|||Dreams and Hope
+꿈꾸는전기양|||Dreaming Electric Sheep
 꿈도희망도없음|||No Dreams Hope
 꿈엔딩아님|||Not Dream Ending
 꿈의세계|||Dream World
@@ -5090,6 +5094,7 @@ ZZZ|||ZZZ
 독참소|||Reader Participation Novel
 독참소기반|||Poison Needle Base
 독참소꺼|||Poison Needle Pull
+독참소아님|||No Child Poison
 독타입|||Poison Type
 독특한|||Unique
 독특한세계관|||Unique Worldview
@@ -6992,6 +6997,7 @@ ZZZ|||ZZZ
 몬스터NTR|||Monster NTR
 몬스터걸|||Monster Girl
 몬스터고기|||Monster Meat
+몬스터덕후|||Monster Otaku
 몬스터도감|||Monster Compendium
 몬스터레이드|||Monster Raid
 몬스터만|||Monsters Only
@@ -8996,6 +9002,7 @@ ZZZ|||ZZZ
 사각관계|||Love Quadrangle
 사건|||Incident
 사건부|||Case Files
+사건조작|||Incident Fabrication
 사건중심|||Incident Focus
 사건처리|||Case Handling
 사건해결|||Case Resolution
@@ -9085,6 +9092,7 @@ ZZZ|||ZZZ
 사망루트|||Death Route
 사망전대|||Death Squadron
 사망회귀|||Death Regression
+사멸회유|||Death Enticement
 사모님|||Lady Boss
 사무라이|||Samurai
 사무라이렘넌트|||Samurai Remnant
@@ -9095,6 +9103,7 @@ ZZZ|||ZZZ
 사민당|||Social Democrats
 사방신|||Four Directions Gods
 사법|||Judiciary
+사법비리|||Judicial Corruption
 사부|||Master
 사상|||Ideology
 사상개조|||Ideology Reform
@@ -9996,6 +10005,7 @@ ZZZ|||ZZZ
 세드|||Sed
 세드엔딩|||Sad Ending
 세레나|||Serena
+세력|||Faction
 세력다툼|||Faction Struggle
 세력전|||Faction War
 세력확장|||Faction Expansion
@@ -10500,6 +10510,7 @@ ZZZ|||ZZZ
 순애로맨스|||Pure Love Romance
 순애로생각중|||Pure Love Planned
 순애만큼달달함|||Sweet as Pure Love
+순애맞음|||Pure Love
 순애보|||Pure Love Guaranteed
 순애보빔|||Pure Love Boob
 순애살짝|||Light Pure Love
@@ -12169,6 +12180,7 @@ ZZZ|||ZZZ
 야매|||Amateur
 야매수술|||Amateur Surgery
 야매중세|||Amateur Medieval
+야무진주인공|||Competent MC
 야바위|||Yabawi
 야부키|||Yabuki
 야생|||Wild
@@ -12621,6 +12633,7 @@ ZZZ|||ZZZ
 언령|||Word Spirit
 언령력|||Word Spirit
 언령사|||Word Spirit User
+언령술사|||Word Sorcerer
 언리미티드|||Unlimited
 언어|||Language
 언어천재|||Language Genius
@@ -12999,6 +13012,7 @@ ZZZ|||ZZZ
 여자하나|||One Woman
 여자회귀자|||Female Regressor
 여자히로인|||Female Heroine
+여잠범죄삼총사|||Female Crime Trio
 여장|||Cross-dressing(M)
 여장남자|||Crossdressing Man
 여장남자히로인|||Trap Heroine
@@ -13901,6 +13915,7 @@ ZZZ|||ZZZ
 용사소환|||Hero Summon
 용사수집|||Hero Collection
 용사와마왕|||Hero and Demon King
+용사요시히코|||Hero Yoshihiko
 용사의동생|||Hero's Sibling
 용사의여동생|||Hero's Sis
 용사타락|||Hero Fall
@@ -15619,6 +15634,7 @@ ZZZ|||ZZZ
 잔인하니주의바람|||Cruel Warning
 잔인한|||Cruel
 잔인한묘사|||Cruel Depiction
+잔인한묘사주의|||Gore Warning
 잔인한표현|||Cruel Expression
 잔인할수도|||Possibly Brutal
 잔인함|||Brutality
@@ -15686,6 +15702,7 @@ ZZZ|||ZZZ
 잡종|||Hybrid
 잡종태그|||Mixed Tags
 잡캐|||Side Character
+잡캐물|||Side Character Story
 잡탕|||Stew
 잡탕소설|||Stew Novel
 장갑|||Gloves
@@ -16187,6 +16204,7 @@ ZZZ|||ZZZ
 정신줄놓음|||Lost Sanity
 정신지배|||Mind Control
 정신질환|||Mental Illness
+정신착란|||Mental Breakdown
 정신피폐|||Mental Ruin
 정실부인|||Legal Wife
 정실야나기|||Main Wife Yanagi
@@ -16460,6 +16478,7 @@ ZZZ|||ZZZ
 조선연애사|||Joseon Love History
 조선왕조실록|||Joseon Annals
 조선외교관|||Joseon Diplomat
+조선인주인공|||Joseon MC
 조선최강|||Joseon Strongest
 조선판타지|||Joseon Fantasy
 조선풍|||Joseon Style
@@ -16849,6 +16868,7 @@ ZZZ|||ZZZ
 중운|||Heavy Luck
 중원|||Central Plains
 중이병|||Chuuni
+중일전쟁|||Sino-Japanese War
 중장|||Medium Armor
 중재|||Mediation
 중증외상센터|||Trauma Center
@@ -17957,6 +17977,7 @@ ZZZ|||ZZZ
 치명적매력|||Fatal Charm
 치명적유해물|||Fatal Harm
 치명적유해물아님|||Not Harmful
+치명적인여자매력|||Deadly Female Charm
 치밀한전개|||Intricate Plot
 치사키|||Chisaki
 치안|||Public Safety
@@ -18220,6 +18241,7 @@ ZZZ|||ZZZ
 캣파|||Cat Paw
 캣파이트|||Catfight
 캣파이트안함|||No Catfight
+캣파이트일지도|||Possible Catfight
 커리어우먼|||Career Woman
 커맨더|||Commander
 커뮤|||Community
@@ -18494,6 +18516,7 @@ ZZZ|||ZZZ
 크툴루식개그|||Cthulhu Gag
 크툴루신화|||Cthulhu Mythos
 크툴루약간첨가|||Cthulhu Slight
+크툴루향|||Cthulhu
 크툴크툴|||Cthulhu
 크툴후|||Cthulhu Lite
 큰망치|||Big Hammer
@@ -19342,6 +19365,7 @@ ZZZ|||ZZZ
 페카|||Peka
 페테|||Pete
 페테마법|||Fate Magic
+페테쉬|||Fetish
 페티쉬|||Fetish
 페티시|||Fetish
 페티시즘|||Fetishism
@@ -19992,6 +20016,7 @@ ZZZ|||ZZZ
 하이스쿨DXD|||High School DxD
 하이스쿨플릿|||High School Fleet
 하이스트|||Heist
+하이엔드범죄|||High-End Crime
 하이엘프|||High Elf
 하이쿠|||Haiku
 하이큐|||Haikyuu
