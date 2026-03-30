@@ -78,6 +78,7 @@
 1인칭시점|||1st POV
 1인칭주인공시점|||1st Person Protagonist
 1일1뽑|||One Pull Per Day
+1점|||1 Point
 1조번|||1 Trillion Times
 1차대전|||WW1
 1차대전함선|||WWI Ships
@@ -216,6 +217,7 @@
 4P|||4P
 4각관계|||Quadrangle
 4계|||4 Worlds
+4기사|||4 Knights
 4남매|||4 Siblings
 4도류|||4 Sword Style
 4드론|||4 Drone
@@ -295,6 +297,7 @@ AI로만든일러스트|||AI Illustrations
 AI로봇|||AI Robot
 AI비서|||AI Assistant
 AI사용|||AI Used
+AI설정|||AI Setting
 AI소설|||AI Novel
 AI스릴러|||AI Thriller
 AI실사|||AI Realism
@@ -304,6 +307,7 @@ AI전쟁|||AI War
 AI챗|||AI Chat
 AI표지|||AI Cover
 AI협업|||AI Collab
+AI히로인|||AI Heroine
 AK12|||AK-12
 AK15|||AK-15
 ALL|||All
@@ -400,6 +404,7 @@ CHEATING|||Cheating
 CIA|||CIA
 CLN|||CLN
 COC|||Call of Cthulhu
+CONTINUUS|||CONTINUUS
 CORRUPTION|||Corruption
 COSMIC|||Cosmic
 CP0|||CP0
@@ -468,9 +473,11 @@ EX|||EX
 EXA|||EXA
 EXTRA|||Extra
 EZ|||EZ
+EZY|||EZY
 E급|||E Rank
 E스포츠|||Esports
 E히어로|||E Hero
+F|||F
 F-15|||F-15
 F1|||F1
 FA|||FA
@@ -514,6 +521,7 @@ FYL|||FYL
 FZ|||FZ
 Fㅖ급|||F Grade
 F급|||F-Rank
+F급헌터|||F-Rank Hunter
 F등급|||F-Rank
 F랭크|||F Rank
 GARO|||Garo
@@ -559,6 +567,7 @@ HOI4|||Hearts of Iron 4
 HOLOLIVE|||Hololive
 HOLOX|||Holox
 HOO|||Heroes of Olympus
+HOPES|||HOPES
 HOTWIFE|||Hotwife
 HP1용사|||HP1 Hero
 HSP|||HSP
@@ -586,6 +595,7 @@ IT|||IT
 JOREAL|||JOREAL
 JPOP|||J-Pop
 JRPG|||JRPG
+J리그|||J-League
 K|||K
 K2|||K2
 KBC|||KBC
@@ -907,6 +917,7 @@ TOILET|||Toilet
 TOMORROWS|||Tomorrows
 TOTK|||Tears of Kingdom
 TOUHOU|||Touhou
+TPRG|||TPRG
 TPRG스러운|||TRPG-like
 TRAGEDY|||Tragedy
 TREX|||T-Rex
@@ -930,6 +941,7 @@ TS는안넣어|||No TS
 TS는집필동기|||TS Writing Motive
 TS다수|||Many TS
 TS당함|||TS Victim
+TS두명|||TS Two
 TS드리프트주의|||TS Drift Warning
 TS로마니|||TS Romani
 TS물|||TS Story
@@ -1264,6 +1276,7 @@ ZZZ|||ZZZ
 가끔개그|||Occasional Comedy
 가끔고수위|||Occasional High Heat
 가끔고어|||Occasional Gore
+가끔공포|||Occasional Horror
 가끔달달|||Occasional Sweet
 가끔돈지랄|||Money Sprees
 가끔떡|||Occasional Smut
@@ -1284,6 +1297,7 @@ ZZZ|||ZZZ
 가끔약고어|||Occasional Light Gore
 가끔약피폐|||Occasional Light Depressing
 가끔오우야|||Occasional Ouya
+가끔우울|||Occasional Depression
 가끔은진지|||Sometimes Serious
 가끔일상|||Occasional Daily
 가끔잔잔함|||Occasional Calm
@@ -1346,6 +1360,7 @@ ZZZ|||ZZZ
 가면라이더파이즈|||Kamen Rider Faiz
 가면라이브|||Kamen Live
 가문|||Clan
+가문성장|||Clan Growth
 가방|||Bag
 가벼운|||Light/Casual
 가벼운글|||Light Read
@@ -1536,6 +1551,7 @@ ZZZ|||ZZZ
 감동실화|||True Story Touching
 감동야소설|||Moving Erotica
 감동의대서사시|||Epic感動
+감동적인|||Emotional
 감동판타지|||Emotional Fantasy
 감상문|||Review
 감성|||Emotional/Sentimental
@@ -1773,6 +1789,7 @@ ZZZ|||ZZZ
 개짜침|||Super Boring
 개찐따|||Total Loser
 개척|||Pioneering
+개척자|||Pioneer
 개천박|||From Rags
 개체|||Entity
 개추성녀|||Super Push Saint
@@ -1824,6 +1841,7 @@ ZZZ|||ZZZ
 거대전은아직|||No Giant Battle Yet
 거대한음모|||Grand Conspiracy
 거대함|||Gigantic
+거던|||Geodeun
 거란군|||Khitan Army
 거래|||Deal
 거리|||Street
@@ -1953,6 +1971,7 @@ ZZZ|||ZZZ
 검은닌텐도|||Black Nintendo
 검은마법사|||Black Mage
 검은머리|||Black Hair
+검은머리미군대원수|||Black-Haired US Marshal
 검은신화|||Black Myth
 검은양복|||Black Suit
 검은양복TS|||Black Suit TS
@@ -2013,6 +2032,7 @@ ZZZ|||ZZZ
 게임물|||Game Lit
 게임방송|||Game Stream
 게임배경|||Game Background
+게임북|||Gamebook
 게임빙의|||Game Possession
 게임빙의물|||Game Possession
 게임사기|||Game Scam
@@ -2103,6 +2123,7 @@ ZZZ|||ZZZ
 견해|||Opinion
 결과적순애|||Result Pure Love
 결국순애|||Ultimately Pure Love
+결국은백합|||Ultimately Yuri
 결단|||Decisive
 결단코BL아님|||Definitely Not BL
 결말|||Ending
@@ -2177,6 +2198,7 @@ ZZZ|||ZZZ
 계모간음|||Stepmom Adultery
 계모강간|||Stepmother Rape
 계몽주의|||Enlightenment
+계산적인주인공|||Calculating MC
 계승|||Inheritance
 계승권분쟁|||Inheritance Dispute
 계승자|||Inheritor
@@ -2573,6 +2595,7 @@ ZZZ|||ZZZ
 과학기술|||Science Tech
 과학대립|||Science Conflict
 과학문명|||Science Civilization
+과학법칙|||Science Laws
 과학자|||Scientist
 곽가|||Gakga
 곽청아|||Kwak Cheong-ah
@@ -2819,6 +2842,7 @@ ZZZ|||ZZZ
 국장|||Director
 국정|||State Affairs
 국정마비|||Government Paralysis
+국정원|||NIS
 국제결혼|||International Marriage
 국제연애|||Interracial Dating
 국회의원|||Congressman
@@ -2883,6 +2907,7 @@ ZZZ|||ZZZ
 궁수|||Archer
 궁예|||Gung Ye
 궁정|||Court
+궁정극|||Palace Intrigue
 궁정물|||Court Story
 궁중|||Court
 궁중드라마|||Court Drama
@@ -2977,6 +3002,7 @@ ZZZ|||ZZZ
 균열세계관|||Rift Worldview
 균혈|||Even Blood
 균형|||Balance
+귤멍|||Tangerine Bruise
 귤부인|||Tangerine Lady
 그|||That
 그거|||That
@@ -3115,6 +3141,7 @@ ZZZ|||ZZZ
 근딜충|||Melee DPS Addict
 근무|||Duty
 근미래|||Near-future
+근미래전|||Near-Future War
 근미래전쟁|||Near-Future War
 근본|||Fundamentals
 근본없는SF|||Rootless SF
@@ -3331,6 +3358,7 @@ ZZZ|||ZZZ
 기억침식|||Memory Erosion
 기억회귀|||Memory Regression
 기업|||Corporation
+기업국가|||Corporate State
 기업물|||Corporate Tale
 기업사냥|||Corp Hunt
 기업세|||Corporate War
@@ -3382,6 +3410,7 @@ ZZZ|||ZZZ
 긴다이치|||Kindaichi
 긴다이치하지메|||Kindaichi Hajime
 긴박한스토리|||Tense Story
+긴빠이|||Long White Hair
 긴생머리|||Long Straight Hair
 긴장감|||Tension/Suspense
 긴장감호러공포물|||Tense Horror
@@ -3977,6 +4006,7 @@ ZZZ|||ZZZ
 네크로멘서|||Necromancer
 네크로모프|||Necromorph
 네크로필리아|||Necrophilia
+네크론|||Necron
 네크롬|||Necrom
 네토|||Netori
 네토레라|||Netorare
@@ -4172,6 +4202,7 @@ ZZZ|||ZZZ
 누라리횬|||Nurarihyon
 누라리횬의손자|||Nurarihyon Son
 누명|||Framed
+누브익스페리먼트|||Noob Experiment
 누아르|||Noir
 누칼협|||Nukal Sword
 누칼협은아니고누폭협|||Not Naked Sword Not Naked Violence
@@ -4409,6 +4440,7 @@ ZZZ|||ZZZ
 다이어트녀|||Diet Girl
 다이에이|||Daiei
 다이의대모험|||Dai Adventure
+다이젠가|||Dai Jenga
 다이케이|||Dai Kei
 다이하드|||Die Hard
 다인군상극|||Multi Ensemble
@@ -4462,6 +4494,7 @@ ZZZ|||ZZZ
 다중조금|||Slight Multi
 다중주인공|||Multi Protagonist
 다중차원|||Multi-Dimension
+다중차원우주|||Multiverse
 다중차원이동|||Multiverse Travel
 다중캐릭터|||Multi Characters
 다중크로스오버|||Multi-Crossovers
@@ -4714,6 +4747,7 @@ ZZZ|||ZZZ
 대저택|||Mansion
 대저택미스터리|||Mansion Mystery
 대전|||VS Battles
+대전격투|||Versus Fighting
 대전략|||Grand Strategy
 대전쟁|||World War
 대정령세계관|||Great Spirit World
@@ -5088,6 +5122,7 @@ ZZZ|||ZZZ
 독자참여형|||Reader Interactive
 독자참여형소설|||Reader Participation Novel
 독재|||Dictator
+독재자|||Dictator
 독점|||Exclusive
 독점욕|||Possessiveness
 독참|||Solo Fight
@@ -5097,11 +5132,14 @@ ZZZ|||ZZZ
 독참소아님|||No Child Poison
 독타입|||Poison Type
 독특한|||Unique
+독특한능력|||Unique Ability
+독특한설정|||Unique Setup
 독특한세계관|||Unique Worldview
 독한놈|||Tough Guy
 독한여자|||Tough Woman
 독후감|||Afterword
 돈|||Money
+돈갚아|||Repay Debt
 돈모모타로|||Money Momotaro
 돈미새|||Money Newbie
 돈벌이물|||Money Making
@@ -5112,6 +5150,7 @@ ZZZ|||ZZZ
 돈의악마|||Money Demon
 돈이최고야|||Money Supreme
 돈지랄|||Money Spending Spree
+돈집착|||Money Obsession
 돈키|||Donkey
 돈키호테|||Don Quixote
 돌|||Stone
@@ -5240,6 +5279,7 @@ ZZZ|||ZZZ
 되었다|||Became
 될놈될|||Fated Succeed
 될때로되라|||Whatever Happens
+될지는|||Will Become
 두개이상등록|||Multiple Tags
 두구멍|||Double Hole
 두근두근|||Heart Pounding
@@ -5386,6 +5426,7 @@ ZZZ|||ZZZ
 디렉터|||Director
 디모|||Dimo
 디바인아포칼립스|||Divine Apocalypse
+디바인즈|||Divines
 디바인펑크시스터액션|||Divine Punk Sister Action
 디버퍼|||Debuffer
 디비전|||Division
@@ -5455,6 +5496,7 @@ ZZZ|||ZZZ
 딸깍대장장이|||Daughter Blacksmith
 딸깍호소인|||Click Beggar
 딸들에게|||To Daughters
+딸랑구성장|||Daughter Growth
 딸바보|||Daughtercon
 딸배|||Daughter Belly
 딸친구|||Daughter's Friend
@@ -5513,6 +5555,7 @@ ZZZ|||ZZZ
 또봇|||Tobot
 또봇V|||Tobot V
 또카데미|||Another Academy
+똑똑한바보|||Smart Idiot
 똘끼|||Quirk
 똘아이|||Clever Kid
 똘아이남주|||Silly Male Lead
@@ -5891,6 +5934,7 @@ ZZZ|||ZZZ
 로우파워판타지|||Low Power Fantasy
 로우판타지|||Low Fantasy
 로우판타지인가|||Low Fantasy?
+로웰|||Lowell
 로이드|||Lloyd
 로저|||Rogue
 로제마라탕|||Rose Malatang
@@ -6079,6 +6123,7 @@ ZZZ|||ZZZ
 리얼판타지|||Real Fantasy
 리얼픽션|||Real Fiction
 리오|||Rio
+리우협회|||Riu Association
 리월|||Liyue
 리유|||Reason
 리유니온|||Reunion
@@ -6563,6 +6608,7 @@ ZZZ|||ZZZ
 매료해방|||Charm Release
 매모라이즈|||Memorize
 매발톱단|||Claw Squad
+매스이펙트|||Mass Effect
 매우비정기적인연재|||Very Irregular Updates
 매우빠른|||Very Fast
 매우약피폐|||Very Slight Depressing
@@ -6680,6 +6726,7 @@ ZZZ|||ZZZ
 멀티시츄에이션|||Multi Situation
 멀티엔딩|||Multi Ending
 멀티주인공|||Multi Protagonist
+멈춘세계|||Frozen World
 멋진배|||Cool Squad
 멋진연애|||Cool Dating
 멋짐|||Cool
@@ -6773,6 +6820,7 @@ ZZZ|||ZZZ
 메타서사|||Metanarrative
 메타인지|||Metacognition
 메타지식|||Meta Knowledge
+메타코미디|||Meta Comedy
 메타톤|||Metaton
 메타픽션|||Metafiction
 메타휴먼|||Metahuman
@@ -7142,6 +7190,7 @@ ZZZ|||ZZZ
 무립|||No Ethics
 무마력|||No Magic Power
 무메이|||Mumei
+무명|||Nameless
 무명계|||Nameless Realm
 무명사제|||Nameless Priest
 무명왕|||Nameless King
@@ -7245,6 +7294,7 @@ ZZZ|||ZZZ
 무한|||Infinite
 무한TS|||Infinite TS
 무한÷무한=1|||Infinity Divide Infinity
+무한가챠|||Infinite Gacha
 무한경쟁|||Infinite Competition
 무한과금|||Infinite Spending
 무한도전|||Infinite Challenge
@@ -7311,6 +7361,7 @@ ZZZ|||ZZZ
 문신전쟁|||Tattoo Wars
 문어|||Octopus
 문어다리|||Octopus Legs
+문예|||Literary
 문예부|||Literature Club
 문예창작물|||Literary Creation
 문인|||Literati
@@ -7707,6 +7758,7 @@ ZZZ|||ZZZ
 박살난연재주기|||Broken Update Schedule
 박소림|||Park So Rim
 박수|||Applause
+박스공선전|||Box Gongseon War
 박시하|||Park Si-ha
 박씨부인전|||Madam Park
 박정희|||Park Chung-hee
@@ -8017,8 +8069,10 @@ ZZZ|||ZZZ
 버디|||Buddy
 버디물|||Buddy Cop
 버딕트데이|||Verdict Day
+버려진|||Abandoned
 버려짐|||Abandoned
 버리고왔다|||Abandoned
+버림|||Abandonment
 버미육|||Bermy Meat
 버블|||Bubble
 버사장|||Vice President
@@ -8071,11 +8125,13 @@ ZZZ|||ZZZ
 범인|||Culprit
 범재|||Universal Talent
 범죄|||Crime
+범죄다|||It's Crime
 범죄도시|||Crime City
 범죄도시첨가|||Crime City Elements
 범죄드라마|||Crime Drama
 범죄물|||Crime
 범죄소설|||Crime Novel
+범죄수사|||Crime Investigation
 범죄수사물|||Crime Investigation
 범죄스릴러|||Crime Thriller
 범죄심리|||Crime Psychology
@@ -8228,6 +8284,7 @@ ZZZ|||ZZZ
 병|||Disease
 병걸림|||Diseased
 병기물|||Weapon Story
+병동|||Hospital Ward
 병맛|||Absurd Comedy
 병맛로판|||Crazy Romantasy
 병맛성장물|||Sick Growth
@@ -8367,14 +8424,17 @@ ZZZ|||ZZZ
 복종시범|||Submission Demo
 복종의미학|||Submission Aesthetic
 복지|||Welfare
+복지정책|||Welfare Policy
 복합시리즈|||Composite Series
 복합장르|||Mixed Genre
+복합적|||Mixed
 볶음밥|||Fried Rice
 본격추리|||Serious Mystery
 본능|||Instinct
 본도르드|||Bondord
 본디지|||Bondage
 본방없음|||No Main Room
+본인도|||Even Myself
 본인마음대로|||As I Like
 본편|||Main Story
 본편관계X|||No Main Relation
@@ -8711,6 +8771,7 @@ ZZZ|||ZZZ
 블리치첨가|||Bleach Elements
 블서|||Blser
 블아|||Blue Archive
+블아명방소전|||Blue Archive Meongbang Battle
 블아약간아마도|||Blue Archive Slight Maybe
 블아조금|||Bit of Blue Archive
 블잉유니버스|||Bling Universe
@@ -9386,6 +9447,7 @@ ZZZ|||ZZZ
 삼삼한초반|||Bland Early
 삼세력안티|||Three Forces Anti
 삼송세탁기|||Sam-song Washer
+삼식참함도|||Samsik Chamhamdo
 삼일한|||Three Day One
 삼재|||Three Disasters
 삼재공|||Three Disasters Top
@@ -9573,6 +9635,7 @@ ZZZ|||ZZZ
 샤먼킹|||Shaman King
 샤스마티스|||Shasmartis
 샤아|||Char
+샤오|||Xiao
 샤이니컬러즈|||Shiny Colors
 샤잠|||Shazam
 샤크토네이도|||Shark Tornado
@@ -9721,6 +9784,7 @@ ZZZ|||ZZZ
 선협|||Xianxia
 선협로맨스|||Xianxia Romance
 선협물|||Xianxia
+선협물아님|||Not Xianxia
 선협스킨|||Xianxia Skin
 선협펑크|||Xianxia Punk
 선협향|||Xianxia Flavor
@@ -10244,6 +10308,7 @@ ZZZ|||ZZZ
 소수민족|||Minority
 소수자|||Minority
 소스|||Sauce
+소스케|||Sosuke
 소시민|||Commoner
 소시민지향|||Commoner Aim
 소시오|||Socio
@@ -10565,6 +10630,7 @@ ZZZ|||ZZZ
 숨겨진실력|||Hidden Talent
 숨겨진진실|||Hidden Truth
 숨겨진혈통|||Hidden Bloodline
+숨김능력|||Hidden Ability
 숨은실력자|||Hidden Powerhouse
 숨찐아빠|||Secret Real Dad
 숫자|||Numbers
@@ -11062,6 +11128,7 @@ ZZZ|||ZZZ
 식극의소마|||Food Wars
 식당|||Restaurant
 식도락|||Gourmet
+식량패권|||Food Hegemony
 식물|||Plant
 식물바이러스|||Plant Virus
 식민시대|||Colonial Era
@@ -11111,6 +11178,7 @@ ZZZ|||ZZZ
 신데렐라레이디|||Cinderella Lady
 신데마스|||Sindemas
 신도림|||Sindorim
+신도크로노|||Shin Dokrono
 신드로이아|||Sindroid
 신드로이아연대기|||Sindroia Chronicle
 신드롬|||Syndrome
@@ -11283,6 +11351,7 @@ ZZZ|||ZZZ
 실험체X과학자|||Test Subject x Scientist
 실화|||True Story
 실화기반|||True Story
+실화모티브|||True Story Motif
 실화바탕|||True Story Base
 싫으면|||If Hate
 심각|||Serious
@@ -11513,6 +11582,7 @@ ZZZ|||ZZZ
 아랍어|||Arabic
 아랑전설|||Arang Legend
 아레스티엘|||Arestiel
+아련함|||Wistful
 아로|||Aro
 아로나|||Arona
 아로나야믿는다|||Believe in Arona
@@ -11650,6 +11720,7 @@ ZZZ|||ZZZ
 아쓰기귀찮다|||Too Lazy to Write
 아야나미|||Ayanami
 아야노코지|||Ayanokoji
+아야야|||Ayaya
 아야카시|||Ayakashi
 아야토|||Ayato
 아얀토|||Ayanto
@@ -12060,6 +12131,7 @@ ZZZ|||ZZZ
 압도|||Overwhelm
 압도적먼치킨|||Overwhelming Munchkin
 압도적먼치킨남주|||Overpowered ML
+압도적부정적|||Overwhelmingly Negative
 압도적전개|||Overwhelming Plot
 앙마|||Angma
 앙스타|||Angst
@@ -12386,6 +12458,7 @@ ZZZ|||ZZZ
 약약후회|||Weak Regret
 약얀데레|||Soft Yandere
 약역하렘|||Weak Reverse Harem
+약오컬트|||Mild Occult
 약오해|||Light Misunderstanding
 약옴니버스|||Light Omnibus
 약외모역전|||Mild Appearance Reversal
@@ -12459,6 +12532,7 @@ ZZZ|||ZZZ
 약한최면|||Weak Hypnosis
 약한치트|||Weak Cheat
 약한피폐|||Weak Tragic
+약한후피집|||Mild Weak Obsession
 약함|||Weak
 약혐|||Mild Hate
 약호러|||Light Horror
@@ -12485,6 +12559,7 @@ ZZZ|||ZZZ
 양녕대군|||Yangnyeong Grand Prince
 양다리|||Double Dipping
 양다리같은무언가|||Something Like Two-Timing
+양말|||Socks
 양면스쿠나|||Two-Face Sukuna
 양미카|||Yang Mika
 양산형|||Mass-Produced
@@ -12526,6 +12601,7 @@ ZZZ|||ZZZ
 어나더라이더|||Another Rider
 어나더에덴|||Another Eden
 어나덴|||Anaden
+어나레|||Eonare
 어노말리|||Anomaly
 어느정도빌런|||Somewhat Villain
 어두운|||Dark
@@ -12550,6 +12626,7 @@ ZZZ|||ZZZ
 어딘가|||Somewhere
 어딘가이상한|||Somehow Weird
 어딜도망가|||Where Escape
+어떡해|||What To Do
 어떤|||Some
 어떤과학의초전자포|||Railgun
 어떤마술의금서목록|||Index of Prohibited Books
@@ -12560,6 +12637,7 @@ ZZZ|||ZZZ
 어른|||Adult
 어른들의연애지침서|||Adult Love Guide
 어른인척|||Pretend Adult
+어린교주|||Child Cult Leader
 어린시절|||Childhood
 어린시절부터|||From Childhood
 어린신부|||Child Bride
@@ -12637,6 +12715,7 @@ ZZZ|||ZZZ
 언리미티드|||Unlimited
 언어|||Language
 언어천재|||Language Genius
+언어치트|||Language Cheat
 언정소설|||Historical Novel
 언제가쓸지모름소설|||Unsure Use Novel
 언제쓸지는미정|||When to Write TBD
@@ -12885,6 +12964,8 @@ ZZZ|||ZZZ
 여군주|||Female Warlord
 여기사|||Female Knight
 여기사단|||Female Knight Order
+여기사람있어요|||Anyone Here?
+여기사로판|||Female Knight Romance
 여기자|||Female Reporter
 여긴어디야|||Where Am I
 여나최|||Yona Best
@@ -12914,6 +12995,7 @@ ZZZ|||ZZZ
 여러작품|||Multiple Works
 여러작품패러디|||Multi Parodies
 여러장르|||Multi Genre
+여러창작물|||Multiple Fanworks
 여러희로인|||Multiple Heroines
 여름|||Summer
 여름로맨스|||Summer Romance
@@ -12934,6 +13016,7 @@ ZZZ|||ZZZ
 여선생|||Female Teacher
 여선생님|||Female Teacher
 여선장|||Female Captain
+여섯|||Six
 여성만|||Women Only
 여성상위|||Female Top
 여성상위세계관|||Female Superior World
@@ -13094,6 +13177,7 @@ ZZZ|||ZZZ
 역강간|||Reverse Assault
 역강간조금|||Light Reverse Rape
 역겨움|||Nauseating
+역경|||Adversity
 역고스팅|||Reverse Ghosting
 역관광|||Reverse Tour
 역귀환|||Reverse Return
@@ -13128,6 +13212,7 @@ ZZZ|||ZZZ
 역사인물모에화|||Historical Moe
 역사잘모름|||History Ignorance
 역사재편|||History Rewrite
+역사적인물|||Historical Figure
 역사판타지|||Historical Fantasy
 역사학강좌|||History Lecture
 역사힐링물|||Historical Healing
@@ -13606,6 +13691,7 @@ ZZZ|||ZZZ
 오컬트|||Occult
 오컬트마니아|||Occult Maniac
 오컬트미스터리|||Occult Mystery
+오컬트판타지|||Occult Fantasy
 오컬트향|||Occult
 오크|||Orc
 오크지만찬양해|||Orc Praise
@@ -13701,6 +13787,7 @@ ZZZ|||ZZZ
 왁타버스|||Waktaverse
 완간미드나이트|||Complete Midnight
 완결|||Completed
+완결까지|||To Completion
 완결까지힘내자아아아|||Finish Cheer
 완결보장|||Completion Guaranteed
 완결지향|||Completion Aim
@@ -13752,6 +13839,7 @@ ZZZ|||ZZZ
 왕좌의게임|||Game of Thrones
 왕후|||Queen Consort
 왜|||Why
+왜곡|||Distortion
 왜곡된순애|||Twisted Pure Love
 왜곡없음|||No Distortion
 왜소증|||Dwarfism
@@ -14226,6 +14314,7 @@ ZZZ|||ZZZ
 원작파괴있음|||Setting Destroy Yes
 원작확장|||Canon Expansion
 원작효과|||Canon Effect
+원죄|||Original Sin
 원주민|||Natives
 원초적본능|||Primal Instinct
 원카드|||One Card
@@ -14392,6 +14481,7 @@ ZZZ|||ZZZ
 유사가족물|||Pseudo-Family
 유사갤러리|||Gallery Like
 유사공포|||Pseudo Horror
+유사과학|||Pseudo-Science
 유사근친|||Pseudo-Incest
 유사근친한스푼|||Pseudo Incest Spoon
 유사남녀역전|||Pseudo Gender Swap
@@ -14439,6 +14529,7 @@ ZZZ|||ZZZ
 유사현대|||Pseudo Modern
 유사환생|||Pseudo Reincarnation
 유사후타|||Pseudo Futanari
+유산|||Inheritance
 유상아|||Yoo Sangah
 유서|||Legacy
 유스타스키드|||Eustace Kid
@@ -14447,6 +14538,7 @@ ZZZ|||ZZZ
 유아인|||Yoo Ah-in
 유아퇴행|||Age Regression
 유아퇴행한말투는별로|||No Baby Talk
+유언|||Last Words
 유에이|||UA
 유열|||Bloodshed
 유열희망|||Hope for Reunion
@@ -14577,6 +14669,7 @@ ZZZ|||ZZZ
 으아아아아아니야|||Nooooo
 으악이게뭐야|||What the Hell
 으헤|||Uh Heh
+은|||Silver
 은근달달함|||Subtly Sweet
 은꼴|||Silver Erotic
 은꼴소설|||Silver Smut
@@ -14586,6 +14679,7 @@ ZZZ|||ZZZ
 은밀한|||Secretive
 은밀한만남|||Secret Meeting
 은발벽안|||Silver Hair Wall Eyes
+은발히로인|||Silver-Haired Heroine
 은뼈|||Silver Bone
 은아닌듯|||Not Silver
 은영전|||Eunyoung War
@@ -14605,6 +14699,7 @@ ZZZ|||ZZZ
 은하단|||Galaxy Cluster
 은하로킥오프|||Kick Off Galaxy
 은하영웅전설|||Legend of Galactic Heroes
+은하제국|||Galactic Empire
 은하철도|||Galaxy Railway
 은하철도999|||Galaxy Express 999
 은행강도|||Bank Heist
@@ -14650,6 +14745,7 @@ ZZZ|||ZZZ
 음약|||Aphrodisiac
 음양|||Yin-Yang
 음양사|||Onmyoji
+음양오행|||Yin-Yang Elements
 음어|||Sound Language
 음울|||Gloomy
 음월|||Dark Moon
@@ -14739,6 +14835,7 @@ ZZZ|||ZZZ
 이거저거|||This That
 이거죠죠아니다|||Not That
 이건뭘까|||What Is This
+이걸왜보는거야미친|||Why Read This Psycho
 이것드라|||This Drama
 이것저것|||This and That
 이것저것가끔가끔|||Bits and Pieces
@@ -14811,6 +14908,7 @@ ZZZ|||ZZZ
 이등병|||Private
 이딴게|||This Kind Of
 이딴게모험이냐|||This Adventure?
+이딴세계말고요|||Not This World
 이라낙후|||Ira Backward
 이라크|||Iraq
 이래도읽어줍니까|||Still Read?
@@ -15045,6 +15143,7 @@ ZZZ|||ZZZ
 인간다움|||Humanity
 인간등불|||Human Torch
 인간목장|||Human Ranch
+인간박이|||Human Bait
 인간변기통|||Human Toilet
 인간병기|||Human Weapon
 인간비판|||Human Critique
@@ -15095,6 +15194,7 @@ ZZZ|||ZZZ
 인류기원|||Human Origin
 인류보호회사|||Humanity Protection Corp
 인류뽕|||Humanity High
+인류사최악의소설|||Humanity's Worst Novel
 인류악|||Human Evil
 인류애|||Humanity Love
 인류에남자는나혼자다|||Only Man in Humanity
@@ -15185,6 +15285,7 @@ ZZZ|||ZZZ
 인종간|||Interracial
 인종역전|||Race Reverse
 인주력|||Protagonist Focus
+인지모르겠는|||Uncertain
 인지왜곡|||Perception Twist
 인지조차벅차다|||Even Cognition Overwhelming
 인질극|||Hostage Drama
@@ -15617,6 +15718,7 @@ ZZZ|||ZZZ
 작품아님|||Not a Work
 작품안에|||In Work
 작품완|||Complete Work
+작품이|||Work Is
 작품추가가능성있음|||Possible More Works
 작혼|||Mixed Works
 잔갸크|||Jeanne d'Arc
@@ -15710,6 +15812,7 @@ ZZZ|||ZZZ
 장군|||General
 장기|||Go
 장기예정|||Long-Term Plan
+장기체류형|||Long-Stay Type
 장기휴재|||Long Hiatus
 장꿈|||Chapter Dream
 장난|||Joke
@@ -16002,8 +16105,10 @@ ZZZ|||ZZZ
 전이|||Transfer/Isekai
 전이물|||Transfer Story
 전이자|||Lender
+전이자들|||Old Debtors
 전자|||Electronic
 전자불쏘시개|||Electric Lighter
+전자유령|||Digital Ghost
 전자음악|||Electronic Music
 전작리메이크|||Prequel Remake
 전작예토전생|||Prequel Wild Rebirth
@@ -16163,6 +16268,7 @@ ZZZ|||ZZZ
 정부기관|||Gov Agency
 정사|||Pure Evil
 정상수|||Normal Number
+정상인아님|||Not Sane
 정상인아웃|||Normal Out
 정상인없음|||No Normals
 정상전쟁|||Normal War
@@ -16178,6 +16284,7 @@ ZZZ|||ZZZ
 정신|||Spirit
 정신개조|||Mental Modification
 정신개조물|||Mind Reform
+정신과|||Psychiatry
 정신나간|||Insane
 정신나간주인공|||Insane Protagonist
 정신나갈거같아|||Mind Going Crazy
@@ -16363,6 +16470,7 @@ ZZZ|||ZZZ
 제뱌찌|||Jebya Ji
 제복|||Uniform
 제빵사|||Baker
+제사|||Ritual
 제사마|||Jesama
 제사장|||Priest
 제아봉침|||Acupuncture
@@ -16393,6 +16501,7 @@ ZZZ|||ZZZ
 제트|||Jet
 제파|||Zepa
 제피르TS|||Zephyr TS
+젠가|||Jenga
 젠네즈|||Gennez
 젠니|||Jennie
 젠더|||Gender
@@ -16471,6 +16580,7 @@ ZZZ|||ZZZ
 조선부마|||Joseon Son-in-Law
 조선사|||Joseon History
 조선사이버펑크|||Joseon Cyberpunk
+조선선비|||Joseon Scholar
 조선시대|||Joseon Dynasty
 조선아|||Joseon Ah
 조선야사|||Joseon Unofficial
@@ -17148,6 +17258,7 @@ ZZZ|||ZZZ
 집요정|||House Fairy
 집유|||Home Parody
 집작|||Personal Work
+집주인|||Landlord
 집착|||Obsession
 집착X|||No Obsession
 집착계|||Obsession Type
@@ -17192,6 +17303,7 @@ ZZZ|||ZZZ
 짝퉁중세|||Fake Medieval
 짠내나는|||Salty
 짤방|||Meme
+짧|||Short
 짧아카데미|||Short Academy
 짧은|||Short
 짧은글|||Short Post
@@ -17212,6 +17324,7 @@ ZZZ|||ZZZ
 짭중세|||Fake Medieval
 짱구|||Ziggu
 짱구는못말려|||Crayon Shin-chan
+짱구루트|||Crayon Shin-chan Route
 짱깨|||Chink
 짱재밌음|||Super Fun
 짱피폐|||Extreme Yandere
@@ -17262,6 +17375,7 @@ ZZZ|||ZZZ
 차원분신|||Dimension Clone
 차원상점|||Dimension Shop
 차원세계|||Dimension World
+차원아카이브|||Dimension Archive
 차원여행|||Dimension Travel
 차원요새|||Dimension Fortress
 차원유랑|||Dimension Wandering
@@ -17276,6 +17390,7 @@ ZZZ|||ZZZ
 차원찢개|||Dimension Shredder
 차원침공|||Dimension Invasion
 차원파견물|||Dimension Dispatch
+차장님|||Vice Manager
 차츰사이다|||Gradual Catharsis
 차카|||Chaka
 착가|||Chakga
@@ -17787,6 +17902,7 @@ ZZZ|||ZZZ
 총사|||Musketeer
 총사령관|||Supreme Commander
 총수|||Chairman
+총아|||Pride and Joy
 총이먼치킨|||Gun OP
 총잡이|||Gunslinger
 총장|||Director
@@ -17830,6 +17946,7 @@ ZZZ|||ZZZ
 최애|||Fav
 최애의아이|||Oshi no Ko
 최애의아이팬픽|||Favorite Child Fanfic
+최애캐살리기|||Kill Favorite Char
 최약|||Ultra Weak
 최약무패|||Weakest Invincible
 최약무패의신장기룡|||Weakest Invincible Dragon
@@ -18362,6 +18479,7 @@ ZZZ|||ZZZ
 코믹스|||Comics
 코믹일상|||Comic Daily
 코믹활극|||Comic Slapstick
+코민테른|||Comintern
 코바야시네|||Kobayashi Family
 코바야시네메이드래곤|||Kobayashi Dragon Maid
 코볼트|||Kobold
@@ -18436,6 +18554,7 @@ ZZZ|||ZZZ
 쿠베라|||Kubera
 쿠사나기|||Kusanagi
 쿠소가키|||Brat
+쿠소게|||Crap Game
 쿠우가|||Kuuga
 쿠잔|||Kuzan
 쿠즈|||Kuz
@@ -18649,6 +18768,7 @@ ZZZ|||ZZZ
 타이탄폴|||Titanfall
 타이탄폴2|||Titanfall 2
 타이포그래피|||Typography
+타인|||Stranger
 타인시점|||Other POV
 타인회귀|||Other Regression
 타임|||Time
@@ -19159,6 +19279,7 @@ ZZZ|||ZZZ
 판타지|||Fantasy
 판타지강조|||Fantasy Focus
 판타지게임|||Fantasy Game
+판타지대체역사|||Alt-History Fantasy
 판타지드라마|||Fantasy Drama
 판타지라이프|||Fantasy Life
 판타지로맨스|||Fantasy Romance
@@ -19189,6 +19310,7 @@ ZZZ|||ZZZ
 판타지적인총기액션|||Fantasy Gun Action
 판타지조선|||Fantasy Joseon
 판타지좋아|||Like Fantasy
+판타지중세|||Medieval Fantasy
 판타지코믹|||Fantasy Comic
 판타지티에스무공|||Fantasy TS Martial
 판타지한스푼|||Spoon Fantasy
@@ -19386,6 +19508,7 @@ ZZZ|||ZZZ
 펨섭|||Femsub
 펨투펨|||F2F
 펫|||Pet
+펫샵|||Pet Shop
 펫플레이|||Pet Play
 펭귄|||Penguin
 편견|||Prejudice
@@ -19665,6 +19788,7 @@ ZZZ|||ZZZ
 프로세카|||Project Sekai
 프로스트노바|||Frost Nova
 프로스트펑크|||Frostpunk
+프로시드|||Procedural
 프로야구|||Pro Baseball
 프로잭트문|||Project Moon
 프로젝트|||Project
@@ -19701,6 +19825,7 @@ ZZZ|||ZZZ
 프리저|||Priest
 프리즈마|||Prisma
 프리즈마이리야|||Prisma Illya
+프리즘스톤|||Prism Stone
 프리코네|||Princess Connect
 프리퀄|||Prequel
 프리큐어|||PreCure
@@ -19824,6 +19949,7 @@ ZZZ|||ZZZ
 피폐조금|||Light Ruin
 피폐주의|||Ruin Warning
 피폐주인공|||Abused Protagonist
+피폐집착|||Ruinous Obsession
 피폐쪼끔|||Little Despair
 피폐한스푼|||Spoon of Abuse
 피폐함|||Despair
@@ -19882,6 +20008,7 @@ ZZZ|||ZZZ
 하가문|||Ha Family
 하겐투스|||Hagenthus
 하계|||Summer
+하고싶어|||Wanna Do It
 하고싶은거|||Whatever I Want
 하고싶은거다함|||Do What I Want
 하고프|||Want to Do
@@ -20296,6 +20423,7 @@ ZZZ|||ZZZ
 해피엔딩|||Happy Ending
 해피엔딩지향|||Happy Ending Aim
 해피엠비|||Happy MB
+해피지향|||Happy-Oriented
 해학|||Humor
 핵|||Nuclear
 핵겨울|||Nuclear Winter
@@ -20372,6 +20500,7 @@ ZZZ|||ZZZ
 헌터X헌터|||Hunter x Hunter
 헌터×헌터|||Hunter x Hunter
 헌터는나오는데|||Hunters Appear But
+헌터몰|||Hunter Mall
 헌터물맞을지도|||Maybe Hunter
 헌터물은아님|||Not Hunter Story
 헌터물은아닙니다|||Not Hunter
@@ -20447,6 +20576,7 @@ ZZZ|||ZZZ
 현대|||Modern
 현대AU|||Modern AU
 현대과학|||Modern Science
+현대괴담|||Modern Ghost Story
 현대군|||Modern Military
 현대극|||Modern Drama
 현대근대|||Modern Early Modern
@@ -20482,6 +20612,7 @@ ZZZ|||ZZZ
 현대이후|||Post-Modern
 현대인|||Modern Person
 현대인전이|||Modern Transfer
+현대인참교육|||Modern Reeducation
 현대인천재론|||Modern Genius Theory
 현대적인요소도있음|||Modern Elements
 현대전|||Modern War
@@ -20499,6 +20630,7 @@ ZZZ|||ZZZ
 현대판타지인가|||Modern Fantasy?
 현대판파지|||Modern Fantasy? (Typo)
 현대판홍길동|||Modern Hong Gildong
+현대펀타지|||Modern Fantasy
 현대퓨전|||Modern Fusion
 현대해군|||Modern Navy
 현대화기|||Modern Firearms
@@ -20561,6 +20693,7 @@ ZZZ|||ZZZ
 현직편집자|||Active Editor
 현직편집자가말아주는|||Editor Recommends
 현질|||Microtransactions
+현태|||Hyeontae
 현태판타지|||Modern Fantasy
 현터물|||Modern Hunter
 현판|||Modern Fantasy
@@ -20597,6 +20730,7 @@ ZZZ|||ZZZ
 협회|||Guild
 협회직원|||Association Staff
 형|||Brother
+형벌|||Punishment
 형사|||Detective
 형사물|||Cop Story
 형수|||Sister-in-Law
@@ -20820,6 +20954,7 @@ ZZZ|||ZZZ
 황영웅|||Hwang Young-woong
 황자|||Crown Prince
 황제|||Emperor
+황제남주|||Emperor MC
 황제의칼날|||Emperor Blade
 황족|||Imperial
 황태자|||Crown Prince
@@ -20830,6 +20965,7 @@ ZZZ|||ZZZ
 회개|||Repentance
 회계|||Accounting
 회계사|||Accountant
+회고|||Retrospective
 회고록|||Memoir
 회구|||Regression
 회귀|||Regression
@@ -21071,6 +21207,7 @@ ZZZ|||ZZZ
 흑화|||Darkening
 흑화남|||Yandere Male
 흑화여주|||Darkened Heroine
+흑화히로인|||Blackened Heroine
 흔들흔들|||Wobbly
 흔적기관|||Trace Agency
 흔직세|||Common Job World
