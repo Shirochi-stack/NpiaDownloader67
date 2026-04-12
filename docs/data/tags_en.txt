@@ -521,6 +521,7 @@ FPS게임|||FPS Game
 FSF|||FSF
 FSN|||Fate Stay Night
 FSS|||FSS
+FST|||FST
 FTD|||FTD
 FUMO|||Fumo
 FURRY|||Furry
@@ -926,6 +927,7 @@ TF2|||Team Fortress 2
 THEFIRST|||The First
 THOT|||Thot
 TJFRHKR|||TJFRHKR
+TLE|||TLE
 TMI|||Too Much Info
 TNO|||The New Order
 TOA|||Trials of Apollo
@@ -3111,6 +3113,7 @@ ZZZ|||ZZZ
 그림소설|||Picture Novel
 그림자|||Shadow
 그림자복도|||Shadow Corridor
+그림자의밤|||Shadow's Night
 그림자정부|||Shadow Government
 그림작가|||Artist Recruit
 그림쟁이|||Artist
@@ -4712,6 +4715,7 @@ ZZZ|||ZZZ
 담텔|||Homeroom Telepathy
 담피르|||Dhampir
 답답남주|||Frustrating Male Lead
+답답한주인공|||Frustrating Protagonist
 답답함|||Frustrating
 답답해서|||Frustrated
 답사|||Field Trip
@@ -5050,6 +5054,7 @@ ZZZ|||ZZZ
 덴오|||Den-O
 덴지|||Denji
 덴지TS|||Denji TS
+덴지의노트|||Denji's Note
 델타룬|||Deltarune
 델타카이|||Delta Kai
 델타포스|||Delta Force
@@ -5413,6 +5418,7 @@ ZZZ|||ZZZ
 뒷스타그램|||Backstagram
 뒷통수|||Backstab
 뒷통수조심|||Backstab Warning
+듀나어|||Duna
 듀라한|||Dullahan
 듀랑고|||Durango
 듀얼|||Duel
@@ -5513,6 +5519,7 @@ ZZZ|||ZZZ
 디셉티콘집결하라|||Decepticons Assemble
 디스마인|||Dismine
 디스먼치킨|||Diss Munchkin
+디스커버리|||Discovery
 디스코드|||Discord
 디스코엘리시움|||Disco Elysium
 디스토피아|||Dystopia
@@ -5639,6 +5646,7 @@ ZZZ|||ZZZ
 또카데미|||Another Academy
 똑똑한바보|||Smart Idiot
 똘끼|||Quirk
+똘끼충만|||Full of Quirk
 똘아이|||Clever Kid
 똘아이남주|||Silly Male Lead
 똥|||Shit
@@ -6876,6 +6884,7 @@ ZZZ|||ZZZ
 메이드복|||Maid Outfit
 메이드인어비스|||Made in Abyss
 메이드인헤븐|||Maid in Heaven
+메이벨|||Mabel
 메이저리그|||Major League
 메이즈전대|||Maze Sentai
 메이지유신|||Meiji Restoration
@@ -7407,6 +7416,7 @@ ZZZ|||ZZZ
 무한류|||Infinite Flow
 무한부활|||Infinite Respawn
 무한성장|||Infinite Growth
+무한성장형|||Infinite Growth
 무한의검제|||Infinite Sword Emperor
 무한의프론티어|||Infinite Frontier
 무한전생|||Infinite Rebirth
@@ -8082,6 +8092,7 @@ ZZZ|||ZZZ
 배틀퍽|||Battle Fuck
 배틀필드|||Battlefield
 배틀필드1|||Battlefield 1
+배틀필드5|||Battlefield 5
 배틀필드6|||Battlefield 6
 배팅|||Betting
 배필|||Soulmate
@@ -9282,6 +9293,7 @@ ZZZ|||ZZZ
 사막화|||Desertification
 사망|||Death
 사망루트|||Death Route
+사망빙의|||Death Possession
 사망전대|||Death Squadron
 사망회귀|||Death Regression
 사멸회유|||Death Enticement
@@ -9785,6 +9797,7 @@ ZZZ|||ZZZ
 샹크스|||Shanks
 섀도사이드|||Shadow Side
 섀도우|||Shadow
+섀도우가든|||Shadow Garden
 섀도우런|||Shadowrun
 섀도우버스|||Shadowverse
 서간체|||Second Person
@@ -10554,6 +10567,7 @@ ZZZ|||ZZZ
 손오공|||Sun Wukong
 손오공루트|||Son Goku Route
 손오반|||Son Gohan
+손자병법|||Sun Tzu Art of War
 손자사랑|||Grandchild Love
 손책|||Sun Ce
 솔라|||Solar
@@ -10691,6 +10705,7 @@ ZZZ|||ZZZ
 숙명|||Fate
 숙모|||Stepaunt
 숙박집|||Inn
+숙종|||Sukjong
 숙주|||Host
 숙주나물|||Host Vegetable
 숙청|||Purge
@@ -10958,6 +10973,7 @@ ZZZ|||ZZZ
 스타크레프트|||StarCraft
 스타킹|||Stockings
 스타킹페티시|||Stocking Fetish
+스타트렉|||Star Trek
 스타팅포켓몬|||Starter Pokemon
 스타피스컴퍼니|||Starpeace Company
 스탈린|||Stalin
@@ -12054,6 +12070,7 @@ ZZZ|||ZZZ
 아테나컴플렉스|||Athena Complex
 아토믹펑크|||Atomic Punk
 아트록스|||Atrox
+아트오브워|||Art of War
 아틀란티스|||Atlantis
 아틀리에|||Atelier
 아티팩트|||Artifact
@@ -13221,6 +13238,7 @@ ZZZ|||ZZZ
 여성향로판세계|||Female Rofan World
 여성향모브|||Female-Oriented Mob
 여성향미연시세계|||Female Otome World
+여성향아님|||Not Female-Oriented
 여성화|||Feminization
 여소빙|||Female Child Possession
 여시|||Night Shift Woman
@@ -14795,6 +14813,7 @@ ZZZ|||ZZZ
 유캔도|||You Can Do
 유쾌|||Pleasant/Fun
 유쾌로코|||Fun Romcom
+유쾌통쾌|||Fun Refreshing
 유쾌한|||Cheerful
 유쾌한흑마법|||Fun Black Magic
 유쾌함|||Cheerful
@@ -17990,6 +18009,7 @@ ZZZ|||ZZZ
 초능력|||Superpower
 초능력물|||Superpower
 초능력배틀|||Superpower Battle
+초능력배틀물|||Superpower Battles
 초능력섹스|||Superpower Sex
 초능력소녀|||Superpowered Girl
 초능력없음|||No Superpowers
@@ -20028,6 +20048,7 @@ ZZZ|||ZZZ
 프랑켄프랑|||Franken Fran
 프랑코포니|||Francophonie
 프랙탈우주론|||Fractal Universe
+프러렌|||Frieren
 프런트|||Front
 프레나파테스|||Phrenapates
 프레데터|||Predator
@@ -21033,6 +21054,7 @@ ZZZ|||ZZZ
 호감|||Favor
 호감도|||Favorability
 호구|||Sucker
+호구아님|||Not a Pushover
 호그와트|||Hogwarts
 호그와트레거시|||Hogwarts Legacy
 호두|||Walnut
@@ -21305,6 +21327,7 @@ ZZZ|||ZZZ
 회옥|||Jade Palace
 회옥옥절|||Hwoi Ok Absolute
 회장|||Chairman
+회차업데이트느림|||Slow Updates
 회차플레이|||Round Play
 회천무창|||Hwae Cheon Mu Chang
 회초리|||Switch
