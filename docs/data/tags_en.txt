@@ -15,6 +15,7 @@
 10화빌런|||Ch10 Villain
 12간지|||12 Branches
 12구견|||12 Hounds
+12재앙|||12 Catastrophes
 12정공|||12 Pure Skills
 13인|||13 People
 13일의금요일|||Friday 13th
@@ -303,6 +304,7 @@ AI|||AI
 AI99|||AI99
 AI로만든일러스트|||AI Illustrations
 AI로봇|||AI Robot
+AI보조|||AI Assistant
 AI비서|||AI Assistant
 AI사용|||AI Used
 AI설정|||AI Setting
@@ -525,6 +527,7 @@ FSF|||FSF
 FSN|||Fate Stay Night
 FSS|||FSS
 FST|||FST
+FTAE|||FTAE
 FTD|||FTD
 FUMO|||Fumo
 FURRY|||Furry
@@ -1850,6 +1853,7 @@ ZZZ|||ZZZ
 갤럭타|||Galacta
 갤주|||Galju
 갤질의사|||Galjil Doctor
+갬모에|||Gem Moe
 갭모에|||Gap Moe
 갯바위낚시|||Rock Fishing
 갯파이트|||Gat Fight
@@ -2197,6 +2201,7 @@ ZZZ|||ZZZ
 경비병|||Guard
 경성|||Gyeongseong
 경소문|||Light Novel
+경어|||Honorifics
 경연|||Contest
 경영|||Management
 경영승계|||Management Succession
@@ -2634,6 +2639,7 @@ ZZZ|||ZZZ
 과부|||Widow
 과시|||Show Off
 과외|||Tutoring
+과외강사|||Private Tutor
 과일|||Fruit
 과자|||Snack
 과정전개|||Process Focus
@@ -2931,6 +2937,7 @@ ZZZ|||ZZZ
 군신|||Army God
 군왕|||Warlord
 군웅할거|||Heroes Gather
+군의관|||Military Doctor
 군인|||Soldier
 군인작가|||Military Author
 군주|||Monarch
@@ -3070,6 +3077,7 @@ ZZZ|||ZZZ
 그냥|||Just
 그냥쉬었음|||Just Rested
 그냥싹다|||Everything
+그냥쓰고싶은거|||Impulse Write
 그냥쓰는글|||Just Writing
 그냥야함|||Just Lewd
 그냥연습|||Just Practice
@@ -4963,6 +4971,7 @@ ZZZ|||ZZZ
 덕질|||Fandom
 덕코프|||Duck Cop
 덕후전생|||Otaku Rebirth
+던|||Dungeon
 던그리드|||Dungreed
 던만추|||DanMachi
 던메모|||Denmemo
@@ -5203,6 +5212,7 @@ ZZZ|||ZZZ
 독술|||Poison Art
 독식|||Monopolize
 독심술|||Telepathy
+독심술사|||Mind Reader
 독일|||Germany
 독일민주공화국|||GDR
 독일제국|||German Empire
@@ -5832,6 +5842,7 @@ ZZZ|||ZZZ
 러브러브|||Lovey-Dovey
 러브물음표코미디|||Love? Comedy
 러브스토리|||Love Story
+러브코매디|||Romcom
 러브코미다|||Love Comedy
 러브코미디|||Romcom
 러브코미티|||Love Comedy
@@ -6162,6 +6173,7 @@ ZZZ|||ZZZ
 루피|||Luffy
 루피공기화|||Luffy Air
 루피소꿉친구|||Luffy Childhood Friend
+루피후회물|||Luffy Regret
 룩소르|||Luxor
 룬|||Rune
 룬골렘|||Rune Golem
@@ -6177,6 +6189,7 @@ ZZZ|||ZZZ
 뤼상|||Lü Shang
 뤼상TS|||Lü Shang TS
 뤼엔|||Lü En
+뤼엔TS|||Ruen TS
 뤼팽|||Lupin
 류다희|||Ryudahee
 류소우저|||Ryusouger
@@ -6341,11 +6354,13 @@ ZZZ|||ZZZ
 마녀의바|||Witch's Bar
 마녀의여행|||Witch Journey
 마녀의집|||Witch House
+마녀착각|||Witch Misunderstanding
 마녀학원|||Witch Academy
 마노|||Mano
 마노사바|||Demon Survival
 마님|||Lady
 마다|||Mada
+마다가스카|||Madagascar
 마다가스카의펭귄|||Madagascar Penguins
 마다라|||Madara
 마도|||Magic Path
@@ -6821,6 +6836,7 @@ ZZZ|||ZZZ
 먼치킨(성장형)|||Munchkin (Growth)
 먼치킨X|||No Munchkin
 먼치킨XXXX|||Munchkin XXXX
+먼치킨가족|||Munchkin Family
 먼치킨남주|||OP Male Lead
 먼치킨동료|||OP Companion
 먼치킨들|||Munchkin Group
@@ -8331,6 +8347,7 @@ ZZZ|||ZZZ
 베르길리우스|||Vergilius
 베르사유|||Versailles
 베르세르크|||Berserk
+베르세리온|||Verserion
 베리알|||Verial
 베리타스|||Veritas
 베베데빌|||Bebe Devil
@@ -9990,6 +10007,7 @@ ZZZ|||ZZZ
 선협향|||Xianxia Flavor
 선협향첨가|||Xianxia Flavor
 설계|||Design
+설계자|||Designer
 설계자문명|||Designer Civilization
 설날특선|||New Year Special
 설녀|||Snow Woman
@@ -10741,6 +10759,7 @@ ZZZ|||ZZZ
 수필아님|||No Essay
 수필일지도|||Essay Maybe
 수학|||Math
+수학대전|||Math Olympiad
 수학도둑|||Math Thief
 수한정다정공|||Shy Affectionate Seme
 수험생|||Examinee
@@ -11911,6 +11930,7 @@ ZZZ|||ZZZ
 아무튼평범함|||Anyway Ordinary
 아미오브더데드|||Army of the Dead
 아바타|||Avatar
+아바타로전대|||Avatar Sentai
 아발론|||Avalon
 아방가르드|||Avant-Garde
 아방녀|||Abang Girl
@@ -12796,6 +12816,7 @@ ZZZ|||ZZZ
 약함|||Weak
 약혐|||Mild Hate
 약호러|||Light Horror
+약혼녀|||Fiancée
 약혼파기|||Engagement Break
 약회귀요소|||Light Regression
 약후피집|||Weak Fluff House
@@ -12907,6 +12928,7 @@ ZZZ|||ZZZ
 어마금|||Mother's Money
 어마식|||Big Food
 어머니|||Mother
+어메이징|||Amazing
 어메이징디지컬서커스|||Amazing Digital Circus
 어메이징디지털서커스|||Amazing Digital Circus
 어반|||Urban
@@ -13308,6 +13330,7 @@ ZZZ|||ZZZ
 여신|||Goddess
 여신공략|||Goddess攻略
 여신들|||Goddesses
+여신또라이|||Goddess Yandere
 여신전생|||Megami Tensei
 여신전생요소|||Megami Tensei Elements
 여신총애|||Goddess Favor
@@ -13518,6 +13541,7 @@ ZZZ|||ZZZ
 역키잡|||Reverse Gap
 역키잡느낌|||Reverse Grip
 역키잡물|||Reverse Power Dynamic
+역키잡향첨가|||Reverse Grip Scent
 역타락|||Reverse Corruption
 역퇴마|||Reverse Exorcism
 역트립|||Reverse Trip
@@ -13797,6 +13821,7 @@ ZZZ|||ZZZ
 예지력|||Precognition
 예측불가|||Unpredictable
 예토전생|||Wild Reincarnation
+예티브로맨스|||Yeti Bromance
 옛것|||Old Things
 옛날감성|||Old-School Vibe
 옛날소설|||Old Novel
@@ -14985,6 +15010,7 @@ ZZZ|||ZZZ
 은밀|||Secretive
 은밀한|||Secretive
 은밀한만남|||Secret Meeting
+은발|||Silver Hair
 은발벽안|||Silver Hair Wall Eyes
 은발히로인|||Silver-Haired Heroine
 은뼈|||Silver Bone
@@ -16363,6 +16389,7 @@ ZZZ|||ZZZ
 전래동화|||Folk Tale
 전략|||Strategy
 전략가|||Strategist
+전략게임|||Strategy Game
 전략시뮬|||Strategy Sim
 전략전투|||Strategy Combat
 전략판타지|||Strategy Fantasy
@@ -17343,6 +17370,7 @@ ZZZ|||ZZZ
 줘팸순애|||Give Pam Pure Love
 쥐|||Rat
 쥐는자|||Rat Holder
+쥔공안전함|||MC Safety
 쥔공허접|||Jun Void Connect
 쥬다이|||Judai
 쥬다이요한TS|||Judei Johan TS
@@ -17650,6 +17678,7 @@ ZZZ|||ZZZ
 짝퉁영지경영|||Fake Territory Management
 짝퉁중세|||Fake Medieval
 짠내나는|||Salty
+짠따남|||Loser Guy
 짤방|||Meme
 짧|||Short
 짧글|||Short Post
@@ -17812,6 +17841,7 @@ ZZZ|||ZZZ
 창작|||Original
 창작물|||Creative Work
 창작물속으로|||Into Fiction
+창작소|||Original Creation
 창작소설|||Original Novel
 창작신화|||Original Myth
 창작역사|||Original History
@@ -18716,6 +18746,7 @@ ZZZ|||ZZZ
 캣파이트안함|||No Catfight
 캣파이트일지도|||Possible Catfight
 커리어우먼|||Career Woman
+커마|||Kuma
 커맨더|||Commander
 커뮤|||Community
 커뮤니티|||Community
@@ -19628,6 +19659,7 @@ ZZZ|||ZZZ
 파판요소살짝|||FF Slight
 파판요소아주조금|||FF Touch
 파판조금|||FF Lite
+파편|||Fragments
 파피플레이타임|||Poppy Playtime
 파혼|||Broken Engagement
 판게아연대기|||Pangea Chronicle
@@ -20005,6 +20037,7 @@ ZZZ|||ZZZ
 폭력적|||Violent
 폭력적인|||Violent
 폭력조직박살|||Gang Smash
+폭렬마법|||Explosive Magic
 폭로|||Exposure
 폭로라이브|||Exposure Live
 폭발|||Explosion
@@ -20631,6 +20664,7 @@ ZZZ|||ZZZ
 한국영화|||Korean Movie
 한국요괴|||Korean Yokai
 한국인|||Korean
+한국인여주|||Korean FL
 한국인주인공|||Korean Protagonist
 한국인출신|||Korean Origin
 한국일본연애|||Korea-Japan Romance
@@ -20850,6 +20884,7 @@ ZZZ|||ZZZ
 허니즈|||Honiez
 허당|||Airhead
 허당먼치킨|||Clumsy Munchkin
+허당주인공|||Clumsy MC
 허당집착녀|||Clumsy Obsessive Girl
 허당캐|||Airhead Char
 허락된금기|||Permitted Taboo
@@ -21071,6 +21106,7 @@ ZZZ|||ZZZ
 현자의제자|||Sage's Apprentice
 현자의지혜|||Sage Wisdom
 현자현|||Sage Present
+현장물|||Frontline Story
 현재|||Present
 현제도남자|||Still Male
 현종|||Hyeonjong
@@ -21136,6 +21172,7 @@ ZZZ|||ZZZ
 혜지|||Hyeji
 호감|||Favor
 호감도|||Favorability
+호감도게임|||Favorability Game
 호구|||Sucker
 호구아님|||Not a Pushover
 호그와트|||Hogwarts
@@ -21315,6 +21352,7 @@ ZZZ|||ZZZ
 환생의환생|||Reincarnation Reborn
 환생자|||Reincarnator
 환생자많음|||Many Reincarnators
+환생좌|||Reincarnated Loser
 환성신|||Phantom God
 환세취호전|||Illusion Thief War
 환세희담|||Illusion Fairy Tale
@@ -21756,6 +21794,7 @@ ZZZ|||ZZZ
 힐링과고통|||Healing and Pain
 힐링로맨스|||Healing Romance
 힐링믈|||Healing Type
+힐링복수|||Healing Revenge
 힐링소설|||Healing Novel
 힐링연재|||Healing Updates
 힐링예정|||Healing Planned
