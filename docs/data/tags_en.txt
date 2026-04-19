@@ -181,6 +181,7 @@
 2차장착|||Secondary Equipped
 2차창작|||Fan Fiction
 2차창작물|||Fanfic
+2차창작팬픽|||Fan Fiction
 2창작|||2nd Creation
 2콜|||2 Call
 2화는없어요|||No Chapter 2
@@ -1450,6 +1451,7 @@ ZZZ|||ZZZ
 가오|||Gao
 가오가이가|||GaoGaiGar
 가오가이거|||GaoGaiGar
+가오꿈|||Gao Dream
 가오충|||Gao Chong
 가요|||Song
 가을|||Autumn
@@ -1747,6 +1749,7 @@ ZZZ|||ZZZ
 강화인간|||Augmented Human
 같으면서도|||Similar Yet
 같은세계관|||Shared Universe
+같은소설|||Similar Novel
 개|||Dog
 개걸레|||Extreme Slut
 개걸창|||Dog Gangbang
@@ -1769,6 +1772,7 @@ ZZZ|||ZZZ
 개그판타지|||Comedy Fantasy
 개그피폐|||Gag Breakdown
 개그한수푼|||Comedy Spoon
+개꿈|||Dog Dream
 개날먹|||Dog Day Eat
 개냥이|||Dog Nyan
 개념|||Concept
@@ -3644,6 +3648,7 @@ ZZZ|||ZZZ
 나데나데예정|||Petting Planned
 나데나데인가|||Petting Maybe
 나데나데조금|||Light Petting
+나데나데한방울|||Pet One Drop
 나데나데해줌|||Petting Provided
 나데나데향|||Petting Flavor
 나도모르는새애가|||Secret Crush
@@ -4098,6 +4103,7 @@ ZZZ|||ZZZ
 네크로필리아|||Necrophilia
 네크론|||Necron
 네크롬|||Necrom
+네탓이군|||Your Fault
 네토|||Netori
 네토레라|||Netorare
 네토마조|||Netorare Maso
@@ -4444,6 +4450,7 @@ ZZZ|||ZZZ
 닌자고|||Ninjago
 닌자댄스|||Ninja Dance
 닌자몰살|||Ninja Massacre
+닌자보이랜디|||Ninja Boy Randy
 닌자슬레이어|||Ninja Slayer
 닌자퇴마|||Ninja Exorcism
 닌텐도|||Nintendo
@@ -4883,6 +4890,7 @@ ZZZ|||ZZZ
 대충야함|||Roughly Wild
 대충여러장르들|||Various Genres Roughly
 대충좋아하는거다넣음|||Stuff I Like Roughly
+대충짱짱쩌는메카|||OP Mecha
 대침몰|||Great Sinking
 대타|||Sub
 대통령|||President
@@ -5617,6 +5625,8 @@ ZZZ|||ZZZ
 딱대|||Exactly
 딸|||Daughter
 딸감|||Daughter Con
+딸기|||Strawberry
+딸기재배|||Strawberry Farming
 딸깍|||Daughter Click
 딸깍대장장이|||Daughter Blacksmith
 딸깍호소인|||Click Beggar
@@ -6632,6 +6642,7 @@ ZZZ|||ZZZ
 막타충|||Finisher Addict
 막필|||Last Spurt
 만☆족★민|||Satisfaction People
+만고지존|||Eternal Supreme
 만귀플|||Full Cuteness
 만나서는|||Meeting
 만남|||Meeting
@@ -7090,6 +7101,7 @@ ZZZ|||ZZZ
 모델|||Model
 모델링|||Modeling
 모동숲|||Animal Crossing
+모두의이야기|||Everyone's Story
 모두의주인공|||Everyone's Protagonist
 모두피폐|||All Ruin
 모듈러|||Modular
@@ -7298,6 +7310,7 @@ ZZZ|||ZZZ
 무계획|||No Plan
 무계획소설|||No Plan Novel
 무고|||Innocent
+무고로돈버는거아님|||No Easy Money
 무고죄|||False Accusation
 무공|||Martial Arts
 무공오해물|||Martial Misunderstanding
@@ -8005,6 +8018,7 @@ ZZZ|||ZZZ
 반피폐|||Half Ruin
 반한감정|||Anti-Korean Feeling
 발|||Feet/Foot
+발굴|||Discovery
 발기력|||Erection Power
 발기부전|||Erectile Dysfunction
 발냄새|||Foot Odor
@@ -8210,6 +8224,7 @@ ZZZ|||ZZZ
 백합조금만|||Light Yuri
 백합지향|||Yuri Aim
 백합타락|||Yuri Corruption
+백합페로몬|||Yuri Pheromone
 백합하렘|||Yuri Harem
 백합한수푼|||Yuri Spoonful
 백합한스푼|||Spoonful Yuri
@@ -12714,6 +12729,7 @@ ZZZ|||ZZZ
 약사|||Apothecary
 약상|||Light Injury
 약설정파괴|||Light Setting Break
+약성좌물|||Weak Constellation
 약세뇌|||Weak Brainwash
 약속|||Promise
 약속된메탈의땅핀란드|||Promised Metal Land Finland
@@ -13699,6 +13715,7 @@ ZZZ|||ZZZ
 열매|||Fruit
 열매능력없음|||No Devil Fruit
 열매능력자|||Fruit Ability
+열병|||Fever
 열전|||Thermoelectric
 열정|||Passion
 열차|||Train
@@ -14270,6 +14287,7 @@ ZZZ|||ZZZ
 요술처녀|||Magic Girl
 요슬롯|||Yo Slot
 요시노|||Yoshino
+요시히데|||Yoshihide
 요식업|||Food Service
 요약|||Summary
 요염|||Seductive
@@ -14465,6 +14483,7 @@ ZZZ|||ZZZ
 운영물|||Management
 울|||Cry
 울버린|||Wolverine
+울산|||Ulsan
 울트라|||Ultra
 울트라마린|||Ultramarine
 울트라맨|||Ultraman
@@ -14492,6 +14511,7 @@ ZZZ|||ZZZ
 워록|||Warlock
 워맨스|||War Romance
 워쉽|||Warship
+워십|||Worship
 워썬더|||War Thunder
 워즈|||Wars
 워커홀릭|||Workaholic
@@ -15805,6 +15825,7 @@ ZZZ|||ZZZ
 일지도|||Maybe Daily
 일진|||Bully/Delinquent
 일진녀|||Delinquent Girl
+일진물|||Delinquents
 일진양아치왕따이지메|||Delinquent Bully
 일찐|||Day One
 일타강사|||Top Tutor
@@ -16004,6 +16025,7 @@ ZZZ|||ZZZ
 자퇴|||Dropout
 자퇴생|||Dropout
 자폐|||Autism
+자폭|||Self-Destruct
 자폭마|||Suicide Demon
 자프트|||ZAFT
 자하드|||Zahard
@@ -16770,10 +16792,12 @@ ZZZ|||ZZZ
 정희원|||Jung Heewon
 젖|||Milk
 젖닌|||Milk Nin
+젖대판타지|||Big Boobs Fantasy
 젖소|||Milk Cow
 젖소녀|||Milk Cow Girl
 젖치기|||Breast Slapping
 젖통무협|||Boob Wuxia
+젖통판타지|||Boob Fantasy
 제|||Je
 제2의삶|||Second Life
 제2차세계대전|||WWII
@@ -16915,6 +16939,7 @@ ZZZ|||ZZZ
 조금|||Little
 조금고구마|||Bit Sweet Potato
 조금고어|||Light Gore
+조금난잡한전개|||Messy Plot
 조금낭만|||Slight Romance
 조금느림|||Bit Slow
 조금다크함|||Slightly Dark
@@ -17954,6 +17979,7 @@ ZZZ|||ZZZ
 천세|||Heavenly Era
 천쇄참월|||Thousand Chains Crescent
 천신|||God
+천안|||Cheonan
 천억부자|||Billionaire
 천여주박|||Thousand Heroines
 천연|||Natural
@@ -18016,6 +18042,7 @@ ZZZ|||ZZZ
 첫경험|||First Time
 첫공모전|||First Contest
 첫글|||First Post
+첫독참소|||Newbie Hook
 첫무협|||First Martial Arts
 첫번째이야기|||First Story
 첫사랑|||First Love
@@ -20334,6 +20361,7 @@ ZZZ|||ZZZ
 피폐남|||Despair Male
 피폐는몰루|||No Angst
 피폐는없을예정|||No Depressing Planned
+피폐라뇨그런흉악한|||Not That Dark
 피폐로맨스|||Tragic Romance
 피폐먼치킨|||Angsty Munchkin
 피폐물인줄|||Seemed Despair
@@ -20505,6 +20533,7 @@ ZZZ|||ZZZ
 하렘일껄요|||Harem Probably
 하렘일수도|||Harem Maybe
 하렘일지도|||Harem Maybe
+하렘있을수도|||Possible Harem
 하렘조교순애|||Harem Train Pure Love
 하렘지향|||Harem Focus
 하렘찐막|||Harem Last
@@ -20856,6 +20885,7 @@ ZZZ|||ZZZ
 핸더랜드|||Handerland
 핸드웨폰|||Hand Weapon
 햄릿각색|||Hamlet Adaptation
+햄부기|||Ambipom
 햄스터|||Hamster
 햄타지라이크|||Fantasy Like
 햄탈워|||Hamtal War
@@ -21024,6 +21054,7 @@ ZZZ|||ZZZ
 현대아님|||Not Modern
 현대아포칼립스|||Modern Apocalypse
 현대약간|||Slight Modern
+현대음식|||Modern Food
 현대의|||Modern's
 현대의학|||Modern Medicine
 현대이능|||Modern Abilities
@@ -21074,6 +21105,7 @@ ZZZ|||ZZZ
 현실감|||Realism
 현실개변|||Reality Change
 현실공포|||Real Horror
+현실귀농|||Realistic Farming
 현실기반|||Reality Based
 현실도피|||Reality Escape
 현실로망|||Real Romance
@@ -21598,6 +21630,7 @@ ZZZ|||ZZZ
 휴먼드라마|||Human Drama
 휴먼버그대학|||Human Bug Univ
 휴먼버그대학교|||Human Bug Uni
+휴먼빙|||Human Possession
 휴먼성장드라마|||Human Growth Drama
 휴먼판타지|||Human Fantasy
 휴버대|||Horror Univ
@@ -21713,6 +21746,7 @@ ZZZ|||ZZZ
 히로인구원|||Heroine Rescue
 히로인다수|||Multiple Heroines
 히로인단체회귀|||Heroine Group Regression
+히로인따로있음|||Separate Heroine
 히로인먼치킨|||Heroine Munchkin
 히로인메이커|||Heroine Maker
 히로인모두처녀|||All Heroines Virgins
