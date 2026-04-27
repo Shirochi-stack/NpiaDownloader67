@@ -71985,7 +71985,6 @@
 24172|||그냥 백합 이야기|||Just a Yuri Story
 226120|||다른 학교의 여학생을 도왔더니 친구부터 시작하게 되었습니다|||I Helped a Female Student from Another School and We Started as Friends
 224455|||전속 집사를 그만두니 모셨던 아가씨가 유난히 가까운데|||I Quit Being a Personal Butler and the Young Lady I Served is Unusually Close
-227044|||세드릭 디고리에게 씀 |해리포터|||||
 169165|||초능력 고등학교|||Superpower High School
 212173|||여사친 진|||Female Friend Jin
 155802|||(전) 무림맹주 (현) 미소녀|||(Former) Murim Alliance Leader (Current) Beautiful Girl
@@ -77319,6 +77318,7 @@
 424280|||북부대공 장남은 탑이 너무 쉬움|||Northern Grand Duke's Eldest Son Finds the Tower Too Easy
 424210|||삼류 악역으로 살아남기|||Surviving as a Third-Rate Villain
 425082|||밑바닥 하청 경비만 하던 내가 어느날 비급을 주웠다|||Bottom-Tier Subcontract Security Guard Picks Up a Secret Manual One Day
+424854|||(죠죠X림버스)「폭심지의 여행자」,|||(JoJo x Limbus) "Traveler of the Eye of the Storm",
 424381|||죽지 않는 마녀가 되었다.|||I Became an Immortal Witch
 425060|||역전세계 용사파티의 성자가 되었다|||I Became the Saint of the Hero Party in a Reversed World
 424805|||피조물이 된 인간, 철의 신을 죽이러 간다|||Human Turned Creation Goes to Kill the Iron God
@@ -77356,6 +77356,7 @@
 424834|||공식을 증명하는 마법사|||Mage Proving the Formula
 424489|||지옥에서 돌아온 광대의 룰 브레이킹|||Clown Returned from Hell Breaks the Rules
 424912|||아가씨의 호위를 맡고 있습니다|||I'm in Charge of the Young Lady's Escort
+424930|||ㅇㅇ54ㅗㅓ|||eung54oeo
 424484|||용사 파티에서 간신히 추방 당했다|||Barely Expelled from the Hero Party
 424765|||제국 아카데미의 전범 예정자|||Designated War Criminal of the Imperial Academy
 424919|||반역자지만 용사입니다.|||Rebel, But Also a Hero
@@ -77395,6 +77396,7 @@
 424486|||괴이를 죽였다.|||I Killed a Monstrosity
 424661|||범죄자만 노리는 사기꾼은 마법이 귀찮다.|||Scammer Targeting Only Criminals Finds Magic Annoying
 424695|||그것은 용사의 그림자|||That Was the Hero's Shadow
+424739|||ㅇㅇㅎㄹㅇㅁㅎㅇ뮻큐품ㄹㄹㅁ훔ㄹ훟ㅁㄹ|||eunghreumheungmyulkyupumllmhumllhuomll
 424390|||(갓오하x스더블)4진조의 후계자|||(Genshin x Star Double) Successor of the Four Gods
 420879|||신살자의 god상담소에 어서오세요.|||Welcome to the God Killer's God Counseling Office
 424293|||《엘프 마법사님 제발 뭐라도 좀 해주세요!》|||"Elf Mage, Please Do Something!"
@@ -77489,6 +77491,7 @@
 424856|||그런 내게 남은 건 소꿉친구 뿐|||All That's Left for Me Is My Childhood Friend
 424974|||나중에 보지 말자|||Let's Not See Each Other Later
 423297|||뚱녀가 되었으니 다이어트 합니다|||Became Chubby Girl, So Dieting
+425125|||ㅍㅎㅎ|||phhh
 424948|||러브코미디 속 히로인들의 비밀을 알아버렸다|||Found Out the Heroines' Secrets in a Rom-Com
 424994|||퇴근 후, 나는 블루입니다|||After Work, I'm Blue
 424685|||떠돌이 드래곤을 주웠다|||Picked Up a Stray Dragon
@@ -77651,7 +77654,4 @@
 424664|||페스트에 맞서는 엑소시스트|||Exorcist Against the Plague
 424703|||공주님의악몽|||Princess's Nightmare
 424673|||그날 밤, 방송국에 남겨진 이야기|||That Night, the Story Left at the Broadcast Station
-424854|||(죠죠X림버스)「폭심지의 여행자」,|||(JoJo x Limbus) "Traveler of the Eye of the Storm",
-424930|||ㅇㅇ54ㅗㅓ|||eung54oeo
-424739|||ㅇㅇㅎㄹㅇㅁㅎㅇ뮻큐품ㄹㄹㅁ훔ㄹ훟ㅁㄹ|||eunghreumheungmyulkyupumllmhumllhuomll
-425125|||ㅍㅎㅎ|||phhh
+227044|||세드릭 디고리에게 씀 |해리포터|||
