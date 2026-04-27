@@ -363,6 +363,7 @@ BAR|||BAR
 BBC|||BBC
 BBS|||BBS
 BBW|||BBW
+BDMS|||BDSM
 BDSM|||BDSM
 BDSM성장물|||BDSM Growth
 BEATLESS|||Beatless
@@ -518,6 +519,7 @@ FEMDOM|||Femdom
 FETISH|||Fetish
 FF|||FF
 FF14|||FF14
+FF7|||FF7
 FGO|||Fate/Grand Order
 FGO시스템|||FGO System
 FGO조금|||FGO Slight
@@ -957,6 +959,7 @@ TREX|||T-Rex
 TRPG|||TRPG
 TRPG지향|||TRPG Style
 TS|||Genderbend (TS)
+TS3명|||TS Trio
 TS5화미만|||TS Under 5 Chapters
 TSF|||TSF
 TS​|||TS
@@ -1296,6 +1299,7 @@ ZZZ|||ZZZ
 가계운영물|||Family Business
 가고토스|||Kagotous
 가공|||Fabricated
+가공낙원|||Faux Paradise
 가공식품|||Processed Food
 가공의기술|||Fictional Tech
 가구|||Furniture
@@ -1654,6 +1658,7 @@ ZZZ|||ZZZ
 감정풍괴|||Emotion Wreck
 감정해방|||Emotional Release
 감찰|||Audit
+감평|||Reviews
 갑각류계|||Crustacean Type
 갑신정변|||Gapsin Coup
 갑옷|||Armor
@@ -2182,6 +2187,7 @@ ZZZ|||ZZZ
 격투겜|||Fighting Game
 격투기|||Martial Arts/MMA
 격투물|||Fighting
+격투향조금|||Light Fighting
 견문록|||Eyewitness
 견해|||Opinion
 결계|||Barrier
@@ -2543,6 +2549,7 @@ ZZZ|||ZZZ
 공대장|||Engineering Captain
 공돌이|||Engi Nerd
 공돌이황자|||Engineer Prince
+공동|||Shared
 공란|||Blank Space
 공략|||Conquest
 공략법|||攻略 Guide
@@ -2898,6 +2905,7 @@ ZZZ|||ZZZ
 국가권력급|||National Power Level
 국가급|||National Level
 국가대표|||National Team
+국가랭킹|||Nation Ranking
 국가몰락|||Nation Collapse
 국가설계|||Nation Building
 국가운영|||Nation Management
@@ -3180,6 +3188,7 @@ ZZZ|||ZZZ
 그외일부|||Others Partial
 그중간|||In Between
 그체|||That Body
+그텐트아님|||Not That Tent
 극T|||Extreme T
 극강먼치킨|||Ultimate OP
 극강재능|||Extreme Talent
@@ -3254,6 +3263,7 @@ ZZZ|||ZZZ
 근친|||Incest
 근친(일부)|||Incest (Some)
 근친NTR|||Incest NTR
+근친X|||No Incest
 근친같은야스|||Incest-Like Yas
 근친녀의일탈|||Incest Deviance
 근친도있음|||Incest Too
@@ -3347,6 +3357,7 @@ ZZZ|||ZZZ
 기갑슈트|||Mecha Suit
 기계|||Machine
 기계간|||Machine Sex
+기계공학|||Mechanical Engineering
 기계교|||Mechanicus
 기계도있음|||Mechs Too
 기계문명|||Machine Civilization
@@ -3746,6 +3757,7 @@ ZZZ|||ZZZ
 나이퇴행|||Age Regression
 나이트|||Knight
 나이트런|||Knight Run
+나이트런살짝|||Slight Nightrun
 나이트런요소|||Night Run Elements
 나이트런조금|||Nightrun Slight
 나이트로시스템|||Nitro System
@@ -3860,6 +3872,7 @@ ZZZ|||ZZZ
 남녀역전아님|||Not Gender Swap
 남녀역전착각|||Gender Reverse Misunderstanding
 남녀역전필요없음|||No Gender Swap Needed
+남녀역전향|||Gender Reversal
 남녀주인공|||Male Female MC
 남녀평등|||Gender Equality
 남동생|||Little Brother
@@ -4020,6 +4033,7 @@ ZZZ|||ZZZ
 내맘대로무림|||My Way Murim
 내멋대로설정|||My Settings
 내면|||Inner Self
+내면갈등|||Inner Conflict
 내면의또다른나|||Inner Alter Ego
 내면탐구|||Inner Exploration
 내성|||Tolerance
@@ -5340,6 +5354,7 @@ ZZZ|||ZZZ
 동면|||Hibernation
 동명이인|||Namesake
 동물|||Animal
+동물교미|||Bestiality
 동물귀|||Animal Ears
 동물농장|||Animal Farm
 동물묘사|||Animal Depiction
@@ -5410,6 +5425,7 @@ ZZZ|||ZZZ
 동프|||Dongpf
 동행|||Companion
 동행물|||Companion Story
+동향풍|||Oriental Style
 동화|||Fairy Tale
 동화同化|||Assimilation
 동화소녀|||Fairy Tale Girl
@@ -5438,6 +5454,7 @@ ZZZ|||ZZZ
 두뇌게임|||Brain Game
 두뇌먼치킨|||Brain Munchkin
 두뇌물|||Brain Tale
+두뇌배틀|||Brain Battle
 두뇌싸움|||Brain Battle
 두뇌전|||Mind Battle
 두뇌캐|||Brain Char
@@ -6018,6 +6035,7 @@ ZZZ|||ZZZ
 로그라이트|||Log Light
 로그호라이즌|||Log Horizon
 로나|||Rona
+로네|||Rone
 로데이아|||Rodeia
 로드|||Load
 로드무비|||Road Movie
@@ -6121,6 +6139,7 @@ ZZZ|||ZZZ
 로켓|||Rocket
 로켓단|||Rocket Gang
 로코|||Romantic Comedy
+로코물|||Romcom
 로크|||Locke
 로키|||Loki
 로키파밀리아|||Loki Familia
@@ -6147,6 +6166,7 @@ ZZZ|||ZZZ
 록맨엑스|||Mega Man Ex
 록맨제로|||Mega Man Zero
 록맨클래식시리즈|||Mega Man Classic
+록스|||Rox
 록스타|||Rockstar
 록스해적단|||Rocks Pirates
 록시|||Roxy
@@ -6240,6 +6260,7 @@ ZZZ|||ZZZ
 류인약화|||Dragonkin Weakened
 류쥬모모|||Ryuju Momo
 류켄도|||Ryukendo
+류큐|||Ryukyu
 르네|||Rene
 르네상스|||Renaissance
 르노어|||Renoire
@@ -6618,6 +6639,7 @@ ZZZ|||ZZZ
 마조주인공|||Mazo MC
 마조타락|||Maso Fall
 마조히스트|||Masochist
+마조히즘|||Masochism
 마족|||Demon Race
 마족죽인다맨|||Demon Slayer Man
 마족타락|||Demon Corruption
@@ -7372,6 +7394,7 @@ ZZZ|||ZZZ
 무기상인|||Weapon Merchant
 무기인간|||Weapon Human
 무기제작자|||Weapon Smith
+무난한|||Average
 무너지는여주|||Crushing Heroine
 무너진스타|||Fallen Star
 무녀|||Shrine Maiden
@@ -7447,6 +7470,7 @@ ZZZ|||ZZZ
 무신정권|||Martial Lord Regime
 무심남|||Stoic Male
 무심녀|||Indifferent Girl
+무심수|||Aloof Type
 무심여주|||Indifferent Female Lead
 무쌍|||Unmatched/Musou
 무쌍없음|||No Musou
@@ -7572,6 +7596,7 @@ ZZZ|||ZZZ
 문명발전|||Civilization Growth
 문명복구|||Civilization Restore
 문명붕괴|||Civilization Collapse
+문명재건|||Civilization Rebuild
 문무겸비|||Civil Military
 문백경|||Moon Baek Kyung
 문스독|||Moon's Dog
@@ -7900,6 +7925,7 @@ ZZZ|||ZZZ
 밀킹|||Milking
 밀프|||MILF
 밀프귀족|||MILF Noblewoman
+밀프텨|||MILF Top
 밀해단|||Mil Hae Dan
 밈|||Meme
 밈다수포함|||Panties Included
@@ -9630,6 +9656,7 @@ ZZZ|||ZZZ
 사후세계|||Afterlife
 사흉수|||Four Evils
 삭|||Sak
+삭제|||Deleted
 산군|||Mountain Troops
 산나비|||Sannabi
 산나비향첨가|||Sannabi Flavor
@@ -9793,6 +9820,7 @@ ZZZ|||ZZZ
 상태창X|||No Status
 상태창관리자|||Status Window Manager
 상태창사라짐|||Status Window Gone
+상태창수정|||Status Edit
 상태창없는|||No Status Window
 상태창없음|||No Status Window
 상태창조금|||Status Window Slight
@@ -10090,6 +10118,7 @@ ZZZ|||ZZZ
 설유라|||Seol Yura
 설정|||Setting/Worldbuilding
 설정각색|||Setting Adapt
+설정각색주의|||Setting Tweaks
 설정개변|||Setting Alter
 설정교체될수있음|||Settings May Change
 설정노트|||Setting Notes
@@ -10823,6 +10852,7 @@ ZZZ|||ZZZ
 수치심MAX|||Max Shame
 수치플|||Humiliation Play
 수치플레이|||Humiliation Play
+수칙|||Rules
 수칙서|||Rule Book
 수캐|||Water Char
 수컷타락|||Male Corruption
@@ -11110,6 +11140,7 @@ ZZZ|||ZZZ
 스타워드|||Star Ward
 스타워즈|||Star Wars
 스타워즈아주조금|||Star Wars Light
+스타일리쉬|||Stylish
 스타일리쉬누아르|||Stylish Noir
 스타일리쉬액션|||Stylish Action
 스타크래프트|||StarCraft
@@ -11149,6 +11180,7 @@ ZZZ|||ZZZ
 스토리반|||Story Half
 스토리변경|||Story Change
 스토리변경있음|||Story Changes
+스토리붕괴있을수있음|||Plot Holes Possible
 스토리야설|||Story Lies
 스토리와무관|||Story Irrelevant
 스토리우스|||Storyus
@@ -11514,6 +11546,7 @@ ZZZ|||ZZZ
 신뢰|||Trust
 신뢰동의|||Trust Consent
 신뢰의붕괴|||Trust Collapse
+신멸자|||God Destroyer
 신모델|||New Model
 신무협|||New Wuxia
 신문|||Newspaper
@@ -11579,6 +11612,7 @@ ZZZ|||ZZZ
 신의금기|||God's Taboo
 신의능력|||God Ability
 신의대행자|||God's Proxy
+신의무기|||God's Weapon
 신의선물|||God's Gift
 신의아들|||God's Son
 신의아이|||God's Child
@@ -12393,6 +12427,7 @@ ZZZ|||ZZZ
 알몸도게자|||Nude Dogeza
 알몸산책|||Nude Walk
 알바|||Part-Time
+알바녀|||Part-time Girl
 알바마왕|||Part-Time Demon Lord
 알바생|||Part-Timer
 알바트리온|||Alatreon
@@ -12870,6 +12905,7 @@ ZZZ|||ZZZ
 약피페|||Soft Devastation
 약피페일수도|||Possible Mild Angst
 약피폐|||Mild Angst
+약피폐다크|||Dark Weaklings
 약피폐물|||Weak Tragic Story
 약피폐일수도|||Maybe Angst
 약피폐일수도있음|||Maybe Light Ruin
@@ -12894,6 +12930,7 @@ ZZZ|||ZZZ
 약한최면|||Weak Hypnosis
 약한치트|||Weak Cheat
 약한피폐|||Weak Tragic
+약한하렘역하렘|||Weak Rev Harem
 약한후피집|||Mild Weak Obsession
 약함|||Weak
 약혐|||Mild Hate
@@ -13203,6 +13240,7 @@ ZZZ|||ZZZ
 에스엠|||SM
 에스카노르|||Escanor
 에스타롯사|||Estatrossa
+에스테틱|||Aesthetic
 에스파|||Aespa
 에스파다|||Espada
 에스퍼|||Esper
@@ -13491,6 +13529,7 @@ ZZZ|||ZZZ
 여주가후회|||Heroine Regrets
 여주강함|||Strong Female Lead
 여주강화물|||Female Lead Empowerment
+여주공|||Fem Top
 여주대기업|||Female Lead Conglomerate
 여주먼치킨|||OP Heroine
 여주무쌍|||Heroine Musou
@@ -14092,6 +14131,7 @@ ZZZ|||ZZZ
 오크|||Orc
 오크지만찬양해|||Orc Praise
 오크키우기|||Orc Raising
+오키나와|||Okinawa
 오타지적환영|||Typos Welcome
 오타쿠|||Otaku
 오타쿠주인공|||Otaku Protagonist
@@ -14115,6 +14155,7 @@ ZZZ|||ZZZ
 오픈채팅방|||Open Chatroom
 오피|||Office
 오피스|||Office
+오피스걸|||Office Girl
 오피스로맨스|||Office Romance
 오피스물|||Office
 오피스연애|||Office Romance
@@ -14341,6 +14382,7 @@ ZZZ|||ZZZ
 요리환생|||Cooking Reincarnation
 요망|||Seductive
 요망함|||Seductive
+요망히로인|||Seductive Heroine
 요모츠히사미|||Yomotsu Hisami
 요물|||Yokai
 요미허슬|||Yomi Hustle
@@ -14845,6 +14887,7 @@ ZZZ|||ZZZ
 유능한독재자|||Competent Dictator
 유니버스|||Universe
 유니버스전사|||Universe Warrior
+유니온혐오물|||Union Hate
 유니콘|||Unicorn
 유니콘각혈하는소설|||Unicorn Nosebleed Novel
 유니콘건담|||Unicorn Gundam
@@ -15003,6 +15046,7 @@ ZZZ|||ZZZ
 유쾌함|||Cheerful
 유키노|||Yukino
 유키요시카와|||Yuki Yoshikawa
+유타|||Yuta
 유토피아|||Utopia
 유통|||Distribution
 유튜버|||YouTuber
@@ -15075,6 +15119,7 @@ ZZZ|||ZZZ
 육체개조|||Body Modification
 육체교체|||Body Swap
 육체교환|||Body Swap
+육체파주술사|||Physical Jujutsu
 육체훼손|||Body Mutilation
 육화의|||Flesh
 윤간|||Gang Assault
@@ -16658,6 +16703,7 @@ ZZZ|||ZZZ
 절사절명|||Decisive Cut
 절세당문|||Best Tang Clan
 절세미녀|||Peerless Beauty
+절절하고달달한인연|||Sweet Bond
 절정|||Climax
 절정지옥|||Orgasm Hell
 절지동물|||Arthropod
@@ -17250,6 +17296,7 @@ ZZZ|||ZZZ
 주변인NTR등장|||Side Character NTR
 주변인TS|||Side TS
 주변인들이먼치킨|||Sides Munchkin
+주변인물|||Side Characters
 주변인물들만피폐|||Only Side Characters Abused
 주변인병신만들기|||Make Surroundings Idiots
 주변인약피폐|||Surrounding Mild Angst
@@ -17463,6 +17510,7 @@ ZZZ|||ZZZ
 중이병|||Chuuni
 중일전쟁|||Sino-Japanese War
 중장|||Medium Armor
+중장편느린전개|||Mid-Long Slow Pace
 중재|||Mediation
 중증외상센터|||Trauma Center
 중지|||Cease
@@ -18513,6 +18561,7 @@ ZZZ|||ZZZ
 추천조작|||Rec Manipulation
 추태|||Shameful
 추행|||Molestation
+추후19삽화들어감|||Later Adult Art
 축구|||Football/Soccer
 축구부|||Soccer Team
 축구선수|||Soccer Player
@@ -18673,6 +18722,7 @@ ZZZ|||ZZZ
 침략하기|||Invasion
 침묵쾌락|||Silent Pleasure
 침술|||Acupuncture
+침식|||Erosion
 침착|||Calm
 침착녀|||Calm Girl
 칭호|||Title
@@ -18934,6 +18984,7 @@ ZZZ|||ZZZ
 켄자키|||Kenzaki
 켄쟈쿠|||Kenjaku
 켄타우로스|||Centaur
+켄토|||Kento
 켈시|||Kelsey
 켈트신화|||Celtic Myth
 켓파이트|||Kickfight
@@ -19517,6 +19568,7 @@ ZZZ|||ZZZ
 토토덕히생|||Toto Otaku Survival
 토트넘|||Tottenham
 토호|||Touhou
+톡식|||Tokshik
 톨클락맨|||Tall Clock Man
 톰걸|||Tomboy
 톰과제리|||Tom Jerry
@@ -19747,6 +19799,7 @@ ZZZ|||ZZZ
 파이널판타지소닉X|||Final Fantasy Sonic X
 파이널판타지시리즈|||Final Fantasy Series
 파이논|||Pythagoras
+파이논TS|||Pyinon TS
 파이브디즈|||Five Dice
 파이어스톰|||Firestorm
 파이어엠블렘|||Fire Emblem
@@ -19860,6 +19913,7 @@ ZZZ|||ZZZ
 패널티|||Penalty
 패닉룸|||Panic Room
 패도|||Tyrant
+패드립|||Fat Shaming
 패러다|||Parada
 패러대|||Parallel World
 패러독스|||Paradox
@@ -21051,6 +21105,7 @@ ZZZ|||ZZZ
 헌터세계관|||Hunter Lore
 헌터아님|||Not Hunter
 헌터아카데미|||Hunter Academy
+헌터야구|||Hunter Baseball
 헌터좋아|||Like Hunters
 헌터투자물|||Hunter Investment
 헌터튜브|||Hunter Tube
@@ -21391,6 +21446,7 @@ ZZZ|||ZZZ
 홀로라이브ID|||Hololive ID
 홀로라이브JP|||Holo JP
 홀로스타즈|||Holostars
+홀로코스트|||Holocaust
 홀록스|||Holocx
 홀리나이트|||Holy Night
 홈즈|||Holmes
@@ -21409,6 +21465,7 @@ ZZZ|||ZZZ
 화귀드림|||Fire Ghost Dream
 화기|||Firearm
 화기X|||No Guns
+화끈토끼|||Hot Bunny
 화랑|||Hwarang
 화력|||Firepower
 화력덕후|||Firepower Fan
@@ -21534,6 +21591,7 @@ ZZZ|||ZZZ
 회귀|||Regression
 회귀13|||Regression 13
 회귀X|||No Regression
+회귀감성|||Regression Feels
 회귀과함|||Excess Regression
 회귀빙의|||Regression Possession
 회귀상실|||Regression Loss
@@ -21660,6 +21718,7 @@ ZZZ|||ZZZ
 후크|||Hook
 후타|||Futa
 후타나리|||Futanari
+후타나리공|||Futa Top
 후타나리도있음|||Futanari Possible
 후타나리백합순애|||Futanari Yuri Pure Love
 후타나리여주|||Futanari FL
