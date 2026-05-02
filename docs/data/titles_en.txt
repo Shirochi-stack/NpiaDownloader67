@@ -47625,6 +47625,7 @@
 385635|||황제폐하가 웹소설 작가임을 숨김|||The Emperor Hides That He is a Web Novelist
 424632|||일진들이 우리 집을 점거했다|||Delinquents Took Over Our House
 421593|||자본주의가 낳은 괴물은 심연을 조교한다|||"Capitalism-Spawned Monster Trains the Abyss"
+425803|||상식|||Common Sense
 407534|||학교 아이돌의 가짜 남친이 되었다|||I Became the Fake Boyfriend of the School Idol
 398406|||변해가는 아내 - 타락편|||Changing Wife - Corruption Arc
 211369|||천재 그랜드마스터의 낭만 인방|||Romantic Stream of a Genius Grandmaster
@@ -57144,6 +57145,7 @@
 302742|||[유희생활]유희를 즐겨보자|||[Game Life] Let's Enjoy Games
 334463|||[유희생활]구원생활|||[Game Life] Salvation Life
 425368|||상담소 운영 방법|||How to Run a Counseling Office
+425810|||순애생활|||Pure Love Life
 278982|||[림버스/로보토미/라오루]도시에 떨궈졌다|||[Limbus/Lobotomy/LoR] Dropped into the City
 406796|||프리스트 학교의 이능사용자|||Esper of the Priest Academy
 392764|||트랜스포머 애니메이티드 극장판: 유니크론 대전쟁|||Transformers Animated Movie: Unicron Great War
@@ -57302,6 +57304,7 @@
 424648|||[코미양] 도마 요우나는 강한 욕쟁이 입니다.|||Komi: Toma Yuna Is a Heavy Swearer
 330013|||[블루 아카이브]돌아와줘요 선생님|||[Blue Archive] Come Back, Teacher
 417763|||[전독시×프문] 불나방이 되었다!|||[Omniscient Reader × FGO Moon] I Became a Moth!
+425901|||사이버펑크 2088|||Cyberpunk 2088
 425959|||[블루 아카이브] 선생이 우울하고 힘든 이야기|||[Blue Archive] Teacher's Depressing and Tough Story
 391178|||[원신] 티바트에서 방송 시작합니다|||[Genshin] Starting a Broadcast in Teyvat
 256837|||[블루아카이브] 게헨나의 문제아가 되기로 했다.|||[Blue Archive] Decided to Become Gehenna's Troublemaker.
@@ -70809,6 +70812,7 @@
 349182|||100가지의 어두운 비밀을 가지고있는 소심하고 음침하며 말투도 날카로운데다 직설적이며 매일 우울해보이고 무감정에 눈에 생기가없어 많이 허약하고 아파보이는 그녀를 구제해주는 이야기|||The Story of Rescuing Her: She Has 100 Dark Secrets, Is Timid, Gloomy, Sharp-Tongued, Direct, Always Looks Depressed, Emotionless, Lifeless-Eyed, and Appears Very Frail and Sick
 363174|||후타학생에게 사랑받는 약을 마셨다|||I Drank a Potion That Makes Futa Students Love Me
 423061|||도둑맞은 첫사랑의 학교|||School of Stolen First Love
+425405|||호연|||Hoenn
 425712|||TEST:20260429|||TEST:20260429
 423156|||좋아한다고 말했는데, 왜 웃으면서 고맙다고 하는 거야|||I Said I Like You, Why Are You Smiling and Saying Thanks?
 234583|||[삼국지] 유비군 여장수가 되었다|||[Three Kingdoms] I Became a Female General in Liu Bei's Army
@@ -71769,6 +71773,7 @@
 1417|||남들에겐지옥 나아겐 천국(?)|||Hell for Others, Heaven for Me (?)
 1006|||[TS]정신병 13개 진단받고 여학생과 TS해버린 파오후|||[TS] Fat Otaku Who Was Diagnosed with 13 Mental Illnesses and TS'd into a Female Student
 87730|||작가랑 독자들 놀이터(소설이 아닙니다)|||Author and Readers' Playground (Not a Novel)
+426167|||소망|||Wish
 420811|||봄 향기로 수놓다|||Embroidered with Spring Scents
 420991|||남장 바텐더가 나를 애호함|||Crossdressing Bartender Adores Me
 391340|||선사 시대부터 시작하는 얼렁뚱땅 제국 만들기.|||Making a Sloppy Empire Starting from Prehistoric Times.
@@ -72255,7 +72260,7 @@
 24172|||그냥 백합 이야기|||Just a Yuri Story
 226120|||다른 학교의 여학생을 도왔더니 친구부터 시작하게 되었습니다|||I Helped a Female Student from Another School and We Started as Friends
 224455|||전속 집사를 그만두니 모셨던 아가씨가 유난히 가까운데|||I Quit Being a Personal Butler and the Young Lady I Served is Unusually Close
-227044|||세드릭 디고리에게 씀 |해리포터|||Written for Cedric Diggory | Harry Potter
+227044|||세드릭 디고리에게 씀 |해리포터||||Written for Cedric Diggory | Harry Potter
 169165|||초능력 고등학교|||Superpower High School
 212173|||여사친 진|||Female Friend Jin
 155802|||(전) 무림맹주 (현) 미소녀|||(Former) Murim Alliance Leader (Current) Beautiful Girl
@@ -77297,8 +77302,3 @@
 444|||지하철의 오피스걸과(19)|||With an Office Girl on the Subway (19)
 141|||하얀 밤의 신들|||Gods of the White Night
 76|||낙인 이론|||Labeling Theory</high></manure>
-425803|||상식|||Common Sense
-425810|||순애생활|||Pure Love Life
-425901|||사이버펑크 2088|||Cyberpunk 2088
-425405|||호연|||Hoenn
-426167|||소망|||Wish
