@@ -315,6 +315,7 @@ AI설정|||AI Setting
 AI소설|||AI Novel
 AI스릴러|||AI Thriller
 AI실사|||AI Realism
+AI썼다는거아님|||Not AI Written
 AI연재|||AI Updates
 AI일러스트|||AI Illustration
 AI전쟁|||AI War
@@ -801,9 +802,11 @@ POKEMON|||Pokemon
 PROTOTYPE|||Prototype
 PSR|||PSR
 PSR재단|||PSR Foundation
+PT|||PT
 PTSD|||PTSD
 PTSD주인공|||PTSD Protagonist
 PTST|||PTSD (Typo)
+PT기라티나|||PT Giratina
 PUA이론|||PUA Theory
 PVP|||PVP
 PVPVE|||PvPVE
@@ -1950,6 +1953,7 @@ ZZZ|||ZZZ
 건국|||Nation Building
 건그레이브|||Gungrave
 건달|||Thug
+건달수|||Gangster
 건담|||Gundam
 건담SEED|||Gundam SEED
 건담W|||Gundam Wing
@@ -2761,6 +2765,7 @@ ZZZ|||ZZZ
 괴관갤|||Weird Gal
 괴기|||Strange Tale
 괴담|||Ghost Stories
+괴담네모|||Goedam Nemo
 괴담동|||Horror Town
 괴담동아리|||Horror Story Club
 괴담물|||Monster Tale
@@ -2771,6 +2776,7 @@ ZZZ|||ZZZ
 괴담향|||Horror-flavored
 괴담향조금|||Ghost Story Light
 괴담호텔탈출기|||Horror Hotel Escape
+괴델|||Godel
 괴도|||Phantom Thief
 괴도물|||Phantom Thief
 괴도삼인방TS|||Phantom Thieves Trio TS
@@ -3246,6 +3252,7 @@ ZZZ|||ZZZ
 근데아에망한건아님|||Not AE Fail
 근데안감|||But Not Touching
 근데인간크기로삼|||"But Human Size"
+근데인기남주|||Popular MC
 근데쥰내쌤|||But Fucking Hard
 근딜충|||Melee DPS Addict
 근무|||Duty
@@ -6951,6 +6958,7 @@ ZZZ|||ZZZ
 먼치킨주인공|||Munchkin Protagonist
 먼치킨지향|||Munchkin Aim
 먼치킨파티|||Munchkin Party
+먼치킨후손|||Munchkin Heir
 먼치킨히로인|||Munchkin Heroine
 먼키친|||Munchkin
 먼키킨|||Munchkin
@@ -7251,6 +7259,7 @@ ZZZ|||ZZZ
 모유플|||Milk Play
 모음|||Collection
 모음집|||Anthology
+모의고사|||Mock Exam
 모의전|||Mock Battle
 모인|||Gathered
 모자|||Mother-Son/Hat
@@ -8033,6 +8042,7 @@ ZZZ|||ZZZ
 박살난연재주기|||Broken Update Schedule
 박소림|||Park So Rim
 박수|||Applause
+박수무당|||Clapping Shaman
 박스공선전|||Box Gongseon War
 박시하|||Park Si-ha
 박씨부인전|||Madam Park
@@ -8439,6 +8449,7 @@ ZZZ|||ZZZ
 법정극|||Courtroom Drama
 법정물|||Courtroom
 법조물|||Legal Drama
+법칙|||Laws
 법학물|||Law
 벗방|||Nude Stream
 벙개|||Bangae
@@ -9468,6 +9479,7 @@ ZZZ|||ZZZ
 사망루트|||Death Route
 사망빙의|||Death Possession
 사망전대|||Death Squadron
+사망환생|||Reincarnation
 사망회귀|||Death Regression
 사멸회유|||Death Enticement
 사모님|||Lady Boss
@@ -10767,6 +10779,7 @@ ZZZ|||ZZZ
 손자사랑|||Grandchild Love
 손책|||Sun Ce
 솔라|||Solar
+솔라볼|||Solabol
 솔로|||Solo
 솔로몬|||Solomon
 솔스|||Sols
@@ -10953,6 +10966,7 @@ ZZZ|||ZZZ
 순애서큐|||Pure Love Sequel
 순애성인|||Vanilla Adult
 순애섹스|||Pure Love Sex
+순애순애|||Pure Love
 순애안하면죽는퀘스트|||Pure Love or Die Quest
 순애야|||Pure Love
 순애야스|||Pure Love Yasu
@@ -11289,6 +11303,7 @@ ZZZ|||ZZZ
 스피드로이드|||Speedroid
 스피드스터|||Speedster
 스핀오프|||Spin-off
+스핀짓주|||Spinjitzu
 스핏|||Spit
 스핏파이어|||Spitfire
 슥|||Swipe
@@ -13315,6 +13330,7 @@ ZZZ|||ZZZ
 에피소드|||Episode
 에피소드모음|||Episode Collection
 에피소드식|||Episodic
+에피소드형|||Episodic
 에피소드형식|||Episode Format
 에픽|||Epic
 에픽세븐|||Epic Seven
@@ -15517,6 +15533,7 @@ ZZZ|||ZZZ
 이세계이동|||Isekai Transfer
 이세계인|||Isekai Person
 이세계일까|||Isekai?
+이세계전문가물|||Isekai Expert
 이세계전생|||Isekai Rebirth
 이세계전이|||Isekai Transfer
 이세계전이물|||Isekai Transfer
@@ -15525,6 +15542,7 @@ ZZZ|||ZZZ
 이세계지구|||Isekai Earth
 이세계지구교류|||Isekai Earth Exchange
 이세계침공|||Isekai Invasion
+이세계침략물|||Isekai Invasion
 이세계콰르텟|||Isekai Quartet
 이세계탈출|||Isekai Escape
 이세계판타지|||Isekai Fantasy
@@ -16413,6 +16431,7 @@ ZZZ|||ZZZ
 재단|||Foundation/SCP
 재단사|||Foundation Tale
 재력남|||Wealthy Man
+재마법사|||Returned Mage
 재무부장|||Finance Minister
 재무회계|||Financial Accounting
 재미|||Fun
@@ -17849,6 +17868,7 @@ ZZZ|||ZZZ
 집착남|||Obsessive Male
 집착남주|||Obsessive MC
 집착녀|||Yandere Girl
+집착눈나|||Obsessive Eyes
 집착로맨스|||Obsessive Romance
 집착못함|||No Obsession
 집착물|||Obsession
@@ -17947,6 +17967,7 @@ ZZZ|||ZZZ
 차벌|||Punishment
 차별|||Discrimination
 차별받는주인공|||Discriminated MC
+차사|||Grim Reaper
 차오니마|||Chaoni Ma
 차원|||Dimension
 차원거래소|||Dimension Shop
@@ -18722,6 +18743,7 @@ ZZZ|||ZZZ
 치트없음|||No Cheats
 치트인생|||Cheat Life
 치트전생|||Cheat Rebirth
+치트충|||Cheater
 치트키|||Cheat
 치한|||Groper
 치히로|||Chihiro
@@ -18986,6 +19008,7 @@ ZZZ|||ZZZ
 커피차|||Coffee Truck
 커흑흑|||Ku Heuk Heuk
 컨버전스|||Convergence
+컨볼|||Convol
 컨설턴트|||Consultant
 컨셉|||Concept
 컨셉소설|||Concept Novel
@@ -19054,6 +19077,7 @@ ZZZ|||ZZZ
 코로나|||Corona
 코른|||Korn
 코리아|||Korea
+코리안마피아|||Korean Mafia
 코리안숏헤어|||Korean Short Hair
 코린|||Corin
 코마|||Koma
@@ -20867,6 +20891,7 @@ ZZZ|||ZZZ
 학원배틀판타지|||Academy Battle Fantasy
 학원아이돌마스터|||Academy Idolmaster
 학원액션|||Academy Action
+학원입시|||Academy Entrance
 학원장|||Academy Head
 학원추리|||School Mystery
 학원판타지|||Academy Fantasy
@@ -21174,6 +21199,7 @@ ZZZ|||ZZZ
 헝크|||Hunk
 헤도니즘|||Hedonism
 헤라클레스|||Heracles
+헤레틱|||Heretic
 헤르만|||Hermann
 헤르미온느|||Hermione
 헤르미온느여주|||Hermione Female Lead
