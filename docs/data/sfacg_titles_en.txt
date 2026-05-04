@@ -39,6 +39,7 @@
 774585|||都说了我不是来攻略三次元的！|||I Told You, I'm Not Here to Romance the 3D World!
 699853|||被囚于充满黑化少女的牢笼当中|||Imprisoned in a Cage Full of Darkened Girls
 755500|||通关末日游戏后，女主们找上门来|||After Clearing the Doomsday Game, the Heroines Came Knocking
+385603|||意外转生的我是灵异类主播|||The Paranormal Streamer Who Got Reincarnated by Mistake
 770330|||勇者大人，宿敌是不能结婚的|||Hero-sama, Arch-Enemies Cannot Get Married
 774885|||不要乖巧地走进大小姐的爱情陷阱|||Don't Meekly Walk into the Young Lady's Romance Trap
 774797|||在江苏等我饼干|||Waiting for My Cookies in Jiangsu
@@ -85,6 +86,7 @@
 745389|||余温的巡礼|||Pilgrimage of Residual Warmth
 774687|||苦主小姐，你的恋人是本黄毛的啦|||Cuckold Miss, Your Lover Belongs to This Blonde Now
 774233|||神龙大人，不要再给我塞力量了！|||Lord Divine Dragon, Stop Shoving Power into Me!
+768452|||变成了魔法少女然后被收容|||Turned Into a Magical Girl and Then Contained
 773628|||强吻女帝后，你告诉我系统没来？|||After Force-Kissing the Empress, You Tell Me the System Didn't Arrive?
 773559|||别氪了，你家魔王债主叒上门了|||Pay-to-Win Summoned Beast and the Debt-Ridden Demon King
 767323|||魔法少女小姐是恶魔小姐重度依赖|||Magical Girl-san is Severely Dependent on Demon-san
@@ -223756,7 +223758,7 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人|||Time Calamity: I Cannot Kill Anyone
+60208|||时祸：我不能杀任何人||||Time Calamity: I Cannot Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -246201,5 +246203,3 @@
 2782|||静默之森|||Silent Forest
 2778|||乱世殇|||Sorrow of Troubled Times
 2702|||叛逆的勒鲁什（LINMEN君版）|||Rebellious Lelouch (LINMEN Version)
-385603|||意外转生的我是灵异类主播|||The Paranormal Streamer Who Got Reincarnated by Mistake
-768452|||变成了魔法少女然后被收容|||Turned Into a Magical Girl and Then Contained
