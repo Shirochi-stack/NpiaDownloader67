@@ -77335,13 +77335,6 @@
 444|||지하철의 오피스걸과(19)|||With an Office Girl on the Subway (19)
 141|||하얀 밤의 신들|||Gods of the White Night
 76|||낙인 이론|||Labeling Theory</high></manure>
-427595|||MCU : REBUILD|||MCU : REBUILD
-427196|||[림버스 컴퍼니] Les Misérables de CITY|||[림버스 컴퍼니] Les Misérables de CITY
-427431|||니케 OVER the NOAH|||니케 OVER the NOAH
-426540|||[FATE/FGO]랜서가 신다!|||[FATE/FGO]랜서가 신다!
-427493|||OBLITUS|||OBLITUS
-427322|||Sync & Override|||Sync & Override
-427091|||Mi_Jung|||Mi_Jung
 426595|||아포칼립스에서 나 홀로 차원 파밍|||"Solo Dimension Farming in the Apocalypse"
 426548|||남녀역전 세계의 조신함을 모르는 남자|||"The Man Who Doesn't Know Modesty in a Gender-Reversed World"
 427655|||세종실록 개지리지|||"Sejong Annals: No Corrections"
@@ -77390,6 +77383,7 @@
 427593|||좆같아서 기억 잃은 척 하며 살련다.|||"Pretending to Have Amnesia to Escape This Shit Life"
 426652|||[다중] 해리포터 세계관에서 원피스를 쫓다.|||" [Multi] Chasing One Piece in the Harry Potter Universe"
 427603|||심판관은 은퇴하고싶다|||"The Judge Wants to Retire"
+427595|||MCU : REBUILD|||MCU : REBUILD
 427598|||악신과 계약했다|||"Contracted with an Evil God"
 427597|||선발전과 국제전만 잘하는 프로게이머|||"Pro Gamer Good Only at Qualifiers and Internationals"
 427345|||스파이로 들어온 회사의 보스가 너무 매력적이다|||"The Company Boss I Infiltrated as a Spy Is Too Attractive"
@@ -77557,6 +77551,7 @@
 427507|||[페어리테일] 한계를 넘어서, Plus Ultra|||" [Fairy Tail] Beyond the Limits, Plus Ultra"
 427004|||[Fate/Fgo] 호감도 MAX 저주(?)의 마스터|||" [Fate/Grand Order] Favor MAX Curse(?) Master"
 427520|||[붕괴: 스타레일] 네가 쓰는 대로|||" [Honkai: Star Rail] As You Write"
+427196|||[림버스 컴퍼니] Les Misérables de CITY|||[림버스 컴퍼니] Les Misérables de CITY
 426560|||[승리의 여신 니케X초수기신 단쿠가]해치워주겠어|||" [Goddess of Victory: Nikke x Super Godkin Dunkuga] I'll Take 'Em Down"
 426458|||[다중] 유희 생활? 아뇨, 랜덤 유희입니다.|||" [Multi] Yu-Gi-Oh!? No, Random Duels"
 427469|||나노와 유희생활|||"Nano and Yu-Gi-Oh!"
@@ -77603,6 +77598,7 @@
 427040|||[포켓몬] 갤러리|||" [Pokémon] Gallery"
 426863|||빌어먹을 미국애니메이션의 효과음 아저씨|||"Damn American Cartoon Sound Effect Guy"
 321098|||[ 갓오하 x 데어라 ] 돌원숭이 강림. (리메이크)|||" [God of High School x Date A Live] Monkey King Descent (Remake)"
+427431|||니케 OVER the NOAH|||니케 OVER the NOAH
 427411|||[별이삼샵] 장르가 다른데요?|||" [Starsha Shop] Wrong Genre?"
 427335|||헌터x헌터 세계의 신자술사|||"Divine Spellcaster in Hunter x Hunter World"
 427414|||(달링 인 더 프랑키스&건담) 기동전사 건담 URDR-HUNT FREEDOM|||" (Darling in the Franxx & Gundam) Mobile Suit Gundam URDR-HUNT FREEDOM"
@@ -77646,6 +77642,7 @@
 316613|||유희생활로 살아남기|||"Surviving with Yu-Gi-Oh!"
 426775|||[나혼렙] 만국의 탱커여, 단결하라!|||" [Solo Leveling] Tanks of the World, Unite!"
 426726|||아.. 진짜.. 저 가능충 아니에요...! 근데.. 어째서.. 되고 싶지?|||"Ah... Really... I'm Not a Possibility Addict...! But... Why Do I Want To?"
+426540|||[FATE/FGO]랜서가 신다!|||[FATE/FGO]랜서가 신다!
 426701|||[ M@!L%#TH ]만 사용가능한 미친놈이 되었다.|||" [M@!L%#TH] Became a Madman Who Can Only Use That"
 426592|||[니케] 선역이 아니라 악역이라고!|||" [Nikke] I'm the Villain, Not the Hero!"
 426648|||[주술회전] 돌아온 저주|||" [Jujutsu Kaisen] The Returned Curse"
@@ -77773,6 +77770,7 @@
 425476|||여기사의 애완종양이 되었다|||"Became a Female Knight's Pet Sheep"
 427522|||이란 아줌마가 뭐가 좋다고|||"What's So Good About Iranian Ajumma"
 410422|||퓌블랑케, 라즈베리 파이|||"Puwblanche, Raspberry Pie"
+427493|||OBLITUS|||OBLITUS
 426765|||탑등반 게임 속 화신들이 내게 공물을 갖다바침|||"Avatars in Tower-Climbing Game Bring Me Tributes"
 427158|||올힘성녀|||"All-Mighty Saintess"
 426930|||아카데미 정신병자 성녀|||"Academy Psycho Saintess"
@@ -77875,9 +77873,11 @@
 427582|||잔향(殘香)|||"Lingering Fragrance"
 427069|||오로라 아래에서 춤을|||"Dancing Under the Aurora"
 427646|||자고 일어났더니, 어려졌다...!|||"Woke Up... Younger!"
+427322|||Sync & Override|||Sync & Override
+427091|||Mi_Jung|||Mi_Jung
 427070|||패스파인더|||"Pathfinder"
 427110|||꿈속의 섬|||"Island in Dreams"
 427104|||대충 엄청 진지한 이야기|||"Kinda Super Serious Story"
 426878|||논 플레이어블 캐릭터|||"Non-Playable Character"
 426627|||월식|||"Lunar Eclipse"
-227044|||세드릭 디고리에게 씀 |해리포터|||
+227044|||세드릭 디고리에게 씀 |해리포터||||
