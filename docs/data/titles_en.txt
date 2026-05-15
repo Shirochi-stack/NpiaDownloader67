@@ -275,7 +275,7 @@
 407481|||키보토스의 로드커맨더|||Road Commander of Kivotos
 425701|||환생해서 아들 여친들을 따먹었습니다|||Reincarnated and Ate My Son's Girlfriends
 395872|||마법소녀 단톡방에 초대되었다|||Invited to a Magical Girl Group Chat
-425004|||경찰이 히어로보다 수사를 잘함|||The Cop in a Hero Story Does Their Job Well
+425004|||경찰이 히어로보다 일을 잘함|||The Cop in a Hero Story Does Their Job Well
 349240|||도깨비님은 장착템이 되었습니다!|||The Goblin Became an Equipable Item!
 410254|||내 반려동물들이 멸망급 요괴들이었다|||My Pets Were Destruction-Rank Monsters
 307035|||남녀역전 판타지를 넘나드는 차원의 카우보이|||Dimensional Cowboy Crossing Gender-Swapped Fantasy
@@ -77880,4 +77880,4 @@
 427104|||대충 엄청 진지한 이야기|||"Kinda Super Serious Story"
 426878|||논 플레이어블 캐릭터|||"Non-Playable Character"
 426627|||월식|||"Lunar Eclipse"
-227044|||세드릭 디고리에게 씀 |해리포터|||
+227044|||세드릭 디고리에게 씀 |해리포터||||
