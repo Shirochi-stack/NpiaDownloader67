@@ -1000,6 +1000,7 @@ TS스킨|||TS Skin
 TS심리물|||TS Psychology
 TS아닐지도|||Maybe No TS
 TS아님|||Not TS
+TS아마도|||Possible Gender Bender
 TS아주살짝|||Very Slight TS
 TS암타|||TS Futa
 TS액셀러레이터|||TS Accelerator
@@ -1089,6 +1090,7 @@ Y2K|||Y2K
 YM|||YM
 YOASOBI|||Yoasobi
 YOU|||You
+YURI|||Yuri
 ZA|||ZA
 ZERO|||Zero
 ZEXAL|||Zexal
@@ -2326,6 +2328,7 @@ ZZZ|||ZZZ
 고구려부활|||Goguryeo Revival
 고구마|||Sweet Potato/Frustrating
 고구마밭|||Sweet Potato Field
+고구마약간|||Slight Frustration
 고구마없음|||No Sweet Potato
 고구마주의|||Sweet Potato Warning
 고군분투|||Solo Struggle
@@ -2535,6 +2538,7 @@ ZZZ|||ZZZ
 골라보는맛|||Choice Fun
 골라보는재미|||Picking Fun
 골렘|||Golem
+골목|||Alley
 골목느와르|||Alley Noir
 골익레|||Goalie
 골초|||Heavy Smoker
@@ -2875,6 +2879,7 @@ ZZZ|||ZZZ
 구경꾼|||Spectator
 구구몽|||Gugumong
 구글|||Google
+구글AI표지|||Google AI Cover
 구다구다|||Guda Guda
 구다오|||Gudao
 구다즈남매|||Gudaz Siblings
@@ -3200,9 +3205,11 @@ ZZZ|||ZZZ
 그린스킨|||Greenskin
 그림|||Illustration/Drawing
 그림다크|||Picture Dark
+그림삽입|||Illustrations
 그림상태창|||Picture Status
 그림소설|||Picture Novel
 그림자|||Shadow
+그림자군주|||Shadow Lord
 그림자복도|||Shadow Corridor
 그림자의밤|||Shadow's Night
 그림자정부|||Shadow Government
@@ -3887,6 +3894,7 @@ ZZZ|||ZZZ
 난죽경없|||No Death Scene
 난천|||Hard Heaven
 난해|||Obscure
+날강도|||Bandit
 날개|||Wings
 날기뉴|||Wing New
 날먹|||Freeloader
@@ -4686,6 +4694,7 @@ ZZZ|||ZZZ
 다중인격|||Multiple Personality
 다중인격아이돌|||Multi Personality Idol
 다중인격히로인|||Multiple Personality Heroine
+다중일수도|||Possibly Multiple
 다중작품|||Multi Works
 다중작품콜라보|||Multi Work Collab
 다중장르|||Multi-Genre
@@ -4815,6 +4824,7 @@ ZZZ|||ZZZ
 닫힌우주|||Closed Universe
 달|||Moon
 달걀독재|||Egg Dictatorship
+달기지|||Moon Base
 달달|||Sweet/Fluffy
 달달과고수위반반|||Sweet and 19+ Half
 달달로맨스|||Sweet Romance
@@ -5200,6 +5210,7 @@ ZZZ|||ZZZ
 도감|||Pokedex
 도검무쌍|||Peerless Swordsmanship
 도공|||Potter
+도교|||Taoism
 도구|||Tool
 도구플|||Tool Play
 도구활용|||Tool Play
@@ -6347,6 +6358,7 @@ ZZZ|||ZZZ
 리듬게임|||Rhythm Game
 리리셰|||Lili She
 리리스|||Lilith
+리매이크|||Remake
 리메|||Remake
 리메이크|||Remake
 리메이크X|||No Remake
@@ -6441,6 +6453,7 @@ ZZZ|||ZZZ
 릴리바이스|||Lilybaise
 릴리에반스|||Lily Evans
 릴파|||Lilpa
+림바스컴퍼니|||Limbus Company
 림버스|||Limbus Company
 림버스나올지도|||Limbus Maybe
 림버스아마도약간|||Limbus Slight
@@ -6577,6 +6590,7 @@ ZZZ|||ZZZ
 마법브레이크|||Magic Break
 마법사|||Mage/Wizard
 마법사랑|||Magic Romance
+마법사아님|||Not a Mage
 마법사여주|||Mage Heroine
 마법사우월주의|||Mage Supremacy
 마법사의밤|||Wizard Night
@@ -7097,6 +7111,7 @@ ZZZ|||ZZZ
 메이플스토리|||MapleStory
 메이플인물TS있음|||MapleStory TS
 메이플후추후추|||Maple Fluff Fluff
+메인스토리|||Main Story
 메인스토리2부|||Main Story 2
 메인여주들은처녀|||Main Heroines Virgin
 메인여주하나|||One Main Heroine
@@ -7259,6 +7274,7 @@ ZZZ|||ZZZ
 모든걸|||Everything
 모든것|||Everything
 모든것을부정하는동랑|||Denying Everything Dongrang
+모든시대|||All Eras
 모든시리즈예정|||All Series Planned
 모든어드벤트|||All Advent
 모든유형의여캐|||All Heroine Types
@@ -10203,6 +10219,7 @@ ZZZ|||ZZZ
 선섹후연|||Sex First Love Later
 선수겸감독|||Player Coach
 선수남주|||Player Male Lead
+선승|||Seon Master
 선업|||Good Deeds
 선역ㅇㅇ|||Heroic Role
 선원|||Crewman
@@ -10341,6 +10358,7 @@ ZZZ|||ZZZ
 성배전쟁|||Holy Grail War
 성범죄|||Sex Crime
 성별만바뀔뿐|||Gender Swap Only
+성별모호|||Ambiguous Gender
 성별사기|||Gender Scam
 성별오해|||Gender Misunderstanding
 성별전환|||Gender Swap
@@ -11993,6 +12011,7 @@ ZZZ|||ZZZ
 써줘요|||Write It
 써줘용|||Write for Me
 썩은물|||Rotten Water
+썬|||Sun
 썬더볼트|||Thunderbolt
 썬더일레븐|||Thunder Eleven
 썬드|||Sund
@@ -12208,6 +12227,7 @@ ZZZ|||ZZZ
 아버지들이집착|||Obsessed Dads
 아베무지카|||Ave Mujica
 아베스타|||Avesta
+아비|||Abi
 아비도스|||Abydos
 아비도스고등학교|||Abydos High
 아빠|||Daddy
@@ -12372,6 +12392,7 @@ ZZZ|||ZZZ
 아카메|||Akame
 아카메가|||Akame ga Kill
 아카메가벤다|||Akame ga Kill
+아카메디|||Academy
 아카분탕|||Aka Mess
 아카뿔잡펠|||Aka Horn Grab Fell
 아카살|||Academy Survival
@@ -12904,6 +12925,7 @@ ZZZ|||ZZZ
 약간액션|||Slight Action
 약간얀데레|||Slight Yandere
 약간에진한로맨스|||Intense Light Romance
+약간오토코노코|||Slight Otokonoko
 약간오해|||Light Misunderstanding
 약간원작파괴|||Slight Canon Break
 약간은혼설정|||Light Mixed Setting
@@ -13151,6 +13173,7 @@ ZZZ|||ZZZ
 양육|||Rearing
 양인희|||Yang In-hee
 양자역학|||Quantum Mechanics
+양자컴퓨터|||Quantum Computer
 양조|||Brewing
 양주|||Western Liquor
 양지|||Sunlight
@@ -13365,6 +13388,7 @@ ZZZ|||ZZZ
 에덴의조약후|||Post Eden Treaty
 에덴조약편스포일러|||Eden Treaty Spoiler
 에덴즈제로|||Edens Zero
+에도막부|||Edo Shogunate
 에디|||Eddie
 에디터|||Editor
 에라이|||Damn It
@@ -13961,6 +13985,7 @@ ZZZ|||ZZZ
 연중|||Hiatus
 연중가능성|||Hiatus Possible
 연중가능성높음|||Hiatus Likely
+연중날수있음|||Possible Hiatus
 연중성녀|||Hiatus Saintess
 연중역전|||Hiatus Reversal
 연중튀|||Drop Mid
@@ -14386,6 +14411,7 @@ ZZZ|||ZZZ
 옵치|||Optchi
 옷소매붉은끝동|||Red Sleeve End
 옷코츠|||Otokotsu
+옷코츠유타|||Okkotsu Yuta
 옻쳇|||Lacquer Cheat
 와|||And
 와노쿠니|||Wano Country
@@ -15547,6 +15573,7 @@ ZZZ|||ZZZ
 이능력자물|||Esper
 이능력적세계관|||Ability Worldview
 이능물|||Esper Tale
+이능배|||Ability User
 이능배틀|||Ability Battle
 이능배틀물|||Esper Battle
 이능시대|||Ability Era
@@ -16060,6 +16087,7 @@ ZZZ|||ZZZ
 일본여자|||Japanese Woman
 일본여행|||Japan Trip
 일본우익박살|||Japan Right Smash
+일본인|||Japanese
 일본인여친|||Japanese GF
 일본중세풍|||Japanese Medieval
 일본털기|||Japan Beating
@@ -16857,6 +16885,7 @@ ZZZ|||ZZZ
 전체주의|||Totalitarianism
 전통|||Tradition
 전통무협|||Traditional Wuxia
+전통설화|||Traditional Folklore
 전통시장|||Traditional Market
 전통을깨는게좋아|||Like Breaking Tradition
 전통판타지|||Traditional Fantasy
@@ -17335,6 +17364,7 @@ ZZZ|||ZZZ
 조연비중多|||High Side Char Weight
 조연전생|||Side Character Reincarnation
 조연중백합존재|||Side Yuri Exists
+조용|||Quiet
 조용히하라고|||Be Quiet
 조우|||Encounter
 조울증|||Bipolar
@@ -17374,6 +17404,7 @@ ZZZ|||ZZZ
 존나쌤|||Super Strong
 존만이|||Fucking Many
 존엄붕괴|||Dignity Collapse
+존예|||Beautiful Existence
 존예여주|||Gorgeous FL
 존오브디엔더스|||John of Enders
 존윅|||John Wick
@@ -18285,6 +18316,7 @@ ZZZ|||ZZZ
 처벌|||Punishment
 처세|||Life Skills
 처음부터다시씀|||Restart from Beginning
+처음써봅니다|||First Time Writing
 처음쓰는작|||First-Time Author
 처이모|||Wife's Aunt
 처절함|||Desperation
@@ -20669,6 +20701,7 @@ ZZZ|||ZZZ
 프링글스|||Pringles
 프멀|||Female Protagonist
 프문|||Project Moon
+프문기반|||Prompt Based
 프문세계관|||Pro Moon Worldview
 프문식성별|||France Mun Gender
 프문식일상|||Priestess Daily Life
@@ -21105,6 +21138,7 @@ ZZZ|||ZZZ
 한국풍|||Korean Style
 한국풍이세계|||Korean Isekai
 한국풍판타지|||Korean Fantasy
+한국형SF|||Korean SF
 한국형판타지|||Korean Fantasy
 한나라|||Han Dynasty
 한니발|||Hannibal
@@ -21727,6 +21761,7 @@ ZZZ|||ZZZ
 화기|||Firearm
 화기X|||No Guns
 화끈토끼|||Hot Bunny
+화두|||Koan
 화랑|||Hwarang
 화력|||Firepower
 화력덕후|||Firepower Fan
