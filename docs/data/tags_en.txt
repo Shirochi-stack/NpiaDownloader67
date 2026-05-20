@@ -769,6 +769,7 @@ NTR척결|||NTR Eradication
 NTR회피|||NTR Avoidance
 NTS|||NTS
 NTS순애|||NTR-Free Pure Love
+NTS없음|||No NTS
 N대1|||N to 1
 N사|||N Corp
 N행시|||N Acrostic
@@ -949,6 +950,7 @@ TEM|||TEM
 TEST|||Test
 TF|||Transformation
 TF2|||Team Fortress 2
+THEBOYS|||THEBOYS
 THEFIRST|||The First
 THOT|||Thot
 TJFRHKR|||TJFRHKR
@@ -1760,6 +1762,7 @@ ZZZ|||ZZZ
 강철의연금술사|||Fullmetal Alchemist
 강철이|||Steel Is
 강철타입|||Steel Type
+강캐|||Strong MC
 강탈|||Robbery
 강피폐|||Heavy Depressing
 강한|||Strong
@@ -1988,6 +1991,7 @@ ZZZ|||ZZZ
 건물|||Building
 건물주|||Landlord
 건볼트|||Gunvolt
+건브|||Geunbeu
 건브4|||GB 4
 건빌다|||Gunbilda
 건빌트|||Gunbilt
@@ -2492,6 +2496,7 @@ ZZZ|||ZZZ
 고증X|||No Historical Accuracy
 고증그딴거없다|||No Accuracy
 고증따윈개나줌|||Accuracy Whatever
+고증모름|||Ignores Historical Accuracy
 고증성물|||Accurate History
 고증아님상상임|||Imagination No Accuracy
 고증안됨|||No Historical Accuracy
@@ -4270,6 +4275,7 @@ ZZZ|||ZZZ
 노산|||Childless
 노수위|||No Lewd
 노숙|||Homeless
+노숙자|||Homeless
 노스모킹존|||Non-Smoking Zone
 노스텔지어|||Nostalgia
 노시리어스|||No Sirius
@@ -4399,6 +4405,7 @@ ZZZ|||ZZZ
 누라리횬의손자|||Nurarihyon Son
 누명|||Framed
 누브익스페리먼트|||Noob Experiment
+누선족|||Nuseon Clan
 누아르|||Noir
 누칼협|||Nukal Sword
 누칼협은아니고누폭협|||Not Naked Sword Not Naked Violence
@@ -4911,6 +4918,7 @@ ZZZ|||ZZZ
 대량생산|||Mass Production
 대량액체|||Mass Fluids
 대량야짤|||Mass Erotica
+대량학살주의|||Massacre Enthusiast
 대련|||Sparring
 대로|||As Is
 대륙|||Continent
@@ -5547,6 +5555,7 @@ ZZZ|||ZZZ
 두억시니|||Two Hundred Million
 두집살림시작|||Two Homes Start
 두통|||Headache
+두펀스머츠|||Dupensmeorts
 둔감|||Oblivious
 둔감남|||Dense Male
 둔감주인공|||Dense Protagonist
@@ -5619,6 +5628,7 @@ ZZZ|||ZZZ
 드래곤슬레이어|||Dragon Slayer
 드래곤아님|||Not Dragon
 드래곤에이지|||Dragon Age
+드래곤하트|||Dragon Heart
 드래그마|||Draguma
 드랙퀸|||Drag Queen
 드러머|||Drummer
@@ -5981,6 +5991,7 @@ ZZZ|||ZZZ
 러브코믹|||Love Comedy
 러브크래프트|||Lovecraft
 러브포션바|||Love Potion Bar
+러브호텔|||Love Hotel
 러시듀얼카드등장|||Rush Duel Cards
 러시부끄|||Rush Bukde
 러시아|||Russia
@@ -6781,6 +6792,7 @@ ZZZ|||ZZZ
 막공|||Late Engineering
 막내|||Youngest
 막내아들|||Youngest Son
+막무가내|||Reckless
 막부말기|||End of Shogunate
 막써용|||Casual Write
 막장|||Over-the-top Drama
@@ -7374,6 +7386,7 @@ ZZZ|||ZZZ
 목축|||Livestock
 목탁|||Wooden Fish
 몬간|||Monster Intercourse
+몬길스타다이브|||Mongil Star Dive
 몬무스|||Monster Girl
 몬무스퀘스트|||Monmus Quest
 몬무스화|||Monmus Transform
@@ -7520,6 +7533,7 @@ ZZZ|||ZZZ
 무력한주인공|||Powerless Protagonist
 무료|||Free
 무료연재|||Free Updates
+무료한|||Leisurely
 무료회차VER진행중|||Free Chapters Ongoing
 무림|||Murim/Martial World
 무림기갑|||Martial Mecha
@@ -7615,6 +7629,7 @@ ZZZ|||ZZZ
 무지성떡타지|||Mindless Sex
 무지성먼치킨|||Brainless Munchkin
 무지성박싸물아님|||Not Brainless
+무지성뽕빨|||Mindless Patriotism
 무지성사이다|||Mindless Catharsis
 무지성섹스|||Mindless Sex
 무지성아님|||Not Brainless
@@ -7917,6 +7932,7 @@ ZZZ|||ZZZ
 미유키|||Miyuki
 미이라|||Mummy
 미인계|||Honey Trap
+미인공|||Beautiful Female Lead
 미인수|||Beauty Count
 미인여주|||Beauty Female Lead
 미작|||Unwritten
@@ -8753,6 +8769,7 @@ ZZZ|||ZZZ
 보스몹|||Boss Mob
 보시길|||Enjoy Reading
 보아핸콕|||Boa Hancock
+보안|||Security
 보약|||Tonic
 보어|||Boer
 보어물|||Boer
@@ -8884,6 +8901,7 @@ ZZZ|||ZZZ
 부두술|||Voodoo
 부둥물아님|||Not Fluff
 부랑아|||Poor Kid
+부르마|||Buruma
 부르봉|||Bourbon
 부먹|||Side Dip
 부메랑|||Boomerang
@@ -11566,6 +11584,7 @@ ZZZ|||ZZZ
 시베리아|||Siberia
 시본|||Sivon
 시사|||Current Affairs
+시사풍자|||Topical Satire
 시선|||Gaze
 시설관리|||Facility Management
 시스|||Siscon
@@ -11726,6 +11745,7 @@ ZZZ|||ZZZ
 신부|||Bride
 신분바꾸기|||Identity Swap
 신분상승|||Status Up
+신분세탁|||Identity Laundering
 신분역전|||Status Reversal
 신분위장|||Status Disguise
 신분을숨김|||Hidden Status
@@ -12000,6 +12020,7 @@ ZZZ|||ZZZ
 쌍방|||Mutual
 쌍방구원|||Mutual Salvation
 쌍방구원물|||Mutual Salvation
+쌍방구원스토리|||Mutual Salvation Story
 쌍방얀데레|||Mutual Yandere
 쌍방조교|||Mutual Training
 쌍방집착|||Mutual Obsession
@@ -12523,6 +12544,7 @@ ZZZ|||ZZZ
 악역집단|||Villain Group
 악역형주인공|||Villain-like MC
 악연|||Bad Fate
+악영|||Bad Ending
 악영애|||Evil Lady
 악으로깡으로|||Evil and Brute Force
 악의결사|||Evil Org
@@ -13455,6 +13477,7 @@ ZZZ|||ZZZ
 에이스|||Ace
 에이스컴뱃|||Ace Combat
 에이신|||Eishin
+에이언즈|||Aeons
 에이와|||Eiwa
 에이전트|||Agent
 에이티식스|||Eighty Six
@@ -13552,6 +13575,7 @@ ZZZ|||ZZZ
 엣지오브투모로우|||Edge of Tomorrow
 엣치|||Ecchi
 여간부|||Female Executive
+여검사|||Female Swordsman
 여경|||Female Cop
 여경공략|||Female Cop Route
 여고|||Girls High School
@@ -13920,6 +13944,7 @@ ZZZ|||ZZZ
 연쇄빙의|||Chain Possession
 연쇄살인|||Serial Killer
 연쇄살인마|||Serial Killer
+연쇄살인범|||Serial Killer
 연쇄타락|||Chain Corruption
 연습|||Practice
 연습글|||Practice Post
@@ -14594,6 +14619,7 @@ ZZZ|||ZZZ
 요바이|||Night Crawl
 요부|||Seductive Fox
 요새|||Fortress
+요새화|||Fortification
 요소X|||No Elements
 요소는|||Elements Are
 요소는X|||No Elements
@@ -15154,6 +15180,7 @@ ZZZ|||ZZZ
 유사근친한스푼|||Pseudo Incest Spoon
 유사남녀역전|||Pseudo Gender Swap
 유사대체역사|||Pseudo Alt History
+유사떡타지|||Pseudo Ddeoktagi
 유사라이더|||Pseudo Rider
 유사로판|||Pseudo Romantasy
 유사마법사|||Pseudo Mage
@@ -15585,6 +15612,7 @@ ZZZ|||ZZZ
 이단심판관|||Heretic Inquisitor
 이단죽어|||Heretic Die
 이대남|||20s Male
+이데아|||Ideia
 이데올로기|||Ideology
 이도류|||Nitoryu
 이동|||Move
@@ -15669,6 +15697,7 @@ ZZZ|||ZZZ
 이상형|||Ideal Type
 이샌맛|||This Fresh Taste
 이성|||Rationality
+이성애|||Heterosexuality
 이성애자임|||Hetero
 이성적|||Rational
 이세게|||Isekai
@@ -15968,6 +15997,7 @@ ZZZ|||ZZZ
 인연스토리|||Fate Story
 인외|||Non-Human
 인외TS|||Non-Human TS
+인외간|||Non-human
 인외공|||Non-Human ML
 인외근소|||Nonhuman Short
 인외남주|||Non-Human ML
@@ -16101,6 +16131,7 @@ ZZZ|||ZZZ
 일부근친|||Some Incest
 일부다처|||Polygyny
 일부다처제|||Polygamy
+일부다처제합법|||Polygamy Legal
 일부독참|||Some Reader Input
 일부러패배함|||Intentional Loss
 일부시스템|||Partial System
@@ -16851,6 +16882,7 @@ ZZZ|||ZZZ
 전자음악|||Electronic Music
 전작리메이크|||Prequel Remake
 전작예토전생|||Prequel Wild Rebirth
+전작주인공출현|||Previous MC Cameo
 전장|||Battlefield
 전장이후|||Post-War
 전쟁|||War
@@ -17430,6 +17462,7 @@ ZZZ|||ZZZ
 졸업|||Graduation
 좀|||Zombie
 좀비|||Zombie
+좀비강간마|||Zombie Rapist
 좀비고|||Zombie High
 좀비고등학교|||Zombie High
 좀비물X|||No Zombie
@@ -17785,6 +17818,7 @@ ZZZ|||ZZZ
 쥬지|||Juji
 쥬지난입|||Ju Ji Mouth
 쥬지킁카|||Jujikinka
+쥬피썬더|||Jupisunder
 쥴TS|||Jule TS
 즉사|||Instant Death
 즉사기|||Instant Kill
@@ -18597,6 +18631,7 @@ ZZZ|||ZZZ
 초반약약피폐|||Early Slight Depressing
 초반약펨돔|||Early Weak Femdom
 초반약피폐|||Weak Start/Ruined Early
+초반약후회|||Weak Start Later Regret
 초반에는미미함|||Mild Early On
 초반여주시점|||Early Heroine POV
 초반우주극|||Early Space Drama
@@ -19041,6 +19076,7 @@ ZZZ|||ZZZ
 카사네테토|||Kasane Teto
 카사노바|||Casanova
 카산드라|||Cassandra
+카세트퓨처리즘|||Cassette Futurism
 카스|||Kas
 카스온라인|||CrossFire
 카스트|||Caste
@@ -19144,6 +19180,7 @@ ZZZ|||ZZZ
 캐슬|||Castle
 캐시|||Cash
 캐시샵|||Cash Shop
+캐치|||Catch
 캐캐체|||Kaekae Che
 캐훌린|||Cu Chulainn
 캔따개|||Can Opener
@@ -19213,6 +19250,7 @@ ZZZ|||ZZZ
 컬트|||Cult
 컬트시뮬레이터|||Cult Simulator
 컴공|||Computer Science
+컴오히|||Keomohi
 컴오히2|||Comohi 2
 컴파스|||Compass
 컴퍼니|||Company
@@ -19227,6 +19265,7 @@ ZZZ|||ZZZ
 케미가반려견느낌|||Pet Dog Chemistry
 케미화|||Chemistry
 케붕|||Keboong
+케빨물|||MC Power Boost
 케이|||Kai
 케이온|||K-On
 케이팝|||K-Pop
@@ -19424,6 +19463,7 @@ ZZZ|||ZZZ
 크로스드레서|||Crossdresser
 크로스물|||Crossover
 크로스아이|||Cross Eye
+크로스앙쥬|||Cross Ange
 크로스오버|||Crossover
 크로스워즈|||Cross Wars
 크로스팬픽|||Crossover Fanfic
@@ -19948,6 +19988,7 @@ ZZZ|||ZZZ
 트루퍼|||Trooper
 트름|||Burp
 트리거|||Trigger
+트리거다크|||Trigger Dark
 트리니티|||Trinity
 트리니티의한국인|||Trinity Korean
 트리퍼|||Triper
@@ -20030,6 +20071,7 @@ ZZZ|||ZZZ
 팀플레이|||Teamplay
 팅커벨|||Tinkerbell
 파격|||Radical
+파견|||Dispatch
 파견직|||Dispatch Worker
 파고모드|||Dig Mode
 파괴|||Destruction
@@ -20304,6 +20346,7 @@ ZZZ|||ZZZ
 페르소나5|||Persona 5
 페르소나5R|||Persona 5R
 페르소나요소조금|||Persona Slight
+페리|||Ferry
 페미|||Femi
 페미GOD|||Femi God
 페미니스트|||Feminist
@@ -20753,6 +20796,7 @@ ZZZ|||ZZZ
 피난처|||Refuge
 피누스실베스트리스|||Pinus Silbestris
 피니|||Pini
+피니와퍼브|||Phini Waperb
 피닉스|||Phoenix
 피드백|||Feedback
 피드백환영|||Feedback Welcome
@@ -20922,6 +20966,8 @@ ZZZ|||ZZZ
 하란|||Haran
 하렘|||Harem
 하렘1부한정|||Harem Part 1 Only
+하렘NTR|||Harem NTR
+하렘NTS|||Harem NTS
 하렘OF하렘|||Harem of Harem
 하렘X|||No Harem
 하렘ㅁㄹ|||Harem Maybe
@@ -21084,6 +21130,7 @@ ZZZ|||ZZZ
 학생|||Student
 학생남주|||Student Male Lead
 학생들|||Students
+학생로맨스|||Student Romance
 학생물|||Student Life
 학생안죽음|||No Student Deaths
 학생의사|||Student Doctor
@@ -21744,6 +21791,7 @@ ZZZ|||ZZZ
 홀로코스트|||Holocaust
 홀록스|||Holocx
 홀리나이트|||Holy Night
+홈랜더|||Homelander
 홈즈|||Holmes
 홍길동전|||Hong Gildong Tale
 홍등가|||Red Light District
@@ -21855,6 +21903,7 @@ ZZZ|||ZZZ
 활잡이|||Archer
 활협전|||Bow Heroes
 황건적|||Yellow Turban
+황궁|||Imperial Palace
 황근출|||Yellow Root
 황금|||Gold
 황금고블린|||Golden Goblin
@@ -21897,6 +21946,7 @@ ZZZ|||ZZZ
 회귀아님|||Not Regression
 회귀여주|||Regression Female Lead
 회귀인방|||Regression Broadcast
+회귀일까|||Regression Maybe
 회귀자|||Regressor
 회귀자동료|||Regressor Companion
 회귀자사용설명서|||Regressor Manual
