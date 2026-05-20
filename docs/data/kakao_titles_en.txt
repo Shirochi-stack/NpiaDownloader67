@@ -16944,7 +16944,9 @@
 64183374|||용 울음 드리운|||Shrouded in a Dragon's Cry
 64182409|||우주선에 좀비가 있다!!|||There's a Zombie on the Spaceship!!
 64054750|||이운|||Lee Woon
+64203895|||전직 조폭이 연기를 잘함|||The Ex-Gangster Excels at Acting
 64161178|||집착 남주가 내 인형을 질투한다|||The Obsessive Male Lead is Jealous of My Doll
+64131404|||희락의 밤에 이름을 불러 줘|||Call My Name on the Night of Joy
 64076425|||오빠 친구와 연애하는 법|||How to Date Oppa's Friend
 64132448|||병약한 아빠를 간호했을 뿐인데 [단행본]|||I Just Nursed My Sickly Dad [Book Edition]
 64209536|||신주대형[단행본]|||Divine Beast Colossus [Print Edition]
@@ -30239,6 +30241,7 @@
 59903456|||전리품, 비비안|||Spoils of War, Vivian
 59900935|||70억분의 1의 사나이|||The Man Who Is 1 in 7 Billion
 59894289|||부활한 킬러가 악인을 때려잡음|||The Resurrected Killer Beats Up the Villains
+59748328|||오만과 독선|||Arrogance and Self-Righteousness
 59923723|||이 집안을 일으켜세우겠습니다!|||I Will Revive This Family!
 59902409|||세계부자 1위의 한국인 [단행본]|||The Korean Who is the World's Richest [Volume Edition]
 59902340|||참모총장이 되어보기로 했다 [단행본]|||I Decided to Become the Chief of Staff [Volume Edition]
@@ -64191,6 +64194,3 @@
 46281858|||아크(ARK)|||ARK
 29226849|||달빛조각사|||Legendary Moonlight Sculptor
 20042576|||스타프로젝트 핸디노벨|||Star Project Handy Novel
-64203895|||전직 조폭이 연기를 잘함|||The Ex-Gangster Excels at Acting
-64131404|||희락의 밤에 이름을 불러 줘|||Call My Name on the Night of Joy
-59748328|||오만과 독선|||Arrogance and Self-Righteousness
