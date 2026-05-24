@@ -10,6 +10,8 @@
 100회차|||100th Round
 10가주|||10 Families
 10대|||Teens
+10대당주|||Tenth Family Head
+10대보스|||Tenth Boss
 10번은|||10 Times At Least
 10세|||10 Years Old
 10화빌런|||Ch10 Villain
@@ -464,6 +466,7 @@ DID|||Dissociative Identity
 DIESIRAE|||Dies Irae
 DIMENSIONS|||Dimensions
 DIO|||DIO
+DI스코미디|||Disco Comedy
 DJ|||DJ
 DJMAX|||DJMAX
 DM|||DM
@@ -521,6 +524,7 @@ FATE조금|||Light Fate
 FATE진짜조금|||Fate Tiny Bit
 FATE후추후추|||Fate Chase
 FBI|||FBI
+FD|||FD
 FEMDOM|||Femdom
 FETISH|||Fetish
 FF|||FF
@@ -694,6 +698,7 @@ MOBA|||MOBA
 MOE|||Moe
 MON3TR|||MON3TR
 MOON|||Moon
+MS|||MS
 MSV|||MSV
 MS걸|||MS Girl
 MTG|||Magic The Gathering
@@ -717,6 +722,7 @@ NIER|||NieR
 NIGHT|||Night
 NIIKKE|||Nikke
 NIKKE|||Nikke
+NKVD|||NKVD
 NL|||No Lemon
 NLT|||NLT
 NOBLESS|||Noblesse
@@ -2085,6 +2091,7 @@ ZZZ|||ZZZ
 겁쟁이근친아님|||Not Cowardly Incest
 겁탈|||Rape
 겉멋|||Flashy
+겉은절세미녀|||Outer Peerless Beauty
 게그|||Gag
 게다리춤|||Crab Walk Dance
 게로박사|||Gero Doctor
@@ -2331,6 +2338,7 @@ ZZZ|||ZZZ
 고구려|||Goguryeo
 고구려부활|||Goguryeo Revival
 고구마|||Sweet Potato/Frustrating
+고구마X|||Sweet Potato X
 고구마밭|||Sweet Potato Field
 고구마약간|||Slight Frustration
 고구마없음|||No Sweet Potato
@@ -3009,6 +3017,7 @@ ZZZ|||ZZZ
 군사소설|||Military Novel
 군사전략|||Military Strategy
 군사정권|||Military Regime
+군상|||Ensemble Cast
 군상극|||Ensemble Drama
 군생활|||Military Life
 군신|||Army God
@@ -3787,6 +3796,7 @@ ZZZ|||ZZZ
 나사빠진|||Screws Loose
 나선환O|||Spiral O
 나스닥|||Nasdaq
+나스닥양봉호로출발|||Nasdaq Bullish Start
 나심심함|||I'm Bored
 나약한주인공|||Weak Protagonist
 나약함|||Fragility
@@ -4466,6 +4476,7 @@ ZZZ|||ZZZ
 느와르극소량첨가|||Noir Elements
 느와르풍|||Noir Style
 느와르향첨가|||Noir Flavor
+느외르|||Noir
 늑대|||Wolf
 늑대개|||Wolf Dog
 늑대남|||Wolf Male
@@ -4670,6 +4681,7 @@ ZZZ|||ZZZ
 다저리가셈|||Dajeriga
 다정공|||Gentle Seme
 다정남|||Kind Man
+다정남주|||Kind Male Lead
 다정녀|||Kind Girl
 다정수|||Gentle SL
 다정집착|||Gentle Obsession
@@ -5037,6 +5049,7 @@ ZZZ|||ZZZ
 대홍수|||Great Flood
 대화|||Conversation
 대화중심|||Dialogue Focus
+대화형식많음|||Dialogue Heavy
 대환영|||Big Welcome
 대환장파티|||Crazy Party
 대회|||Tournament
@@ -5148,6 +5161,7 @@ ZZZ|||ZZZ
 데드풀|||Deadpool
 데드헤이트|||Dead Hate
 데레|||Dere
+데레데레|||Deredere
 데레마스|||Dere Mas
 데레스테|||Dereste
 데려온딸이|||Brought Daughter
@@ -5272,12 +5286,14 @@ ZZZ|||ZZZ
 도시괴담|||Urban Horror Tales
 도시국가|||City State
 도시남|||Urban Male
+도시느와르|||Urban Noir
 도시락|||Lunchbox
 도시붕괴|||City Collapse
 도시사랑|||Urban Love
 도시생존|||Urban Survival
 도시운영|||City Management
 도시의일상|||Urban Daily
+도시일상|||Urban Slice Of Life
 도시전설|||Urban Legend
 도시판타지|||Urban Fantasy
 도어즈|||Doors
@@ -5567,6 +5583,7 @@ ZZZ|||ZZZ
 둘이서하나|||Two as One
 둘중하나선택|||Choose One
 둠|||Doom
+둠상필|||Ominous Writing
 둠슬레이어|||Doom Slayer
 둠약간|||Light Doom
 둠이터널|||Doom Eternal
@@ -5699,6 +5716,7 @@ ZZZ|||ZZZ
 디스토피아|||Dystopia
 디스토피아물|||Dystopia
 디스토피아약간|||Slight Dystopia
+디스펠|||Dispel
 디아도코이|||Diadochi
 디아블로|||Diablo
 디앤디|||D&D
@@ -6431,6 +6449,7 @@ ZZZ|||ZZZ
 리제로|||Re:Zero
 리제로메인|||Re:Zero Main
 리젤로테유니버스|||Rizelotte Universe
+리조트|||Resort
 리첸|||Lichen
 리츠카|||Ritsuka
 리치|||Lich
@@ -6507,6 +6526,7 @@ ZZZ|||ZZZ
 마나가많아|||High Mana
 마나공학|||Mana Engineering
 마나무한|||Infinite Mana
+마나주머니|||Mana Pouch
 마나카|||Manaka
 마나펑크|||Mana Punk
 마녀|||Witch
@@ -6775,6 +6795,7 @@ ZZZ|||ZZZ
 마태수|||Ma Tae-soo
 마토|||Mato
 마토신지|||Mato Shinji
+마트|||Supermarket
 마티아스|||Mathias
 마파|||Mapa
 마파신부|||Mafia Priest
@@ -7059,6 +7080,7 @@ ZZZ|||ZZZ
 멀티엔딩|||Multi Ending
 멀티주인공|||Multi Protagonist
 멈춘세계|||Frozen World
+멋진남자|||Cool Guy
 멋진배|||Cool Squad
 멋진연애|||Cool Dating
 멋짐|||Cool
@@ -7642,6 +7664,7 @@ ZZZ|||ZZZ
 무직전생|||Mushoku Tensei
 무직전생2기|||Unemployed Rebirth 2
 무책임|||Irresponsible
+무츠미|||Mutsumi
 무친년|||Parentless Bitch
 무카살|||Mukasal
 무카살팬픽|||Murim Login Fanfic
@@ -7665,6 +7688,7 @@ ZZZ|||ZZZ
 무한루프|||Infinite Loop
 무한류|||Infinite Flow
 무한부활|||Infinite Respawn
+무한빙의|||Infinite Possession
 무한성장|||Infinite Growth
 무한성장형|||Infinite Growth
 무한의검제|||Infinite Sword Emperor
@@ -8576,6 +8600,7 @@ ZZZ|||ZZZ
 베르세르크|||Berserk
 베르세리온|||Verserion
 베리알|||Verial
+베리야|||Beria
 베리타스|||Veritas
 베베데빌|||Bebe Devil
 베아트리체|||Beatrice
@@ -9074,6 +9099,7 @@ ZZZ|||ZZZ
 불주먹|||Fire Fist
 불치병|||Incurable Disease
 불쾌|||Unpleasant
+불쾌함|||Unpleasantness
 불쾌함주의|||Unpleasant Warning
 불펌환영|||Plagiarism Welcome
 불편|||Uncomfortable
@@ -9204,6 +9230,7 @@ ZZZ|||ZZZ
 블아약간아마도|||Blue Archive Slight Maybe
 블아조금|||Bit of Blue Archive
 블잉유니버스|||Bling Universe
+블클|||Black Clean
 블화|||Black Flower
 블화1|||BLHwa 1
 블화8년전|||BLHwa 8 Years Ago
@@ -9606,6 +9633,7 @@ ZZZ|||ZZZ
 사무실|||Office
 사무직|||Office Job
 사물|||Objects
+사미윤|||Sami Yoon
 사민당|||Social Democrats
 사방신|||Four Directions Gods
 사법|||Judiciary
@@ -10044,6 +10072,7 @@ ZZZ|||ZZZ
 생각거리|||Food for Thought
 생각나는|||Whatever Comes to Mind
 생각나면옴|||Appears When Thought
+생각날때만연재|||Irregular Updates
 생강시|||Ginger Corpse
 생계형|||Livelihood Type
 생도|||Cadet
@@ -10567,6 +10596,7 @@ ZZZ|||ZZZ
 세력물|||Faction Building
 세력전|||Faction War
 세력확장|||Faction Expansion
+세로프|||Serof
 세리나|||Serina
 세명|||Three People
 세모|||Triangle
@@ -10898,6 +10928,7 @@ ZZZ|||ZZZ
 속옷|||Underwear
 속옷페티시|||Lingerie Fetish
 속으로|||Inner Thoughts
+속은상남자|||Inner Macho Man
 속을알수없는사장님|||Inscrutable Boss
 속임수|||Deception
 속죄|||Atonement
@@ -10987,6 +11018,7 @@ ZZZ|||ZZZ
 수수께끼|||Riddle
 수술|||Surgery
 수술아님|||Not Surgery
+수슬로프|||Ski Slope
 수습|||Probation
 수시|||Ongoing
 수어사이드|||Suicide
@@ -11293,6 +11325,7 @@ ZZZ|||ZZZ
 스쿼트|||Squats
 스크랩펑크|||Scrap Punk
 스크루테이프|||Screwtape
+스키|||Ski
 스키비디|||Skibidi
 스키비디멀티버스|||Skibidi Multiverse
 스키비디사가|||Skibidi Saga
@@ -11513,6 +11546,7 @@ ZZZ|||ZZZ
 시간제한|||Time Limit
 시간조작|||Time Manip
 시간트립물|||Time Trip
+시계공|||Clockmaker
 시계대가리|||Clockhead
 시계탑|||Clock Tower
 시골|||Countryside
@@ -11675,6 +11709,7 @@ ZZZ|||ZZZ
 식량패권|||Food Hegemony
 식물|||Plant
 식물바이러스|||Plant Virus
+식물술사|||Plant Mage
 식민시대|||Colonial Era
 식민지|||Colony
 식봉이|||Food Voucher
@@ -11866,6 +11901,7 @@ ZZZ|||ZZZ
 신화전설|||Myth Legend
 신화판타지|||Myth Fantasy
 신회|||New Association
+실|||Thread
 실격|||Disqualified
 실금|||Incontinence
 실눈|||Squinty Eyes
@@ -12595,6 +12631,7 @@ ZZZ|||ZZZ
 안옴|||No Updates
 안유진|||An Yujin
 안전감독관|||Safety Inspector
+안전제일|||Safety First
 안젤리카|||Angelica
 안좋은감정들|||Bad Emotions
 안죽음|||No Death
@@ -12807,6 +12844,7 @@ ZZZ|||ZZZ
 앤디와레일리의관|||Andy and Reilly
 앤레관|||Anre Gwan
 앤젤라|||Angela
+앤터물|||Entertainment Industry
 앤틱기어|||Antic Gear
 앨리스가최고임|||Alice Best
 앨리스마가트로이드|||Alice Margatroid
@@ -13147,6 +13185,7 @@ ZZZ|||ZZZ
 약함|||Weak
 약혐|||Mild Hate
 약호러|||Light Horror
+약혼|||Engagement
 약혼녀|||Fiancée
 약혼파기|||Engagement Break
 약회귀요소|||Light Regression
@@ -13164,6 +13203,7 @@ ZZZ|||ZZZ
 얀데레일까|||Yandere?
 얀데레일수도|||Possible Yandere
 얀데레포함|||Yandere Included
+얀데레하렘|||Yandere Harem
 얀데레화|||Yandere Transformation
 얀비스모크|||Yanbi Smoke
 얀시뮬|||Yan Sim
@@ -13722,6 +13762,7 @@ ZZZ|||ZZZ
 여자용사|||Female Hero
 여자의사랑|||Woman's Love
 여자자코|||Female Mooks
+여자전투원|||Female Combatant
 여자종려|||Female Palm
 여자지휘관|||Female Commander
 여자친구|||Girlfriend
@@ -14690,6 +14731,7 @@ ZZZ|||ZZZ
 용사타락|||Hero Fall
 용사파티|||Hero Party
 용사파티의짐꾼|||Hero Party Porter
+용사형에처함|||Trapped As Hero Type
 용살자|||Dragon Slayer
 용생|||Dragon Life
 용술|||Dragon Magic
@@ -14850,6 +14892,7 @@ ZZZ|||ZZZ
 웅녀|||Bear Girl
 웅장한세계관|||Grand Worldview
 워그레이몬|||WarGreymon
+워더링하이츠|||Wuthering Heights
 워든|||Warden
 워록|||Warlock
 워맨스|||War Romance
@@ -15590,6 +15633,7 @@ ZZZ|||ZZZ
 이누야샤|||InuYasha
 이능|||Supernatural
 이능력|||Supernatural Power
+이능력각성|||Ability Awakening
 이능력격투기|||Superpower Fighting
 이능력물|||Ability Lit
 이능력미스터리|||Esper Mystery
@@ -17055,6 +17099,7 @@ ZZZ|||ZZZ
 정상인아웃|||Normal Out
 정상인없음|||No Normals
 정상전쟁|||Normal War
+정상형|||Normal Type
 정상화|||Normalization
 정서적구원|||Emotional Salvation
 정서적충격주의|||Emotional Shock Warning
@@ -17156,6 +17201,7 @@ ZZZ|||ZZZ
 정치약간|||Slight Politics
 정치와법|||Politics and Law
 정치와암투|||Politics and Schemes
+정치인|||Politician
 정치적올바름|||Political Correctness
 정치전략|||Political Strategy
 정치제도|||Political System
@@ -17564,6 +17610,7 @@ ZZZ|||ZZZ
 주밀레나옴|||No Jumille
 주변TS|||Surrounding TS
 주변만약피폐|||Side Mild Yandere
+주변만피폐|||Surroundings Only Ruined
 주변약피폐|||Side Character Mild Yandere
 주변에|||Around
 주변이먼치킨|||Surrounding Munchkin
@@ -18262,6 +18309,7 @@ ZZZ|||ZZZ
 참호전|||Trench Warfare
 참혹|||Brutal
 참회|||Confession
+찻집|||Teahouse
 창|||Window
 창고|||Warehouse
 창관|||Window View
@@ -18556,6 +18604,7 @@ ZZZ|||ZZZ
 초거대기업|||Mega Corporation
 초건전|||Ultra Healthy
 초고수위|||Ultra High Intensity
+초과달성|||Overachievement
 초극악연재|||Terrible Updates
 초기자본주의|||Early Capitalism
 초뇌룡|||Super Brain Dragon
@@ -19098,6 +19147,7 @@ ZZZ|||ZZZ
 카이저|||Kaiser
 카이저기도라|||King Ghidorah
 카이저라이히|||Kaiser Reich
+카이저코퍼레이션|||Kaiser Corporation
 카이카제|||Kai Kaze
 카이텐저|||Kaiten Zero
 카이텐져|||Kaitenzer
@@ -19337,6 +19387,7 @@ ZZZ|||ZZZ
 코바야시네|||Kobayashi Family
 코바야시네메이드래곤|||Kobayashi Dragon Maid
 코볼트|||Kobold
+코스계|||Cosplay Series
 코스믹|||Cosmic
 코스믹신화|||Cosmic Myth
 코스믹크리쳐|||Cosmic Creature
@@ -19344,6 +19395,7 @@ ZZZ|||ZZZ
 코스믹호러향첨가|||Cosmic Horror Added
 코스어|||Cosplay
 코스튬|||Costume
+코스파코|||Cosplay Company
 코스프레|||Cosplay
 코스플레이|||Cosplay
 코스플레이어|||Cosplayer
@@ -19401,6 +19453,7 @@ ZZZ|||ZZZ
 쿠데타|||Coup
 쿠라마|||Kurama
 쿠로사키|||Kurosaki
+쿠로사키이치고|||Kurosaki Ichigo
 쿠로야세|||Kuroyase
 쿠로카와|||Kurokawa
 쿠로코|||Kuroko
@@ -19712,6 +19765,7 @@ ZZZ|||ZZZ
 탐험대|||Exploration Team
 탑|||Tower
 탑건|||Top Gun
+탑공략|||Tower Conquest
 탑등반|||Tower Climbing
 탑등반물|||Tower Climbing
 탑등반약간|||Slight Tower Climbing
@@ -19786,6 +19840,7 @@ ZZZ|||ZZZ
 테레시아|||Theresia
 테르미나|||Termina
 테마|||Theme
+테무산유희생활|||Temu Mountain Leisure Life
 테스트|||Test
 테스트용|||Test
 테스트중|||Testing
@@ -20221,6 +20276,7 @@ ZZZ|||ZZZ
 팔시온|||Palzion
 팔왕|||Eight Kings
 팔월드|||Palworld
+팔척귀신|||Eight-Foot Ghost
 팔최종|||Pal Final
 팡가이아|||Pangaea
 팥고물|||Red Bean Filling
@@ -20460,6 +20516,7 @@ ZZZ|||ZZZ
 포간|||Pogan
 포겟몬|||Forgetmon
 포격|||Barrage
+포경선|||Whaling Ship
 포근|||Cozy
 포기|||Give Up
 포기안하는주인공|||Unyielding MC
@@ -21374,6 +21431,7 @@ ZZZ|||ZZZ
 햄릿각색|||Hamlet Adaptation
 햄부기|||Ambipom
 햄스터|||Hamster
+햄타지|||Hamtasy
 햄타지라이크|||Fantasy Like
 햄탈워|||Hamtal War
 햄햄팡팡|||Ham Ham Pang Pang
@@ -21820,6 +21878,7 @@ ZZZ|||ZZZ
 화산|||Volcano
 화산귀한|||Volcano Noble
 화산귀환|||Return of Mount Hua
+화산귀환패러디|||Mount Hua Return Parody
 화산전생|||Volcano Reincarnation
 화산파|||Volcano Clan
 화산폭발|||Volcano Eruption
@@ -22162,6 +22221,7 @@ ZZZ|||ZZZ
 흑막|||Mastermind
 흑막계주인공|||Shadow MC
 흑막단장|||Black Curtain Leader
+흑막대공|||Mastermind Duke
 흑막무브|||Black Curtain Move
 흑막영애|||Black Curtain Lady
 흑막주인공|||Black Curtain Protagonist
@@ -22235,6 +22295,7 @@ ZZZ|||ZZZ
 히데요시|||Hideyoshi
 히드라|||Hydra
 히든|||Hidden
+히든공략|||Hidden Route
 히든보스|||Hidden Boss
 히든스킬|||Hidden Skill
 히든클래스|||Hidden Class
