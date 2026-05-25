@@ -16439,6 +16439,7 @@
 64350501|||무한서고의 계약자!|||Contractor of the Infinite Library!
 64247177|||충신은 버림받은 황자비|||The Loyal Subject is the Abandoned Crown Princess
 64152104|||완벽한 탐닉|||Perfect Indulgence
+64299631|||찌르르, 일상|||Zing, Everyday
 64312154|||솔직하지 못한 당신께|||To You Who Cannot Be Honest
 64296894|||폭군의 아내가 되다 [단행본]|||Becoming the Tyrant's Wife [Volume Edition]
 64365774|||천재 신입사원 버거왕이 되다[단행본]|||Genius New Employee Becomes Burger King [Book]
@@ -26857,6 +26858,9 @@
 61252659|||홍차 정원의 귀한 아가씨입니다|||I Am the Precious Lady of the Black Tea Garden
 61228515|||어린 악당의 해피엔딩을 위하여|||For the Happy Ending of the Young Villain
 61216802|||이면 세계 - 멸망의 날|||Hidden World - Day of Destruction
+61123421|||늑대 신랑 (외전) [19세 완전판][단행본]|||Wolf Bridegroom (Side Story) [19+ Complete Edition][Single Volume]
+61123105|||늑대 신랑 [19세 완전판][단행본]|||Wolf Bridegroom [19+ Complete Edition][Single Volume]
+61122793|||늑대 신랑 [19세 완전판 특별 외전]|||Wolf Bridegroom [19+ Complete Edition Special Side Story]
 61192407|||유혹의 끝|||End of Temptation
 61102922|||악마사냥꾼의 회귀|||Regression of the Demon Hunter
 61227378|||시한부라서 남주의 형과 결혼했더니 내게 집착한다|||Married the Male Lead's Brother Because I'm Terminally Ill, and Now He's Obsessed with Me
@@ -32011,6 +32015,7 @@
 59248277|||쓰면 현실이 된다|||If I Write It, It Becomes Reality
 59260175|||비명|||The Scream
 59211487|||간헐적 파트너|||Intermittent Partner
+59163075|||겟 레디|||Get Ready
 59001179|||시한부라니 오해입니다|||It's a Misunderstanding That I'm Terminally Ill
 59223504|||자기중심적 사고방식|||Self-Centered Way of Thinking
 59080093|||암살검가 로이넨|||Assassin Sword Family Loinen
@@ -37432,8 +37437,11 @@
 57283473|||디어 유어 디어(DEAR YOUR DEER)|||Dear Your Deer
 57275832|||조상 덕에 영주 합니다만 [단행본]|||I'm a Lord Thanks to My Ancestors [Book]
 57191314|||지독하게, 잘 맞는|||Terribly Well-Matched
+57173768|||요리로 내 인생 만만세|||Cooking My Way to an Easy Life
+57173164|||회귀했더니 공작|||I Regressed and Became a Duke
 57282882|||힐러가 너무 강함|||The Healer is Too Strong
 57280269|||죽은 자들의 징벌 [단행본]|||Punishment of the Dead [Volume Edition]
+57280236|||반마족 레오 [단행본]|||Half-Demon Leo [Single Volume]
 57258904|||호구 아내는 거절합니다|||I Refuse to Be a Pushover Wife
 57247423|||신수 키우는 남자|||The Man Who Raises Divine Beasts
 57258797|||다정한 나쁜 짓|||Kind Bad Things
@@ -38089,6 +38097,7 @@
 57005860|||전략게임 속 엑스트라 [단행본]|||Extra in a Strategy Game [Volume Edition]
 57008091|||백악관의 비선실세|||The White House's Shadow Power
 56998957|||회귀자의 로드 투 재벌 [완결]|||The Returnee's Road to Chaebol [Completed]
+56978836|||슬기로운 회귀생활|||The Smart Way to Live After Regression
 56989888|||아주 사소한 이유|||A Very Trivial Reason
 56991667|||헌드레드 헤븐 [단행본]|||Hundred Heaven [Book Edition]
 57013189|||전기의 기사 [단행본]|||Knight of Lightning [Volume]
@@ -40153,6 +40162,7 @@
 56185812|||이혼의 시작은 재혼부터|||Divorce Starts with Remarriage
 56035203|||소설 속 EX급 천재가 되었다 [완결]|||I Became an EX-Class Genius in a Novel [Completed]
 56211165|||고독한 성녀에게 구원의 손길을|||A Saving Hand for the Lonely Saintess
+56186716|||암전|||Blackout
 56202205|||마녀인데요, 헌터입니다|||I'm a Witch, but I'm a Hunter
 56207948|||원 모어 타임(One More Time)|||One More Time
 56186614|||아부다비의 밤|||Night in Abu Dhabi
@@ -41496,8 +41506,10 @@
 55612079|||우리야, 이리온|||Come Here, Woori
 55618431|||너랑은 아니야|||Not with You
 55648868|||동물원 옆 미술관 [단행본]|||The Art Museum Next to the Zoo [Single Volume]
+55358995|||동물원 옆 미술관|||The Art Museum Next to the Zoo
 55642887|||양육비를 청구한다|||Demanding Child Support
 55650041|||재능천재 막내아들|||The Genius Youngest Son
+55435492|||쌍룡기 [완결] [단행본]|||Twin Dragons Chronicle [Complete][Single Volume]
 55635866|||뱀의 혀 [클린버전]|||Serpent's Tongue [Clean Version]
 55651108|||페이크 클리셰|||Fake Cliche
 55655832|||왕의 데이터베이스|||The King's Database
@@ -43111,6 +43123,7 @@
 55215720|||제아|||Jea
 55277102|||쌍둥이 성좌|||Twin Constellations
 55250131|||비다정 연애사|||Un-Tender Love Story
+55170282|||궁원의 청금|||Palace Garden's Blue Forbidden
 55267123|||남자 이야기|||A Man's Story
 55271614|||스플릿(split)|||Split
 55262190|||연인의 인연|||A Lover's Fate
@@ -49650,6 +49663,7 @@
 52406370|||귀환천하|||Return to the Heavens
 52415801|||레인 [완결]|||Rain [Completed]
 52413374|||더러워서 내가 키운다 [완결]|||It's Dirty, So I'll Raise It Myself [Completed]
+52393524|||게임 속 유닛|||Unit Inside the Game
 52191873|||야구는 잘하는 놈이 잘한다 [완결]|||Baseball is Played Well by Those Who are Good at It [Completed]
 52419324|||그대의 남자|||Your Man
 52411425|||악녀의 사정(개정판)|||The Villainess's Circumstances (Revised Edition)
@@ -50298,18 +50312,31 @@
 52132561|||오늘의 해주|||Today's Haeju
 52125291|||대놓고 사내연애|||Open Office Romance
 52128115|||애동과의 로맨스(개정판) [완결]|||Romance with My Beloved Pet (Revised Edition) [Completed]
+52128129|||뷰티풀 몬스터|||Beautiful Monster
+52128619|||러브 온 스테이지|||Love on Stage
+52114457|||왕후장상[완결]|||Kings and Nobles [Complete]
+52125337|||공작부인의 비밀|||The Duchess's Secret
 52070070|||회귀했더니 너무 강해졌다|||I Regressed and Became Too Strong
 52124095|||되찾은 새벽 [완결]|||The Recovered Dawn [Completed]
+52121168|||익스트림 [완결]|||Extreme [Complete]
+52072722|||불순한 결혼 [외전 선공개]|||Impure Marriage [Side Story Preview]
+52107570|||삼국지 유봉전 : 계한의 부흥[완결]|||Romance of the Three Kingdoms: Yubong's Tale – Revival of the Ji Han [Complete]
 52116877|||아수라 천마|||Asura Heavenly Demon
+52111825|||미친[개정판]|||Crazy [Revised Edition]
 52096064|||인형의 옥상 [15세이용가 개정판]|||Doll's Rooftop [15+ Revised]
 51984996|||시크릿 만남 [완결]|||Secret Meeting [Completed]
 52094642|||다운레인지|||Downrange
+52116308|||선택지로 랭킹 1위[완결]|||Ranking First With Choices [Complete]
+52118226|||청동 거울의 비밀|||The Secret of the Bronze Mirror
+52109623|||프시케의 초과근무|||Psyche's Overtime
 52097394|||러브오어라이크|||Love or Alike
 52097609|||나의 별에 부는 바람 [단독선공개]|||The Wind Blowing to My Star (Exclusive Pre-release)
 52107369|||착한 언니는 없다 [완결]|||There is No Kind Older Sister [Completed]
 52072979|||측천황제|||Empress Wu Zetian
 52057443|||나쁜 자식|||Bad Bastard
+52067520|||함부로 포옹[15세 개정판]|||Reckless Embrace [15+ Revised Edition]
 52037897|||오필리아[BL][15세ver.]|||Ophelia [BL] [15+ Ver.]
+52101753|||화령의 제왕 [완결]|||Emperor of Hwaryeong [Complete]
 52015973|||마지막 유희|||The Last Game
 51918024|||일탈의 청혼|||Proposal of Deviation
 52098202|||미래를 보여드립니다|||I Will Show You the Future
@@ -50319,22 +50346,34 @@
 52101314|||트라이베카 기담|||Tribeca Strange Tales
 52044658|||지극히, 사적인 [단독선공개]|||Extremely Private [Exclusive Pre-release]
 52105591|||란 귀비|||Consort Ran
+52107491|||내 반려동물이 악당이 되었을 때|||When My Pet Became a Villain
+52052457|||숲에 내리는 비|||Rain Falling in the Forest
 52084020|||공작가의 수치, 회귀하다 [완결]|||The Duke's Family's Shame, Regresses [Completed]
 52096557|||악역의 마지막 하루를 살고 있습니다|||I Am Living the Villain's Last Day
 52076598|||두려움 없는 사랑|||Fearless Love
+52079081|||상흔(傷痕)|||Scar
+52079190|||거짓|||Lie
 52079220|||만월의 남자|||Man of the Full Moon
 52079543|||원 사이드 러브|||One Side Love
+52109582|||어설픈 계략 [단독 선공개]|||Clumsy Scheme [Exclusive Preview]
 52095316|||황제 폐하, 저는 썸녀가 아니에요!|||Your Majesty, I'm Not Your Flirt!
 51374806|||데 코스타가의 우아한 야수|||The Elegant Beast of the De Costa Family
 52105655|||베이비 리포트 (15세 개정판) [완결]|||Baby Report (15+ Revised Edition) [Completed]
 51981969|||천마님의 베이커리|||The Heavenly Demon's Bakery
 52088165|||은밀한 글감옥 [15세이용가 개정판]|||Secret Writing Prison [15+ Revised Edition]
 51627238|||게임 속으로 떨어진 남자 [완결]|||The Man Who Fell Into a Game [Completed]
+52103771|||악센트 accent|||Accent
+52101530|||공작 부인이 영지를 키우는 방법|||How the Duchess Grows Her Territory
 52103475|||그가 들어왔다 [외전 선공개]|||He Has Entered [Side Story Pre-release]
 52079306|||꽃이 내리다|||Flowers Falling
+52104198|||질풍패도|||Stormy Path of the Tyrant
+50382507|||향처시매화|||Fragrant Wife, Poetic Plum Blossom
 52095306|||싱글파파는 천마님!|||Single Dad is the Heavenly Demon!
+51956114|||환생행 [완결]|||Reincarnation Journey [Complete]
 51705098|||S급 생존자|||S-Class Survivor
 52099386|||정자부터 레벨 업! [완결]|||Level Up From Sperm! [Completed]
+52099383|||국민배우 정도현[완결]|||National Actor Jeong Do-hyeon [Complete]
+52079230|||1레벨 플레이어|||Level 1 Player
 52086816|||독보천하(独步天下)|||Unrivaled Heavens
 52099116|||운명이라 그래요|||It's Because of Fate
 52081415|||소드 아트 온라인|||Sword Art Online
@@ -50342,40 +50381,60 @@
 52083994|||동천마검 [완결]|||Eastern Heavenly Demon Sword [End]
 52099029|||낮보다 밤이 좋아[단독선공개]|||I Like Night Better Than Day [Exclusive Pre-release]
 51981970|||천마님 요리하신다|||The Heavenly Demon is Cooking
+52076155|||레전드 플레이어의 귀환 [완결]|||Return of the Legend Player [Complete]
 52086356|||풋볼 매니저 : 스탯이 보여|||Football Manager: Stats Are Visible
 52010964|||아니이스 [외전 선공개]|||Anice [Side Story Pre-release]
 52077578|||그 영애가 소꿉친구를 피하는 이유|||The Reason Why the Young Lady Avoids Her Childhood Friend
+52069525|||와룡본색|||True Colors of the Crouching Dragon
 52058259|||귀환하니 먼치킨|||Munchkin After Returning
 52081284|||내가 조선의 무당이다[완결]|||I Am a Joseon Shaman [Completed]
+52084887|||도검무안 [완결]|||Sword and Blade Without Equal [Complete]
 51981967|||워크 마스터|||Work Master
+52069620|||미인도(美人圖) : 신수의 여인(개정판)|||Portrait of a Beauty: The Divine Beast's Woman [Revised Edition]
 52080960|||파괴의 천사 [완결]|||Angel of Destruction [Completed]
 52067159|||하트 오브 크라운[할리퀸]|||Heart of Crown [Harlequin]
 52067158|||틴에이지 슈퍼스타[할리퀸]|||Teenage Superstar [Harlequin]
+52067156|||디 비토리오의 제안[할리퀸]|||Di Vittorio's Proposal [Harlequin]
+52069823|||호텔 매니지먼트|||Hotel Management
+52069646|||퍼스트 드래곤 [완결]|||First Dragon [Complete]
 52069628|||금을 사랑하면 별을 보지 못한다|||If You Love Gold, You Can't See the Stars
+52039741|||거울전쟁 the Novel [완결]|||Mirror War the Novel [Complete]
 52064053|||우리가 살아가는 이유|||The Reason We Live
 52045691|||강 검사의 은밀한 사건 파일|||Prosecutor Kang's Secret Case File
 52069796|||헌터, 모든 신을 받다 [완결]|||Hunter, Receiving All Gods [Completed]
 52067556|||귀환한 나는 백수가 되었다|||I, Who Returned, Became Unemployed
 51995823|||첫사랑이 아니야 [완결]|||It's Not First Love [Completed]
+52075874|||익애|||Familiar Love
 52013241|||악녀가 사랑할 때|||When the Villainess Loves
+52075582|||별들의 별[연재]|||Star of Stars [Ongoing]
 52065009|||메마른 햇빛 아래, 안개꽃 한 송이|||Under the Dry Sunlight, a Single Mist Flower
 52074111|||3차대전 [완결]|||World War III [Completed]
 52055099|||검사님 출세하신다!|||The Prosecutor is Getting Promoted!
 52069295|||뇌문천하(개정판)[완결]|||Lightning Conquers the World (Revised) [Completed]
+52069307|||대낭인(개정판)[완결]|||Great Wanderer [Revised Edition][Complete]
 52042434|||Re: Final Boss(리: 파이널 보스)|||Re: Final Boss
 52056660|||내 사랑 스토커 (외전 선공개)|||My Love Stalker (Side Story Pre-release)
+52067296|||상상 만렙 연애담|||Max-Level Imagination Romance
 52077451|||사랑 지금 나랑 해|||Do Love With Me Now
 51447386|||연애의 온도|||Temperature of Love
 52066728|||하얀 바람의 속삭임|||Whisper of the White Wind
+52014167|||폭군과 무녀|||The Tyrant and the Shrine Maiden
+52057111|||황후님은 탈출을 원해|||Her Majesty the Empress Wants to Escape
 52063947|||악당을 사로잡는 완벽한 방법|||The Perfect Way to Capture the Villain
 52049593|||BY YOUR SIDE|||BY YOUR SIDE
 52049824|||도망자와 인질|||Fugitive and Hostage
 52049967|||까칠한 상사와의 동거|||Living with a Cranky Boss
+52050245|||펫의 유혹|||Pet's Temptation
 52048819|||레이디는 검을 겨눈다 [단행본]|||The Lady Points Her Sword [Volume Edition]
+52027721|||관능의 온도|||Temperature of Sensuality
 52068201|||구천독혼마(개정판)[완결]|||Nine Heavens Poison Soul Demon [Revised Edition] [End]
+52062385|||퍼펙트맨|||Perfect Man
+52062236|||기앙코티의 군주|||Lord of Ghiangcoti
 52063142|||십이사도|||Twelve Apostles
+51994779|||금지된 열망[할리퀸]|||Forbidden Desire [Harlequin]
 51994782|||샤이엔의 푸른 하늘[할리퀸]|||Cheyenne's Blue Sky [Harlequin]
 51994784|||맨해튼 매치메이커[할리퀸]|||Manhattan Matchmaker [Harlequin]
+52071128|||최고의 노예|||The Perfect Slave
 52057994|||불순한 상상|||Impure Imagination
 51839014|||달래줘|||Soothe Me
 52050030|||이상한 나라의 미스봉|||Miss Bong in Wonderland
@@ -50383,9 +50442,12 @@
 52045643|||탐나는 결혼|||Desirable Marriage
 52060859|||딥 터치 [15세이용가 개정판]|||Deep Touch [15+ Revised Edition]
 52033517|||진지하게 다가오면 [15세이용가 개정판]|||If You Approach Seriously [15+ Revised Edition]
+52017710|||양각양|||Two Horns, Two Sheep
+52053412|||황제의 멍멍이|||The Emperor's Puppy
 52033594|||모든 숫자를 기억하는 남자(개정판)|||The Man Who Remembers All Numbers [Revised Edition]
 52026269|||그녀는 나의 오마주 (외전개정증보판)|||She is My Homage (Side Story Revised and Expanded Edition)
 52045476|||그럼에도 우리는|||Nevertheless, We
+52054023|||권왕전기|||Chronicle of the Fist King
 51945961|||여우야(夜)[15금개정증보판]|||Fox Night [15+ Revised Expanded Edition]
 52048359|||바람둥이 파파 [단독선공개]|||Playboy Papa [Exclusive Pre-release]
 52020245|||저주를 내려드립니다|||I Will Cast a Curse
@@ -50394,79 +50456,132 @@
 52039787|||[GL] 냥냥하네요 [15세이용가]|||[GL] It's Meow-Meow [15+]
 51974635|||맛으로 승부합니다! [완결]|||Competing With Taste! [Completed]
 52011739|||에필로그, 끝이 아닌 시작 [15세 개정판]|||Epilogue, A Beginning Not an End [15+ Revised Edition]
+52051363|||열락의 바람|||Wind of Ecstasy
 52015534|||미래 지식을 계승 중입니다! [완결]|||I'm Inheriting Future Knowledge! [Completed]
 52048161|||사랑하자 다시|||Let's Love Again
 52034752|||가시관과 환상향|||Crown of Thorns and Gensokyo
 52047250|||천라신조|||Heavenly Asura Divine Bird
+52052128|||악당들을 위한 동화|||Fairy Tale for Villains
+52040457|||생명력 Max! [완결]|||Vitality Max! [Complete]
+52040682|||작왕전|||Battle of the Tyrant Kings
 52042920|||나는 너를, 너는 나를|||I You, You Me
 52040428|||세 들어 사는 공녀 [완결]|||The Princess Who Lives as a Tenant [End]
+51960064|||히든피스헌터|||Hidden Piece Hunter
+52040515|||오란도스의 주인|||Lord of Orandos
 52040639|||천하제일악인|||The World's Best Villain
+52046292|||우연한 바람|||Unexpected Wind
 52045087|||천하제일 만년학사|||The World's Best Eternal Scholar
 52039744|||남편과의 연애|||Dating My Husband
 52045993|||헤스티아|||Hestia
 52033565|||회귀로 대박난 헌터[완결]|||Hunter Who Hit the Jackpot Through Regression [End]
+52034098|||조선에서 맨유까지 [연재]|||From Joseon to Manchester United [Ongoing]
 52027642|||황제, 세상을 삼키다 [연재]|||Emperor, Swallowing the World [Serialization]
 51997985|||수요일, 쥬리는 추리소설을 빌린다|||On Wednesday, Julie Borrows Mystery Novels
 52039051|||황금의 제국|||Golden Empire
 51992591|||쉿! 강대표님 오십니다|||Shh! CEO Kang Is Coming
+51887060|||노병귀환 [완결]|||Return of the Veteran Soldier [Complete]
+52013921|||비서의 유혹|||Secretary's Temptation
+51840392|||추상의 정원|||Garden of Abstraction
 52017264|||망고스틴(Mango Steen)|||Mango Steen
 52017672|||달달한게 좋아|||I Like Sweet Things
+52018032|||은밀한 끌림|||Secret Attraction
+52018214|||짐승처럼 거칠게|||Rough Like a Beast
+52014286|||손톱 밑|||Under the Fingernail
 51917512|||물밑의 달_BL완결[개정판]|||Moon Under the Water_BL End [Revised Edition]
 51739944|||먼치킨은 모르지만 치킨은 아는 남자|||Man Who Doesn't Know Munchkin But Knows Chicken
 52020796|||신을 만나면 신을 죽이고 [연재]|||If You Meet a God, Kill the God [Serial]
 52029528|||로맨틱 유혹|||Romantic Temptation
 52031625|||맛있는 사랑법칙|||Delicious Love Rules
 52043083|||엘도라도의 여주인|||Mistress of Eldorado
+52010102|||바람둥이 길들이기|||Taming the Playboy
 51998101|||너는 나의 숨이다 [완결]|||You Are My Breath [Completed]
 52032932|||바바리안|||Barbarian
 52027791|||이세계에서 운빨로 살아가라고?!|||You Want Me to Survive in Another World with Luck?!
 52009433|||전직 킬러 헌터 되다|||Former Killer Becomes a Hunter
+52028626|||봄을 잊은 그대에게|||To You Who Forgot Spring
+52014164|||썸머웨딩 [외전 단독선공개]|||Summer Wedding [Exclusive Side Story Preview]
 52032167|||괴물 공작의 아내로 살아남는 법|||How to Survive as the Monster Duke's Wife
+51994615|||천애폭풍기(개정판)[완결]|||Heaven's End Storm Record [Revised Edition][Complete]
+51994617|||광풍서생(개정판)[완결]|||Mad Wind Scholar [Revised Edition][Complete]
 52036407|||대공님, 저 말고 쟤요|||Grand Duke, Not Me, Her
+52027759|||큐피드의 화약(개정판) [완결]|||Cupid's Gunpowder [Revised Edition][Complete]
 52027416|||흑기사 칼리온|||Black Knight Kalion
+51994619|||구월뇌우(개정판)[완결]|||September Thunderstorm [Revised Edition][Complete]
 51983943|||사랑도 성형이 될까요?|||Can Love Be Plastic Surgery Too?
 51990831|||방송의 대가|||Master of Broadcasting
+52007847|||내 디딤발이 360°|||My Stepping Stone Is 360°
 52019717|||아내의 조건[단독 선공개]|||Wife's Condition [Exclusive Pre-release]
+51993060|||늑대의 숲|||Wolf's Forest
 52006069|||금사여한선 [완결]|||Geumsayeohanseon [Completed]
+52000662|||트리니티 레볼루션 [완결]|||Trinity Revolution [Complete]
+52025531|||소설 바리정토기|||Novel: Bari Jeongto Chronicle
+52022973|||서브인생 행복찾기|||Finding Happiness in a Side Life
 51994319|||하님(개정판)|||Hanim (Revised Edition)
 51983018|||청호각 객주 이영|||Cheonghogak Innkeeper Lee Young
+51995157|||금수의 정원 (외전포함)|||Garden of the Forbidden Beast (Includes Side Stories)
+51836570|||황금의 여왕|||Golden Queen
 52022322|||스타가 반한 건 대역이었다|||"The Star Fell for His Stunt Double"
 52018077|||천하제일고수 - 학교에 가다 [완결]|||The World's Best Master - Goes to School [Completed]
+52009047|||도깨비 전설 그 후|||After the Goblin Legend
 52002602|||미성년자 관람불가 [15세이용가 개정판]|||Not Suitable for Minors [15+ Revised]
 51989406|||신선한 그녀 [15세이용가 개정판]|||Fresh Her [15+ Revised Edition]
 52014207|||온 에어 24|||On Air 24
+52024091|||칠봉이는 게임중[완결]|||Chilbong Is In-Game [Complete]
+52015293|||낙월진천|||Falling Moon, Soaring Heavens
 52011299|||홧김에 여주가 되어 보려 합니다|||I'll Try Being the Heroine on a Whim
+52015674|||악에 피는 꽃|||Flower Blooming in Evil
 51926834|||가연(佳緣)|||Beautiful Fate
 52013820|||무림사계|||Murim Four Seasons
 51870318|||다시 쓰는 헌터사 [완결]|||Rewriting Hunter History [Completed]
 51826413|||약손전|||Tale of Healing Hands
+52012585|||변심|||Change of Heart
 51980498|||똑똑, 봄비입니다|||Knock Knock, It's Spring Rain
 51979852|||만져도 좋아|||It's Okay to Touch
+52018174|||동풍|||East Wind
+51407486|||프로젝트S[외전증보판]|||Project S [Side Story Expanded Edition]
+51984201|||주님|||My Lord
 52010973|||쉿, 팬님 이러시면 안 돼요 [단독 선공개]|||Shh, Fan, You Can't Do This [Exclusive Pre-release]
+52012042|||강시무적|||Zombie Invincible
 51998686|||현세귀환록[완결]|||Chronicles of Returning to the Present World [End]
+51942572|||한 걸음만 더|||Just One More Step
 52000305|||룡이 보우하사|||God Bless the Dragon
+52011777|||은영|||Hidden Glory
 51964777|||심연의 신부|||Bride of the Abyss
 51981968|||9클래스 흑마도사, 회귀하다|||9th Class Black Mage, Regresses
 52009607|||라데아|||Radea
 51653485|||상태창으로 스타강사|||Star Instructor with Status Window
 51932335|||숨겨진 연인[할리퀸]|||Hidden Lover [Harlequin]
 51932338|||아가씨의 도발[할리퀸]|||The Lady's Provocation [Harlequin]
+51932342|||완벽한 팀을 만드는 방법[할리퀸]|||How to Build the Perfect Team [Harlequin]
 51932346|||가상 결혼[할리퀸]|||Virtual Marriage [Harlequin]
+51994780|||5백만 달러의 여인[할리퀸]|||The Five-Million-Dollar Woman [Harlequin]
+51994781|||꽃을 든 셰프[할리퀸]|||The Chef Holding Flowers [Harlequin]
 51994783|||다시 찾은 피앙세[할리퀸]|||Refound Fiancé [Harlequin]
+52003245|||순수의 시대|||Age of Innocence
 51981974|||신 황궁연애담 [완결]|||New Imperial Palace Romance [Completed]
 52009346|||내가 만든 세상에서 살아남기 [연재]|||Surviving in the World I Created [Serializing]
 52007641|||짝사랑 주의보|||Unrequited Love Alert
 51978137|||장르를 바꿔보도록 하겠습니다|||I'll Try Changing the Genre
+51957572|||에센스 오리진-높은산|||Essence Origin – High Mountain
+51944642|||베이비, 베이비 [단독선공개]|||Baby, Baby [Exclusive Preview]
+51973775|||같은 이불을 덮을 권리[단독선공개]|||The Right to Share the Same Blanket [Exclusive Preview]
 52003415|||불가분의 관계|||Inseparable Relationship
+51940537|||에인션트 메이지|||Ancient Mage
+51894891|||구름 신부 [단독선공개]|||Cloud Bride [Exclusive Preview]
 51987898|||사로잡힌 사랑의 마력|||Magic of Captivated Love
+51988009|||야한 수채화|||Sensual Watercolor
 51984661|||마침내 너를|||Finally You
+52003428|||주신의 노리개|||Plaything of the God
+51988472|||원해|||I Want It
 51520547|||내 입술에 키스해|||Kiss My Lips
 51633032|||이자벨라 융커 [완결]|||Isabella Junker [End]
 51998561|||러브타임|||Love Time
 52003234|||헤이, 준(Hey, June)|||헤이, 준(Hey, June)
+52002395|||엇갈림의 미학|||The Art of Missing Each Other
 51945985|||오르다|||Ascend
 51895592|||설마, 친구|||No Way, Friend
 51990348|||매혹의 시간|||Time of Fascination
+52003188|||이에는 이|||An Eye for an Eye
 51996878|||사랑의 센스[15세 개정판]|||Sense of Love [15+ Revised Edition]
 51984881|||이끌리다|||Drawn In
 51995193|||은혜갚은 해태|||Haetae Who Repaid Grace
@@ -50475,10 +50590,12 @@
 51927088|||악역 영애지만 살아남겠습니다|||I'm a Villainess but I Will Survive
 51993982|||사랑이 쏘다|||Love Shoots
 51993212|||최고의 여자|||The Best Woman
+51920350|||재능 재벌 [완결]|||Talent Tycoon [Complete]
 51981614|||나만의 스타|||My Own Star
 51994379|||야수의 소나타(개정판)|||Beast's Sonata (Revised Edition)
 51980467|||그 남자의 스캔들|||That Man's Scandal
 51989337|||다정한 유혹|||Kind Temptation
+51986310|||선배에서 남편까지 [단독선공개]|||From Senior to Husband [Exclusive Preview]
 51860886|||FFF급 관심용사|||FFF-Class Trash Hero
 51979711|||언데드 마스터 [완결]|||Undead Master [End]
 51971850|||무한경쟁던전사회|||Infinite Competition Dungeon Society
@@ -50486,36 +50603,51 @@
 51943923|||콤플렉스 [15세이용가 개정판]|||Complex [15+ Revised Edition]
 51969841|||이계의 포탈|||Isekai Portal
 51983550|||관계중독|||Relationship Addiction
+51984013|||너를 유혹한 밤|||The Night I Seduced You
 51983772|||집요한 그 남자의 은밀한 계획|||That Persistent Man's Secret Plan
 51945813|||위층 아이 아빠|||Dad Upstairs
+51903219|||낯선 키스|||Stranger's Kiss
 51984655|||크리미널 스타트|||Criminal Start
 51966021|||인생은 마리아 르웰린처럼|||Life Like Maria Llewellyn
 51950348|||스타와 결혼한 여자|||Woman Who Married a Star
 51919028|||적국의 연인 : 고방부자상|||Lover of the Enemy Country: Gobang Bujasang
 51957392|||그래서 사랑|||So, Love
 51937179|||VVIP 유료템으로 캐리한다 [완결]|||Carrying with VVIP Paid Items [Completed]
+51982129|||오후의 마들렌|||Madeleine in the Afternoon
 51976844|||침대 위의 적을 경계하라|||Beware of the Enemy on the Bed
 51955232|||마왕의 반려|||The Demon King's Companion
 51942326|||오늘만 널 사랑해 [단독선공개]|||I'll Love You Only Today [Exclusive Pre-release]
+51917663|||번데기 속 고양이|||Cat Inside the Cocoon
 51963501|||라이벌|||Rival
 51969460|||일월의 봄|||Spring of the Sun and Moon
 51957361|||황태자의 결혼상대|||The Crown Prince's Marriage Partner
 51957523|||결혼하러 왔습니다|||I Came to Get Married
 51955792|||향긋한 마법사|||Fragrant Mage
+51957985|||로얄 블루|||Royal Blue
 51958138|||더 가까이|||Closer
 51912708|||저승에서 배웠다 [완결]|||I Learned in the Afterlife [Completed]
+51943947|||전지적 관중 시점|||Omniscient Spectator's Point of View
 51979212|||연못 속의 다로 (클린버전)|||Daro in the Pond (Clean Version)
+51967218|||밑 빠진 용병대에 돈 붓기|||Pouring Money Into a Bottomless Mercenary Corps
 51978637|||리턴 투 베이스 (클린버전)|||Return to Base (Clean Version)
 51658177|||대한민국 검사 청정국[완결]|||South Korea Prosecutor Clean Country [Completed]
+51971405|||철혈의선|||Iron Blood's Line
+51939064|||요동왕|||King of Liaodong
 51966774|||흔하고 신비한 잡화점|||Common and Mysterious General Store
 51894417|||혼자보다는 둘이|||Better Together Than Alone
 51920518|||프랑스식 양파수프|||French Onion Soup
 51934818|||애딕트(addict)|||Addict
+51965120|||피의 황후|||Empress of Blood
 51957822|||더 문 차원의 비밀|||Secret of the Moon Dimension
 51971294|||천풍연가|||Cheonpung Love Song
+51967782|||꽃의 짐승이 구혼을|||The Beast of Flowers Proposes
+51852190|||코드 블루(15세 개정판)|||Code Blue [15+ Revised Edition]
 51974092|||그러나, 그래도, 그래서 너를|||However, Still, So, You
 51908101|||무공서가 생겼다|||I Got a Martial Arts Manual
 51975906|||아이돌로 회귀하다[완결]|||Regress as an Idol [Completed]
+51935395|||왕좌의 전쟁[완결]|||War of Thrones [Complete]
+51937055|||콜렉터|||Collector
+51962083|||상냥한 도깨비의 새 (15세 개정판)|||The Gentle Goblin's Bird [15+ Revised Edition]
 51957174|||사랑에 무너지다 [외전 선공개]|||Collapsing in Love [Side Story Pre-release]
 51964022|||괴물 공작가의 계약 공녀|||The Monster Duke's Contract Daughter
 51941409|||신부가 배달되었습니다|||The Bride Has Been Delivered
@@ -50527,26 +50659,41 @@
 51881757|||신화 속 엑스트라 [완결]|||Extra in Myth [End]
 48934238|||라혼|||Rahon
 51834350|||크리티컬(Critical)|||크리티컬(Critical)
+51934546|||더 리볼드|||The Rebold
 51936952|||다시 만난 우리의 세계|||Our World We Met Again
+51920693|||풍류비공 [완결]|||Windflow Hidden Duke [Complete]
+51801282|||암왕독존|||Dark King, Sole Sovereign
 51932347|||신데렐라 신드롬[할리퀸]|||Cinderella Syndrome [Harlequin]
+51932349|||시크릿 베이비 스캔들[할리퀸]|||Secret Baby Scandal [Harlequin]
 51947592|||사랑불신|||Love Distrust
+51933101|||헤이안의 화랑|||Heian Courtesan
 51927448|||텐션(tension)|||텐션(tension)
+51862548|||신의 그늘|||God's Shadow
+51795313|||결혼 계절|||Marriage Season
 51944388|||아찔한 웨딩플래닝 [15세이용가 개정판]|||Dizzying Wedding Planning [15+ Revised Edition]
 51909922|||나의 꼬막, 나의 딸기, 나의 홍시 [전체이용가 개정판]|||My Cockle, My Strawberry, My Persimmon [All Ages Revised Edition]
+51936304|||매혹의 터치|||Enchanting Touch
 51934845|||악녀의 남주님|||The Villainess's Male Lead
 51942771|||사상 최강의 오빠|||The Strongest Oppa in History
+51953554|||반 언데드|||Half Undead
 51929785|||나이트 언더 하트|||Knight Under Heart
 51925804|||춘화화공뎐(春畫畫工傳)|||Erotic Painting Artist Biography
 51949526|||삭풍, 칼이 지나간 자리|||North Wind, Where the Sword Passed
+51945980|||벨벳 구두를 신은 양|||The Sheep in Velvet Shoes
 51943822|||가을, 밤이 위험해|||Autumn, the Night is Dangerous
 51864053|||그를 건드렸다면 마땅히|||If You Touched Him, It's Only Right
+51938820|||좋은 비서|||Good Secretary
+51936056|||향기|||Scent
 51933205|||예기치 못한 사랑|||Unexpected Love
 51930317|||그대가 나에게 준 봄(외전추가본) [단독선공개]|||The Spring You Gave Me (Side Story Added) [Exclusive Pre-release]
+51898113|||별을 부탁해 [외전단독선공개]|||Please Take Care of the Stars [Exclusive Side Story Preview]
 51588577|||심연의 주인[완결]|||Master of the Abyss [End]
 51924380|||사랑에 미치면|||If You Go Crazy for Love
 51924586|||날 잠들게 해줘!|||Let Me Sleep!
+51925001|||열정|||Passion
 51921801|||마이 리틀 레이디|||My Little Lady
 51941826|||천재 보컬리스트|||Genius Vocalist
+51935406|||국혼전야|||Eve of the National Wedding
 51921730|||진홍의 카르마|||Crimson Karma
 51931396|||투왕 : 나 홀로 이계 무쌍|||Fist King: I'm the Only One Unmatched in Another World
 51933425|||다크킹덤|||Dark Kingdom
@@ -50555,80 +50702,119 @@
 51911559|||필그람의 마법사|||Mage of Pilgrim
 51923920|||저의 신이 호구라서 곤란합니다|||It's Troublesome Because My God is a Pushover
 51142057|||풍문, 바람처럼 은밀하게[완결]|||Rumors, Secretly Like the Wind [Completed]
+51911628|||영혼의 대장장이[완결]|||Soul Blacksmith [Complete]
 51930615|||킬링 타임|||Killing Time
 51895741|||내 가족 정령들|||My Family Spirits
 51918812|||대공가의 아기 마님|||The Grand Duke's Baby Mistress
 51576021|||철혈의 회귀자 [완결]|||Iron-Blooded Returnee [Completed]
+51909362|||철인문|||Gate of the Iron Man
 51936057|||천마강림[연재]|||Descent of the Heavenly Demon [Serial]
 51876801|||로맨틱 비즈니스 [15세이용가 개정판]|||Romantic Business [15+ Revised Edition]
+51904834|||캐롯|||Carrot
+51919919|||던전 엠페러|||Dungeon Emperor
+51896749|||시크릿 연애 [외전 선공개]|||Secret Romance [Side Story Preview]
+51903166|||로드 워|||Road War
 51908399|||그녀가 악녀로 사는 이유|||The Reason She Lives as a Villainess
 51908459|||책사 이만호: 1894-1944[완결]|||Strategist Lee Manho: 1894-1944 [Completed]
+51917819|||플레누스|||Plenus
 51898747|||타락한 자들의 여왕|||Queen of the Fallen
 51914711|||별이 쏟아지다.|||Stars Pouring Down.
 51914309|||너와의 해피엔딩|||Happy Ending with You
+51906592|||들러리는 그만할래요|||I'm Done Being the Extra
 51898703|||디어 마이 프렌드|||Dear My Friend
 51901021|||터치미(touch me)|||Touch Me
 51920921|||꽃에서 온 그놈들|||Those Guys from the Flowers
 51777556|||프로듀스 마이 월드|||Produce My World
 51911920|||장자지몽in|||Dream of the Butterfly in
+51909398|||담벼락 헌책방|||Wallside Used Bookstore
 51912973|||강제 결혼|||Forced Marriage
+51906020|||소실점|||Vanishing Point
 51914724|||용의 신부가 되었습니다?|||I Became the Dragon's Bride?
 51917414|||풍사전기|||Chronicles of the Wind Master
+51860657|||이안|||Ian
 51883771|||엘린 아리엘 [외전 선공개]|||Elin Ariel [Side Story Pre-release]
 51906466|||황태후의 화장담당관 [완결]|||Empress Dowager's Makeup Officer [Completed]
 51903170|||나는 매니저다|||I Am a Manager
+51877290|||빠져 주세요|||Please Get Out
+51886792|||정령군주|||Spirit Monarch
 51831039|||플레이보이의 순애보[할리퀸]|||Playboy's Pure Love [Harlequin]
 51831042|||마스터슨 부부의 사정[할리퀸]|||The Masterson Couple's Situation [Harlequin]
 51831043|||사랑의 오두막[할리퀸]|||Cabin of Love [Harlequin]
 51877146|||당신이 잠든 사이에[할리퀸]|||While You Were Sleeping [Harlequin]
+51790209|||테페른의 영주|||Lord of Tefern
 51898476|||리버스 스윕(Reverse Sweep)|||리버스 스윕(Reverse Sweep)
 51898485|||남자전설|||Legend of Man
 51575995|||골든타임[완결]|||Golden Time [Completed]
+51890242|||퓨전분식|||Fusion Snack Bar
+51890972|||두드리면 열리는|||Opens When You Knock
 51891433|||에로틱한 데자뷰|||Erotic Déjà Vu
 51891944|||극야(極夜)|||Polar Night
+51905958|||오버 더 문|||Over the Moon
+51904911|||실전은 연습처럼|||Real Combat Is Like Practice
 51902671|||전투종족으로 환생한 나의 공무원 생활기|||My Civil Servant Life Reincarnated as a Combat Race
+51889681|||SSS급 뽑기 플레이어|||SSS-Rank Gacha Player
 51899584|||마지막은 다정하게|||Sweetly at the End
+51900529|||밤에게 안부를|||Greetings to the Night
 51860363|||널 잡아먹겠다 [단독 선공개]|||I'll Devour You [Exclusive Pre-release]
 51898352|||레나타-본격 와인 입문 로맨스|||Renata - Authentic Wine Introduction Romance
 51900192|||너에게 흠뻑 젖다|||Drenched in You
+50919608|||치명적인 너|||Lethal You
 51854021|||네 마음에 콩콩 [15세이용가 개정판]|||Thump Thump in Your Heart [Rated 15+ Revised Edition]
+51886372|||와이즈맨 [완결]|||Wiseman [Complete]
 51887692|||내 남친 구하러 갑니다|||I'm Going to Save My Boyfriend
 51869837|||눈 떠보니 엑스트라|||Woke Up as an Extra
 51863177|||베로니카(외전증보판)|||Veronica (Side Story Expanded Edition)
 51760203|||내 남편이 너무 귀여워서 곤란하다 [완결]|||My Husband is Too Cute, It's Troubling [Completed]
 51900228|||아이시떼루 서울|||Aishiteru Seoul
+51886054|||영혼의 노래|||Song of the Soul
 51881754|||지금 출세하러 갑니다 [완결]|||I'm Going to Succeed Now [Completed]
 51360059|||나차[BL][15세개정판]|||Nacha [BL][15+ Revised Edition]
 51881167|||항성을 스토킹하다[BL][15세개정판]|||Stalking a Star [BL][15+ Revised Edition]
 51900568|||섀도 라이더|||Shadow Rider
+51853201|||안드로이드 러브(개정판)|||Android Love [Revised Edition]
 51887008|||스타덤|||Stardom
 51854756|||너에게 아포가토|||Affogato to You
+51885332|||두근두근 휘트니스(개정판)|||Heart-Pounding Fitness [Revised Edition]
 51874565|||Holy shit[단독선공개]|||Holy shit [Exclusive Pre-release]
 51868469|||우리 지검 평검사는 최대 형량 2부|||Our District Prosecutor's Maximum Sentence Part 2
 51868493|||우리 소대 부소대장은 백만장자|||Our Platoon's Deputy Platoon Leader is a Millionaire
+50531336|||맞선 계절|||Blind Date Season
+51884782|||흑도영웅 [완결]|||Black Island Hero [Complete]
 51894906|||사랑을 쟁취하라 [완결]|||Win Love [End]
 51894138|||맛깔나게 만들어드려요![완결]|||I'll Make It Delicious! [Completed]
 51871798|||[GL] 마침표 옆 따옴표|||[GL] Quotation Marks Next to a Period
 51893154|||네임드 엘라이스: 황제의 그녀|||Named Alice: The Emperor's Woman
 51532370|||황제의 자명고 [완결]|||The Emperor's Jamyeonggo [Completed]
 51868509|||우리 회사 인턴은 백만장자|||Our Company Intern is a Millionaire
+51846954|||쇼미더 엔터|||Show Me the Enter
 51892098|||검의 세계|||World of Swords
 51863525|||그라운드 제로|||Ground Zero
+51882148|||몬스터를 길들이는 방법 [완결]|||How to Tame a Monster [Complete]
+51835845|||렌트보이 [삽화본]|||Rent Boy [Illustrated Edition]
+51864496|||그대와의 은밀한 인터뷰 [완결]|||Secret Interview With You [Complete]
 51881494|||레이지앤센서티브(Lazy and Sensitive)|||레이지앤센서티브(Lazy and Sensitive)
+51888015|||무당태극검|||Shaman Taiji Sword
 51860001|||천상화 - 천녀 보쌈 사건|||Cheonsanghwa - Heavenly Maiden Kidnapping Case
+51892809|||황금숲|||Golden Forest
 51865254|||방황하지 않는 너에게|||To You Who Do Not Wander
 51807202|||두 번은 없다|||No Second Time
 51863028|||백작가의 망나니가 되었다|||Trash of the Count's Family
 51877136|||다이아몬드 조각[할리퀸]|||Diamond Piece [Harlequin]
+51877138|||공주님의 일탈[할리퀸]|||The Princess's Deviation [Harlequin]
 51877142|||안개의 여인[할리퀸]|||Woman of the Mist [Harlequin]
+51877143|||수상한 청혼[할리퀸]|||Suspicious Proposal [Harlequin]
 51877150|||부다페스트 스캔들[할리퀸]|||Budapest Scandal [Harlequin]
 51865178|||처음부터 다시(All over again 올 오버 어게인)|||All Over Again
+51821682|||혈룡전 [완결]|||Blood Dragon War [Complete]
 51860653|||라이 [완결]|||Lie [End]
 51876770|||사랑, 그건 아니고|||Love, That's Not It
 51867619|||브라우니, 오, 브라우니!|||Brownie, Oh, Brownie!
+51881572|||섹시의 발견 (외전증보개정판)|||Discovery of Sexiness [Side Story Expanded Revised Edition]
 51847220|||공작의 구애를 대하는 자세 [단독선공개]|||Attitude Toward the Duke's Courtship [Exclusive Pre-release]
+51865666|||황비님? 황비님!|||Imperial Consort? Imperial Consort!
 51871371|||마인환세록|||Demon Human Reincarnation Chronicles
 51873992|||특기가 분신술|||Specialty is Shadow Clone Technique
+51869117|||체온|||Body Temperature
 51868292|||지옥왕, 귀환하다[완결]|||Hell King, Return [Completed]
 51880736|||그 결혼, 제가 해드릴게요[단독선공개]|||I'll Do That Marriage [Exclusive Pre-release]
 51856277|||악녀는 아이들에게 친절해요|||The Villainess is Kind to Children
@@ -50652,21 +50838,32 @@
 51834143|||환상의 도라희 (외전포함)|||Fantasy Dorahee (Including Side Story)
 51854046|||하드펀처 이철민[연재]|||Hard Puncher Lee Cheolmin [Serialized]
 51862584|||데자뷰 - 그 시간 속에서|||Déjà Vu - In That Time
+51814311|||귀신잡고 폭렙업 [완결]|||Catch Ghosts and Level Up Explosively [Complete]
 51869721|||오작교는 싫습니다|||I Don't Want to Be the Ojakgyo
 51857758|||12차이 로맨스|||12-Year Gap Romance
 51781027|||밤의 역사|||History of the Night
 51851913|||리턴(Return)|||리턴(Return)
 51841348|||지금까지 친구였던 그 남자|||The Man Who Was My Friend Until Now
+51837520|||현실에서도 플레이어|||Player Even in Reality
 51854751|||꽃 찾으러 왔단다|||I Came to Find Flowers
+51855975|||운명같이 그대와 [단독선공개]|||Fated to Be With You [Exclusive Preview]
+51803309|||첫 눈 [단독선공개]|||First Snow [Exclusive Preview]
 51839738|||마나가 닳지 않아 [완결]|||Mana Doesn't Run Out [Completed]
 51841156|||쌍둥이 남매의 뉴라이프|||The Twin Siblings' New Life
+51774023|||여름 감기|||Summer Cold
 51849519|||알고 보니 천마 지존 [완결]|||Turns Out I'm the Heavenly Demon Supreme [End]
 51826706|||한 번만 해줘요, 제발|||Please, Just Once
+51827080|||온도의 흐름|||Flow of Temperature
 51827686|||찰나의 순간|||A Moment of Instant
 51785787|||마마, 아니 되옵니다|||Your Majesty, You Must Not
+51802989|||노을이 지는 시간 [단독선공개]|||Time When the Sunset Falls [Exclusive Preview]
 51853014|||최고부자|||The Richest
 51847593|||검은 숲의 마법사|||Mage of the Black Forest
+51851371|||금단의 소울 메이트|||Forbidden Soulmate
 51843876|||눈부시게 빛나는|||Dazzlingly Shining
+51846963|||탱킹학개론[완결]|||Introduction to Tanking [Complete]
+51841123|||여름의 뮤즈|||Summer's Muse
+51848216|||열을 내리는 방법|||How to Lower the Heat
 51826797|||그 남자의 계획|||That Man's Plan
 51829498|||천년보다 달콤한 환생|||Reincarnation Sweeter Than a Thousand Years
 51838734|||레벨업하는 저승차사 [완결]|||Level-Up Reaper [Completed]
@@ -50674,30 +50871,46 @@
 51844332|||NS 뇌리에 스며들다|||Permeating into the Mind
 51843250|||운명의 남자|||Man of Fate
 51844998|||까칠하게|||Roughly
+51848783|||건국기|||Founding Chronicle
 51846246|||신조선전기|||New Joseon Chronicles
+51821874|||슬기로운 생존생활 [완결]|||Smart Survival Life [Complete]
 51824917|||첫 키스는 계획적으로|||First Kiss Planned
 51831041|||러브 플래너[할리퀸]|||Love Planner [Harlequin]
 51831040|||24시간이 모자라[할리퀸]|||24 Hours is Not Enough [Harlequin]
+51831044|||눈꽃 조각[할리퀸]|||Snowflake Fragment [Harlequin]
+51831319|||당신뿐이야|||Only You
 51831755|||파트너|||Partner
+51836475|||서킷 브레이커[개정판]|||Circuit Breaker [Revised Edition]
 51796372|||악당에게 사랑을 강요받고 있습니다|||I'm Being Forced to Love the Villain
 51737369|||달빛과 해바라기|||Moonlight and Sunflower
 51842100|||스폰, 스캔들에 휘말리다[15세 개정판]|||Sponsorship, Caught in a Scandal [15+ Revised Edition]
+51818367|||불멸의 수군|||Immortal Navy
+51842343|||신의의 친구|||Friend of Divine Will
 51836600|||오프 더 레코드 [완결]|||Off the Record [End]
 51815689|||다시 사랑하기까지 [15세이용가 개정판]|||Until We Love Again [Rated 15+ Revised Edition]
 51642360|||탑 변호사 고판석[완결]|||Top Lawyer Go Panseok [Completed]
+51772493|||어어리전(傳)|||Eoeo Chronicle
 51841617|||마법도 이력서에 써도 되나요?|||Can I Put Magic on My Resume?
 51779752|||단란천하|||Happy Heavens
 51824430|||내가 조연이었다 [개정판/완결]|||I Was a Supporting Character [Revised/Completed]
 51819217|||검술 하나로 2회차|||2nd Playthrough with Only Swordsmanship
 51831109|||99만 전생이 날 도와줘|||990,000 Past Lives Help Me
+51682092|||내 인턴[단독선공개]|||My Intern [Exclusive Preview]
+51819837|||두꺼비 신부[15세 개정판]|||Toad Bride [15+ Revised Edition]
 51838549|||잘못된 욕망|||Wrong Desire
+51810393|||어큐트(Acute)|||Acute
 51827382|||이별 끝에 사랑|||Love After Breakup
 51828432|||이러지 마, 설레잖아 [단독선공개]|||Don't Do That, It Makes My Heart Flutter [Exclusive Pre-release]
+51827683|||음미|||Savor
 51817221|||너이기에 나를 [15세 개정판]|||Because It's You, Me [15+ Revised Edition]
 51821521|||탐나는 남자|||Coveted Man
+51795236|||RD: 리멤버 두잉(Remember Doing)[단독선공개]|||RD: Remember Doing [Exclusive Preview]
 51824891|||선녀님 강림하사|||Fairy Descends
 51664263|||명군이 되어보세!|||Let's Become a Great Monarch!
 51808699|||이기적인 결혼 [개정판]|||Selfish Marriage [Revised]
+51829863|||천애기정록[완결]|||Heaven's End Journey Record [Complete]
+51829835|||화형령주[완결]|||Lord of the Flaming Punishment [Complete]
+51829802|||혈탑[완결]|||Blood Tower [Complete]
 51824251|||백강의 제국|||Empire of Baekgang
 51779969|||칠흑의 기사|||Pitch-Black Knight
 51832478|||삼류작가 회귀하다|||Third-Rate Writer Returns
@@ -50705,6 +50918,9 @@
 51826350|||나태한 이성애자의 종말(외전 포함)|||The End of a Lazy Heterosexual (Includes Side Story)
 51802368|||우아하거나, 혹은 불순하거나 [단독선공개]|||Elegant, or Impure (Exclusive Pre-release)
 51814906|||나를 버려주세요|||Please Abandon Me
+51791860|||퀘스트 주는 프로듀서|||The Producer Who Gives Quests
+51809550|||은밀한 총애|||Secret Favor
+51808287|||블랙스완|||Black Swan
 51826189|||일급비밀|||Top Secret
 51774531|||오랜만이죠, 우리|||Long Time No See, Us
 51811280|||베이킹 파우더|||Baking Powder
@@ -50712,18 +50928,33 @@
 51800694|||사랑이 꾸는 꿈|||Dream That Love Dreams
 51751632|||야구공에 맞고 모든 게 달라졌다! [완결]|||Everything Changed After Getting Hit by a Baseball! [Completed]
 51693795|||왕따, 재벌되다! [완결]|||Outcast Becomes a Chaebol! [Completed]
+51816825|||흑장미 의뢰소 [완결]|||Black Rose Agency [Complete]
 51750072|||오늘 내가 그대를 [개정판]|||Today, I You [Revised Edition]
+51812792|||검존|||Sword Sovereign
 51770096|||삼국지천하 : 여포로 살다 [완결]|||Romance of the Three Kingdoms: Living as Lu Bu [Completed]
 51805590|||신의 장갑을 얻다 [완결]|||I Obtained God's Gloves [Completed]
+51789827|||게임 재벌 [완결]|||Game Tycoon [Complete]
+51808457|||적과의 동침|||Sleeping With the Enemy
 51808296|||너에게 나를 던진다|||I Throw Myself at You
+51808200|||할 거야, 말 거야|||Will You Do It or Not
+51449363|||공작의 푸른 장미 [완결]|||The Duke's Blue Rose [Complete]
+51780473|||닿고 싶어 [BL][15세 개정판]|||I Want to Touch You [BL][15+ Revised Edition]
+51814704|||언론의 신[완결]|||God of the Press [Complete]
+51789102|||네임리스(Nameless) : 운명의 이름|||Nameless: Name of Fate
+51814008|||전국(戰國)|||Warring States
+51789044|||결혼도 삼세번!!!|||Marriage Three Times!!!
+51802082|||폭군의 신경안정제 [완결]|||The Tyrant's Tranquilizer [Complete]
 51576202|||그림자극|||Shadow Play
 51527614|||치열하게, 달콤하게 [외전선공개]|||Fiercely, Sweetly [Side Story Pre-release]
+51779633|||간섭의 이유|||Reason for Interference
 51677786|||M에 관하여|||About M
 51798366|||꽃에게 복종하세요|||Obey the Flowers
 51793744|||낙화유수 [단행본]|||Falling Flowers and Flowing Water [Book]
+51792600|||(이용권) 왜 이러세요, 공작님! [단행본]|||(Voucher) Why Are You Like This, Your Grace! [Single Volume]
 51807985|||디아블로 씨는 조용히 살고 싶어[완결]|||Mr. Diablo Wants to Live Quietly [Completed]
 51803092|||마드리드에서의 하룻밤|||One Night in Madrid
 51791091|||그는 내 남편이다 [15세 개정판]|||He Is My Husband [15+ Revised Edition]
+51794456|||그녀와 야수|||Her and the Beast
 51779855|||젠틀 브리즈(Gentle Breeze)|||젠틀 브리즈(Gentle Breeze)
 51773127|||전남편이 나타났다 [완결]|||My Ex-Husband Appeared [Completed]
 51781515|||악역이 되어 줘|||Please Be the Villain
@@ -51428,6 +51659,7 @@
 51455978|||파트너|||Partner
 51428724|||두드리다|||Knocking
 51481255|||최고의 접근|||The Perfect Approach
+51353624|||절체절명 이 세계|||This World in Desperate Crisis
 51437550|||토끼같은 여자|||Rabbit-like Woman
 51477567|||개과천선|||Atonement
 51482182|||바빌로니아의 검은 책|||Black Book of Babylonia
@@ -52618,6 +52850,7 @@
 50940362|||특공황비 초교전 [단독선공개]|||Special Forces Empress Super Lesson [Exclusive Preview]
 50808352|||사랑, 해볼래[단독선공개]|||Love, Shall We Try? [Exclusive Pre-release]
 50941288|||문제적 결혼|||A Problematic Marriage
+50856715|||리게인 [완결]|||Regain [Complete]
 50964871|||황연 [15세이용가 개정판]|||Imperial Fate [Rated 15+ Revised Edition]
 50947465|||순백색|||Pure White
 50967546|||리턴 오브 로드[완결]|||Return of the Lord [Completed]
@@ -52645,6 +52878,7 @@
 50946853|||황금도마|||Golden Magic Sword
 50936113|||박히다|||Impaled
 50952930|||아직도 널|||Still You
+50808155|||내 이름은 김삼순[완결]|||My Name Is Kim Sam-soon [Complete]
 50943767|||환생부터 재벌까지[완결]|||From Reincarnation to Chaebol [Completed]
 50953694|||실명무사|||The Blind Warrior
 50862768|||삼국지 팽월전[완결]|||Romance of the Three Kingdoms: Peng Yue's Tale [Completed]
@@ -55725,11 +55959,13 @@
 49649075|||단목전기|||Chronicle of Danmok
 49639790|||기생자|||Parasite
 49627818|||붉은 장미|||The Crimson Rose
+49514186|||헤더 에일의 전설|||Legend of Heather Ale
 49636497|||초꼭두각시|||The First Puppet
 49638837|||진짜, 무인도에 떨어졌다|||Seriously, I Was Dropped on a Deserted Island
 49635994|||미치다_BL_외전추가(단독선공개)|||Go Crazy_BL_Side Stories Added (Exclusive Pre-release)
 49637004|||아이리스 - 스마트폰을 든 레이디|||Iris - The Lady with a Smartphone
 49636665|||정점이 돌아왔다|||The Peak Has Returned
+49457060|||혼약|||Betrothal
 49626709|||위험한 남자[개정판]|||Dangerous Man [Revised]
 49631503|||내 최애 까지 마라|||Don't Touch My Bias
 49634012|||꽃은 나비를 찾아 피지 않는다[단독선공개]|||Flowers Don't Bloom to Find Butterflies (Exclusive Pre-release)
@@ -57542,6 +57778,7 @@
 48935690|||위험한 연애(종이 출간본)|||Dangerous Romance (Print Edition)
 48952320|||다가오지마|||Don't Come Closer
 48947904|||내가 당신을 기억해|||I Remember You
+48597000|||황색탄환|||Yellow Bullet
 48962877|||블랙러시안|||Black Russian
 48954628|||타인의 아내|||Someone Else's Wife
 48952199|||대막무영[완결]|||The Great Shadowless Blade [Completed]
@@ -58147,6 +58384,8 @@
 48662544|||실화|||True Story
 48661400|||내 나비는 날아가 버렸다|||My Butterfly Flew Away
 48689727|||잠 못 이루는 그대 [완결]|||Sleepless You [Complete]
+48728265|||내겐 너무 비싼 그놈|||That Guy Is Too Expensive for Me
+48509312|||당신의 심장에 정조준|||Aiming Straight for Your Heart
 48696100|||심쿵! (개정판 단독선공개)|||Heart-Pounding! (Revised Exclusive Pre-release)
 48705821|||탄주(彈奏)|||Ballad
 48705966|||만인의 연인|||Everyone's Lover
@@ -58774,6 +59013,7 @@
 48458341|||Sounds [단독 선공개]|||The Alchemist
 48397953|||애 같은 여자|||Child-like Woman
 48451487|||별들의 전쟁|||War of the Stars
+48337194|||알케미스트|||Alchemist
 48453699|||홍동백서|||The Red and White Record
 48459052|||월야행 [완결]|||Night Walk Under the Moon [Complete]
 48289437|||로또 맞은 사나이|||The Man Who Won the Lottery
@@ -64037,243 +64277,3 @@
 69236799|||방구석 조물주 [단행본]|||Shut-In Creator [Single Volume]
 69236782|||SSR 뽑기 캐릭터가 유저를 육성함 [단행본]|||The SSR Gacha Character Raises The Player [Single Volume]
 69228881|||인생에 돈 복사 버그가 걸림|||My Life Got A Money-Copying Bug
-64299631|||찌르르, 일상|||Zing, Everyday
-61123421|||늑대 신랑 (외전) [19세 완전판][단행본]|||Wolf Bridegroom (Side Story) [19+ Complete Edition][Single Volume]
-61123105|||늑대 신랑 [19세 완전판][단행본]|||Wolf Bridegroom [19+ Complete Edition][Single Volume]
-61122793|||늑대 신랑 [19세 완전판 특별 외전]|||Wolf Bridegroom [19+ Complete Edition Special Side Story]
-59163075|||겟 레디|||Get Ready
-57173768|||요리로 내 인생 만만세|||Cooking My Way to an Easy Life
-57173164|||회귀했더니 공작|||I Regressed and Became a Duke
-57280236|||반마족 레오 [단행본]|||Half-Demon Leo [Single Volume]
-56978836|||슬기로운 회귀생활|||The Smart Way to Live After Regression
-56186716|||암전|||Blackout
-55358995|||동물원 옆 미술관|||The Art Museum Next to the Zoo
-55435492|||쌍룡기 [완결] [단행본]|||Twin Dragons Chronicle [Complete][Single Volume]
-55170282|||궁원의 청금|||Palace Garden's Blue Forbidden
-52393524|||게임 속 유닛|||Unit Inside the Game
-52128129|||뷰티풀 몬스터|||Beautiful Monster
-52128619|||러브 온 스테이지|||Love on Stage
-52114457|||왕후장상[완결]|||Kings and Nobles [Complete]
-52125337|||공작부인의 비밀|||The Duchess's Secret
-52121168|||익스트림 [완결]|||Extreme [Complete]
-52072722|||불순한 결혼 [외전 선공개]|||Impure Marriage [Side Story Preview]
-52107570|||삼국지 유봉전 : 계한의 부흥[완결]|||Romance of the Three Kingdoms: Yubong's Tale – Revival of the Ji Han [Complete]
-52111825|||미친[개정판]|||Crazy [Revised Edition]
-52116308|||선택지로 랭킹 1위[완결]|||Ranking First With Choices [Complete]
-52118226|||청동 거울의 비밀|||The Secret of the Bronze Mirror
-52109623|||프시케의 초과근무|||Psyche's Overtime
-52067520|||함부로 포옹[15세 개정판]|||Reckless Embrace [15+ Revised Edition]
-52101753|||화령의 제왕 [완결]|||Emperor of Hwaryeong [Complete]
-52107491|||내 반려동물이 악당이 되었을 때|||When My Pet Became a Villain
-52052457|||숲에 내리는 비|||Rain Falling in the Forest
-52079081|||상흔(傷痕)|||Scar
-52079190|||거짓|||Lie
-52109582|||어설픈 계략 [단독 선공개]|||Clumsy Scheme [Exclusive Preview]
-52103771|||악센트 accent|||Accent
-52101530|||공작 부인이 영지를 키우는 방법|||How the Duchess Grows Her Territory
-52104198|||질풍패도|||Stormy Path of the Tyrant
-50382507|||향처시매화|||Fragrant Wife, Poetic Plum Blossom
-51956114|||환생행 [완결]|||Reincarnation Journey [Complete]
-52099383|||국민배우 정도현[완결]|||National Actor Jeong Do-hyeon [Complete]
-52079230|||1레벨 플레이어|||Level 1 Player
-52076155|||레전드 플레이어의 귀환 [완결]|||Return of the Legend Player [Complete]
-52069525|||와룡본색|||True Colors of the Crouching Dragon
-52084887|||도검무안 [완결]|||Sword and Blade Without Equal [Complete]
-52069620|||미인도(美人圖) : 신수의 여인(개정판)|||Portrait of a Beauty: The Divine Beast's Woman [Revised Edition]
-52067156|||디 비토리오의 제안[할리퀸]|||Di Vittorio's Proposal [Harlequin]
-52069823|||호텔 매니지먼트|||Hotel Management
-52069646|||퍼스트 드래곤 [완결]|||First Dragon [Complete]
-52039741|||거울전쟁 the Novel [완결]|||Mirror War the Novel [Complete]
-52075874|||익애|||Familiar Love
-52075582|||별들의 별[연재]|||Star of Stars [Ongoing]
-52069307|||대낭인(개정판)[완결]|||Great Wanderer [Revised Edition][Complete]
-52067296|||상상 만렙 연애담|||Max-Level Imagination Romance
-52014167|||폭군과 무녀|||The Tyrant and the Shrine Maiden
-52057111|||황후님은 탈출을 원해|||Her Majesty the Empress Wants to Escape
-52050245|||펫의 유혹|||Pet's Temptation
-52027721|||관능의 온도|||Temperature of Sensuality
-52062385|||퍼펙트맨|||Perfect Man
-52062236|||기앙코티의 군주|||Lord of Ghiangcoti
-51994779|||금지된 열망[할리퀸]|||Forbidden Desire [Harlequin]
-52071128|||최고의 노예|||The Perfect Slave
-52017710|||양각양|||Two Horns, Two Sheep
-52053412|||황제의 멍멍이|||The Emperor's Puppy
-52054023|||권왕전기|||Chronicle of the Fist King
-52051363|||열락의 바람|||Wind of Ecstasy
-52052128|||악당들을 위한 동화|||Fairy Tale for Villains
-52040457|||생명력 Max! [완결]|||Vitality Max! [Complete]
-52040682|||작왕전|||Battle of the Tyrant Kings
-51960064|||히든피스헌터|||Hidden Piece Hunter
-52040515|||오란도스의 주인|||Lord of Orandos
-52046292|||우연한 바람|||Unexpected Wind
-52034098|||조선에서 맨유까지 [연재]|||From Joseon to Manchester United [Ongoing]
-51887060|||노병귀환 [완결]|||Return of the Veteran Soldier [Complete]
-52013921|||비서의 유혹|||Secretary's Temptation
-51840392|||추상의 정원|||Garden of Abstraction
-52018032|||은밀한 끌림|||Secret Attraction
-52018214|||짐승처럼 거칠게|||Rough Like a Beast
-52014286|||손톱 밑|||Under the Fingernail
-52010102|||바람둥이 길들이기|||Taming the Playboy
-52028626|||봄을 잊은 그대에게|||To You Who Forgot Spring
-52014164|||썸머웨딩 [외전 단독선공개]|||Summer Wedding [Exclusive Side Story Preview]
-51994615|||천애폭풍기(개정판)[완결]|||Heaven's End Storm Record [Revised Edition][Complete]
-51994617|||광풍서생(개정판)[완결]|||Mad Wind Scholar [Revised Edition][Complete]
-52027759|||큐피드의 화약(개정판) [완결]|||Cupid's Gunpowder [Revised Edition][Complete]
-51994619|||구월뇌우(개정판)[완결]|||September Thunderstorm [Revised Edition][Complete]
-52007847|||내 디딤발이 360°|||My Stepping Stone Is 360°
-51993060|||늑대의 숲|||Wolf's Forest
-52000662|||트리니티 레볼루션 [완결]|||Trinity Revolution [Complete]
-52025531|||소설 바리정토기|||Novel: Bari Jeongto Chronicle
-52022973|||서브인생 행복찾기|||Finding Happiness in a Side Life
-51995157|||금수의 정원 (외전포함)|||Garden of the Forbidden Beast (Includes Side Stories)
-51836570|||황금의 여왕|||Golden Queen
-52009047|||도깨비 전설 그 후|||After the Goblin Legend
-52024091|||칠봉이는 게임중[완결]|||Chilbong Is In-Game [Complete]
-52015293|||낙월진천|||Falling Moon, Soaring Heavens
-52015674|||악에 피는 꽃|||Flower Blooming in Evil
-52012585|||변심|||Change of Heart
-52018174|||동풍|||East Wind
-51407486|||프로젝트S[외전증보판]|||Project S [Side Story Expanded Edition]
-51984201|||주님|||My Lord
-52012042|||강시무적|||Zombie Invincible
-51942572|||한 걸음만 더|||Just One More Step
-52011777|||은영|||Hidden Glory
-51932342|||완벽한 팀을 만드는 방법[할리퀸]|||How to Build the Perfect Team [Harlequin]
-51994780|||5백만 달러의 여인[할리퀸]|||The Five-Million-Dollar Woman [Harlequin]
-51994781|||꽃을 든 셰프[할리퀸]|||The Chef Holding Flowers [Harlequin]
-52003245|||순수의 시대|||Age of Innocence
-51957572|||에센스 오리진-높은산|||Essence Origin – High Mountain
-51944642|||베이비, 베이비 [단독선공개]|||Baby, Baby [Exclusive Preview]
-51973775|||같은 이불을 덮을 권리[단독선공개]|||The Right to Share the Same Blanket [Exclusive Preview]
-51940537|||에인션트 메이지|||Ancient Mage
-51894891|||구름 신부 [단독선공개]|||Cloud Bride [Exclusive Preview]
-51988009|||야한 수채화|||Sensual Watercolor
-52003428|||주신의 노리개|||Plaything of the God
-51988472|||원해|||I Want It
-52002395|||엇갈림의 미학|||The Art of Missing Each Other
-52003188|||이에는 이|||An Eye for an Eye
-51920350|||재능 재벌 [완결]|||Talent Tycoon [Complete]
-51986310|||선배에서 남편까지 [단독선공개]|||From Senior to Husband [Exclusive Preview]
-51984013|||너를 유혹한 밤|||The Night I Seduced You
-51903219|||낯선 키스|||Stranger's Kiss
-51982129|||오후의 마들렌|||Madeleine in the Afternoon
-51917663|||번데기 속 고양이|||Cat Inside the Cocoon
-51957985|||로얄 블루|||Royal Blue
-51943947|||전지적 관중 시점|||Omniscient Spectator's Point of View
-51967218|||밑 빠진 용병대에 돈 붓기|||Pouring Money Into a Bottomless Mercenary Corps
-51971405|||철혈의선|||Iron Blood's Line
-51939064|||요동왕|||King of Liaodong
-51965120|||피의 황후|||Empress of Blood
-51967782|||꽃의 짐승이 구혼을|||The Beast of Flowers Proposes
-51852190|||코드 블루(15세 개정판)|||Code Blue [15+ Revised Edition]
-51935395|||왕좌의 전쟁[완결]|||War of Thrones [Complete]
-51937055|||콜렉터|||Collector
-51962083|||상냥한 도깨비의 새 (15세 개정판)|||The Gentle Goblin's Bird [15+ Revised Edition]
-51934546|||더 리볼드|||The Rebold
-51920693|||풍류비공 [완결]|||Windflow Hidden Duke [Complete]
-51801282|||암왕독존|||Dark King, Sole Sovereign
-51932349|||시크릿 베이비 스캔들[할리퀸]|||Secret Baby Scandal [Harlequin]
-51933101|||헤이안의 화랑|||Heian Courtesan
-51862548|||신의 그늘|||God's Shadow
-51795313|||결혼 계절|||Marriage Season
-51936304|||매혹의 터치|||Enchanting Touch
-51953554|||반 언데드|||Half Undead
-51945980|||벨벳 구두를 신은 양|||The Sheep in Velvet Shoes
-51938820|||좋은 비서|||Good Secretary
-51936056|||향기|||Scent
-51898113|||별을 부탁해 [외전단독선공개]|||Please Take Care of the Stars [Exclusive Side Story Preview]
-51925001|||열정|||Passion
-51935406|||국혼전야|||Eve of the National Wedding
-51911628|||영혼의 대장장이[완결]|||Soul Blacksmith [Complete]
-51909362|||철인문|||Gate of the Iron Man
-51904834|||캐롯|||Carrot
-51919919|||던전 엠페러|||Dungeon Emperor
-51896749|||시크릿 연애 [외전 선공개]|||Secret Romance [Side Story Preview]
-51903166|||로드 워|||Road War
-51917819|||플레누스|||Plenus
-51906592|||들러리는 그만할래요|||I'm Done Being the Extra
-51909398|||담벼락 헌책방|||Wallside Used Bookstore
-51906020|||소실점|||Vanishing Point
-51860657|||이안|||Ian
-51877290|||빠져 주세요|||Please Get Out
-51886792|||정령군주|||Spirit Monarch
-51790209|||테페른의 영주|||Lord of Tefern
-51890242|||퓨전분식|||Fusion Snack Bar
-51890972|||두드리면 열리는|||Opens When You Knock
-51905958|||오버 더 문|||Over the Moon
-51904911|||실전은 연습처럼|||Real Combat Is Like Practice
-51889681|||SSS급 뽑기 플레이어|||SSS-Rank Gacha Player
-51900529|||밤에게 안부를|||Greetings to the Night
-50919608|||치명적인 너|||Lethal You
-51886372|||와이즈맨 [완결]|||Wiseman [Complete]
-51886054|||영혼의 노래|||Song of the Soul
-51853201|||안드로이드 러브(개정판)|||Android Love [Revised Edition]
-51885332|||두근두근 휘트니스(개정판)|||Heart-Pounding Fitness [Revised Edition]
-50531336|||맞선 계절|||Blind Date Season
-51884782|||흑도영웅 [완결]|||Black Island Hero [Complete]
-51846954|||쇼미더 엔터|||Show Me the Enter
-51882148|||몬스터를 길들이는 방법 [완결]|||How to Tame a Monster [Complete]
-51835845|||렌트보이 [삽화본]|||Rent Boy [Illustrated Edition]
-51864496|||그대와의 은밀한 인터뷰 [완결]|||Secret Interview With You [Complete]
-51888015|||무당태극검|||Shaman Taiji Sword
-51892809|||황금숲|||Golden Forest
-51877138|||공주님의 일탈[할리퀸]|||The Princess's Deviation [Harlequin]
-51877143|||수상한 청혼[할리퀸]|||Suspicious Proposal [Harlequin]
-51821682|||혈룡전 [완결]|||Blood Dragon War [Complete]
-51881572|||섹시의 발견 (외전증보개정판)|||Discovery of Sexiness [Side Story Expanded Revised Edition]
-51865666|||황비님? 황비님!|||Imperial Consort? Imperial Consort!
-51869117|||체온|||Body Temperature
-51814311|||귀신잡고 폭렙업 [완결]|||Catch Ghosts and Level Up Explosively [Complete]
-51837520|||현실에서도 플레이어|||Player Even in Reality
-51855975|||운명같이 그대와 [단독선공개]|||Fated to Be With You [Exclusive Preview]
-51803309|||첫 눈 [단독선공개]|||First Snow [Exclusive Preview]
-51774023|||여름 감기|||Summer Cold
-51827080|||온도의 흐름|||Flow of Temperature
-51802989|||노을이 지는 시간 [단독선공개]|||Time When the Sunset Falls [Exclusive Preview]
-51851371|||금단의 소울 메이트|||Forbidden Soulmate
-51846963|||탱킹학개론[완결]|||Introduction to Tanking [Complete]
-51841123|||여름의 뮤즈|||Summer's Muse
-51848216|||열을 내리는 방법|||How to Lower the Heat
-51848783|||건국기|||Founding Chronicle
-51821874|||슬기로운 생존생활 [완결]|||Smart Survival Life [Complete]
-51831044|||눈꽃 조각[할리퀸]|||Snowflake Fragment [Harlequin]
-51831319|||당신뿐이야|||Only You
-51836475|||서킷 브레이커[개정판]|||Circuit Breaker [Revised Edition]
-51818367|||불멸의 수군|||Immortal Navy
-51842343|||신의의 친구|||Friend of Divine Will
-51772493|||어어리전(傳)|||Eoeo Chronicle
-51682092|||내 인턴[단독선공개]|||My Intern [Exclusive Preview]
-51819837|||두꺼비 신부[15세 개정판]|||Toad Bride [15+ Revised Edition]
-51810393|||어큐트(Acute)|||Acute
-51827683|||음미|||Savor
-51795236|||RD: 리멤버 두잉(Remember Doing)[단독선공개]|||RD: Remember Doing [Exclusive Preview]
-51829863|||천애기정록[완결]|||Heaven's End Journey Record [Complete]
-51829835|||화형령주[완결]|||Lord of the Flaming Punishment [Complete]
-51829802|||혈탑[완결]|||Blood Tower [Complete]
-51791860|||퀘스트 주는 프로듀서|||The Producer Who Gives Quests
-51809550|||은밀한 총애|||Secret Favor
-51808287|||블랙스완|||Black Swan
-51816825|||흑장미 의뢰소 [완결]|||Black Rose Agency [Complete]
-51812792|||검존|||Sword Sovereign
-51789827|||게임 재벌 [완결]|||Game Tycoon [Complete]
-51808457|||적과의 동침|||Sleeping With the Enemy
-51808200|||할 거야, 말 거야|||Will You Do It or Not
-51449363|||공작의 푸른 장미 [완결]|||The Duke's Blue Rose [Complete]
-51780473|||닿고 싶어 [BL][15세 개정판]|||I Want to Touch You [BL][15+ Revised Edition]
-51814704|||언론의 신[완결]|||God of the Press [Complete]
-51789102|||네임리스(Nameless) : 운명의 이름|||Nameless: Name of Fate
-51814008|||전국(戰國)|||Warring States
-51789044|||결혼도 삼세번!!!|||Marriage Three Times!!!
-51802082|||폭군의 신경안정제 [완결]|||The Tyrant's Tranquilizer [Complete]
-51779633|||간섭의 이유|||Reason for Interference
-51792600|||(이용권) 왜 이러세요, 공작님! [단행본]|||(Voucher) Why Are You Like This, Your Grace! [Single Volume]
-51794456|||그녀와 야수|||Her and the Beast
-51353624|||절체절명 이 세계|||This World in Desperate Crisis
-50856715|||리게인 [완결]|||Regain [Complete]
-50808155|||내 이름은 김삼순[완결]|||My Name Is Kim Sam-soon [Complete]
-49514186|||헤더 에일의 전설|||Legend of Heather Ale
-49457060|||혼약|||Betrothal
-48597000|||황색탄환|||Yellow Bullet
-48728265|||내겐 너무 비싼 그놈|||That Guy Is Too Expensive for Me
-48509312|||당신의 심장에 정조준|||Aiming Straight for Your Heart
-48337194|||알케미스트|||Alchemist
