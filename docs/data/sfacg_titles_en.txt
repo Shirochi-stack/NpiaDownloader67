@@ -224423,7 +224423,6 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人||||||Time Calamity: I Can't Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -246927,6 +246926,7 @@
 765517|||蚀影城第一精神病院欢迎您|||Welcome To The First Mental Hospital Of Eclipse Shadow City
 768811|||魔幻星團，星座少女們的奇遇|||Magic Star Cluster: The Constellation Girls' Adventures
 715794|||仙子别追了，我只想当修仙汉尼拔|||Fairy Stop Chasing, I Just Want To Be The Xianxia Hannibal
+727052|||毒龙娘的独自地下迷宫攻略|||Poison Dragoness's Solo Underground Labyrinth Conquest
 498471|||绝世唐门之秋冬|||Peerless Tang Sect: Autumn And Winter
 623473|||被屑姨妈变成龙娘的我|||Me Turned Into A Dragon Girl By My Scum Aunt
 749706|||一起过门去冒险|||Let's Cross The Door Together And Adventure
@@ -246938,7 +246938,7 @@
 754209|||铜铃第七次鸣响时，往生门开了|||When The Copper Bell Rings For The Seventh Time, The Rebirth Gate Opens
 688480|||穿越斗罗之神龙降世|||Transmigrated To Douluo: The Divine Dragon Descends
 741728|||万仙宗祖师的退休生活|||The Retirement Life Of The Myriad Immortals Sect Founder
-727052|||毒龙娘的独自地下迷宫攻略|||Poison Dragoness's Solo Underground Labyrinth Conquest
+60208|||时祸：我不能杀任何人|||Time Calamity: I Cannot Kill Anyone
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
