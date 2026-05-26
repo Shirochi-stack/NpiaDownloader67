@@ -1105,6 +1105,7 @@ ZEXAL|||Zexal
 ZOE|||ZOE
 ZOMBIE|||Zombie
 ZZZ|||ZZZ
+deleted|||deleted
 Гарем|||Harem
 Ранобэ|||Ranobe
 Современная|||Modern
@@ -2819,6 +2820,7 @@ ZZZ|||ZZZ
 괴도삼인방TS|||Phantom Thieves Trio TS
 괴도조커|||Thief Joker
 괴도주인공|||Phantom Thief Protagonist
+괴라리|||Goerari
 괴랄|||Bizarre
 괴력|||Super Strength
 괴력난신|||Superhuman
@@ -3514,6 +3516,7 @@ ZZZ|||ZZZ
 기아바이럴|||Kia Viral
 기어가크루|||Gear Crew
 기억|||Memory
+기억삭제|||Memory Deletion
 기억상실|||Amnesia
 기억상실남|||Amnesiac Male
 기억상실로맨스|||Amnesia Romance
@@ -6224,6 +6227,7 @@ ZZZ|||ZZZ
 로스트플래닛|||Lost Planet
 로시데레|||Rosidere
 로아|||RoA
+로얄가드|||Royal Guard
 로얄나이츠|||Royal Knights
 로어|||Lore
 로에|||Roe
@@ -10736,6 +10740,7 @@ ZZZ|||ZZZ
 셰어하우스|||Share House
 셰프|||Chef
 셰프여주|||Chef Heroine
+셰황|||Shehwang
 셸터|||Shelter
 소|||Cow
 소감문|||Impression Essay
@@ -14397,6 +14402,7 @@ ZZZ|||ZZZ
 오컬트미스터리|||Occult Mystery
 오컬트판타지|||Occult Fantasy
 오컬트향|||Occult
+오컬트향살짝|||Slight Occult
 오크|||Orc
 오크지만찬양해|||Orc Praise
 오크키우기|||Orc Raising
