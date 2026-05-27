@@ -224427,7 +224427,7 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人|||||Time Calamity: I Cannot Kill Anyone
+60208|||时祸：我不能杀任何人||||||Time Calamity: I Cannot Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -269222,6 +269222,26 @@
 660562|||星穹铁道：开局惊呆三月七|||Honkai: Star Rail - Shocking March 7th at the Start
 163219|||LV1的最强暗杀者|||The Strongest Assassin at LV1
 490343|||露娜小姐想要跟你约会|||Miss Luna Wants to Date You
+705981|||千岛孤星大人依旧在拯救世界|||Lady Chishima's Lone Star Still Saves the World
+765184|||我向众神祈祷，回应我的只有劳大|||I Prayed to the Gods, Only Lord Lao Answered
+751839|||神拓大陆|||Divine Expansion Continent
+771648|||变成妖姬的圣徒大人也很可爱！|||The Saint Who Turned Into a Demoness Is Also Very Cute!
+761995|||法兰旧事，魔法少女行动中|||Old Tales of Fran: Magical Girl in Action
+774854|||魔法少女枕边抱，白云一溪天上飘|||Magical Girl Pillow Hug, White Clouds and a Stream Float in the Sky
+747035|||祝猪杂史|||The Miscellaneous History of Zhu the Pig
+735283|||仙侠笔记|||Immortal Cultivation Notes
+776464|||拯救后，爱意缠上了我|||After Being Saved, Love Entangled Me
+57745|||少女激奏|||Girl's Intense Performance
+491427|||刚表白成功的我怎会被美少女柴刀|||How Can I, Who Just Successfully Confessed, Be Hatcheted by a Beautiful Girl
+696634|||从绫开始|||Starting from Aya
+338889|||穿越成型月齐格飞的我向冠位进发|||After Transmigrating as Siegfried in Prototype Moon, I Advance Toward the Grand Order
+386057|||祖安人穿越世界|||Zu'an People Traveling Through Worlds
+382760|||当神唐三变成唐三的里人格|||When God Tang San Becomes Tang San's Inner Personality
+359297|||变成布狼牙被宇家的阿伟捡到|||Transformed into Bu Langya and Picked Up by Yu Family's Awei
+354894|||七罪在综漫里改变不美好的结局|||The Seven Deadly Sins Change Unhappy Endings in a Comprehensive Manga World
+334201|||学园都市的幻想与通行|||Academy City's Fantasy and Transit
+326716|||关于我穿越拯救精灵这件事|||About Me Transmigrating to Save the Elves
+83246|||八七六一|||Eight Seven Six One
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
@@ -269322,19 +269342,11 @@
 3755|||1|||
 3578|||？？？？？？|||
 3066|||ΑΝΑΓΚΗ|||
-705981|||千岛孤星大人依旧在拯救世界|||
-765184|||我向众神祈祷，回应我的只有劳大|||
-751839|||神拓大陆|||
-771648|||变成妖姬的圣徒大人也很可爱！|||
 764616|||规则怪谈我靠系统攻略病娇升级|||
-761995|||法兰旧事，魔法少女行动中|||
 742364|||黑化倒计时！魔王的被攻略日记|||
 751561|||全知公主与千变少女的攻略指南|||
 745685|||目标是在梦中攻略所有魔族小姐|||
-774854|||魔法少女枕边抱，白云一溪天上飘|||
-747035|||祝猪杂史|||
 743778|||鲁泓杰的麻社之旅|||
-735283|||仙侠笔记|||
 734962|||仙侠风云目录|||
 681718|||我穿越成了西幻虐文里的反派|||
 431495|||变成托管的我好烦|||
@@ -269355,12 +269367,9 @@
 758428|||顾靳的悦棠开了又谢没结果|||
 755081|||雾歧旧事|||
 740828|||以顺病之态|||
-776464|||拯救后，爱意缠上了我|||
 166918|||虐妹狂魔的我正在被女主追杀|||
 737630|||1201|||
 106936|||彼女和我的二次攻略方程式|||
-57745|||少女激奏|||
-491427|||刚表白成功的我怎会被美少女柴刀|||
 727711|||束起长发后厌男的她们却都缠上我|||
 167178|||反派英豪的神灯娇妻|||
 765293|||白恩女神与黑恩女神|||
@@ -269368,7 +269377,6 @@
 742165|||植僵|||
 735019|||联萌之扫雷文明|||
 704418|||91|||
-696634|||从绫开始|||
 388676|||心灵终结焚风传|||
 390657|||焚风之旅|||
 379179|||全职高手之叶不自觉|||
@@ -269381,28 +269389,20 @@
 162919|||月挽浮生梦繁芜|||
 146784|||典奥比轮的狂舞|||
 187672|||崩坏主线的坑货系统守卫者|||
-338889|||穿越成型月齐格飞的我向冠位进发|||
 729037|||白厄？真不熟|||
 399257|||斗罗签到焰灵姬|||
-386057|||祖安人穿越世界|||
 383565|||羊习习穿越火力少年王|||
-382760|||当神唐三变成唐三的里人格|||
 301296|||斗罗大陆之夜煞希儿|||
-359297|||变成布狼牙被宇家的阿伟捡到|||
-354894|||七罪在综漫里改变不美好的结局|||
 350999|||风云乾坤|||
 354931|||吾乃SIC骑士和异类骑士|||
 335330|||小花仙之穿越赛尔号|||
 340950|||第四代理之侓者参上|||
 347001|||崩坏中的纳米尖兵|||
-334201|||学园都市的幻想与通行|||
-326716|||关于我穿越拯救精灵这件事|||
 390574|||关于被逢魔娘送去穿越这件事|||
 313833|||变成卡殿的穿越|||
 316679|||无敌于赛尔号|||
 308461|||盗版赛尔号|||
 771725|||098|||
-83246|||八七六一|||
 603560|||美少女小花的推理事件簿|||
 126157|||霞浦高中推理纪事书|||
 65059|||霞浦高中推理纪事涟|||
