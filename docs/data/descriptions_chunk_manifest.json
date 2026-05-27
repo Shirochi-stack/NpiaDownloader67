@@ -1,0 +1,10 @@
+{
+  "chunks": 3,
+  "totalRows": 80335,
+  "files": [
+    "descriptions_chunk_0.txt.gz",
+    "descriptions_chunk_1.txt.gz",
+    "descriptions_chunk_2.txt.gz"
+  ],
+  "source": "docs/data/descriptions.txt"
+}
