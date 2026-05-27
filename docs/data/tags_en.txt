@@ -8,6 +8,7 @@
 100자|||100 Characters
 100층학교|||100 Floor School
 100회차|||100th Round
+10分水平|||10/10 Level
 10가주|||10 Families
 10대|||Teens
 10대당주|||Tenth Family Head
@@ -15,6 +16,7 @@
 10번은|||10 Times At Least
 10세|||10 Years Old
 10화빌런|||Ch10 Villain
+11区再临|||District 11 Returns
 12간지|||12 Branches
 12구견|||12 Hounds
 12재앙|||12 Catastrophes
@@ -32,6 +34,7 @@
 169금|||16+9
 16연패박고씀|||16 Losses Then Write
 17금|||17+
+18禁不存在|||18+ Doesn't Exist
 18금|||18+
 19|||R-19
 1990년대|||1990s
@@ -57,6 +60,7 @@
 19세기시대물|||19th Century Drama
 19세기영국|||19th Century Britain
 19첨가|||18+ Added
+1月新番|||January New Anime
 1갤러리정보|||1 Gallery Info
 1군|||First Team
 1기생|||1st Gen
@@ -114,6 +118,7 @@
 1화초반약피폐|||Ch1 Early Despair
 1회차|||1st Round
 2000년대|||2000s
+2012年|||Year 2012
 2018萌神|||2018 Moe God
 2019萌神|||2019 Moe God
 2019년배경|||2019 Setting
@@ -137,6 +142,8 @@
 20화안에완결|||Complete by Ch20
 21세기|||21st Century
 22금|||22+
+2333支持学长|||2333 Support Senpai
+24岁|||24 Years Old
 24대1|||24 vs 1
 24첼린지|||24 Challenge
 25시|||25 O'Clock
@@ -194,6 +201,8 @@
 30대연애물|||30s Romance
 32만명이넘는하렘|||320K Harem
 35화까지고문|||Torture Until Ch35
+360和QQ|||360 and QQ
+36E白素贞|||36E Bai Suzhen
 37세|||37 Years Old
 39금|||39+ Restricted
 3P|||Threesome
@@ -262,6 +271,7 @@
 5차성배전쟁|||5th Holy Grail War
 60억분의1|||1 in 6B
 67금|||67 Restricted
+6的不行|||Insanely Good
 6군단|||6th Legion
 6성가챠|||6-Star Gacha
 6세대|||6th Generation
@@ -280,6 +290,7 @@
 845K|||845K
 867K|||867K
 867기|||867th Class
+86上山了|||86 Has Gone Up The Mountain
 86에이티식스|||86 Eighty-Six
 8군단|||8th Legion
 8번출구|||Exit 8
@@ -389,6 +400,7 @@ BLEACH|||Bleach
 BLM|||BLM
 BLNTR없음|||No BL NTR
 BLOOD|||Blood
+BL大师|||BL Master
 BL로맨스|||BL Romance
 BL물|||BL Story
 BL아님|||No BL
@@ -399,6 +411,7 @@ BL절대아님|||Absolutely No BL
 BL주의|||BL Warning
 BM|||BM
 BMPT|||BMPT
+BOSS续作|||Boss Sequel
 BOY|||Boy
 BOYSLOVE|||Boys Love
 BRS|||Black Rock Shooter
@@ -408,6 +421,8 @@ BULL|||Bull
 BW|||BW
 BW1|||BW1
 BW2|||BW2
+Boss级的主角大人|||Boss-Level Protagonist
+B王叶日天|||B King Ye Ritian
 B급|||B-grade
 B급감성|||B-Grade Vibe
 B급소환사|||B-Grade Summoner
@@ -505,6 +520,7 @@ EXA|||EXA
 EXTRA|||Extra
 EZ|||EZ
 EZY|||EZY
+Eko流始祖|||Eko-Style Founder
 E급|||E Rank
 E스포츠|||Esports
 E히어로|||E Hero
@@ -526,12 +542,14 @@ FATE조금|||Light Fate
 FATE진짜조금|||Fate Tiny Bit
 FATE후추후추|||Fate Chase
 FBI|||FBI
+FCSU社|||FCSU Club
 FD|||FD
 FEMDOM|||Femdom
 FETISH|||Fetish
 FF|||FF
 FF14|||FF14
 FF7|||FF7
+FFF团目标|||FFF Inquisition Target
 FGO|||Fate/Grand Order
 FGO시스템|||FGO System
 FGO조금|||FGO Slight
@@ -549,17 +567,20 @@ FSS|||FSS
 FST|||FST
 FTAE|||FTAE
 FTD|||FTD
+FUCS社|||FUCS Club
 FUMO|||Fumo
 FURRY|||Furry
 FWB|||Friends with Benefits
 FYL|||FYL
 FZ|||FZ
+Fate同人|||Fate Fanfic
 Fㅖ급|||F Grade
 F급|||F-Rank
 F급헌터|||F-Rank Hunter
 F등급|||F-Rank
 F랭크|||F Rank
 G|||G
+GAL剧本|||GAL Game Script
 GARO|||Garo
 GBA|||GBA
 GBN|||GBN
@@ -603,6 +624,7 @@ HEMA|||Historical Fencing
 HGSS|||HGSS
 HI|||HI
 HL|||HL
+HL的RBQ|||HL's RBQ
 HOI4|||Hearts of Iron 4
 HOLOLIVE|||Hololive
 HOLOX|||Holox
@@ -615,6 +637,8 @@ HTF|||HTF
 HTM|||HTM
 HUD능력|||HUD Ability
 HXH|||Hunter x Hunter
+H游戏啧啧啧|||H-Game Tsk Tsk Tsk
+H画师|||H Artist
 IA|||IA
 IB|||IB
 IDOLMASTER|||Idolmaster
@@ -632,7 +656,9 @@ INCEST|||Incest
 IONHATE|||Ion Hate
 IS|||Infinite Stratos
 ISD재단|||ISD Foundation
+IS同人|||IS Fanfic
 IT|||IT
+JOJO厨|||JoJo Fan
 JOREAL|||JOREAL
 JPOP|||J-Pop
 JRPG|||JRPG
@@ -653,6 +679,7 @@ KOREAN|||Korean
 KR|||KR
 KSPD|||KSPD
 KV|||KV
+Key社粉丝|||Key Studio Fan
 K리그|||K League
 K캅스|||K Cops
 K행정|||K Bureaucracy
@@ -674,6 +701,7 @@ LOVE|||Love
 LR|||LR
 LRS|||LRS
 LTR없음|||No LTR
+LV1最强|||LV1 Strongest
 L드라고|||L Dragao
 L일상|||L Daily
 M|||M
@@ -691,6 +719,7 @@ MEI박사|||Mei Doctor
 MGR|||Metal Gear Rising
 MHP|||Monster Hunter Portable
 MHW|||Monster Hunter World
+MIKU后传|||MIKU Sequel
 MILF|||MILF
 MILK|||Milk
 MINECRAFT|||Minecraft
@@ -742,6 +771,7 @@ NO이세계|||No Isekai
 NO판타지|||No Fantasy
 NO회빙환|||No Regression Possession Return
 NPC|||NPC
+NPC之恋|||NPC Romance
 NPC각성|||NPC Awakening
 NPC간|||NPC Pair
 NPC물|||NPC Tale
@@ -756,6 +786,7 @@ NTL한꼬집|||NTR Pinch
 NTR|||NTR
 NTRNTL네토등|||NTR/Netori/Netorare
 NTRS|||Netorase
+NTR是假的|||NTR Is Fake
 NTR극혐|||NTR Hate
 NTR냄새안나는순애|||No NTR Scent Pure Love
 NTR만없음|||No NTR Only
@@ -783,6 +814,9 @@ NTR회피|||NTR Avoidance
 NTS|||NTS
 NTS순애|||NTR-Free Pure Love
 NTS없음|||No NTS
+N个穿越者|||N Transmigrators
+N次元|||N-Dimensional
+N线|||N Line
 N대1|||N to 1
 N사|||N Corp
 N행시|||N Acrostic
@@ -799,6 +833,7 @@ ONLY대화|||Dialogue Only
 ONYU|||Onyu
 OO|||OO
 OOO|||OOO
+OO哈|||OO Ha
 OP|||Overpowered
 OR|||OR
 ORI|||Ori
@@ -829,6 +864,8 @@ PT기라티나|||PT Giratina
 PUA이론|||PUA Theory
 PVP|||PVP
 PVPVE|||PvPVE
+PY狂魔|||PY Maniac
+P社双萌|||Paradox Double Moe
 P의거짓|||P's Lie
 QOS|||Queen of Spades
 QUEEN|||Queen
@@ -859,6 +896,8 @@ ROBLOX|||Roblox
 ROMANCE|||Romance
 RP|||Role Play
 RPG|||RPG
+RPG世界|||RPG World
+RPG好烦啊|||RPG Is So Annoying
 RPG요소|||RPG Elements
 RR|||RR
 RTA|||Real-Time Attack
@@ -870,10 +909,12 @@ RVB|||RVB
 RWBY|||RWBY
 RX|||RX
 S|||S
+S4小天使|||S4 Little Angel
 SAO|||Sword Art Online
 SCAT|||Scat
 SCP|||SCP Foundation
 SCP4999|||SCP-4999
+SCP基金会|||SCP Foundation
 SCP류|||SCP Style
 SCP재단|||SCP Foundation
 SCP재단패러디|||SCP Parody
@@ -885,6 +926,13 @@ SEED|||Gundam SEED
 SEEDOO|||Seed OO
 SELFCEST|||Selfcest
 SF|||Sci-Fi
+SF中秋活动|||SF Mid-Autumn Event
+SF娘|||SF Girl
+SF清流|||SF Pure Stream
+SF的泥石流|||SF's Mudslide
+SF第一机战|||SF's Top Mecha
+SF第一神作|||SF’s First Divine Work
+SF里的清流|||Clear Stream in SF
 SF게임판타지|||Sci-Fi Game Fantasy
 SF공산과학|||SF Communist Science
 SF똥겜사령관|||Sci-Fi Bad Game Commander
@@ -1050,6 +1098,7 @@ TS히로인도|||TS Heroine Too
 TS히로인있음|||TS Heroine
 TS히로인존재안함|||No TS Heroine
 TS히로인포함|||TS Heroine Included
+TTTTT哥|||TTTTT Bro
 TVA|||TV Anime
 TYPE|||Type
 TYPEMOON|||Type-Moon
@@ -1059,9 +1108,13 @@ UC|||Universal Century
 UED|||UED
 UFC|||UFC
 UFO|||UFO
+UG开发外传篇|||UG Development Side Story
+UG纪元第一作|||First Work of UG Era
+UG纪元第二作|||UG Era Second Work
 ULTRAKILL|||ULTRAKILL
 UMP45|||UMP45
 UTA|||Uta
+U艇|||U-Boat
 V|||V
 V3|||V3
 VD|||VD
@@ -1074,8 +1127,11 @@ VRAINS|||VRAINS
 VRCHAT|||VRChat
 VRMMO|||VRMMO
 VRMMORPG|||VRMMORPG
+VR游戏|||VR Game
+VR网游|||VRMMO
 VR게임|||VR Game
 VS|||VS
+V家|||Vocaloid
 W|||W
 WAFFLE|||Waffle
 WALLSU|||Wallsu
@@ -1083,6 +1139,7 @@ WARFRAME|||Warframe
 WARHAMMER|||Warhammer
 WARNING|||Warning
 WARP열차|||Warp Train
+WAS是神手啊|||WAS Is God Hand
 WHATIF|||What If
 WIC|||World in Conflict
 WII|||Wii
@@ -1117,7 +1174,30 @@ ZOE|||ZOE
 ZOMBIE|||Zombie
 ZZZ|||ZZZ
 Z기술|||Z Skill
+be老狗|||BE Old Dog
+coc人狂喜|||COC Fans Ecstatic
+dear白糖|||Dear White Sugar
 deleted|||deleted
+dnf好评|||DNF Praise
+e071好天然|||e071 So Natural
+fff团|||FFF Group
+fff团烤烤烤|||FFF Group BBQ
+fff团目标|||FFF Group Target
+fgo玩家|||FGO Player
+gay文作家|||Gay Novel Writer
+gay的|||Gay
+gay的吧|||Probably Gay
+jojo梗|||JoJo Reference
+low逼系统|||Lowly System
+ooc警告|||OOC Warning
+py之王|||PY King
+py之神|||PY God
+qqwwqqq我来了|||qqwwqqq I'm Here
+rbq作者|||RBQ Author
+rbq男主|||Public Use Male Lead
+sf第一本|||SF’s First Book
+z致郁|||Extremely Depressing
+z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 Гарем|||Harem
 Ранобэ|||Ranobe
 Современная|||Modern
@@ -1161,171 +1241,7309 @@ deleted|||deleted
 ㅠㅠㅠ|||T_T_T
 ㅡ|||-
 ㅡ으ㅏ아ㅏ아ㅏㅏㅏ|||Screaming
+一丝致郁|||Slightly Depressing
+一个不错的故事|||A Pretty Good Story
+一个人的心灵成长史|||One Person's Mental Growth Story
+一个智障|||One Idiot
+一个草根废材的奋斗史|||A Grassroots Loser's Struggle Story
+一体双魂|||One Body Two Souls
+一出来就开挂|||Cheats Right After Appearing
+一击必杀|||One-Hit Kill
+一刀恶魔|||One-Slash Demon
+一刀秒个人|||One-Shot Kill
+一刀翻异世界|||One-Slash To Another World
+一刀超人|||One-Punch Superman
+一刀魔王|||One-Slash Demon King
+一剑破万法|||One Sword Breaks Ten Thousand Laws
+一劍一仙子|||One Sword One Fairy
+一卷结尾神作|||First Volume Ending Masterpiece
+一只鸽子|||One Pigeon
+一场梦|||A Dream
+一场空|||All in Vain
+一堆宝物|||Pile of Treasures
+一天一更|||One Update Per Day
+一天两更|||Two Updates a Day
+一定是嫁人|||Must Be Getting Married
+一心双体|||One Mind Two Bodies
+一意咕行|||Determined To Pigeon
+一招制敌|||One-Shot Kill
+一拳超人|||One Punch Man
+一本正经|||Deadpan
+一本满足|||One Book Satisfaction
+一朵名叫中二的奇葩|||A Unique Flower Called Chuuni
+一枪秒|||One Shot One Kill
+一核弹秒|||One Nuke One Kill
+一流亡灵法师|||First-Class Necromancer
+一炮秒|||One Thrust One Kill
+一点也不重口|||Not Heavy at All
+一点都不爽|||Not Refreshing At All
+一片汪洋|||Vast Ocean
+一百天生命|||100 Days of Life
+一看就是理科|||Clearly Science Major
+一章万字|||Ten Thousand Words Per Chapter
+一群萝莉|||A Bunch of Lolis
+一股清流|||Fresh Style
+一般|||Average
+一般爆炸|||Average Explosion
+一起加油|||Let's Work Hard Together
+一颗流星砸下来|||A Meteor Crashed Down
+一魂两身|||One Soul Two Bodies
+一魂双体|||One Soul Two Bodies
+一魂双身|||One Soul Two Bodies
+一魂多体|||One Soul Multiple Bodies
+丁丁大仙|||Dingding Great Immortal
+七原罪|||Seven Deadly Sins
+七圣子|||Seven Holy Sons
+七宗罪|||Seven Deadly Sins
+七度空间|||Seventh Dimension
+万一伪娘|||What If Trap
+万万没想到|||Never Expected
+万事屋|||Odd Jobs
+万分致郁|||Extremely Depressing
+万华镜|||Kaleidoscope
+万卡创造者|||Creator of Ten Thousand Cards
+万古长青|||Eternal
+万年一更新|||Updates Once in a Millennium
+万年不补等留坑|||Never Updates, Leaves Holes
+万年巨坑|||Eternal Huge Pit
+万年更|||Updates Once Per Millennium
+万由里嫁人喵|||Manyuri Marries Meow
+万能的八九寺|||All-Powerful Hachikuji
+万雌王|||King of Ten Thousand Females
+三不像|||Mishmash
+三人行|||Threesome
+三代机|||Third Generation Machine
+三卷后出高能|||High Energy After Volume Three
+三卷弃|||Drop After Three Volumes
+三基带一妹|||Three Guys One Girl
+三大主角一台戏|||Three Main Characters Stealing the Show
+三奈是萌妹子|||Sanai Is a Cute Girl
+三年起步|||Three Years Minimum
+三无|||Kuudere
+三无NPC就是好|||Emotionless NPC Is Great
+三无少女|||Kuudere Girl
+三无猥琐流|||Three-No Perverted Style
+三无男主|||Emotionless Male Lead
+三无萝莉|||Emotionless Loli
+三流神明|||Third-Rate God
+三爷|||Third Master
+三玖天下第一|||Miku is Number One
+三秒钟真男人|||Real Man in Three Seconds
+三等分的花嫁|||The Quintessential Quintuplets
+三线|||Third Tier
+三角恋|||Love Triangle
+三蹦子|||Honkai 3rd
+三途川|||Sanzo River
+三顶绿帽|||Three Green Hats
+上古卷轴|||Elder Scrolls
+上帝惹的祸|||God's Fault
+上帝視角|||God's Perspective
+上帝视角|||God Perspective
+上条当麻子|||Kamijou Touma-ko
+上来就开挂既视感|||Instant Cheat Feeling
+上精灵|||Mounting Elves
+上船吗少年|||Wanna Board the Ship, Young Man?
+上限|||Upper Limit
+下一盘很大的棋|||Playing a Huge Game
+下克上|||Lower Class Rising
+下水道|||Sewer
+下着一盘大棋|||Playing A Big Game
+不一样的世界观|||Unique Worldview
+不一样的仙子|||Different Kind of Fairy
+不一样的舰娘|||Different Ship Girls
+不一样的题材|||Unique Theme
+不会写就别写|||Don't Write If You Can't
+不会硬撩系列|||No Forced Flirting Series
+不修仙的剑仙|||Sword Immortal Who Doesn’t Cultivate
+不做死不會死|||No Death If You Don't Court It
+不务正业|||Not Doing Proper Work
+不发便当|||No Death Flags
+不可爱|||Not Cute
+不可能恋爱|||Impossible Romance
+不同背景短篇|||Short Stories With Different Backgrounds
+不喜勿喷|||No Hate Please
+不够看|||Not Enough
+不太|||Not Really
+不套路|||No Clichés
+不套路的爽文|||Non-Cliché Cool Story
+不好|||Not Good
+不妨一读|||Worth a Read
+不嫁|||Won't Marry
+不嫁不嫁|||No Marriage No Marriage
+不嫁不百|||No Marriage No Yuri
+不嫁人|||No Marriage
+不嫁士道|||Won't Marry Shidou
+不存在恋爱的|||No Romance Exists
+不存在的|||Doesn't Exist
+不定期诈尸|||Irregular Updates
+不容错过|||Must Read
+不屑命运|||Disdain Fate
+不幸的勇者|||Unfortunate Hero
+不得不说|||Have to Say
+不怎么好|||Not Very Good
+不想穿女装|||Don't Want to Wear Women's Clothes
+不愧是欧督|||As Expected of an Eurodude
+不懂|||Don't Understand
+不成仙|||Won't Become Immortal
+不按套路出牌|||Doesn't Play by the Rules
+不挖坟不出书|||No Digging Old Posts No New Book
+不搞事就难受|||Can't Stand Not Causing Trouble
+不明所以|||Unclear Why
+不明觉历|||Feels Profound Without Understanding
+不是rbq|||Not a Meat Toilet
+不是主角的主角逆袭传|||Non-Protagonist Protagonist Counterattack Story
+不是后宫|||Not Harem
+不是坑的坑|||Not a Pit Pit
+不是基佬文|||Not a Gay Story
+不是妹的妹|||Not a Sister But a Sister
+不是嫁人|||Not Marriage
+不是日常生活|||Not Daily Life
+不是枪兵|||Not a Lancer
+不是正常人系列|||Not Normal People Series
+不是正片|||Not The Main Story
+不是生意人|||Not a Businessman
+不是百合|||Not Yuri
+不是综漫|||Not a Comprehensive Manga
+不是装逼文|||Not a Showing-Off Story
+不是轻小说|||Not a Light Novel
+不更新就女裝|||No Update Means Crossdressing
+不更新差评|||No Updates, Bad Review
+不更新是萝莉|||No Update Means Loli
 不来|||Not Coming
+不来一发吗|||Wanna Shoot Once
+不正常游戏|||Abnormal Game
+不正经|||Not Serious
+不正经男主|||Not Serious Male Protagonist
+不死|||Immortal
+不死之王|||Overlord
+不死者之王|||Overlord
+不浮誇好有感覺|||Not Exaggerated, Very Atmospheric
+不火不科学|||Not Popular Is Illogical
+不爽小可|||Not Happy With Xiao Ke
+不用带脑|||No Brain Required
+不看后悔|||You'll Regret Not Reading
+不看后悔系列|||Regret If You Don't Read Series
+不知何时上垒|||Don't Know When We'll Reach Base
+不知所云|||Nonsensical
+不知所謂|||Nonsensical
+不知男主系列|||Unknown Male Lead Series
+不破|||Bupo
+不稳|||Unstable
+不稳定的灵子|||Unstable Spirit Particles
+不虐主|||No Protagonist Abuse
+不要坑|||Don't Drop It
+不要嫁人|||Don't Get Married
+不要带脑子看|||Don't Use Your Brain
+不要飞升|||Don't Ascend
+不解释|||No Explanation
+不让下载|||Does Not Allow Download
+不许成精|||No Becoming Spirits
+不賴的作品但有問題|||Decent But Flawed Work
+不走主线|||No Main Plot
+不走套路|||No Clichés
+不过初审|||Failed Initial Review
+不迎合读者|||Doesn't Cater to Readers
+不錯|||Not Bad
+不錯唷|||Not Bad Yo
+不錯期待|||Not Bad, Looking Forward
+不錯的開始|||Good Start
+不錯看|||Pretty Good
+不错|||Not Bad
+不错不错|||Not Bad Not Bad
+不错不错继续加油|||Not Bad, Keep It Up
+不错写的好|||Well Written
+不错加油|||Not Bad, Keep Going
+不错呦|||Not Bad
+不错哦|||Not Bad
+不错啊进入游戏世界|||Not Bad, Entering Game World
+不错啦|||Not Bad
+不错很赞|||Not Bad, Very Good
+不错有前途呵呵|||Not Bad, Has Potential Hehe
+不错的作品|||Good Work
+不错的同人哦|||Nice Doujin
+不错的小说|||Pretty Good Novel
+不错的文|||Good Writing
+不错看|||Pretty Good
+不错继续|||Not Bad, Keep Going
+丐帮圣光|||Beggar Sect Holy Light
+专业修仙|||Professional Cultivation
+专业诱拐|||Professional Kidnapping
+专属女仆|||Exclusive Maid
+专注性转卅年|||Focused On Genderbending For Thirty Years
+世界們會哭的|||The Worlds Will Cry
+世界地图好诡异|||World Map So Weird
+世界战争|||World War
+世界最强|||Strongest in the World
+世界核平|||World Nuclear Peace
+世界系|||World-Type
+世界系统的吐槽什么的|||World System Roasts and Such
+世界级美文|||World-Class Beautiful Writing
+世界终末旅行|||World's End Journey
+世界观不错|||Great Worldbuilding
+世界观可啪|||World Setting is Scary
+世界观吸引人|||Attractive Worldbuilding
+世界观大|||Huge Worldview
+世界观大作|||Grand Worldbuilding
+世界观好庞大|||Huge World Building
+世界观宏大|||Epic Worldbuilding
+世界观庞大|||Huge Worldview
+世界观很大|||Huge Worldview
+世界观很宏大|||Worldbuilding Is Grand
+世界观真的棒|||Worldbuilding Is Great
+世界边缘之人|||Person at World Edge
+丘比特|||Cupid
+业界崛起|||Rising in the Industry
+东京吃货|||Tokyo Glutton
+东京食尸鬼|||Tokyo Ghoul
+东京黑帮新秀|||Tokyo Gang Newcomer
+东子调教计划|||Dongzi Training Plan
+东方|||Touhou
+东方不败|||Dongfang Bubai
+东方同人|||Touhou Fanfic
+东方神作|||Touhou Masterpiece
+东西合璧|||East Meets West
+丢人河豚|||Embarrassing Fujo
+丢你雷姆|||Rem Throw You
+丢大号开小号|||Abandoning Main Account for Alt
+丢失的女主|||Lost Female Lead
+两个喷子印象|||Impression of Two Trolls
+两个基佬|||Two Gays
+两卷封神|||Two Volumes Become God
+两百斤大奶子|||200 Jin Big Breasts
+两百斤巨乳娘|||200 Jin Big-Breasted Girl
+两眼汪汪|||Tearful Eyes
+两米高的女主|||Two-Meter-Tall Heroine
+两铜币铁剑|||Two Copper Coin Iron Sword
+严密的故事|||Tight Story
+严肃|||Serious
+严肃西幻|||Serious Western Fantasy
+严谨|||Rigorous
+严谨风|||Rigorous Style
+丧|||Depressed
 丧尸|||Zombie
+丧尸后宫|||Zombie Harem
+丧尸娘|||Zombie Girl
+丧尸拯救世界|||Zombie Saves World
+丧尸火葬场|||Zombie Crematorium
+丧心病狂|||Insane
+丧心病狂啊啊|||Insanely Crazy
+个人认为要火|||Personally Think It Will Be Popular
+个性妹纸|||Unique Girl
+中世纪|||Medieval
+中二|||Chuunibyou
+中二主角|||Chuunibyou Protagonist
+中二少年少女|||Chuunibyou Boys and Girls
+中二汇聚|||Chuunibyou Gathering
+中二爆表|||Chuunibyou Overload
+中二病|||Chuunibyou
+中二病晚期|||Terminal Chuunibyou
+中二的世界|||Chuuni World
+中二的开始|||The Start of Chuunibyou
+中二的说|||Chuunibyou Vibes
+中出|||Creampie
+中后期黑深残|||Mid-to-Late Dark Deep Cruel
+中国語上手|||Good at Chinese
+中国风|||Chinese Style
+中期偏虐|||Mid-Story Abuse
+中欧科幻|||Central European Sci-Fi
+中篇金奖|||Novella Gold Award
+中篇银奖|||Silver Award Novella
+中规中矩|||Average
+中路大魔王|||Mid Lane Great Demon King
+丰富|||Rich
+为了封面来的|||Came for the Cover
+为了正义|||For Justice
+为什么不火|||Why Isn't It Popular
+为啥不性转|||Why No Gender Bender
+为土豆而疯狂|||Crazy for Potato
+为林霜寒心疼|||Heartache for Lin Shuanghan
+为爱痴狂|||Crazy For Love
+为男主感到不值|||Feel Bad for MC
+主人与奴隶|||Master and Slave
+主人控|||Master Complex
+主仆|||Master-Servant
+主仆PLAY|||Master-Servant Play
+主宰|||Dominator
+主持人|||Host
+主播|||Streamer
+主播养成|||Streamer Raising
+主线妹妹|||Main Story Little Sister
+主职业是画师|||Main Job Is Painter
+主要人物全碉堡了|||Main Characters Are All Awesome
+主角mmp|||MC: "WTF"
+主角不是主角|||MC Not the Protagonist
+主角中二病晚期|||MC Has Terminal Chuunibyou
+主角为女孩子|||Protagonist is a Girl
+主角人渣|||Scumbag Protagonist
+主角似乎很强|||Protagonist Seems Very Strong
+主角你可以再废一点吗|||Protagonist, Can You Be More Useless?
+主角光环|||Protagonist Halo
+主角光环何在|||Where Is the Protagonist Halo
+主角其实很强|||Protagonist Is Actually Strong
+主角内心丰富|||MC Has Rich Inner World
+主角半废|||MC Is Half Disabled
+主角即本人|||Protagonist is the Author
+主角变态|||Protagonist is Perverted
+主角可啪|||MC Is Cute
+主角可爱想R|||MC Is So Cute I Want to R
+主角名字不是我能看|||Protagonist Name Is Unreadable
+主角名字屌炸天|||MC's Name Is Awesome
+主角嗑了不少|||MC Ate Quite a Lot
+主角太帅|||Protagonist Is Too Handsome
+主角好人|||Protagonist Is A Good Person
+主角好多|||Many Protagonists
+主角好萌|||Protagonist Is So Cute
+主角妹控|||MC Is Siscon
+主角威能|||Protagonist's Power
+主角婊的好萌|||MC Is a Cute Bitch
+主角屌大|||Protagonist Has Big Dick
+主角开挂|||MC Cheats
+主角开挂预警|||MC Cheat Warning
+主角弱渣|||Weak MC
+主角強無敵|||Protagonist Is Invincible
+主角强大|||Powerful MC
+主角强无敌|||Protagonist Is Invincibly Strong
+主角很受|||Protagonist Is Very Bottom
+主角很拉风|||Protagonist Is Very Cool
+主角很正经|||MC Is Very Serious
+主角很矛盾|||Protagonist Is Contradictory
+主角很萌|||Protagonist Is Very Cute
+主角快变萝莉|||MC About to Become Loli
+主角性别未知|||MC Gender Unknown
+主角性无能|||MC Is Sexually Incompetent
+主角恶人|||MC Is a Villain
+主角才是大佬|||MC Is The True Boss
+主角敲可爱|||MC Is Super Cute
+主角无敌|||Invincible MC
+主角无敌流|||Protagonist Invincible Genre
+主角既是灾难|||Protagonist is the Calamity
+主角日常傲娇|||Protagonist Is Daily Tsundere
+主角是NPC|||MC Is an NPC
+主角是个受|||Protagonist Is A Bottom
+主角是个变态|||Protagonist Is A Pervert
+主角是伪娘|||Protagonist is Trap
+主角是冰块|||Protagonist Is An Ice Block
+主角是受|||MC Is a Bottom
+主角是否过强|||Is the Protagonist Too Strong
+主角是捡来的|||Protagonist Was Picked Up
+主角是条咸鱼|||MC Is a Salted Fish
+主角是王小贱|||MC Is Wang Xiaojian
+主角是真萌新|||MC is True Newbie
+主角是眯眯眼|||MC Has Squinty Eyes
+主角是神|||MC Is a God
+主角是萌妹子|||MC Is a Cute Girl
+主角是萝莉|||MC is Loli
+主角是萨满|||MC Is a Shaman
+主角是触手|||Protagonist Is A Tentacle
+主角是诚哥|||Protagonist Is Makoto
+主角是配角|||Protagonist Is a Supporting Character
+主角有点傲娇|||MC Is A Bit Tsundere
+主角有点呆|||MC Is a Bit Dumb
+主角杀伐果断|||Protagonist Is Decisive In Killing
+主角沒智商|||Protagonist Has No IQ
+主角没丁丁|||Protagonist Has No Dick
+主角没节操|||Protagonist Has No Shame
+主角無敵|||Invincible MC
+主角無能|||MC Is Incompetent
+主角病娇|||Yandere Protagonist
+主角百合|||MC Yuri
+主角真无敌|||Protagonist Is Truly Invincible
+主角神经质|||Protagonist is Neurotic
+主角经常掉线|||Protagonist Often Disconnects
+主角聖母|||MC Is a Saint
+主角能力变态|||Protagonist's Ability Is Perverted
+主角腦子有洞|||Protagonist Has a Hole in His Brain
+主角腦洞大|||MC Has Huge Imagination
+主角腹黑|||Scheming Protagonist
+主角自商低|||Protagonist Has Low Self-Awareness
+主角自恋狂|||Narcissistic Protagonist
+主角萌|||Cute Protagonist
+主角萌妹子|||MC Is a Cute Girl
+主角萌新|||Newbie MC
+主角萝莉癌|||MC Has Loli Cancer
+主角被坑无数|||Protagonist Tricked Countless Times
+主角被绑架|||Protagonist Kidnapped
+主角被萝莉控|||MC Is Controlled by Lolis
+主角被虐|||Protagonist Gets Abused
+主角设定逆天|||MC Setting Is Broken
+主角诶嘿嘿|||Protagonist Eheh
+主角貌似很牛|||Protagonist Seems OP
+主角贼漂亮|||Protagonist Is Super Pretty
+主角超中二|||Protagonist Is Super Chuuni
+主角超天真|||Protagonist Is Super Innocent
+主角超暖|||MC Is Super Warm
+主角超棒|||MC Is Awesome
+主角迟早凉凉|||Protagonist Will Die Sooner or Later
+主角迷之性别|||MC's Mysterious Gender
+主角适合女装|||Protagonist Suited for Crossdressing
+主角逆天|||MC Defies Heaven
+主角逗B|||MC Is A Clown
+主角逗逼|||Protagonist Is a Goof
+主角隐藏大佬|||Protagonist Is A Hidden Bigshot
+主角霸气了|||MC Is Overbearing
+主角非人类|||Non-Human Protagonist
+主角非处男|||Non-Virgin MC
+主角非正派|||MC Is Not Righteous
+主角黑化|||MC Darkens
+主角龙傲天|||Long Aotian Protagonist
+主题先行|||Theme First
+义女|||Adopted Daughter
+乌鸦菌|||Crow-chan
+乌龟圣人|||Turtle Saint
+乐园|||Paradise
+乒乓球|||Table Tennis
+乖乖|||Good Girl
+九世妻子|||Wives Of Nine Lifetimes
+九尾妖狐|||Nine-Tailed Fox
+九尾狐|||Nine-Tailed Fox
+九尾狐娘|||Nine-Tailed Fox Girl
+九尾鸣|||Nine-Tailed Howl
+也有异性恋|||Has Heterosexuality Too
+也许会悬疑|||Maybe Mystery
+也许是后宫|||Maybe Harem
+书名劝退|||Title Is A Deterrent
+书名太烂|||Book Title Is Too Bad
+书名封面连毒|||Title and Cover Are Both Poison
+书名很有新意|||Book Title Is Very Original
+书名打错了吧|||Title Misspelled?
+书名是卷名|||Book Title Is Volume Title
+书名错字系列|||Book Title Typo Series
+书嘲人世之恶|||Book Mocks The Evils Of The World
+书良无票|||Shu Liang Has No Votes
+书面小瞬女装|||Written Shizun Crossdressing
+买断妹妹股|||Bought Out Little Sister Stock
+买胃药买穷|||Bought Stomach Medicine Until Broke
+乱入|||Crossover
+乱叙|||Chaotic Narrative
+乱梗|||Random Gags
+乳町|||Milktown
+争取快速完结|||Striving for Quick Completion
+事务所|||Agency
+事实上甚好|||Actually Very Good
+事项污妖王|||Filthy Demon King
+二刀流无敌|||Dual Wield Invincible
+二卷结尾高能|||Volume 2 Ending Is Intense
+二战|||WWII
 二次元|||ACG/Otaku
+二次元妹妹|||2D Little Sister
+二次元气息|||2D Atmosphere
+二次穿越|||Second Transmigration
+二设同人文|||Fanfiction With Secondary Settings
+云外绯想天|||Beyond the Clouds Scarlet Thought Heaven
+云妹推倒云妹|||Yunmei Pushes Down Yunmei
+互换|||Body Swap
+互换身体|||Body Exchange
+五月十六|||May 16th
+五米|||Five Meters
+五行缺德|||Lacking Virtue in Five Elements
+五角恋|||Pentagon Romance
+亚洲舞王|||Asian Dance King
+亚特兰蒂斯|||Atlantis
+亡灵|||Undead
+交出封面|||Hand Over the Cover
+交换|||Exchange
+交换身体|||Body Swap
+亲妹妹|||Real Little Sister
+亲情|||Family Love
+人不如佩奇|||People Are Inferior to Peppa
+人不如猫|||Humans Are Inferior To Cats
+人不要臉系列|||Shameless People Series
+人体交流|||Human Body Communication
+人偶|||Doll
+人偶万岁|||Long Live Dolls
+人偶女仆|||Doll Maid
+人兽|||Human-Beast
+人名多记不住|||Too Many Names to Remember
+人型自走炮|||Humanoid Self-Propelled Cannon
+人型高达|||Humanoid Gundam
+人外|||Non-Human
+人外主角|||Non-Human Protagonist
+人外娘|||Non-Human Girl
+人妻九暖|||Nine Warm Married Women
+人妻生涯|||Married Woman's Life
+人妻男主|||Married Male Lead
+人妻赛高|||Married Wife Supremacy
+人工智能|||Artificial Intelligence
+人形兵器|||Humanoid Weapon
+人形少女|||Humanoid Girl
+人形机械|||Humanoid Machine
+人心|||Human Heart
+人性|||Human Nature
+人性本色|||True Human Nature
+人性百态|||All Aspects Of Human Nature
+人恨话不多|||Hated But Few Words
+人族魔王|||Human Race Demon King
+人有多大胆|||How Bold One Is
+人格分裂|||Split Personality
+人格转换|||Personality Swap
+人渣系主角|||Scum-Type Protagonist
+人物乱入|||Character Cameos
+人物内心挣扎|||Character's Inner Struggle
+人物刻画神了|||God-Tier Character Writing
+人物刻画细腻|||Delicate Character Portrayal
+人物好多|||So Many Characters
+人物形象模糊|||Character Images Are Blurry
+人物有点多|||Too Many Characters
 人生赢家|||Life Winner
+人神恋|||Human-God Romance
+人类本质|||Human Nature
+人类都是仆人|||Humans Are All Servants
+人美路子野|||Beautiful and Wild
+人虫情未了|||Human-Insect Romance Unfinished
+人设众多|||Many Character Designs
+人设图丰富|||Rich Character Designs
+人设好|||Great Character Designs
+人设很6|||Character Design Is Awesome
+人设棒棒的|||Great Character Designs
+人造人|||Artificial Human
+人造人少女|||Artificial Human Girl
+人造天才|||Artificial Genius
+人间兵器|||Human Weapon
+什么gui|||What the Gui
+什么垃圾玩意|||What Trash Thing
+什么玩意|||What The Heck
+什么都没看到|||Saw Nothing
+什么鬼|||What the Hell
+什麼都通|||Knows Everything
+仁慈的神大人|||Merciful God-sama
+从头再来|||Starting Over
+从未断更|||Never Stopped Updating
+仙人|||Immortal
+仙仙天下第一|||Xianxian Is Number One Under Heaven
 仙侠|||Xianxia
+仙侠魔幻|||Xianxia and Magic
+仙子是舔狗|||Fairy Is A Simp
+仙尊老婆|||Immortal Venerable's Wife
+仙帝|||Immortal Emperor
+代入感强|||Strong Sense Of Immersion
+代表作|||Representative Work
+令人极其难受|||Extremely Uncomfortable
+令人深刻|||Deeply Moving
+令人窒息|||Suffocating
+以下克上|||Lower Rank Defeats Higher
+以后会更努力|||Will Work Harder Later
+以坑货千年名义|||In the Name of the Millennium Pit King
+以夜为名却明亮舒心|||Named After Night Yet Bright and Comforting
+以意外的好看|||Surprisingly Good Looking
+以谋为武|||Strategy as Martial Art
+企鹅王|||Penguin King
+伊卡洛斯|||Icarus
+伊莉雅|||Illya
+伏笔|||Foreshadowing
+伏笔好深|||Deep Foreshadowing
+伏笔很多|||Lots of Foreshadowing
+伏笔流|||Foreshadowing
+伏笔流作者|||Foreshadowing Author
+伏筆多|||Foreshadowing
+伏筆太多|||Too Many Foreshadowings
+休闲|||Leisure
+优作潜力|||Potential Masterpiece
+优秀作品|||Excellent Work
+优美|||Graceful
+优雅的散文诗人|||Elegant Prose Poet
+会写的|||Can Write
+会卖萌的萝莉|||Flirty Lolita
+会支持|||Will Support
+会玩|||Knows How to Play
+会长|||President
+伟哥|||Viagra
+传奇萝莉|||Legendary Loli
+传统文化|||Traditional Culture
+传说|||Legend
+传说中的一日三更|||Legendary Three Updates a Day
+传说中的妹控文|||The Legendary Siscon Story
+传说之下|||Undertale
+传说神话|||Legendary Myths
+传颂之物|||Utawarerumono
+伤叹隽永|||Poignant and Enduring
+伦理|||Ethics
+伪|||Fake
+伪FGO|||Fake FGO
+伪伪娘|||Fake Trap
+伪后宫|||Pseudo-Harem
+伪型月|||Fake Type-Moon
+伪基风|||Fake BL Style
+伪大老师|||Fake Great Teacher
+伪娘|||Trap
+伪娘x性转娘|||Trap x Gender Bender Girl
+伪娘万岁|||Traps Banzai
+伪娘专业户|||Professional Trap
+伪娘什么的最有爱了|||Traps Are the Most Lovable
+伪娘出场|||Trap Appearance
+伪娘吗|||Trap?
+伪娘啊|||Trap
+伪娘复仇|||Trap Revenge
+伪娘女上男|||Trap Girl On Top
+伪娘奴隶|||Trap Slave
+伪娘我舔爆|||I Lick Traps Like Crazy
+伪娘是路人|||Trap Is a Background Character
+伪娘校花|||Trap School Belle
+伪娘男主|||Trap Male Lead
+伪娘的后宫|||Trap's Harem
+伪娘舔爆|||Trap Lick Explosion
+伪娘赛高|||Traps Are the Best
+伪性转|||Pseudo Gender Bender
+伪战斗|||Fake Battle
+伪推理|||Pseudo-Reasoning
+伪无敌|||Pseudo-Invincible
+伪无敌流|||Fake Invincible Genre
+伪日|||Fake Japan
+伪日常|||Pseudo Daily Life
+伪日常向|||Pseudo Slice of Life
+伪末世|||Fake Apocalypse
+伪正太|||Fake Shota
+伪男|||Fake Male
+伪男校霸|||Trap School Tyrant
+伪百合|||Pseudo-Yuri
+伪百合真后宫|||Fake Yuri True Harem
+伪科学|||Pseudoscience
+伪维新风|||Pseudo-Meiji Style
+伪群像|||Pseudo-Ensemble
+伪萝莉好可爱|||Fake Loli is Cute
+伪郎|||Fake Groom
+伪青梅与天降|||Fake Childhood Friend and Sudden Arrival
+伪魔法|||Fake Magic
+伯爵|||Count
+似乎无敌|||Seems Invincible
+似乎是傲娇|||Seems Tsundere
+似乎要黑|||Seems Like It's Going Dark
+似曾相识|||Feels Familiar
+似曾相识的名字|||Familiar Name
+似曾相识的感觉|||Familiar Feeling
+似科幻实玄幻|||Looks Sci-Fi, Actually Xuanhuan
+但后面就少了|||But It Gets Less Later
+但愿双方都能够幸福|||Hope Both Sides Can Be Happy
+低情商裝迫王|||Low EQ Forcing King
+低端黑|||Low-End Black
+低调|||Low Profile
+低调做事|||Low Profile Actions
+佐助|||Sasuke
+佐鸣友爱互助|||SasuNaru Friendship and Mutual Help
+何羽面子得给|||Must Give He Yu Face
+佛系作者|||Laid-back Author
+佛系更新|||Laid-back Updates
+佛系男主|||Laid-back Male Lead
+作业力|||Homework Power
+作品新颖|||Novel Work
+作家|||Author
+作家咸鱼日常|||Writer's Lazy Daily Life
+作死|||Courting Death
+作死大魔王|||Suicide Demon King
+作死方法大全|||Complete Guide to Seeking Death
+作死的作者|||Author Is Courting Death
+作死的男主角|||Suicidal Male Lead
+作死的神大人|||God-sama Who Courts Death
+作死神展开|||God-Level Death-Seeking Development
+作者666|||Author 666
+作者PY交易|||Author's PY Deal
+作者RBQ|||Author Is a Public Use Girl
+作者b站大神|||Author is Bilibili God
+作者jo厨|||Author Is Jo Chef
+作者op|||Author Is OP
+作者一日三更|||Author Updates Three Times a Day
+作者一米五|||Author Is 1.5 Meters
+作者不会女装|||Author Won't Crossdress
+作者不傲娇|||Author is Not Tsundere
+作者不女装|||Author Doesn't Crossdress
+作者不是妹子|||Author Is Not a Girl
+作者不是萝莉|||Author Is Not A Loli
+作者不污|||Author is Not Lewd
+作者不要节操|||Author Has No Integrity
+作者专业吐槽役|||Author Is Professional Straight Man
+作者个人自传|||Author Autobiography
+作者个小碧池|||Author is a Little Bitch
+作者中二严重|||Author Has Severe Chuunibyou
+作者也是姐姐|||Author Is Also A Big Sister
+作者亲身经历|||Author's Real Experience
+作者人才|||Talented Author
+作者人渣|||Scumbag Author
+作者人肉打字机|||Author Is a Human Typewriter
+作者伏笔狂魔|||Author Foreshadowing Maniac
+作者会玩|||Author Knows How to Play
+作者会画画|||Author Draws
+作者似变态|||Author Seems Perverted
+作者你算计我|||Author, You Schemed Against Me
+作者你逗我|||Author Are You Kidding Me
+作者便当狂魔|||Author is a Bento Maniac
+作者傲娇妹纸|||Author Is a Tsundere Girl
+作者全是控|||Author Has All the Complexes
+作者全身是肝|||Author Is All Liver
+作者加油|||Author Keep Going
+作者勤勉|||Diligent Author
+作者单身狗|||Author Is a Single Dog
+作者取名鬼才|||Author Is a Naming Genius
+作者另一人格|||Author's Other Personality
+作者叫灵儿|||Author Is Called Ling'er
+作者可搞基|||Author Can Be Gay
+作者可爱|||Author Is Cute
+作者可调戏|||Author Can Be Teased
+作者吃枣药丸|||Author Is Doomed
+作者吃萝莉|||Author Eats Lolis
+作者名字难受|||Author Name Is Uncomfortable
+作者和香菜有一腿|||Author Has Something With Kinako
+作者咕咕|||Author Is A Pigeon
+作者咕咕咕|||Author Is Cooing (Slacking)
+作者咕咕姬|||Author Is a Pigeon
+作者咸鱼|||Author Is a Slacker
+作者啪啪啪|||Author Goes "Pah Pah Pah"
+作者善良|||Kind Author
+作者喜欢女装|||Author Likes Crossdressing
+作者喜歡龍|||Author Likes Dragons
+作者复活|||Author Revived
+作者大佬|||Author Is a Bigshot
+作者大变态|||Author Is a Huge Pervert
+作者大大加油|||Author Please Keep Going
+作者大屌萌妹|||Author Is Big Dick Cute Girl
+作者大屌萝莉|||Author Is Big-Dick Loli
+作者大雕萌妹|||Author Is A Big-Dick Cute Girl
+作者太短了|||Author is Too Short
+作者奇葩|||Weird Author
+作者女装|||Author Crossdresses
+作者女装大佬|||Author Is Femboy
+作者女装援交|||Author Crossdresses for Prostitution
+作者女装真棒|||Author Crossdressing Is Great
+作者女装萝莉|||Author is Trap Loli
+作者好久女装|||Author Hasn't Crossdressed in a While
+作者好功力|||Author Has Great Skill
+作者好多水呀|||Author Has So Much Filler
+作者好欠抽|||Author Really Deserves A Beating
+作者妹控|||Author Is a Siscon
+作者姓氏很H啊|||Author's Surname Is Very H
+作者存在感缺失|||Author Lacks Presence
+作者学生|||Author Is a Student
+作者学生党|||Author is a Student
+作者小可爱|||Cute Author
+作者小萝莉|||Author is Little Loli
+作者巨乳|||Author Has Huge Breasts
+作者巨乳萝莉|||Author Is Big-Breasted Loli
+作者已埋系列|||Author Has Been Buried Series
+作者弃书了|||Author Dropped the Book
+作者弱受|||Author Is a Bottom
+作者很努力|||Author Works Hard
+作者很勤奋|||Author Is Very Diligent
+作者很可爱|||Author Is Very Cute
+作者很寂寞|||Author Is Lonely
+作者很帅|||Author Is Very Handsome
+作者很懒|||Author Is Very Lazy
+作者很熟练|||Author is Very Skilled
+作者很狂|||Author Is Very Arrogant
+作者很瑟琴|||Author Is Very Lewd
+作者很短|||Author Is Very Short
+作者很骚|||Author Is Lewd
+作者御姐控|||Author is Onee-san Con
+作者德国骨科|||Author Is Into German Orthopedics
+作者心超黑|||Author Has a Very Dark Heart
+作者必是萝莉|||Author Must Be a Loli
+作者快去女装|||Author Go Wear Women's Clothes
+作者快更|||Author Update Faster
+作者快更新|||Author Update Faster
+作者快点更新|||Author Update Faster
+作者怀孕梦想|||Author's Pregnancy Dream
+作者想签约|||Author Wants a Contract
+作者慢热|||Slow Starting Author
+作者懒|||Author Is Lazy
+作者懒癌|||Author Has Lazy Cancer
+作者懒癌晚期|||Author Has Terminal Laziness
+作者我出櫃|||Author Coming Out
+作者我单机|||Author I'm Single Player
+作者我看好你哦|||Author, I Believe In You
+作者戒色狗|||Author Is A Celibate Dog
+作者打脸上瘾|||Author Addicted to Face-Slapping
+作者抖M|||Author is Masochist
+作者报社|||Author Is Burned Out
+作者按时更新|||Author Updates On Time
+作者挖大坑|||Author Dug a Huge Pit
+作者控自己|||Author Controls Himself
+作者搞事|||Author Causes Trouble
+作者文学少女|||Author Is Literary Girl
+作者文笔好|||Author Has Great Writing
+作者无节操|||Author Has No Shame
+作者是GAY|||Author Is Gay
+作者是RBQ|||Author is RBQ
+作者是gay|||Author Is Gay
+作者是m|||Author Is M
+作者是rbq|||Author Is a Public Use Girl
+作者是个受|||Author Is a Bottom
+作者是个变态|||Author is a Pervert
+作者是个坑啊|||Author Is a Pit
+作者是个绅士|||Author is a Gentleman
+作者是个萝莉|||Author Is A Loli
+作者是人渣|||Author is Scum
+作者是人生淫家|||Author Is a Lewd Life Master
+作者是伪娘|||Author Is Trap
+作者是傻娜娜|||Author Is Silly Nana
+作者是北极狐|||Author is Arctic Fox
+作者是受|||Author is Bottom
+作者是只萝莉|||Author Is a Loli
+作者是可以的|||Author Is Capable
+作者是咸鱼|||Author Is a Salty Fish
+作者是喵|||Author Is A Cat
+作者是基佬|||Author Is Gay
+作者是大佬|||Author Is a Bigshot
+作者是大家的|||Author Belongs To Everyone
+作者是女孩吗|||Is the Author a Girl?
+作者是女孩子|||Author Is Girl
+作者是女孩纸|||Author is a Girl
+作者是女神|||Author Is a Goddess
+作者是妹子|||Author Is Girl
+作者是妹子i|||Author Is A Girl i
+作者是妹控|||Author Is a Siscon
+作者是学生|||Author Is a Student
+作者是富萝莉|||Author Is Rich Loli
+作者是小可爱|||Author Is a Little Cutie
+作者是小姐姐|||Author Is Young Lady
+作者是小孩|||Author Is a Child
+作者是小萝莉|||Author Is Little Loli
+作者是巨乳|||Author Has Huge Breasts
+作者是幼女萝|||Author Is a Young Girl Loli
+作者是广东人|||Author is from Guangdong
+作者是弱受|||Author Is a Weak Bottom
+作者是懒人|||Author Is Lazy
+作者是我太太|||Author Is My Wife
+作者是我姐姐|||Author is My Big Sister
+作者是我媳妇|||Author Is My Wife
+作者是扶她|||Author is Futanari
+作者是柜柜|||Author is Closet
+作者是死军宅|||Author is a Dead Military Otaku
+作者是渣男|||Author Is a Scumbag Guy
+作者是狐娘|||Author is Fox Girl
+作者是猛男|||Author Is a Macho Man
+作者是猫|||Author Is a Cat
+作者是猫娘|||Author Is A Cat Girl
+作者是猫耳萝|||Author is Cat-Ear Loli
+作者是画师|||Author Is an Artist
+作者是直男|||Author Is Straight
+作者是秃子|||Author Is Bald
+作者是穹妹|||Author Is Sora's Sister
+作者是笨蛋|||Author Is An Idiot
+作者是绅士|||Author is Gentleman
+作者是美女控|||Author Is a Beauty Con
+作者是美少女|||Author Is a Beautiful Girl
+作者是老司姬|||Author Is an Old Driver
+作者是萌妹|||Author Is Cute Girl
+作者是萌妹子|||Author Is A Cute Girl
+作者是萌点|||Author Is the Moe Point
+作者是萝莉|||Author Is Loli
+作者是萝莉控|||Author Is Lolicon
+作者是蕾尼|||Author Is Lainey
+作者是蠢萝莉|||Author Is Silly Loli
+作者是诗人|||Author Is a Poet
+作者是贫乳|||Author Is Flat-Chested
+作者是软萝莉|||Author Is A Soft Loli
+作者是高冷女|||Author Is A Cool Beauty
+作者是鸽子|||Author Is a Pigeon
+作者是鸽子精|||Author is a Pigeon Spirit
+作者更可爱|||Author Is Even Cuter
+作者更新慢|||Author Updates Slowly
+作者更新超快|||Author Updates Super Fast
+作者最可爱了|||Author Is The Cutest
+作者有大屌|||Author Has Big Dick
+作者有女粉群|||Author Has Female Fan Group
+作者有巨雕|||Author Has Huge Dick
+作者有毒|||Author Is Toxic
+作者桑其实喜欢搞基|||Author-san Actually Likes BL
+作者梗王|||Author Is The King Of Memes
+作者棒棒哒|||Author is Great
+作者死妹控|||Author Is A Diehard Siscon
+作者死马玩意|||Author Dead Horse Thing
+作者求喷|||Author Begs for Criticism
+作者求调戏|||Author Begs For Teasing
+作者沒說|||Author Didn't Say
+作者沙雕|||Author Is a Meme
+作者没人爱|||Author Is Unloved
+作者没节操|||Author Has No Integrity
+作者热爱女装|||Author Loves Crossdressing
+作者爆肝|||Author Is Overworking
+作者爱作死|||Author Loves Seeking Death
+作者爱女装|||Author Loves Crossdressing
+作者狗娘养的|||Author Is a Son of a Bitch
+作者玩梗鬼才|||Author Is A Meme Genius
+作者现充|||Author Is A Normie
+作者用心|||Author Puts In Heart
+作者疯了|||Author Has Gone Mad
+作者病娇控|||Author is Yandere Con
+作者白丝控|||Author is a White Silk Fetishist
+作者百合萝莉|||Author Is Yuri Loli
+作者皮|||Author Is Cheeky
+作者皮上天|||Author Is Extremely Cheeky
+作者真心扶她|||Author Truly Loves Futanari
+作者真的皮|||Author Is Really Cheeky
+作者短小|||Author Short
+作者短小无力|||Author Is Short and Weak
+作者码字机器|||Author Typing Machine
+作者神级套路|||Author's Godly Routines
+作者科普君|||Author Is Science Popularizer
+作者稳如狗|||Author Steady as a Dog
+作者究极现充|||Author Is Ultimate Normie
+作者精分|||Author Has Split Personality
+作者精壮萝莉|||Author Is Strong Loli
+作者精神分裂|||Author Has Split Personality
+作者系怪阿姨|||Author is a Weird Auntie
+作者系美少女|||Author Is a Beautiful Girl
+作者素质低下|||Author Has Low Quality
+作者纯洁|||Author Is Pure
+作者经常女装|||Author Frequently Crossdresses
+作者经常援交|||Author Often Prostitutes
+作者老司姬|||Author Is an Old Driver
+作者老司机|||Author Is Veteran
+作者肾不好|||Author Has Weak Kidneys
+作者脑洞大|||Author Has Huge Imagination
+作者脑洞贼大|||Author Has Huge Imagination
+作者腹黑|||Author Is Black-Bellied
+作者自传|||Author Autobiography
+作者自嗨|||Author Self-Indulgent
+作者萌哒哒|||Author is Super Cute
+作者萌妹子|||Author is Cute Girl
+作者萝莉|||Loli Author
+作者萝莉控|||Author Is Lolicon
+作者萝莉谢谢|||Author is Loli, Thanks
+作者蠢萝莉|||Author Is Silly Loli
+作者被迫女装|||Author Forced to Crossdress
+作者装萌新|||Author Pretending to Be Newbie
+作者要哭了|||Author is About to Cry
+作者觉有前途|||Author Thinks It Has Potential
+作者說百合|||Author Says It's Yuri
+作者诈尸了|||Author Came Back From The Dead
+作者试图上天|||Author Tries to Reach the Heavens
+作者话不能信|||Don't Trust Author's Words
+作者说不嫁|||Author Says Won't Marry
+作者说百合|||Author Says Yuri
+作者说要女装|||Author Says Wants To Crossdress
+作者请多多努力|||Author Please Work Harder
+作者起名鬼才|||Author Is a Naming Genius
+作者超便宜|||Author Is Super Cheap
+作者超可爱|||Author Is Super Cute
+作者超甜|||Super Sweet Author
+作者超级萌|||Author Is Super Adorable
+作者身娇|||Delicate Author
+作者软萌萝莉|||Author Is Soft And Cute Loli
+作者还不女装|||Author Still Won't Crossdress
+作者逐渐变态|||Author Gradually Becomes Perverted
+作者野心很大|||Author Has Big Ambitions
+作者错字受|||Author's Typos Suffer
+作者长发控|||Author Is a Long-Hair Fetishist
+作者非常可口|||Author Is Very Delicious
+作者骇人|||Author Is Terrifying
+作者高产|||Prolific Author
+作者鬼才|||Author Is a Genius
+你一定能成功惹|||You Will Definitely Succeed
+你下的好大的一盘棋啊|||What a Huge Chess Game You Set
+你不是主角|||You're Not the Protagonist
+你们不懂这书的魅力|||You Don't Understand This Book's Charm
+你却想要泡我|||But You Want to Court Me
+你却把我当爹|||But You See Me As Dad
+你好sao啊|||You're So Lewd
+你妈没复活甲|||Your Mom Has No Revival Armor
+你我嫁不嫁人|||Will You Marry Me
+你的日记|||Your Diary
+你瞎凑屁热闹|||Why Are You Butting In
+你确认这是爱情类|||You Sure This Is Romance
+你老虚吗|||Are You Lao Xu?
+你能不托更吗|||Can You Stop Delaying Updates
+你要信我|||You Must Believe Me
+佣兵|||Mercenary
+佩服|||Admire
+佩服作者想象力|||Admire Author's Imagination
+佳作|||Excellent Work
+使命召唤|||Call of Duty
+使魔|||Familiar
+依恋|||Attachment
+便当|||Bento
+便当无数|||Countless Death Flags
+便當多|||Many Bento (Deaths)
+俊男美女|||Handsome Men and Beautiful Women
+保持沉默|||Keep Silent
+保留|||Reserved
+信仰|||Faith
+俩百斤巨乳|||Two-Hundred-Pound Huge Breasts
 修仙|||Cultivation
+修仙五等分|||Cultivation Quintuplets
+修仙流|||Cultivation Stream
+修士|||Cultivator
+修炼|||Cultivation
+修炼爱情|||Cultivating Love
+修炼达人|||Cultivation Expert
+修真|||Cultivation
+修真界|||Cultivation World
 修罗场|||Love Triangle Drama
+修罗场预定|||Harem Conflict Incoming
+修羅|||Asura
+修羅場|||Carnage Field
+俺寻思|||I Think
+俺是来催更了滴|||I’m Here to Urge Updates
+倒贴|||Throws Herself at Him
 倒追|||Reverse Chase
+倒霉男主|||Unlucky Male Protagonist
+借给我力量吧|||Lend Me Your Power
+值得一看|||Worth Reading
+值得回味|||Memorable
+值得期待|||Worth Anticipating
+值得肯定o|||Worth Praising
+假主題|||Fake Theme
+假努力真无敌|||Fake Effort Real Invincibility
+假后宫|||Fake Harem
+假性转|||Fake Gender Bender
+假扮情侣|||Fake Couple
+假无敌流|||Fake OP
+假无敵|||Fake Invincible
+假無敵|||Fake Invincible
+假的|||Fake
+假的东京食种|||Fake Tokyo Ghoul
+假的假的|||Fake Fake
+假的怪物猎人|||Fake Monster Hunter
+假科幻|||Fake Sci-Fi
+假装有个印象|||Pretending to Have an Impression
+假装逼|||Fake Showing Off
+假面一号|||Kamen Rider No.1
+假面入三蹦子|||Masked Honkai Impact
 假面骑士|||Kamen Rider
+假面骑士RX|||Kamen Rider RX
+偉大的概念|||Great Concept
+偏严肃向|||Slightly Serious Tone
+偏剧情向|||Plot-Oriented
+偏故事|||Story-Focused
+偏硬核|||Slightly Hardcore
+做作而自恋|||Pretentious and Narcissistic
+做梦|||Dreaming
+偶尔开车|||Occasional Lewdness
+偶尔玩梗|||Occasionally Trolls
+偶尔致郁|||Occasionally Depressing
+偷就完事了|||Just Steal It
+偽娘|||Trap
+傀儡师|||Puppeteer
+傀儡略屌|||Puppet Is Kinda Awesome
+催人泪下|||Brings Tears to Eyes
+催更|||Begging For Updates
+催泪|||Tearjerker
+催泪弹|||Tearjerker
+傲娇|||Tsundere
+傲娇兄控|||Tsundere Siscon
+傲娇公主|||Tsundere Princess
+傲娇吗|||Is It Tsundere?
+傲娇太棒啦|||Tsundere Is Awesome
+傲娇女主|||Tsundere Female Lead
+傲娇妹妹|||Tsundere Sister
+傲娇心累|||Tsundere Is Tired
+傲娇控|||Tsundere Control
+傲娇男主|||Tsundere Male Lead
+傲娇赛高|||Tsundere Is the Best
+傲娇魔王|||Tsundere Demon King
+傲嬌女主|||Tsundere Heroine
+傲雪萌血|||Proud Snow Cute Blood
+傻傻的神大人|||Silly God
+傻娜娜|||Silly Nana
+傻白甜的徒儿|||Naive Sweet Disciple
+傻逼|||Idiot
+傻逼作者|||Idiot Author
+傻逼才看|||Only Idiots Read It
+僵尸|||Zombie
+僵尸也很忙|||Zombie is Busy
+儿童读物|||Children’s Reading Material
+元气弹|||Spirit Bomb
+元首|||Führer
 兄妹|||Siblings
+兄妹0|||Brother and Sister 0
+兄妹丼|||Brother-Sister Bowl
+兄妹日常|||Brother-Sister Daily Life
+兄妹赛高|||Brother-Sister Best
+兄嫁|||Brother’s Bride
+兄弟情|||Brotherly Bond
+兄控|||Brother Complex
+兄控与妹控|||Brocon And Siscon
+兄控妹妹|||Brocon Sister
+兄控才是赛高|||Brocon Is the Best
+兄控无误|||Brother Complex Confirmed
+兄控萝莉|||Brother-Complex Loli
+兄控落泪|||Brother-Complex in Tears
+充满常识|||Full of Common Sense
+充满诗意|||Full of Poetry
+充电器|||Charger
+先不给印象|||No First Impression Yet
+先苦后甜|||Bitter Then Sweet
+先苦后甜死你|||Bitter Then Sweet Till You Die
+光明圣女|||Holy Saintess
+光环啊|||Aura
+光看简介就想给满分|||Want to Give Full Marks From Synopsis Alone
+光辉是我老婆|||Glory Is My Wife
+克洛伊|||Chloe
+克系元素|||Cthulhu Elements
 克苏鲁|||Cthulhu
+克苏鲁万岁|||Cthulhu Forever
+克苏鲁神话|||Cthulhu Mythos
+克苏鲁风格|||Cthulhu Style
+兔兔|||Bunny
+兔子|||Rabbit
+兔耳朵加油|||Rabbit Ears Keep Going
+入间人间|||Iruma Human
+內心戲偽|||Fake Inner Monologue
+全力塑造妹纸|||Fully Shaping The Girls
+全员伪娘|||Everyone Is a Trap
+全员女装|||Everyone is Crossdressing
+全员好人|||Everyone Is A Good Person
+全员思想迪化|||Everyone's Mind Is Degenerating
+全员恶人|||Everyone Is Villain
+全员沙雕|||Everyone Is a Goof
+全员迪化|||Everyone Is Brainwashed
+全员阴谋家|||Everyone Is a Schemer
+全属性萌妹|||All-Attribute Cute Girls
+全息游戏|||Holographic Game
+全收预定|||All Capture Planned
+全是槽点|||Full Of Complaints
+全是水|||All Filler
+全是理科梗|||All Science Jokes
+全校参战|||Whole School Joins The Fight
+全程伏笔|||Foreshadowing Throughout
+全程发糖|||Constant Sugar
+全程无尿点|||No Boring Moments Throughout
+全程无敌|||Invincible Throughout
+全程高甜|||Full Course High Sweetness
+全网最惨烈|||Most Tragic On The Whole Internet
+全能男主|||All-Rounder Male Lead
+全都要|||Want Them All
+全金属狂潮|||Full Metal Panic
+全面分类|||Comprehensive Classification
+全题材集合|||All Genres Collection
+兩個男主|||Two Male Leads
+兩個靈魂|||Two Souls
+八极拳|||Bajiquan
+公主|||Princess
+公主三姐妹|||Three Princess Sisters
+公主侍卫|||Princess Guard
+公主好可爱|||Princess Is So Cute
+公主好评|||Princess Praise
+公主殿下|||Princess
+公主皇子|||Princess Prince
+六分有点难堪|||Six Points Is a Bit Embarrassing
+六号精神病院研究记录|||No.6 Mental Hospital Research Records
+六月嫁士道|||June Marries Shidou
+六等分花嫁|||Six Brides
+兰博|||Rambo
+兰斯|||Rance
+兲哥写的就是垃圾|||Tian Ge Writes Trash
+关系复杂|||Complicated Relationships
+关键雄起|||Key Moment Erection
+兴奋|||Exciting
 其他|||Other
+其实不算恐怖|||Actually Not Scary
+其实已经接受|||Already Accepted It
+其实是后宫|||Actually a Harem
+其实没有推理|||Actually No Deduction
+其实蛮好看啦|||Actually Quite Good Looking
+其实这是百合|||Actually It's Yuri
+典型的中二小说|||Typical Chuuni Novel
+养小萝莉|||Raising Little Loli
 养成|||Raising/Training
+养成失败|||Raising Failed
+养成小丹妖|||Raising Little Dan Yao
+养成少女|||Raising A Girl
+养肥了再看系列|||Fatten Up Before Reading Series
+养肥再看|||Read After Stockpiling
+兽人|||Beastmen
+兽娘|||Beast Girl
+兽娘在哪里|||Where Are the Beast Girls
+兽娘大爱|||Kemono Friends Love
+兽耳|||Animal Ears
+兽耳娘|||Kemonomimi
+兽耳娘赛高|||Animal Ear Girls Are the Best
+兽耳控必看|||Beast Ear Fans Must Read
+兽耳萌妹子|||Animal Ear Cute Girl
+兽耳萝莉|||Animal-Ear Loli
+内存啊|||Memory Ah
+内容不错|||Good Content
+内容丰富饱满|||Rich and Full Content
+内容吸引人|||Content Is Attractive
+内容夸张扯淡|||Exaggerated and Ridiculous Content
+内容好看|||Good Content
+内容引人入胜|||Captivating Content
+内容稳健|||Content Is Solid
+内容骚得有趣|||Lewd and Fun Content
+内心基佬化|||Inner Gay Awakening
+内涵|||Deep Meaning
+内附作者女装|||Includes Author's Crossdressing
+再不行就兩槍|||Two Shots If It Doesn't Work
+再世龙族|||Reborn Dragon Race
+再嫁一次|||Marry Again
+再接再厉|||Keep Up the Good Work
 冒险|||Adventure
+冒险家|||Adventurer
+冒险微百合|||Adventure Light Yuri
+冒险日常故事|||Adventure Daily Life Story
 冒险类|||Adventure-type
+冒险者|||Adventurer
+冒險|||Adventure
+写实|||Realistic
+写实派|||Realistic Style
+写得不错|||Well Written
+写得不错嗯|||Well Written
+写得不错赞一个|||Well Written, One Like
+写得好|||Well Written
+写得很不错|||Very Well Written
+写得很好|||Very Well Written
+写手主角|||Writer Protagonist
+写法意境不错|||Writing Style and Artistic Conception Are Good
+写的不错|||Well Written
+写的不错啊文艺青年|||Well Written, Literary Youth
+写的不错支持一下|||Well Written, Supporting
+写的不错要加油|||Well Written, Keep It Up
+写的也不错|||Also Well Written
+写的值得期待|||Worth Anticipating
+写的内容很新鲜|||Fresh Content
+写的太好了|||Written So Well
+写的好有很多借鉴的文|||Well Written, Many Reference Works
+写的好继续加油吧|||Well Written, Keep It Up
+写的比第一本好|||Written Better Than the First Book
+写的烂|||Badly Written
+写的真好|||Really Well Written
+写的超赞|||Extremely Well Written
+军争|||Military Struggle
 军事|||Military
+军宅|||Military Otaku
+军宅呵呵|||Military Otaku Hehe
+军旅|||Military
+军火大师|||Arms Master
+冥夜|||Nether Night
+冰冻香蕉皮|||Frozen Banana Peel
+冰果系|||Hyoka-style
+冰森的rbq|||Bing Sen's RBQ
+冰精灵|||Ice Spirit
+冲击传统秩序|||Challenging Traditional Order
+决定结局的人|||The One Who Decides the Ending
+冷派战斗风格|||Cold Fighting Style
+冷漠妹妹|||Indifferent Younger Sister
+冷漠男主|||Indifferent MC
+冷酷男主|||Cold Male Lead
+冷门|||Obscure
+冷门佳作|||Underrated Gem
+冷门毒番|||Obscure Poisonous Work
+冷门神作|||Underrated Masterpiece
+冷静装大逼|||Calmly Acting Cool
+净扯淡|||Pure Nonsense
+凄美童话|||Tragic Beautiful Fairy Tale
+准备开挂节奏|||Preparing To Cheat Pace
+凡哥敢艹虎|||Brother Fan Dares to Fuck a Tiger
 凤傲天|||Mary Sue
+出人意料|||Unexpected
+出场满级系列|||Max Level from Start
+出奇制勝|||Winning Unexpectedly
+刀剑神域|||Sword Art Online
+刀剑视感|||Sword Art Visual Feel
 刀客塔|||Arknights
+刀才是本命|||Knives Are True Love
+分支多样|||Diverse Branches
 分支小说|||Branching Novel
+分歧情境|||Divergent Situation
+分歧情境小说|||Divergent Situation Novel
+分裂学习|||Split Learning
+划水|||Slacking
+刚好是喜欢类型|||Exactly My Favorite Type
+刚开始起步|||Just Starting
+创造新世界|||Creating A New World
+初音|||Hatsune
+別懷疑女的|||Don’t Doubt It’s a Girl
+别人家的晾衣杆|||Someone Else's Clothesline
+别人的后宫|||Someone Else's Harem
+别人的设定|||Someone Else's Setting
+到处BUG|||Bugs Everywhere
+到处撒狗粮|||Dog Food Everywhere
+到底什么类型|||What Genre Is This Exactly
+到底什么风格|||What Style Is It Exactly
+到底谁是女主|||Who Exactly Is the Female Lead
+制造人类|||Creating Humans
+刷本人生|||Dungeon-Clearing Life
+刷票好凶残|||Voting Is Brutal
+刺客|||Assassin
+刺客信条|||Assassin's Creed
+刺客系统|||Assassin System
+刻印术|||Engraving Magic
+前世今生|||Past and Present Life
+前世的自己|||Previous Life Self
+前养成后至强|||Raise First Then Become Strongest
+前女友是主角|||Ex-Girlfriend Is The Protagonist
+前年寻你|||Searching for You Years Ago
+前摇极长|||Extremely Long Foreplay
+前方傲嬌了|||Tsundere Ahead
+前方高甜|||High Sugar Ahead
+前期微抄|||Slight Plagiarism in Early Chapters
+前期恋爱|||Early Romance
+前期难受|||Painful Early Stages
+前期鬼剧情|||Early Ghost Plot
+前辈|||Senpai
+前面是谁弄的|||Who Wrote the Earlier Part
+剑|||Sword
+剑与魔法|||Sword and Magic
+剑仙|||Sword Immortal
+剑圣|||Sword Saint
+剑姬君要加油咯|||Sword Princess, Keep It Up
+剑姬称霸异世|||Sword Princess Dominates Another World
+剑客|||Swordsman
+剑灵|||Sword Spirit
+剑神|||Sword God
+剑网三|||Jian Wang 3
+剧情|||Plot
+剧情不错|||Good Plot
+剧情党|||Plot-Focused Readers
+剧情厉害|||Great Plot
+剧情反转|||Plot Twist
+剧情变化莫测|||Unpredictable Plot
+剧情向|||Plot Focused
+剧情向王道|||Plot-Oriented Royal Road
+剧情哪门子搞笑了|||How Is This Plot Funny?
+剧情大作|||Epic Plot
+剧情大片|||Blockbuster Plot
+剧情太快了|||Plot Too Fast
+剧情好|||Good Plot
+剧情好变态|||Plot Is So Perverted
+剧情好棒|||Plot is Great
+剧情意外精彩|||Plot Surprisingly Good
+剧情意想不到|||Plot Is Unexpected
+剧情慢热|||Slow-Burning Plot
+剧情把握|||Plot Control
+剧情拖延|||Plot Dragging
+剧情挺不错的|||Plot Is Quite Good
+剧情文|||Plot-Driven Story
+剧情暴走|||Plot Goes Wild
+剧情有意思|||Interesting Plot
+剧情有趣|||Interesting Plot
+剧情求给力|||Plot Please Be Strong
+剧情流|||Plot Oriented
+剧情炸裂|||Plot Explosion
+剧情神展开|||Plot Godly Development
+剧情神转折|||Plot Twist
+剧情简直了|||The Plot Is Just...
+剧情类|||Plot Focused
+剧情精彩|||Exciting Plot
+剧情紧凑|||Tight Plot
+剧情绝赞|||Plot Is Excellent
+剧情脱节|||Plot Disconnected
+剧情至上|||Plot Above All
+剧情虐心|||Heart-Wrenching Plot
+剧情赞|||Plot is Great
+剧情超赞的呀|||Plot is Super Amazing
+剧本|||Script
+剧本风格|||Script Style
+剧毒|||Highly Addictive
+剧组很穷|||Crew Is Poor
+副本|||Dungeon
+劇情向|||Plot Oriented
+劇情很棒|||Plot Is Great
+劇情還不錯|||Plot Is Pretty Good
+劍X魔我最強|||Sword x Demon, I'm the Strongest
+力顶|||Strongly Recommend
+功夫|||Kung Fu
+功底扎实|||Solid Foundation
+加冕为王|||Crowned King
+加快更新吧|||Update Faster
+加油|||Keep It Up
+加油加油|||Go Go
+加油吧|||Keep Going
+加油吧中二少女啊|||Go For It, Chuuni Girl
+加油吧美奈酱|||Keep Going, Minai-chan
+加油哦|||Keep Going
+加油哦房东桑|||Go For It Landlord-san
+加油喵|||Keep Going Meow
+加油奥力给|||Go For It, All Give
+加油很有趣|||Go For It, Very Interesting
+加油撒|||Keep Going
+加油更新啊|||Keep Updating
+加油期待|||Good Luck, Looking Forward
+加油能给的都给了|||Gave Everything I Could
+加藤鹰之手|||Kato Taka's Hand
+加藤鹰之指|||Kato Taka's Finger
+加速更|||Speed Up Updates
+加速更新|||Accelerate Updates
+动人|||Moving
+动作感|||Action Feel
+动漫级享受|||Anime-Level Enjoyment
+动漫风|||Anime Style
+动物|||Animals
+动画化|||Animated
+努力|||Hardworking
+努力变强|||Working Hard To Become Strong
+励志|||Inspirational
+励志成长|||Inspirational Growth
+励志轻虐向|||Motivational Light Abuse
 勇者|||Hero
+勇者冒险|||Hero Adventure
+勇者妈妈|||Hero's Mother
+勇者很顽强|||Hero Is Very Tenacious
+勇者成为魔王后开后宫|||Hero Becomes Demon King Then Builds Harem
+勇者是妹子|||Hero Is a Girl
+勇者的儿子|||Hero's Son
+勇者脑子有坑|||Hero Has A Hole In His Brain
+勇者萝莉控|||Hero is Loli Con
+勇者魔王|||Hero and Demon King
+勉强算后宫|||Barely Counts as Harem
+勤劳的作者|||Hardworking Author
+勤奋的夜喵子|||Diligent Night Cat
+勾魂使|||Soul Reaper
+包养|||Sugar Mommy
+包罗万有|||All-Encompassing
+匕首了解一下|||Dagger, Wanna Know?
+化学大佬|||Chemistry Expert
+化敌为妻|||Enemy To Wife
+北欧神话|||Norse Mythology
+医学文|||Medical Novel
 医生|||Doctor
+医生加油|||Doctor, Keep Going
+十分你当之无愧|||You Fully Deserve It
+十分好看|||Very Good Looking
+十分强大|||Very Powerful
+十分有趣|||Very Interesting
+十分期待|||Highly Anticipated
+十坑九弃|||Nine Out of Ten Pits Abandoned
+十天一后宫|||Harem Every Ten Days
+十步杀一人|||Kill One Every Ten Steps
+千古神作|||Eternal God-Tier Work
+千古第一帝|||Eternal First Emperor
+千年更一回|||Updates Once Every Millennium
+千月出品|||Qianyue Production
+千金|||Rich Young Lady
 升级|||Level Up
+升级流|||Leveling-Up Style
+半人马|||Centaur
+半失落的文明|||Half-Lost Civilization
+半性转|||Half Gender Bender
+半推理|||Semi-Detective
+半无敌|||Semi-Invincible
+半无敌流|||Semi-Invincible Genre
+半爽文|||Semi-Feel-Good Novel
+半糖半虐|||Half Sweet Half Abuse
+半纯爱|||Semi-Pure Love
+华丽|||Gorgeous
+卑微男主|||Humble Male Lead
+单偏百|||Single Bias Yuri
+单元剧|||Episodic
 单女主|||Single Heroine
+单杀飞科|||Solo Kill Faker
+单灵魂双肉体|||One Soul Two Bodies
+单纯的喜欢|||Pure Affection
+单细胞|||Single Cell
 单身|||Single
+单身人士谴责|||Singles Condemn This
+单身魔王|||Single Demon King
+卖肉|||Ecchi
+卖萌|||Acting Cute
+卖萌勇者|||Moe Hero
+博士|||Doctor
+卡俄斯|||Chaos
 卡牌|||Card Game
+卡牌大师|||Card Master
+卡面来打|||Kamen Rider
 卧底|||Undercover
+卧槽|||Holy Shit
+卧槽封面泰坦陨落|||Holy Shit, Titanfall Cover
+印法流风格|||Seal Law Genre Style
+印象很好|||Very Good Impression
+印象很好抽啊云南烟|||Very Good Impression, Smoking Yunnan Cigarettes
 历史|||History
+厉害|||Awesome
+厉害了老司姬|||Amazing Old Driver
+厉害的神大人|||Awesome God-sama
+压抑|||Depressing
+厕所playGJ|||Toilet Play GJ
+厚重|||Heavy and Profound
+厚颜无耻|||Shameless
+原作崩坏|||Original Work Collapsed
+原创|||Original
+原创世界观|||Original Worldview
+原创女奥|||Original Female Ultraman
+原创封面好评|||Original Cover Is Good
+原创插画|||Original Illustrations
+原来不是耽美|||Turns Out Not BL
+原来是轻推理|||Turns Out It's Light Mystery
+厨神|||God of Cooking
+去死|||Go Die
+又一神作|||Another God-Tier Work
+又一隐世神书|||Another Hidden Masterpiece
+又开坑|||Opened Another Pit
+又找到|||Found Again
+又是一个大坑|||Another Huge Pit
+又是一個RPG|||Another RPG
+又是一部妹控作品|||Another Siscon Work
+又是开挂男主|||Another Cheating MC
+又是慢热类型的|||Another Slow Burn Type
+友情|||Friendship
+双主线|||Dual Main Plotlines
+双主角|||Dual Protagonists
+双人格|||Dual Personality
+双修|||Dual Cultivation
+双刀流|||Dual Blades
+双刀狗战个痛|||Dual Blade Dog Fight Hard
+双变|||Double Transformation
+双女主|||Two Female Leads
+双子|||Twins
+双子世界|||Twin Worlds
+双御姐|||Two Onee-sans
+双性转|||Double Gender Bender
+双生酱赛高|||Twin-Chan Is the Best
+双男主|||Two Male Leads
+双男主日常友善互黑|||Dual Male Leads Daily Friendly Mutual Roasting
+双線|||Dual Lines
+双线|||Dual Storyline
+双线叙述|||Dual Narrative
+双胞胎兄妹|||Twin Brother and Sister
+双胞胎女仆|||Twin Maids
+双身|||Two Bodies
+双身份大佬|||Dual Identity Bigshot
+双重人格|||Dual Personality
+双重人生|||Double Life
+双重开挂|||Double Cheat
+双重开挂系列|||Double Cheat Series
+双重性格|||Dual Personality
+双重性转|||Double Gender Bender
+双重能力|||Dual Abilities
+双重身份|||Dual Identity
+双面娇娃|||Two-Faced Beauty
+双魂|||Twin Souls
+反乌托邦|||Dystopia
+反乌托邦作品|||Dystopian Work
+反后宫|||Anti-Harem
+反向变嫁|||Reverse Genderbend Marriage
+反套路|||Anti-Cliché
+反差哲学|||Gap Moe Philosophy
+反差萌|||Gap Moe
+反思|||Reflection
+反战|||Anti-War
+反战题材|||Anti-War Theme
+反攻略|||Counter Strategy
+反机甲|||Anti-Mech
+反正不是皇上|||Definitely Not an Emperor
+反正我喜欢|||Anyway I Like It
 反派|||Villain
+反派主角|||Villain Protagonist
+反派女主角|||Villainess Female Protagonist
+反派妹妹|||Villainess Little Sister
+反派并非坏人|||Villains Are Not Bad People
+反派男主|||Villain MC
+反派真主角|||Villain Is the Real Protagonist
+反派萌系列|||Cute Villain Series
+反甲9999|||Reflect Armor 9999
+反英雄|||Antihero
+反转|||Reversal
+发糖|||Sugar
+受|||Bottom
+受刺激|||Stimulated
+受孕play|||Impregnation Play
+变boss|||Become Boss
+变妹子吧|||Turn Into a Girl
+变妹子啦|||Became a Girl
+变娘也变强|||Becomes Girl and Stronger
+变嫁|||Gender Bender Marriage
+变嫁万岁|||Gender Bender Marriage Long Live
+变嫁个鬼啊|||Gender Bender My Ass
+变嫁小说|||Gender Bender Marriage Novel
+变嫁文|||Gender Bender Marriage Story
+变嫁文学|||Gender Bender Marriage
+变异|||Mutation
+变异体|||Mutant
+变态|||Pervert
+变态们的故事|||Pervert's Story
+变态作者|||Perverted Author
+变态前女友|||Perverted Ex-Girlfriend
+变态娜娜|||Perverted Nana
+变态就是正义|||Perverted Is Justice
+变态男主|||Perverted Male Lead
+变态神使|||Perverted God Emissary
+变态级强者|||Perverted Level Powerhouse
+变态绅士|||Perverted Gentleman
+变态胃系列|||Perverted Stomach Series
+变性|||Sex Change
+变成剑|||Turned Into a Sword
+变男变女|||Gender Swap
+变百|||MTF
+变百吗|||Gender Bender to Girl?
+变百哦|||Gender Bender
+变百还是变嫁|||Gender Bender or Marriage Bender
+变萝|||Become Loli
+变萝莉|||Turns Into Loli
+变萝莉0|||Turns Into Loli 0
 变身|||Transformation
+变身单身|||Transformed into Single
+变身后无敌流|||Invincible After Transformation
+变身吸血鬼|||Transformed into Vampire
+变身嫁人|||Transformation Marriage
+变身少女|||Transformation Girl
+变身战斗|||Transformation Battle
+变身文|||Transformation Novel
+变身流|||Transformation Story
+变身百合|||MTF Yuri
+变身系|||Transformation Genre
+变身系我最爱|||Transformation Genre Is My Favorite
+变身萝莉|||Loli Transformation
+叙事|||Narrative
+叙事风格独特|||Unique Narrative Style
+叛徒|||Traitor
+叛神者|||God Rebel
+口不对心|||Says One Thing, Means Another
+口嫌体正直|||Tsundere Body
+口怕弟控老姐|||Scary Brocon Big Sis
+口袋妖怪|||Pocket Monsters
+古希腊|||Ancient Greece
+古战|||Ancient Warfare
+古板女|||Old-Fashioned Woman
+古蕾娅好萌|||Gureia Is So Cute
 古风|||Ancient Style
+古风仙侠|||Ancient Style Xianxia
+古风恋爱|||Ancient Romance
+古风沙雕|||Ancient Style Silly
+古风类的骨科|||Ancient-Style Incest
+句号代替省略号|||Period Replaces Ellipsis
+另类后宫|||Alternative Harem
+另类多女主|||Alternative Multiple Female Leads
+另类崩坏|||Alternative Collapse
+另类性转|||Alternative Gender Bender
+另类爱情|||Alternative Love
+另类的价值观|||Alternative Values
+另类穿越者|||Alternative Transmigrator
+只为柳尘|||Only for Liu Chen
+只为装逼|||Only For Showing Off
+只要胆子大|||As Long As You're Bold
+叫姐姐吧|||Just Call Me Sister
 召唤|||Summoning
+召唤卡密|||Summoning Kami
+召唤系统|||Summoning System
+召唤魔法|||Summoning Magic
+召回代价出血|||Recall Cost Bleeds
+可乐姬|||Cola Princess
+可以|||Okay
+可以可以|||Okay Okay
+可以推倒|||Can Be Pushed Down
+可以的|||It's Fine
+可以皮的|||Can Be Cheeky
+可以过零审啊|||Can Pass Zero Censorship
+可以選擇死亡|||Can Choose Death
+可啪|||Cute & Fuckable
+可怕|||Terrifying
+可怕的人|||Terrifying Person
+可怕的作者|||Terrifying Author
+可怜主角|||Pitiful MC
+可恨的男主|||Hateful Male Lead
+可恶的人生大赢家|||Damn Life's Big Winner
+可惜不火|||Sadly Not Popular
+可惜是个变态|||Too Bad It's a Pervert
+可爱|||Cute
+可爱不过老子|||Nothing's Cuter Than Me
+可爱丧尸娘|||Cute Zombie Girl
+可爱少女|||Cute Girl
+可爱就是正义|||Cuteness Is Justice
+可爱残忍魔王|||Cute Yet Cruel Demon King
+可爱的小叶子|||Cute Little Leaf
+可爱的师父|||Cute Master
+可爱的男主|||Cute Male Protagonist
+可爱的男孩子|||Cute Boy
+可爱的男孩纸|||Cute Boy
+可爱的蓝孩纸|||Cute Blue Boy
+可爱的阿宅少女|||Cute Otaku Girl
+可爱若心|||Cute Ruoxin
+可爱蓝孩子|||Cute Blue Boy
+可用作SF電影劇本|||Can Be Used as SF Movie Script
+可能黑化|||Might Go Dark
+史上最多穿越|||Most Transmigrations in History
+史莱姆|||Slime
+史萊姆|||Slime
+史诗|||Epic
+史诗一般|||Epic
+史诗即视感|||Epic Feel
+史诗感|||Epic Feel
+史诗框架|||Epic Framework
+史诗级作品|||Epic Level Work
+史诗级大片即视感|||Epic Blockbuster Feel
+史诗级灾难片|||Epic Disaster Movie
+史诗西幻|||Epic Western Fantasy
+叶子新书|||Yezi's New Book
+叶怀仙NB|||Ye Huaixian NB
+叶江南与姬灵在一起|||Ye Jiangnan and Ji Ling Together
+司机安全驾驶|||Driver Drives Safely
+司马嫁基佬|||Sima Marries a Gay Guy
+吃我大蹦啦|||Take My Big Bounce
+吃枣药丸|||Doomed
+吃枣药丸系列|||Date Pill Series
+吃瘪流|||Getting Slapped in Face
+吃瘪魔王|||Demon King Who Gets Humiliated
+吃草|||Eating Grass
+吃貨無口蘿|||Gluttonous Silent Loli
+吃货|||Glutton
+各种开车发糖|||All Kinds of Driving and Feeding Sugar
+各种撩与被撩|||All Kinds of Flirting and Being Flirted
+各种游戏梗|||All Kinds of Game Memes
+各种神转折|||All Kinds Of Divine Plot Twists
+各种穿越|||All Kinds of Transmigration
+各种被逆推|||Various Reverse Conquests
+各种鬼怪卖萌|||All Kinds of Monsters Acting Cute
+各种黑历史|||All Kinds of Dark History
+各自骚话|||Each Has Lewd Lines
+合|||Combined
+合法后宫|||Legal Harem
+合法萝莉|||Legal Loli
+合法萝莉prprpr|||Legal Loli prprpr
+合理|||Reasonable
+合金装备|||Metal Gear
+合雪雪雪雪|||He Xue Xue Xue Xue
+吉娃娃|||Chihuahua
+吊打一切|||Beats Everything
+吊毛的猪脚|||Damn Protagonist
 同人|||Fan Fiction
+同人穿越|||Fanfic Transmigration
 同人类|||Fan Fiction-type
+同人脑洞瞎吹|||Fanfic Wild Speculation
+同学同学|||Classmate Classmate
+同居女友|||Live-In Girlfriend
+同居日常|||Cohabitation Daily Life
+同性才是真爱|||Same-Sex Is True Love
+同性自嫁|||Same-Sex Self-Marriage
+名不副实|||Doesn't Live Up to the Name
+名字中二|||Chuuni Name
+名字取得怪了|||Weird Name Choice
+名字可以|||Name Is Okay
+名将遍地走|||Famous Generals Everywhere
+名门老婆|||Famous Clan Wife
+后劲型作品|||Slow-Burn Type Work
+后劲型作者|||Slow-Burn Author
+后台极石更|||Extremely Hardworking Behind the Scenes
 后宫|||Harem
+后宫一员|||Member of the Harem
+后宫万岁|||Harem Forever
+后宫三千|||Harem of Three Thousand
+后宫佳丽三千|||Three Thousand Harem Beauties
+后宫佳丽纯爱|||Harem Beauties Pure Love
+后宫全收|||Full Harem
+后宫全是姐|||Harem Is All Sisters
+后宫全是姐姐|||Harem Is All Older Sisters
+后宫全是病娇|||All Harem is Yandere
+后宫养成|||Harem Raising
+后宫冒险|||Harem Adventure
+后宫发展|||Harem Development
+后宫向|||Harem-Oriented
+后宫向吧|||Harem-Oriented
+后宫吗|||Is It Harem?
+后宫塞高|||Harem is the Best
+后宫女王控|||Harem Queen Lover
+后宫妹妹|||Harem Little Sisters
+后宫帮开后宫|||Harem Helps Open Harem
+后宫必须全部收了|||Must Collect The Entire Harem
+后宫恋爱|||Harem Romance
+后宫情节|||Harem Plot
+后宫才是王道|||Harem Is The Way
+后宫无敌|||Harem Invincible
+后宫校园符文|||Harem Campus Rune
+后宫流|||Harem Genre
+后宫王|||Harem King
+后宫的开始|||Beginning of the Harem
+后宫种类全收|||All Harem Types Collected
+后宫稳收|||Harem Stably Collected
+后宫笑死人|||Harem Is Hilarious
+后宫管饱|||Full Harem
+后宫美少女多|||Many Beautiful Girls in Harem
+后宫至上|||Harem Supremacy
+后宫萌萌哒|||Harem Is So Cute
+后宫调教|||Harem Training
+后宫起火|||Harem On Fire
+后宫颇多系列|||Many Harem Series
+后宫鬼才|||Harem Expert
+后宮|||Harem
+后宮都是女主|||All Harem Members Are Heroines
 后悔|||Regret
+后期会很暖|||Later Stages Will Be Very Warm
+后期变身|||Late-Story Transformation
+后期小说|||Late-Stage Novel
+后期性转|||Late-Story Gender Bender
+后期无敌|||Late-Game Invincible
+后期无限开挂|||Late Game Infinite Cheats
+后期日常|||Later Becomes Slice of Life
+后期流|||Late-Stage Genre
+后期神作|||Later God-Tier Work
+后期突然正经|||Suddenly Serious Later
+后热型|||Post-Hot Type
+后盾巨强|||Extremely Strong Backing
+后续文笔稳升|||Writing Improves Later
+后面还行|||Gets Better Later
+吐得一口好槽|||Great Roasts
+吐槽|||Snarky
+吐槽MEA|||Roast MEA
+吐槽MXE|||Roast MXE
+吐槽与无厘头|||Roasts and Absurdity
+吐槽勇者|||Roast the Hero
+吐槽向|||Snarky
+吐槽啊吐槽|||Roast Roast
+吐槽封面|||Roasting The Cover
+吐槽帝|||King of Roasts
+吐槽役废柴男主|||Snarky Loser MC
+吐槽很犀利|||Roasts Are Very Sharp
+吐槽文|||Roast Novel
+吐槽杀手|||Roast Killer
+吐槽流|||Snarky Style
+吐槽狂|||Sarcasm Maniac
+吐槽狂魔|||Roast Demon
+吐槽质量很棒|||Great Roasts
+吐槽风格|||Roast Style
+吐糟|||Roast
+向作者递旺仔|||Giving Author Wangzai
+向着现充前进|||Heading Toward Normie Life
+吓人魔性封面|||Scary Demonic Cover
+吓坏宝宝了|||Scared the Baby
+君忘我我勿忘君|||You Forget Me But I Won't Forget You
+君王|||Monarch
+吞更怪|||Chapter-Swallowing Monster
+吟游诗人|||Bard
+吟风是rbq|||Yin Feng Is a RBQ
+含糖量极高|||Extremely High Sugar Content
+听说女主欠揍|||Heard Female Lead Deserves a Beating
+听说宋君是妹子|||Heard Song Jun Is A Girl
+听起来很好吃|||Sounds Delicious
+启发|||Inspiration
+吴克|||Wu Ke
+吴克主角|||Wuk MC
+吸奶狂魔|||Milk-Sucking Maniac
+吸猫狂魔|||Cat Addict
+吸艾琳|||Sucking Irene
+吸血姬|||Vampire Princess
 吸血鬼|||Vampire
+吸血鬼女儿|||Vampire Daughter
+吸血鬼学姐|||Vampire Senpai
+吸血鬼帅哥|||Handsome Vampire
+吸血鬼萝莉|||Vampire Loli
+吸血鬼血族|||Vampire Blood Clan
+吼|||Roar
+吼吼|||Roar Roar
+吾来了|||I Have Arrived
+呆毛是本体|||Ahoge Is the Main Body
+呆萌女主|||Clumsy Cute Female Lead
+呆萌易推倒|||Dumb Cute Easy to Push Down
+周更的苦逼作者|||Weekly Update Suffering Author
+周更苦逼作者|||Weekly Update Suffering Author
+周纶羽和夢明|||Zhou Lunyu and Meng Ming
+呵呵|||Heh
+命运的选择|||Choice of Fate
+命运线小小的治愈感|||Slight Healing in the Fate Line
+命運|||Destiny
+和别的轻小说有点不同|||Slightly Different From Other Light Novels
+和原作不一样|||Different From Original
+和只狼有点像|||Somewhat Like Sekiro
+和战神者好像|||Similar to War God
+和拿破仑生活|||Living With Napoleon
+和旺仔小馒头|||With Wangzai Steamed Bun
+和漆黑的子弹没关系|||Unrelated to Black Bullet
+和谐后宫|||Harmonious Harem
+和风|||Japanese Style
+咕傲天|||Gu Aotian
+咕咕咕|||Coo Coo
+咕咕咕的萝莉|||Cooing Loli
+咕嘿嘿|||Guhehe
+咖啡|||Coffee
+咪咪流浪记|||Meow Meow's Wanderings
+咬咬咬|||Bite Bite Bite
+咸|||Salted Fish
+咸鱼|||Slacker
+咸鱼作者|||Slacker Author
+咸鱼呢|||Salted Fish
+咸鱼哥哥|||Saltfish Big Brother
+咸鱼大战大佬|||Loser vs Big Shot
+咸鱼日常|||Salted Fish Daily Life
+咸鱼王道|||Salted Fish Righteous Path
+咸鱼翻身记|||Saltfish Turns Over
+咸鱼逆袭|||Salted Fish Counterattack
+哀伤|||Sorrowful
+品如男主|||Pinru Male Protagonist
+哇哈哈|||Wahaha
+哇这鱼好咸|||Wow This Fish Is Salty
+哈哈呵呵|||Haha Hehe
+哈哈哈真无敌|||Hahaha Truly Invincible
+响指魔FA师|||Snap Magic FA Master
+哎呦不错哟|||Not Bad
+哎呦不错的|||Oh It's Pretty Good
+哎意外写的不错|||Surprisingly Well Written
+哟~|||Yo~
+哥哥|||Big Brother
+哥哥大变态|||Big Bro Is a Huge Pervert
+哥哥好強|||Big Brother Is So Strong
+哥布林|||Goblin
+哦|||Oh
+哦哦哦哦哦|||Ohhhhh
+哦很不错呦|||Oh Very Nice
+哪悲催了|||What's So Tragic
+哪来的悬疑啊|||Where's the Suspense
+哲学|||Philosophy
+哲学大佬|||Philosophy Bigshot
+哲理|||Philosophy
+唔感觉好灵幻|||Feels So Spiritual
+唯我|||Only Me
+唯独女主黑化|||Only the Heroine Goes Yandere
+唯美|||Aesthetic
+唯美文艺风|||Beautiful Literary Style
+唱歌|||Singing
+商人|||Merchant
+商界女帝|||Business Empress
+啊|||Ah
+啊您不配|||Ah, You're Not Worthy
+啦啦啦|||La La La
+啪啪休止符|||Pa Pa Rest Note
+啪啪啪|||Sex
+啪啪啪啪啪啪|||Pa Pa Pa Pa Pa Pa
+喂糖|||Feeding Sugar
+喂糖不喂刀|||Feeds Sugar Not Knives
+喂警察吗|||Calling the Police?
+喂这是变身啦|||Hey This Is Transformation
+喜剧|||Comedy
+喜当妈|||Happy Motherhood
+喜当爹|||Happy to Be a Dad
+喜欢|||Like
+喜欢冒险和卡片使用|||Likes Adventure and Card Usage
+喜欢加油|||Likes to Cheer
+喜欢团长|||Like the Commander
+喜欢学姐|||Like Senpai
+喜欢清新柔美的推荐|||Recommend Fresh and Soft Beauty
+喜欢玩梗|||Likes Playing Memes
+喜欢的类型|||Favorite Type
+喜欢自己写的|||Likes What He Writes
+喜欢足以|||Liking Is Enough
+喜欢蹲墙角|||Likes Squatting in Corner
+喜欢这种男主|||Like This Kind Of Male Lead
+喜欢非木三无最爱|||Likes Non-Wood Three-Nothing Favorite
+喜歡|||Like
+喜歡加油|||Like to Cheer
+喜歡網遊小說|||Likes Netgame Novels
+喜闻乐见|||A Delight to See
+喜闻乐见的性转换|||The Delightful Gender Swap
+喜闻乐见的绝望|||Delightful Despair
+喝下午茶时看最合适|||Best Read During Afternoon Tea
+喪屍|||Zombie
+單身|||Single
+喰种|||Ghoul
+喵|||Meow
+喵喵|||Meow Meow
+喵喵喵|||Meow Meow Meow
+喵星|||Cat Planet
+喵星人|||Cat Planet People
+喵萌萌哒|||Meow So Cute
+喷子退散|||Anti-Fans Begone
+嗜箭如命|||Arrow Obsessed
+嗯|||Hmm
+嗯SM|||Um SM
+嗯嗯还不错|||Mm, Not Bad
+嘎嘎嘎|||Gagaga
+嘛的智障|||What An Idiot
+嘛的阿库娅|||Damn Aqua
+嘤嘤嘤|||Ying Ying Ying
+嘤盛阳衰|||Ying Flourishing Yang Declining
+嘲讽|||Taunting
+嘴强王者|||Trash Talk King
+嘴炮大战|||Verbal Battle
+嘴盡天下女|||Mouth Conquers All Women
+嘻嘻|||Hehe
+嘿嘿嘿|||Hehe
+噫|||Eh
+嚣张|||Arrogant
+囚禁|||Imprisonment
+四糸乃赛高|||Yoshino Is the Best
+四线|||Four Lines
+回忆中的中学啊|||Middle School in Memory
+回忆杀|||Flashback Kill
+回忆真多|||So Many Flashbacks
+因为封面|||Because Of The Cover
+因果律鬼才|||Causality Genius
+因错而起|||Starts With a Mistake
+团宠男主|||Group-Favorite Male Lead
+困于心城|||Trapped in Heart City
+国欠姐|||National Debt Sister
+国漫|||Chinese Manga
+国漫学院生活|||Chinese Manga Academy Life
+国轻|||Chinese Light Novel
+圆满|||Perfect Ending
+土地神|||Earth God
+土豆邪教|||Potato Cult
+圣光会脏死你|||Holy Light Will Dirty You to Death
+圣女|||Saintess
+圣女大人|||Saintess-sama
+圣女很可爱|||Saintess Is Very Cute
+圣女最可爱|||Saintess Is the Cutest
+圣女永不发育|||Saintess Never Develops
+圣女超可爱|||Saintess Is Super Cute
+圣屠|||Holy Butcher
+圣杯战争|||Holy Grail War
+圣母|||Mary Sue
+圣母主角|||Mary Sue MC
+圣母受|||Pure-Hearted Bottom
+圣母的我|||I Am A Saint
+圣疗师|||Holy Healer
+圣痕|||Stigmata
+圣龙养母|||Holy Dragon Foster Mother
+在下略知一二|||I Know a Little
+在线印卡|||Online Card Printing
+在被艹边缘|||On the Edge of Being Fucked
+在角落开花|||Blooming in the Corner
+在讲故事的轻小说|||Light Novel That Tells a Story
+在论坛看到的|||Saw on Forum
+圭罗真邪惡呵|||Kuro Is Really Evil
+地下城|||Dungeon
+地下城建造|||Dungeon Construction
+地府|||Underworld
+场景派|||Scene-Focused
+场面大气|||Grand Scenes
+场面火爆|||Explosive Scenes
+坏坏的老师|||Naughty Teacher
+坐等下卷|||Waiting for Next Volume
+坐等距离变负|||Waiting for Distance to Become Negative
+坑|||Pit
+坑B|||Pit B
+坑主角|||Pit the Protagonist
+坑了吗|||Dropped?
+坑了略可惜|||Pitted, A Bit of a Pity
+坑人|||Tricking People
+坑掉就寄刀片|||Drop It and Send Blades
+坑爹|||Bullshit
+坑爹作者|||Pit Father Author
+坑爹生活欢乐|||Pitiful Life Fun
+坑王|||Pit King
+坑着坑着就习惯了|||Got Used to Being in a Pit
+坑货成长之旅|||Pitfall Growth Journey
+坚持|||Persevere
+坚持下去啊|||Keep Going
+坦克|||Tank
+垃圾|||Trash
+垃圾君多多指教|||Trash-kun Please Advise
+垃圾書|||Trash Book
+垃圾游戏|||Trash Game
+垃圾玩意|||Trash
+垃圾白苏|||Trash Bai Su
 型月|||Type-Moon/Fate
+埋坑准备中|||Burying Pits In Progress
+城主|||City Lord
+基|||Gay
+基佬|||Gay
+基佬才会看的|||Only Gays Would Read This
+基佬文|||BL Novel
+基佬标嫁人|||Gay Guy Marries Someone
+基友互坑|||Bros Screwing Each Other
+基友可推倒|||Bros Can Be Pushed Down
+基友篡位|||Best Friend Usurps Throne
+基就够了|||Being Gay Is Enough
+基建狂魔|||Infrastructure Maniac
+基情|||Bromance
+基痕|||Stigmata
+基腐|||BL
+基调依然冷静|||Tone Remains Calm
+填坑专业户|||Professional Plot Hole Filler
+填坑才是王道|||Filling Plot Holes is the Way
+墓碑爬出來|||Climbing Out of Tombstone
+士兵|||Soldier
+士织赛高|||Shiori Is The Best
+壮哉我大FFF团|||Long Live the FFF Group
+处处挖坑|||Pits Everywhere
+変嫁|||Gender Bender Marriage
 复仇|||Revenge
+复仇鬼|||Vengeful Ghost
+复杂的世界观|||Complex Worldview
+复杂的故事|||Complex Story
+夏娜|||Shana
+夏娜酱|||Shana-chan
+夏目|||Natsume
+夏瞳王道|||Xiatong's Royal Road
+夏露|||Charlotte
+外传|||Side Story
+外冷内热|||Cold Outside Warm Inside
+外卖生活|||Takeout Life
+外国风情|||Foreign Scenery
+外婆|||Grandma
+外挂到异世界|||Cheat to Another World
+外星人|||Alien
+外星接触|||Alien Contact
+外星援助|||Alien Assistance
+外表女性化|||Feminine Appearance
+多世界|||Multiple Worlds
+多世界混合|||Multi-World Fusion
+多个世界|||Multiple Worlds
+多个女主|||Multiple Female Leads
+多主角|||Multiple Protagonists
+多久一更|||How Often Updated
+多人物视角|||Multiple Character Perspectives
+多元世界|||Multiple Worlds
+多元化的能力|||Diverse Abilities
+多元素|||Multi-Genre
+多多加油|||Keep Going Hard
+多多更新|||Update More
 多女主|||Multiple Heroines
+多改进|||Improve More
+多更新啊|||Update More
+多更阿|||Update More
+多样化|||Diverse
+多次|||Multiple Times
+多次元剧情|||Multi-Dimensional Plot
+多次反转|||Multiple Twists
+多种人生|||Multiple Lives
+多系统|||Multiple Systems
+多线|||Multiple Threads
+多线剧情|||Multi-Threaded Plot
+多线展开|||Multiple Plot Lines
+多行空間|||Multi-Dimensional Space
+多视角|||Multiple Perspectives
+多重人格|||Multiple Personalities
+多题材|||Multiple Genres
+夜之女王|||Queen of the Night
+夜夜|||Night Night
+够无畏够强悍|||Fearless and Tough Enough
+大JJ妹子|||Big Dick Girl
+大O萌妹|||Big O Cute Girl
+大jj妹子|||Big JJ Girl
+大丈夫|||It's Fine
+大世界|||Grand World
+大世界观|||Epic Worldbuilding
+大人时代变了|||Times Have Changed, Sir
+大作既视|||Feels Like a Masterpiece
+大佬|||Big Shot
+大佬们|||Big Shots
+大佬作品|||Big Shot's Work
+大佬小号|||Bigshot's Alt Account
+大佬新书|||Bigshot's New Book
+大佬无敌|||Bigshot Is Invincible
+大写的悲剧|||Capital Tragedy
+大写的污|||Capitalized Lewd
+大叔与萝莉|||Uncle and Loli
+大叔萝莉|||Uncle Loli
+大叔萝莉标配|||Uncle-Loli Standard Pairing
+大叔装逼实录|||Uncle's Chuuni Moments
+大圣姐|||Great Sage Sister
+大坑慎入|||Huge Pitfall, Enter with Caution
+大坑预感|||Big Pit Incoming
+大型世界观|||Large-Scale Worldbuilding
+大大们请发表感想谢谢|||Please Share Your Thoughts, Thanks
+大大加油吧|||Go For It, Great One
+大奶子|||Big Breasts
+大好|||Very Good
+大姨子|||Big Sister-in-Law
+大学|||University
+大学多姿多彩|||Colorful University Life
+大学那些事儿|||University Stuff
 大小姐|||Ojou-sama
+大小姐万福|||Young Miss Blessings
+大小姐炒鸡萌|||Young Lady Super Cute
+大小姐管家|||Miss Butler
+大小姐赛高|||Ojou-sama is the Best
+大小通吃|||Eats Both Big and Small
+大局势|||Grand Scheme
+大屌萌妹|||Big Dick Cute Girl
+大师姐|||Eldest Senior Sister
+大开眼界|||Eye-Opening
+大概是后宫|||Probably a Harem
+大水比|||Big Water Ratio
+大海盗|||Great Pirate
+大爱|||Love It
+大爱三白|||Big Love for Sanbai
+大爱人设不错|||Love the Character Design
+大爱兄妹|||Big Love For Siblings
+大爱凌音无|||Love Ling Yinwu So Much
+大爱圣女和救世主|||Big Love for Saintess and Savior
+大爱巫女|||Love Shrine Maidens
+大爱橙子|||Love Oranges
+大爱阿尔法|||Big Love for Alpha
+大爷到地狱里|||Old Man Goes to Hell
+大爷还是大爷|||Boss Is Still Boss
+大片即视感|||Blockbuster Movie Feel
+大片向|||Blockbuster Style
+大猥琐的就给个好评吧|||For the Big Perversion, Give a Good Review
+大白腿本纪|||Chronicles of Fair White Thighs
+大神|||Great God
+大绅士|||Great Gentleman
+大群变态来袭|||Horde of Perverts Incoming
+大老师|||Hiratsuka-sensei
+大老師|||Great Teacher
+大胸|||Big Breasts
+大胸妹子|||Big-Breasted Girls
+大胸萝莉|||Big-Breasted Loli
+大脑洞|||Big Brain Hole
+大萌神|||Great Moe God
+大触写的书|||Book Written By A Master
+大赏|||Big Prize
+大赞|||Big Praise
+大逃杀|||Battle Royale
+大阴毛|||Big Pubes
+大阴谋|||Grand Conspiracy
+大陆第一有毒|||Continent’s Most Toxic
+大魔王|||Demon King
+大鸽子|||Big Pigeon
+天使|||Angel
+天使与恶魔|||Angel and Demon
+天使小姐姐|||Angel Big Sister
+天使恶魔|||Angel Demon
+天使魔王|||Angel Demon King
+天使魔神|||Angels and Demons
+天依|||Tianyi
+天剑断尘|||Heavenly Sword Breaks Dust
+天华|||Tianhua
+天坑|||Heavenly Pit
+天天玩梗|||Daily Memes
 天才|||Genius
+天朝GATE|||Chinese GATE
+天朝元素|||Celestial Empire Elements
+天朝的现实与超现实|||Empire's Reality and Surreality
+天朝高中生活|||Heavenly Dynasty High School Life
+天梯|||Heavenly Ladder
+天津风|||Tianjin Wind
+天然|||Natural Airhead
+天然傲娇公主|||Natural Tsundere Princess
+天然呆|||Natural Airhead
+天然呆剑圣|||Natural Airhead Sword Saint
+天然女友|||Natural Girlfriend
+天狗面具的正确用法|||Correct Use of Tengu Mask
+天真|||Innocent
+天选之子|||Chosen One
+天际既视感|||Skyrim Deja Vu
+天降|||Dropped From The Sky
+天降大叔|||Handsome Uncle From The Sky
+天降妹妹|||Dropped Little Sister
+天降狐娘|||Fox Girl From The Sky
+天雾本命|||Amatsumi True Love
+天马行空|||Imaginative
+天马行空般的想像力|||Imagination Like a Heavenly Horse
+太乱|||Too Messy
+太刀|||Katana
+太喜欢了|||Love It
+太太|||Wife
+太太你好棒|||Wife You're Amazing
+太太我喜欢你|||Wife, I Like You
+太好看了|||Extremely Good Looking
+太好看的|||Too Good Looking
+太尼玛给力了|||Too Damn Awesome
+太弱的跳跳|||Too Weak Jumpy
+太快完|||Ends Too Quickly
+太棒了|||Awesome
+太滑稽|||Too Ridiculous
+太监|||Eunuch
+太监了|||Dropped
+太监失败|||Failed to Drop
+太空|||Space
+太空歌剧|||Space Opera
+太过日常|||Too Slice-of-Life
+夫妻|||Husband and Wife
+夫妻办案|||Husband and Wife Solve Cases
+夫妻开挂|||Husband and Wife Cheat
+夫妻日常|||Married Couple Daily Life
+夫妻行骗记|||Married Couple Scam Story
+夯特大|||Hunter Big
+失忆|||Amnesia
+失恋然后再恋|||Heartbreak Then Love Again
+失控|||Out of Control
+失敗俠帥爆了|||Failure Hero Is So Cool
+失败侠帅爆了|||Failure Hero Is So Cool
+失败彻底的失败|||Complete Failure
+失踪人口|||Missing Person
+头单车D|||Head Bike D
+头脑战|||Battle of Wits
+头脑风暴|||Brainstorm
+夺舍|||Body Possession
+奇妙|||Wonderful
+奇妙冒险|||Wonderful Adventure
+奇妙变身|||Wonderful Transformation
 奇幻|||Fantasy
+奇幻元素|||Fantasy Elements
+奇幻冒险|||Fantasy Adventure
+奇幻游戏|||Fantasy Game
+奇怪|||Strange
+奇怪师姐|||Strange Senior Sister
+奇特|||Unique
+奇葩|||Weird
+奇诺之旅|||Kino's Journey
+奋斗|||Struggle
+奔小康|||Striving For Prosperity
+套路|||Cliché
+套路文|||Routine Novel
+套路新奇|||Fresh Tropes
+套路满满|||Full of Tropes
+套路百合|||Routine Yuri
+奥丁神枪|||Odin's Spear
+女上男下|||Female on Top Male on Bottom
 女主|||Female MC
+女主rbq|||Heroine Is a Public Use Girl
+女主一直被虐|||Heroine Keeps Getting Abused
+女主们完全不萌啊|||Heroines Are Not Cute At All
+女主会歇菜|||Female Lead Will Fail
+女主会黑化|||Female Lead Will Darken
+女主作者女儿|||Female Lead Is Author's Daughter
+女主倒贴|||Female Lead Throws Herself at Him
+女主傻乎乎的|||Heroine Is Silly
+女主养成|||Raising the Female Lead
+女主在躲男主|||Heroine Is Avoiding Male Lead
+女主塞高|||Female Lead is the Best
+女主多重人格|||Female Lead Has Multiple Personalities
+女主存在低|||Low Female Lead Presence
+女主开后宫|||Heroine Opens Harem
+女主强势|||Dominant Female Lead
+女主很受|||Heroine Is Very Much A Bottom
+女主感情廉价|||Female Lead's Feelings are Cheap
+女主抖S|||Female Lead Is Sadistic
+女主无敌|||Invincible Female Lead
+女主是H萝莉|||Female Lead Is H-Loli
+女主是个渣|||Female Lead is Scum
+女主是公主|||Heroine Is a Princess
+女主是男2|||Female Lead Is Male No.2
+女主是笨蛋|||Heroine Is An Idiot
+女主是萝莉|||Female Lead Is a Loli
+女主智商在线|||Female Lead Has Working Brain
+女主智商爪机|||Female Lead's IQ Is a Claw Machine
+女主有点皮|||Female Lead is a Bit Naughty
+女主流|||Female Lead Is The Protagonist
+女主狠可爱|||Female Lead Is Super Cute
+女主疯子|||Female Lead Is Crazy
+女主病娇|||Female Lead is Yandere
+女主皮得欠艹|||Heroine Is So Naughty She Deserves to Be Fucked
+女主真女神|||Female Lead Is a True Goddess
+女主碧池|||Female Lead is Bitch
+女主竟是狮子|||Heroine Is Actually A Lion
+女主舔爆|||Heroine Is Super Obsessed
+女主血萌|||Female Lead Is Blood-Cute
+女主角|||Female Protagonist
+女主触手娘|||Female Lead is Tentacle Girl
+女主讨伐队|||Heroine Extermination Squad
+女主赛高|||Female Lead is the Best
+女主超可爱|||Female Lead Is Super Cute
+女主超帅|||Heroine Is Super Cool
+女主超强|||Extremely Strong Heroine
+女主高能|||Female Lead High Energy
+女主黑了|||Heroine Has Gone Dark
+女主黑化|||Female Lead Turns Dark
+女仆|||Maid
+女仆prpr|||Maid Prpr
+女仆人偶|||Maid Doll
+女仆剑士|||Maid Swordsman
+女仆勇者|||Maid Hero
+女仆妹子赛高|||Maid Girls Are the Best
+女仆姐妹赛高|||Maid Sisters Are The Best
+女仆桑|||Maid-san
+女仆长|||Head Maid
+女傀儡师|||Female Puppeteer
+女傲天|||Female Aotian
+女儿|||Daughter
+女儿养成|||Daughter Raising
+女儿控|||Daughter-obsessed
+女儿控福音|||Daughtercon Gospel
+女儿流|||Daughter Stream
+女儿赛高|||Daughter Is The Best
+女剑仙|||Female Sword Immortal
+女剑仙魏皮皮|||Female Sword Immortal Wei Pipi
+女变态|||Female Pervert
+女多男少|||More Females Than Males
+女女|||Girl x Girl
+女子高中生|||Female High School Student
+女孩可爱|||Girls are Cute
+女寝宿管|||Female Dormitory Manager
 女尊|||Matriarchy
+女尊男卑|||Female Dominant Male Subordinate
 女帝|||Empress
+女强|||Strong Female Lead
+女徒弟|||Female Disciple
 女性主角|||Female MC
 女性向|||Female-oriented
+女扮男装|||Female Disguised as Male
+女攻男受|||Female Top Male Bottom
+女朋友|||Girlfriend
+女权|||Feminism
 女武神|||Valkyrie
+女汉子|||Tomboy
+女王|||Queen
+女王养成|||Queen Training
+女王很可爱|||Queen is Very Cute
+女王控|||Queen Fetish
+女王系|||Queen Type
+女生不敢惹|||Girls Dare Not Provoke
+女皇|||Empress
+女皇装逼实录|||Empress Showing Off Record
+女神赛高|||Goddess Is the Best
+女自攻略|||Female Self-Strategy
+女装|||Crossdressing
+女装伪娘|||Crossdressing Trap
+女装作者|||Crossdressing Author
+女装养家糊口|||Crossdressing to Support Family
+女装哲学家|||Crossdressing Philosopher
+女装大佬|||Femboy
+女装大佬白|||Crossdressing Big Boss Bai
+女装少年|||Crossdressing Boy
+女装山脉的日常|||Daily Life of the Crossdressing Mountain Range
+女装巨佬|||Crossdressing Bigshot
+女装店长|||Crossdressing Shop Owner
+女装男主|||Crossdressing MC
+女装皇帝|||Crossdressing Emperor
+女装老哥|||Crossdressing Bro
+女装魔王|||Crossdressing Demon King
+女裝山脈|||Crossdressing Mountains
+女裝男主|||Crossdressing Male Lead
+女追男|||Female Chases Male
+女门派|||Female Sect
+女阴男阳|||Female Yin Male Yang
+女骑士|||Female Knight
+女鬼|||Female Ghost
+奴隶|||Slave
+奴隶之后|||After Becoming A Slave
+奴隶剑姬|||Slave Sword Princess
+奴隶好评|||Slave Receives Praise
+奴隶少女|||Slave Girl
+奴隶流|||Slave Stream
+奶子|||Boobs
+奶子大长腿|||Big Breasts Long Legs
+奶熙良心作|||Nai Xi Conscience Work
 奶爸|||Doting Father
+好|||Good
+好不错顶|||Pretty Good Top
+好东西|||Good Stuff
+好书|||Great Book
+好书一本|||One Good Book
+好书不火|||Hidden Gem
+好书不火系列|||Good Book That Doesn't Get Popular Series
+好书但不火|||Good Book But Not Popular
+好二的名字|||Very Chuuni Name
+好人|||Good Person
+好作品|||Good Work
+好作者|||Good Author
+好值得|||Well Worth It
+好像很有意思|||Seems Very Interesting
+好像很有趣|||Seems Very Fun
+好像有点意思|||Seems A Bit Interesting
+好像看以后的|||Want to See the Future
+好厉害的印象对比|||Amazing Impression Contrast
+好吃不过饺子|||Nothing Tastes Better Than Dumplings
+好啊|||Good
+好喜欢|||Really Like It
+好基友|||Good Bros
+好多不认识的武器|||Many Unfamiliar Weapons
+好多伏笔|||So Many Foreshadowings
+好多猫|||So Many Cats
+好多老婆|||So Many Wives
+好多萝莉|||Many Lolis
+好好好|||Good Good Good
+好好好好好|||Good Good Good Good Good
+好好期待|||Looking Forward
+好尴尬|||So Awkward
+好帅|||So Handsome
+好康|||Nice to Watch
+好快的车车|||Such A Fast Car
+好想养一只|||Want To Raise One So Much
+好想急死你|||I Want to Frustrate You to Death
+好文|||Good Writing
+好文但夭寿了|||Good Story But Deadly
+好文可惜烂尾|||Good Story but Bad Ending
+好文章|||Good Article
+好文筆|||Good Writing
+好文采|||Good Literary Talent
+好无敌|||So Invincible
+好書|||Good Book
+好書很好看|||Good Book Very Nice
+好有性趣|||Very Interesting (Sexually)
+好棒|||Great
+好棒好有趣|||So Great So Interesting
+好棒好棒好棒|||So Good So Good So Good
+好欢乐|||So Fun
+好污|||Lewd
+好污啊|||So Dirty
+好玩|||Fun
+好男人有好报|||Good Men Get Good Rewards
+好看|||Good Looking
+好看不火|||Hidden Gem
+好看到爆炸|||So Good It Explodes
+好看加油|||Looks Good, Keep Going
+好看即正義|||Being Good-Looking is Justice
+好看啊|||Looks Good
+好看啊好看|||So Good Looking
+好看好甜|||Good Looking And Sweet
+好看好看|||Beautiful
+好看我也是紫发控|||Nice, I'm Also a Purple Hair Fan
+好看有创意|||Good Looking and Creative
+好看有趣|||Good Looking and Fun
+好看极了|||Extremely Good Looking
+好看炸了|||Insanely Good Looking
+好看的书|||Good-Looking Book
+好看非常|||Extremely Good Looking
+好神奇的直觉|||Amazing Intuition
+好笑|||Funny
+好笑写得很好|||Funny and Well Written
+好笑好看|||Funny and Good Looking
+好老师|||Good Teacher
+好致郁|||Very Depressing
+好设定|||Good Setting
+好评|||Highly Recommended
+好赞无误|||Great, No Mistake
+好顶赞|||Awesome
+好顶赞作者是萝莉|||Great, Author Is Loli
+如何成为偶像系列|||How to Become an Idol Series
+如何虐杀妹子系列|||How to Brutally Kill Girls Series
+如此的逆推|||Such a Reverse Push
+妄想症|||Delusional
+妈妈|||Mom
+妈妈我也想要|||Mom I Want It Too
+妈的阿库娅|||Damn Aqua
+妖刀姬|||Demon Blade Princess
+妖夜|||Demon Night
+妖怪|||Youkai
+妖怪后宫|||Monster Harem
+妖怪杂谈|||Monster Miscellany
+妖污王|||Demon Pervert King
+妖狐妹妹|||Demon Fox Little Sister
+妖狐少女|||Demon Fox Girl
+妖精|||Fairy
+妖都|||Demon Capital
+妥妥的老中医|||Definitely Old TCM Doctor
+妮可妮可妮|||Nico Nico Ni
+妮露莎是女主更好|||Nirusha as Female Lead Is Better
+妹妹|||Little Sister
+妹妹万岁|||Little Sister Forever
+妹妹不如机甲|||Little Sister Inferior to Mechs
+妹妹不是女的|||Little Sister Isn’t Female
+妹妹什么的最可爱了|||Little Sisters Are the Cutest
+妹妹后宫|||Little Sister Harem
+妹妹太萌了|||Little Sister Is Too Cute
+妹妹好萌|||Little Sister Is So Cute
+妹妹开局作死|||Little Sister Starts by Seeking Death
+妹妹感人|||Little Sister Is Touching
+妹妹才是正宫啊|||Little Sister Is the True Wife
+妹妹才是王道|||Little Sister Best
+妹妹打电竞|||Little Sister Plays Esports
+妹妹既正义|||Little Sister Is Justice
+妹妹是神啊|||Little Sister is a Goddess
+妹妹是萝莉|||Little Sister Is a Loli
+妹妹病娇|||Little Sister Is Yandere
+妹妹神明|||Little Sister Is A God
+妹妹股暴涨|||Little Sister Stock Skyrocketing
+妹妹表妹|||Younger Sister and Cousin
+妹妹赛高|||Little Sister Is the Best
+妹妹逆推哥哥|||Little Sister Pushes Big Brother
+妹妹重度兄控|||Little Sister Is a Severe Brocon
+妹子|||Girls
+妹子不如机甲|||Girls Inferior to Mechs
+妹子养成|||Girl Raising
+妹子可爱|||Girls Are Cute
+妹子可穿|||Girls Can Be Worn
+妹子多|||Many Girls
+妹子殺|||Girl Killer
+妹子都是俺的翅膀|||All the Girls Are My Wings
+妹抖万岁|||Maid Forever
+妹控|||Sister Complex
+妹控万岁|||Long Live Sister Complex
+妹控不存在的|||No Siscons Here
+妹控和兄控|||Siscon and Brocon
+妹控妹妹|||Imouto Siscon
+妹控姐控|||Sister Complex & Brocon
+妹控怎么不好顶赞|||How Can Siscon Be Bad? Like & Upvote
+妹控文|||Sister Complex Story
+妹控最高|||Siscon is Supreme
+妹控狂魔|||Sister-Obsessed Maniac
+妹控癌晚期|||Terminal Siscon Cancer
+妹控的后宫们|||Sister-obsessed Harem Members
+妹控的胜利|||Sister-Complex Victory
+妹控福利|||Sister-Complex Fanservice
+妹控者福音|||Gospel for Siscons
+妹控赛高|||Sister-Complex is the Best
+妹是女裝弟弟|||Sister Is Crossdressing Brother
+妹管严|||Strict Sister Control
+妹系王道|||Little Sister Supremacy
+妹赛高|||Little Sister is the Best
+妻女|||Wife and Daughter
+妻妾成群|||Wives and Concubines
+妻管严|||Henpecked
+妻管嚴|||Henpecked
+妾身盡力了|||This Concubine Tried Her Best
+姐妹|||Sisters
+姐妹恋|||Sister Love
+姐妹百合|||Sister Yuri
+姐妹花|||Sister Flowers
+姐姐|||Big Sister
+姐姐ox妹妹|||Sister x Sister
+姐姐大人|||Big Sister
+姐姐妹妹|||Older and Younger Sisters
+姐姐强无敌|||Big Sister is Invincibly Strong
+姐姐是主角|||Big Sister Is The Protagonist
+姐姐是弟控|||Sister Is Brocon
+姐姐真棒|||Sister Is Awesome
+姐姐股|||Big Sister Stock
+姐姐贼厉害|||Big Sister Is Damn Awesome
+姐姐赛高|||Big Sis Is the Best
 姐弟|||Older Sister
+姐弟妹|||Sisters and Brother
+姐弟恋|||Sister-Brother Romance
+姐弟控|||Siscon
+姐弟爱|||Sibling Love
+姐控|||Sister Complex
+姐控妹妹|||Sister-Complex Younger Sister
+姐控弟弟|||Siscon Little Brother
+姐控癌晚期|||Terminal Siscon
+姐控神作|||Sister-Complex Masterpiece
+姐控赛高啊|||Sister Complex Is The Best
+姬友|||Girl Friend (Yuri)
+姬情四射|||Yuri Passion Overflowing
+娇妻可猫可狗|||Spoiled Wife Can Be Cat or Dog
+娇弱精灵少女|||Delicate Elf Girl
+娓娓道来|||Told Calmly
+娘化|||Genderbend
+娘化元首|||Feminized Führer
+娘化卫宫|||Genderbent Emiya
+娜娜傻出天际|||Nana's Silliness Reaches the Sky
+娜娜傻呦|||Nana Is Silly Yo
+婚龄的困惑|||Marriage Age Confusion
+嫁不出去|||Can't Get Married
+嫁个屁|||Marry My Ass
 嫁人|||Marriage
+嫁人不存在的|||No Marriage
+嫁人不是|||Not Getting Married
+嫁人向|||Marriage Story
+嫁人性转|||Marriage Gender Bender
+嫁人是來鬧的|||Marriage Is Here to Make Trouble
+嫁人治愈|||Marriage Healing
+嫁人王道|||Marriage is Justice
+嫁人等於搞基|||Marrying Equals Gay
+嫁人赛高|||Marriage Is Supreme
+嫁你老母|||Marry Your Mother
+嫁士道王道|||Marrying Shidou Is The Way
+嫁士道走起|||Marry Shidou and Go
+嫁师傅|||Marry the Master
+嫁折纸|||Married to Origami
+嫁系统|||Marriage System
+嫁给勇者|||Married to the Hero
+嫁给妹纸|||Marry The Girl
+嫁给学姐|||Marry Senpai
+嫁给金毛|||Marry The Blonde
+嫉妒你|||Jealous of You
+嬴政哥哥赛高|||Ying Zheng Bro Best
+子孙满堂|||Descendants Fill the House
+子控|||Child Complex
+字数666|||Word Count 666
+字数好少|||Very Few Words
+字数少|||Few Words
+字数有点少|||A Bit Few Words
+字数终于够了|||Word Count Finally Enough
+字母家族系列|||Alphabet Family Series
+存在的世界从不改变|||The Existing World Never Changes
+孙悟饭|||Son Gohan
+季更|||Quarterly Update
+孤儿基佬|||Orphan Gay
+孤独|||Loneliness
+孤独与幸福|||Loneliness and Happiness
+孤独哲学|||Philosophy of Loneliness
+孤独的左右手|||Lonely Left and Right Hands
+孤独者的春天|||Spring of the Lonely
+孤獨|||Loneliness
+学习党|||Study Faction
+学习改|||Study Rewrite
+学习教辅|||Study Aid
+学园|||Academy
+学园偶像|||School Idol
+学园爱情|||Academy Romance
+学坏三天|||Learn Bad In Three Days
+学妹|||Junior Schoolgirl
+学姐|||Senpai
+学姐万岁|||Senpai Banzai
+学姐名词|||Senior Sister Noun
+学姐是天|||Senpai is Heaven
+学战都市|||Academy Battle City
+学术流|||Academic Genre
+学校装逼日常|||School Showing Off Daily Life
+学生|||Student
+学生与老师|||Student And Teacher
+学生会|||Student Council
+学生会又回来了|||Student Council Is Back
+学生会的一己之见|||Student Council's Egoistic View
+学生党|||Student Party
+学生党作者|||Student Author
+学长请嫁给我|||Senpai Please Marry Me
+学院|||Academy
+学院战役|||Academy Battle
+学院战斗|||Academy Battle
+学霸|||Academic Overlord
+学霸向|||Study God Genre
+学霸妹妹|||Genius Little Sister
+学霸男主|||Academic Overlord Male Lead
+孩子是编辑的|||The Child Belongs to the Editor
+學生會|||Student Council
+宅|||Otaku
+宅向|||Otaku Style
+宅必看|||Must-Read for Otakus
 宅斗|||Family Intrigue
+宅男|||Otaku
+宇宙|||Space
+宇宙生存|||Cosmic Survival
+守望先锋|||Overwatch
+安全又炫酷|||Safe and Cool
+安兹乌尔恭|||Ainz Ooal Gown
+宋大婊子|||Song Big Bitch
+完全潜行|||Full Dive
+完全看不懂在寫什麼|||Can't Understand What It's Writing
+完全能当日轻出|||Fully Can Be A Light Novel
+完本必神|||Must Finish
+完美|||Perfect
+完美女主|||Perfect Female Lead
+完美属性女主|||Perfect Attribute Heroine
+完美猫娘|||Perfect Cat Girl
+完美童养媳|||Perfect Child Bride
+完美萝莉|||Perfect Loli
+宏大世界观|||Epic Worldbuilding
+宏大叙事|||Grand Narrative
+宏大的世界观|||Grand Worldview
+宏大设定|||Grand Setting
+宗教旋涡|||Religious Vortex
+宝妹石子收集|||Treasure Girl Stone Collection
+宝藏|||Treasure
+实力拖剧情|||Strength Drags The Plot
+实力派|||Skilled
+实验室|||Laboratory
+宠妻狂魔|||Wife Spoiling Maniac
+宠物|||Pets
+宠物主角无语|||Speechless Pet Protagonist
+宠物后宫|||Pet Harem
+宠物娘|||Pet Girl
+宠物小精灵|||Pokémon
+宠物小精灵既视感|||Pokémon Déjà Vu
+宠物養成調教|||Pet Training and Raising
+客串|||Cameo
+室友性转|||Roommate Gender Bender
+室长大人|||Room Leader
 宫斗|||Palace Intrigue
+害行吧|||That's Fine I Guess
+家教同人|||Katekyo Hitman Reborn Fanfic
+家有靓姐二|||Two Beautiful Sisters at Home
+家里蹲|||Hikikomori
+宾果|||Bingo
+宿命|||Fate
+宿命血统论|||Fate Bloodline Theory
+宿敌|||Rival
+寄刀片系列|||Razor Blade Mailing Series
+寄生獸|||Parasyte
+富萝莉|||Rich Loli
+对冥界阴间不同的印象|||Different Impression of the Underworld
+对幻想的赎罪|||Atonement for Fantasy
+对手不白痴|||Opponents Aren't Idiots
+对手叫良辰|||Opponent Named Liang Chen
+对白|||Dialogue
+对自己的鼓励|||Encouragement to Self
+对话|||Dialogue
+对话写得很好|||Dialogue is Very Well Written
+寻找存在的意义|||Searching for Meaning of Existence
+导师|||Mentor
+封图不错|||Cover Image Good
+封弊者|||The Sealer
+封面|||Cover
+封面不错|||Nice Cover
+封面不错1|||Cover Good 1
+封面不错2|||Cover Good 2
+封面什么鬼|||What the Hell Is This Cover
+封面内涵|||Cover has Meaning
+封面厉害了|||Cover Is Amazing
+封面压抑|||Oppressive Cover
+封面可lu|||Cover is Lewd-able
+封面呗|||The Cover Though
+封面喜感|||Amusing Cover
+封面坑爹|||Deceptive Cover
+封面大讚|||Cover Is Awesome
+封面好看|||Nice Cover
+封面很吊|||Cover Is Awesome
+封面很棒|||Great Cover
+封面感人|||Touching Cover
+封面我想起了ACG区|||Cover Reminds Me of ACG Section
+封面搞事情|||Cover Is Doing Something
+封面无节操|||Cover Has No Integrity
+封面日常被吞|||Cover Always Swallowed
+封面是亮点|||Cover Is the Highlight
+封面有毒|||Toxic Cover
+封面污污污|||Lewd Cover
+封面点赞|||Cover Like
+封面牛B|||Cover Is Awesome
+封面牛肉旗袍|||Cover Beef Cheongsam
+封面牛逼|||Awesome Cover
+封面男是基佬|||Cover Guy is Gay
+封面画风喜欢|||Love the Cover Art Style
+封面看成助手|||Mistook Cover for Assistant
+封面福利|||Cover Benefits
+封面笑容美好|||Cover Smile is Beautiful
+封面简直无情|||Cover Is Simply Ruthless
+封面诡异|||Weird Cover
+封面赞|||Cover Is Great
+封面鬼畜|||Cover Is Savage
+封面魔性|||Addictive Cover
+将变成推理|||Will Become Mystery
+小H文|||Slightly H Story
+小亚酱|||Little Ya-chan
+小剧场欢乐|||Side Stories Are Fun
+小嘴抹了蜜|||Little Mouth Coated in Honey
+小坑大爱|||Small Pit Big Love
+小天使|||Little Angel
+小奏|||Xiao Zou
+小妈无敌|||Stepmom Invincible
+小妖|||Little Demon
+小妖妻子|||Little Demon Wife
+小姐姐|||Miss
+小姨也拿下|||Auntie Taken Too
+小学生|||Elementary Schooler
+小学生劝退|||Elementary Schoolers Advised to Drop
+小孩开大车|||Child Drives Big Truck
+小小作者|||Tiny Author
+小岚加油|||Xiao Lan, Good Luck
+小島流浪者|||Island Wanderer
+小师妹|||Little Junior Sister
+小师弟|||Little Junior Brother
+小强加油吧|||Little Strong, Keep Going
+小心河蟹|||Beware River Crabs
+小恶魔|||Little Devil
+小恶魔狂三|||Little Devil Kurumi
+小故事大哲理|||Small Story Big Philosophy
+小清新|||Fresh and Pure
+小清新啊|||So Fresh And Pure
+小温馨|||Little Warmth
+小溪赛高|||Little Stream Is The Best
+小火车呜呜呜|||Little Train Choo Choo
+小火车滴滴吹|||Choo-Choo Train
+小片段|||Short Segments
+小狐狸最棒|||Little Fox Is The Best
+小狗賽高|||Xiao Gou Sai Gao
+小白|||Noob
+小白文|||Xiaobai Writing
+小碎骨好萌w|||Little Bone Fragment Is So Cute w
+小神作|||Minor Godly Work
+小罪|||Minor Sin
+小老师|||Little Teacher
+小舜哥|||Little Shun Bro
+小花同学|||Classmate Xiaohua
+小萝莉|||Little Loli
+小萝莉逆天|||Little Loli Defies Heaven
+小萝莉都好强|||All The Little Lolis Are Strong
+小说名明示|||Novel Title Spoils It
+小说坑了封面亮了|||Novel Pitted but Cover Shines
+小说家|||Novelist
+小迷糊新萌|||Newbie Cute And Clumsy
+小鬼当家|||Home Alone
+小鬼推荐必是精品|||Kid Recs Are Always Gems
+小魔女|||Little Witch
+小鱼是傻瓜|||Little Fish Is an Idiot
+小黄文|||Erotic Short Story
+小黄毛受挫记|||Little Yellow Hair's Setback Record
+小黑小黑|||Little Black Little Black
 小고어|||Light Gore
+少女|||Girl
+少女军文|||Military Girl Story
+少女前線|||Girls' Frontline
+少女前线|||Girls' Frontline
+少女前线征文|||Girls' Frontline Essay
+少女卷轴|||Girl Scroll
+少女妈妈|||Young Girl Mom
+少女娇羞|||Shy Maiden
+少女恋爱养成|||Shoujo Love Development
+少女漫画|||Shoujo Manga
+少女爱情|||Shoujo Romance
+少女终末旅行|||Girls' Last Tour
+少年与剑|||Boy and Sword
+少年冒险|||Youth Adventure
+少年向|||Shonen
+少年漫画|||Shonen Manga
+少年王牌|||Young Ace
+少年的后宫简史|||A Brief History of a Youth's Harem
+少年终将为王|||The Boy Shall Become King
+少年终将成王|||The Boy Will Eventually Become King
+少年终将称王|||Youth Will Become King
+少年逆袭|||Youth Counterattack
+少年魔王|||Youth Demon King
+少有的好小说|||Rare Good Novel
+少的可怜|||Pitifully Few
+少见的好作|||Rare Good Work
+尬封面|||Awkward Cover
+就奶亿口|||Just One Sip
+就是喜欢|||Just Like It
+就是搞笑类吧|||It's a Comedy
+就是练习|||Just Practice
+就是要写嫁人|||Just Want to Write About Marriage
+尸体|||Corpse
+尸鬼|||Shiki
+尼克斯赛高|||Nix High
+尼玛|||Fuck
+尼玛不挺好看么|||Isn't It Pretty Good?
+尼玛开挂|||Fuckin' Cheating
+层层推进|||Layered Advancement
+居然如此之燃|||Surprisingly So Hot-Blooded
+居然死人了|||Someone Actually Died
+居然能过审|||It Actually Passed Review
+居然还蛮有意思的|||Surprisingly Quite Interesting
+屌丝王|||Loser King
+屌丝男主|||Loser Male Lead
+屌丝级|||Loser Level
+屌丝逆袭|||Underdog Rise
+屎皇帝|||Shit Emperor
+屑作|||Trash Work
+屑狐狸|||Scummy Fox
+展开有意思|||Interesting Development
+属性爆炸|||Attributes Explode
+山海经新玩法|||New Ways to Play Classic of Mountains and Seas
+岳琳是无敌的|||Yue Lin Is Invincible
+峰迴路轉|||Twists and Turns
+崇尚能打不谈|||Only Fighting No Talking
+崛起中的大作|||Rising Masterpiece
+崩三舰长|||Honkai 3 Captain
+崩坏|||Honkai
+崩坏3|||Honkai Impact 3
+崩坏3rd|||Honkai 3rd
+崩坏三|||Honkai 3
+崩坏乐园|||Collapsed Paradise
+崩坏乱入|||Honkai Crossover
+崩坏同人|||Honkai Fanfic
+崩坏学园2|||Honkai Gakuen 2
+崩坏学院|||Honkai Academy
+崩坏日常|||Collapsed Daily Life
+崩坏流|||Honkai Genre
+崩坏的日常|||Collapsed Daily Life
+崩崩崩|||Honkai
+工兵鉴定嫁人|||Sapper Certified Marriage
+工口女友|||Erotic Girlfriend
+工口日常|||Erotic Daily Life
+工口游戏|||Erotic Game
+工口绅士|||Erotic Gentleman
+工口魔王|||Erotic Demon King
+工業時代|||Industrial Age
+工程师的浪漫|||Engineer's Romance
+左手剑神|||Left-Handed Sword God
+左生右死|||Left Life Right Death
+左边少个控|||Missing a “Con” on the Left
+左边是真的|||Left Side Is Real
+巨x御姐|||Huge-X Onee-san
+巨乳|||Big Breasts
+巨乳女仆|||Big Breasted Maid
+巨乳少女|||Busty Girl
+巨乳控|||Big Breasts Fetish
+巨乳牛肉饭|||Busty Beef Bowl
+巨乳萝莉|||Big Breasted Loli
+巨乳蘿莉|||Big Breasted Loli
+巨乳魔王|||Big-Breasted Demon King
+巨人|||Giant
+巨好看|||Extremely Good Looking
+巨强无敌|||Extremely Overpowered
+巨根病娇少女|||Huge Root Yandere Girl
+巨硬核|||Extremely Hardcore
+巨能鸽|||Master Procrastinator
+巨脑洞|||Huge Plot Holes
+巫女|||Shrine Maiden
+巫女控|||Shrine Maiden Lover
+差劲|||Terrible
+已太监|||Dropped
+已笑抽|||Laughed Until Cramping
+帅不过三秒|||Handsome For Only Three Seconds
+帅和尚|||Handsome Monk
+帅哥美女|||Handsome Guys and Beautiful Girls
+帅哥都是反派|||Handsome Guys Are All Villains
+帅气|||Handsome
+帅男主|||Handsome Male Protagonist
+师傅就是老婆|||Master Is Wife
+师傅都是高人|||All Masters are Experts
+师妹|||Junior Martial Sister
 师尊|||Master/Shifu
+师尊伪装怪|||Master in Disguise
+师父|||Master
+师父师父|||Master Master
+师父救我|||Master Save Me
+师生恋|||Teacher-Student Romance
+希尔薇|||Sylvie
+希望|||Hope
+希望与愿望|||Hope and Wish
+希望加更|||Please Update More
+希望可以一天三更|||Hope for Three Updates a Day
+希望快更|||Hope for Faster Updates
+希望有人来看|||Hoping Someone Reads It
+希望能更新|||Hope It Updates
+帝国|||Empire
+帝骑哥|||Kamen Rider Emperor
+帥氣|||Handsome
+帥爆拉|||Super Handsome
+带感到炸|||Brings Explosive Feels
+带枪穿越异界|||Gun-Traversing To Another World
+带着游戏穿越|||Transmigrated With a Game
+带系统|||With System
+带脑子看|||Read With Your Brain
+常伴我身|||Always By My Side
+常更大佬|||Frequent Bigshot Updater
+干姐姐|||Dry Older Sister
+平凡无味的作品|||Bland and Ordinary Work
+平凡的故事|||Ordinary Story
+平实风趣|||Down-to-Earth Humor
+平淡|||Plain
+平淡的日常|||Plain Daily Life
+平职|||Flat Job
+平胸御姐|||Flat-Chested Onee-san
+平行世界|||Parallel World
+平行宇宙|||Parallel Universe
+平行时空|||Parallel Time and Space
+平行线|||Parallel Lines
+年度喜剧大片|||Annual Comedy Blockbuster
+年更|||Yearly Updates
+年更作者|||Yearly Updater
+并没找到原作|||Couldn't Find The Original
+并非无敌|||Not Invincible
+幸福之事|||Happy Things
+幸运E|||Luck E
+幻世|||Fantasy World
+幻想|||Fantasy
 幻想乡|||Gensokyo/Touhou
+幻想大陆|||Fantasy Continent
+幻想悬疑|||Fantasy Suspense
+幻想战姬|||Fantasy Valkyrie
+幻想科幻文|||Fantasy Sci-Fi
+幻想鄉|||Gensokyo
+幻想风|||Fantasy Style
+幻魂师|||Illusion Soul Master
+幼喵园|||Kitten Kindergarten
+幼女|||Young Girl
+幼女十兵卫|||Loli Jubei
+幼女和狗|||Loli And Dog
+幼女悠悠|||Little Girl Yoyo
+幼女魔王|||Loli Demon King
+幼妻|||Child Bride
+幼稚的思维|||Childish Thinking
+幼童|||Young Child
+幼驯染|||Childhood Friend
+幼驯染的胜利|||Childhood Friend's Victory
+幼龙|||Young Dragon
+幽灵|||Ghost
+幽蓝|||Deep Blue
+幽靈學姊真愛|||Ghost Senpai True Love
+幽魂大作战|||Ghost Ops
+幽默|||Humorous
+幽默有趣|||Humorous and Interesting
+序章倒置|||Prologue Inverted
+序章大结局|||Prologue Is The Grand Finale
+应该不算坑|||Probably Not a Pit
+应该是无敌流|||Should Be Invincible Genre
+庞大世界观|||Vast Worldbuilding
+庞大的世界观|||Huge Worldbuilding
 废土|||Wasteland
+废宅老师|||NEET Teacher
+废宅魔王|||NEET Demon King
+废材|||Useless Talent
+废材小萝莉|||Useless Little Loli
+废材流|||Trash Talent Genre
+废材男主|||Useless Male Lead
 废柴|||Useless/Loser MC
+废柴与美女|||Loser and Beauty
+废柴成长记|||Trash Growth Story
+废柴流|||Useless Guy Genre
+废柴的逆袭|||Trash Counterattack
+废萌|||Cute But Useless
+废萌宅|||Useless Cute NEET
+废话不多|||No Nonsense
+建后不许成精|||No Becoming Spirits After Founding
+建国|||Founding a Nation
+建國|||Founding a Nation
+开了假外挂|||Using Fake Cheat
+开后宫开挂点击来|||Harem + Cheats + Clicks
+开后宫的纯爱|||Harem Pure Love
+开后宫的节奏|||Harem Opening Pace
+开头弱爆|||Weak Opening
+开头治愈|||Healing At The Start
+开头真逗|||Opening Is Really Funny
+开头非常吸引|||Very Attractive Opening
+开始你的表演|||Begin Your Performance
+开学后周更|||Weekly Updates After School Starts
+开局一张卡|||Starts With One Card
+开局一手机|||Starts With a Phone
+开局一把刀|||Starts With a Knife
+开局有点萌|||Opening Is A Bit Cute
+开店|||Opening a Shop
+开挂|||Overpowered
+开挂BUG|||Cheat Bug
+开挂不存在|||No Cheats Exist
+开挂哥哥|||Cheat Big Brother
+开章死男主|||Male Lead Dies at the Start
+开端|||Beginning
+开篇反转|||Opening Twist
+开篇高能炸裂|||Opening Is High-Energy Explosive
+开荒|||Pioneering
+开超市|||Opening a Supermarket
+开车|||Lewd
+开车神作|||Driving Masterpiece
+开车警告|||Driving Warning
+开车贼稳|||Driving Very Steady
+开车达人|||Driving Expert
+开黑车|||Driving Black Car
+异|||Different
+异世修真界|||Otherworld Cultivation Realm
 异世界|||Isekai
+异世界冒险|||Isekai Adventure
+异世界十三香|||Thirteen Spices from Another World
+异世界战争|||Otherworld War
+异世界旅行|||Otherworld Travel
+异世界的日常|||Daily Life in Another World
+异世网游|||Otherworld MMO
+异世重生|||Otherworld Rebirth
+异变|||Mutation
+异常生物|||Abnormal Creature
+异族娘|||Foreign Race Girl
+异界|||Another World
+异界之旅|||Otherworld Journey
+异界入侵|||Otherworld Invasion
+异界吃货之旅|||Otherworld Foodie Journey
+异界巨龙|||Otherworld Giant Dragon
+异界幻想|||Otherworld Fantasy
+异界旅行笔记|||Otherworld Travel Notes
+异界生存|||Otherworld Survival
+异界魔界|||Otherworld Demon Realm
+异种|||Different Species
+异类变身|||Non-Human Transformation
 异能|||Superpowers
+异能与魔法|||Supernatural Powers and Magic
+异能世界|||Superpower World
+异能力|||Supernatural Ability
+异能社会|||Supernatural Society
+异能者的游戏|||Game of Espers
+异虫|||Alien Bug
+弑神灭魔|||Slaying Gods and Demons
+弑神者|||God Slayer
+弓手|||Archer
+引人入胜|||Captivating
+引人深思|||Thought-Provoking
+引入戲份的手法很好|||Great Way to Introduce Plot
+弟弟裸裙做饭|||Younger Brother Cooks in Naked Apron
+弟控|||Brother Complex
+弟控姐姐|||Brother-Complex Big Sister
+弟控子控伪娘|||Brocon + Shotacon + Trap
+弟控最爱|||Little Brother Con's Favorite
+弟控毁灭世界|||Brother-obsessed Destroys the World
+弟控的由来|||Origin of Brocon
+弟裸裙做饭|||Brother Cooks in Naked Apron
+弥补了心中的遗憾|||Fills the Heart's Regret
+弱受|||Weak Bottom
+弱受什么的最棒了|||Weak Bottoms Are the Best
+弱受呜呜|||Weak Bottom Wuwu
+弱受男主|||Submissive Male Lead
+弱受第一人称|||Weak Bottom First Person
+弱受软萌狐|||Weak Soft Cute Fox
+弱智文|||Idiotic Writing
+弱气女仆|||Timid Maid
+弱气男主|||Timid MC
+弱者装逼|||Weakling Showing Off
+弹幕战争|||Danmaku War
+弹幕狂|||Danmaku Maniac
+弹珠|||Marbles
+强制补魔|||Forced Mana Replenishment
+强势女主|||Strong Female Lead
+强势的妹妹|||Dominant Little Sister
+强势送狗粮|||Force-Feeding Dog Food
+强化人|||Enhanced Human
+强大|||Powerful
+强大加油吧|||Strong, Keep Going
+强大的古代|||Powerful Ancient Era
+强大的插画|||Powerful Illustrations
+强强|||Strong x Strong
+强推小说|||Strongly Recommend
+强无敌|||Extremely OP
+强殖装甲|||Guyver
+强者归来|||Return of the Strong
+强者无敌|||Strongest Invincible
+强行不要脸的男人|||Forcibly Shameless Man
+强行头脑战|||Forced Battle of Wits
+强行学霸|||Forced Academic Overlord
+强行校园|||Forced School Setting
+强行淫贼|||Forced Pervert
+当作者沦为|||When The Author Becomes
+当然捧个|||Of Course Supporting
+当面NTR|||Face-to-Face NTR
+当麻的幸运值|||Touma’s Luck Value
+形象的封面|||Vivid Cover
+彩蛋|||Easter Egg
+影子生物圈|||Shadow Biosphere
+影帝|||Best Actor
+影舞者|||Shadow Dancer
+征战天下|||Conquering the World
+征文中篇|||Mid-Length Submission
+征文铜奖|||Essay Contest Bronze Award
+征服play|||Conquest Play
+征服世界|||World Conquest
+很h很暴力|||Very H Very Violent
+很不错|||Very Good
+很不错啊|||Pretty Good
+很不错多多加油|||Very Good, Keep It Up
+很不错的书|||Very Good Book
+很不错的你们要用心|||Very Good, You Must Work Hard
+很不错的文章|||Very Good Article
+很人性化|||Very Humanized
+很努力|||Very Hardworking
+很喜欢|||Like It Very Much
+很喜欢超棒的|||Like It Very Much, Super Awesome
+很失败的一个文章|||A Very Failed Story
+很好|||Very Good
+很好十分你当之无愧|||Very Good, You Fully Deserve It
+很好呦|||Very Good
+很好哦|||Very Good
+很好啊|||Very Good
+很好很强大|||Very Good Very Strong
+很好玩|||Very Fun
+很好的剧情|||Great Plot
+很好看|||Very Good Looking
+很好看剧情蛮赞的|||Very Nice Plot
+很好看哦|||Very Beautiful
+很好看喔|||Very Nice to Read
+很好看的西幻小说|||Very Good Western Fantasy Novel
+很好看的说|||It's Really Good
+很帅的|||Very Handsome
+很强势|||Very Dominant
+很意识的意识流|||Very Conscious Stream of Consciousness
+很感人|||Very Touching
+很懒的作者|||Very Lazy Author
+很有勇气啊|||Very Courageous
+很有意思|||Very Interesting
+很有意思哦|||Very Interesting
+很有深意|||Very Meaningful
+很有趣|||Very Interesting
+很有趣啊|||Very Interesting
+很有趣的哟魔幻|||Very Interesting Fantasy
+很棒|||Great
+很棒啊|||Awesome
+很棒喔|||Awesome
+很棒棒的百合|||Super Great Yuri
+很棒的作品|||Excellent Work
+很棒的小说哦|||Great Novel
+很棒这个我喜欢|||Great, I Like This
+很棒顶|||Awesome, Upvote
+很水|||Very Watery
+很治愈|||Very Healing
+很治愈啊|||Very Healing
+很流畅|||Very Smooth
+很温暖治愈|||Warm and Healing
+很溫暖|||Very Warm
+很热血|||Very Hot-Blooded
+很燃很甜|||Hot-Blooded And Sweet
+很狗血|||Very Melodramatic
+很甜很蜜|||Very Sweet
+很皮|||Very Cheeky
+很碉堡我喜欢|||Very Awesome, I Like It
+很精彩|||Very Exciting
+很萌|||Very Cute
+很虐很虐|||Very Tragic Very Tragic
+很骚|||Lewd
+後宮|||Harem
+後宮GOOD|||Harem GOOD
+後宮潛力|||Harem Potential
+後宮王|||Harem King
+後工壓|||Later Work Pressure
+後記王|||Afterword King
+徒儿|||Disciple
+徒弟|||Disciple
+徒弟養成|||Disciple Raising
+徒手拆object|||Barehanded Dismantling Object
+御姐|||Onee-san
+御姐与萝莉|||Onee-san and Loli
+御姐女仆奶妈|||Onee-san Maid Healer
+御雷逐渐孤儿|||Thunder Controller Gradually Orphaned
+復仇者|||Avenger
+微妙的真实|||Subtly Realistic
+微微燃|||Slightly Hot-Blooded
+微微黑化|||Slight Blackening
+微百合|||Slight Yuri
+微笑|||Smile
+微致郁|||Slightly Depressing
+微虐|||Slight Angst
+微语|||Whispers
+微魔幻|||Light Fantasy
+德丽莎|||Theresa
+德国骨科|||German Orthopedics
+德国骨科主场|||German Incest Home Field
+德國骨科|||German Orthopedics
+心与梦想|||Heart and Dreams
+心机boy|||Scheming Boy
+心機婊|||Scheming Bitch
+心狠手辣|||Ruthless and Cruel
+心理|||Psychology
+心理哲学|||Psychological Philosophy
+心理推敲|||Psychological Analysis
+心理障碍超神|||Mental Barrier God-Tier
+心疼凌灵|||Heartache for Ling Ling
+心疼小丹妖|||Heartache For Little Dan Yao
+心疼小清|||Heartache for Xiao Qing
+心疼左晗|||Heartache for Zuo Han
+心疼方依依|||Heartache For Fang Yiyi
+心疼道明寺|||Heartache for Daomingsi
+心酸|||Heartbreaking
+必成大气候|||Will Definitely Become Big
+必看大概吧|||Must Read, Probably
+必須要看|||Must Read
+必须嫁人|||Must Get Married
+必须收藏|||Must Collect
+必须百合|||Must Be Yuri
+必须耐心看|||Requires Patience
+必须顶|||Must Upvote
+忍住浮躁好书|||Good Book If You Endure Impatience
+快上车|||Get in the Car Quickly
+快乐开局|||Happy Start
+快乐装逼|||Happy Pretentiousness
+快乐风男|||Happy Wind Man
+快快长大|||Grow Up Fast
+快收妹子急死|||Hurry Up and Collect Girls
+快更|||Update Faster
+快更啊|||Update Faster
+快更新|||Update Faster
+快更新啊|||Update Faster
+快来拆少林寺|||Come Demolish Shaolin Temple
+快枪手|||Quick Gunner
+快滚去嫁人|||Go Get Married Already
+快点更|||Update Faster
+快点更新|||Update Faster
+快点更新吧等的好苦啊|||Update Faster, Waiting Is Painful
+快点更新啊|||Update Faster
+快点滚去结婚|||Hurry Up and Get Married
+念动力好厉害|||Psychokinesis Is Amazing
+念经|||Chanting Sutras
+怀孕的男主|||Pregnant Male Lead
+怀念|||Nostalgic
+怀门天下第一|||Huaimen Is Number One
+怂出一片天|||Cowardice Conquers All
+怎么能少萝莉|||How Can It Lack Lolis
+怕不是假性转|||Probably Fake Gender Bender
+怕不是分错区|||Probably in the Wrong Server
+思想骨化|||Thought Ossification
+思考|||Thinking
+思路清奇|||Unique Thinking
+思路缜密|||Tight Plot
+怠惰主角|||Slothful Protagonist
+怠惰作者|||Lazy Author
+怠惰的作者|||Lazy Author
+急死读者|||Anxious Readers to Death
+性互转|||Mutual Gender Swap
+性冷淡|||Frigid
+性别反转|||Gender Bender
+性反转|||Gender Swap
+性反转好评|||Gender Bender Good
+性感作者|||Sexy Author
+性感咲神|||Sexy Sakuya God
+性感离瞳|||Sexy Heterochromia
+性有能|||Sexually Capable
+性有能男主|||Sexually Talented Male Protagonist
+性本恶|||Nature Is Evil
+性格大变|||Personality Overhaul
+性装|||Gender Dress
+性轉|||Gender Bender
+性转|||Gender Bender
+性转兄妹|||Genderbent Siblings
+性转加重生|||Gender Bender Plus Rebirth
+性转变身|||Gender Bender Transformation
+性转吗|||Gender Bender?
+性转在二卷|||Gender Bender in Volume 2
+性转在哪里|||Where is the Gender Bender
+性转嫁人|||Gender Bender Marriage
+性转换|||Sex Swap
+性转换卖肉|||Gender Bender Fanservice
+性转是手滑|||Gender Bender Was a Typo
+性转穿越|||Genderbender Transmigration
+性转花嫁|||Genderbent Bride
+性转萝莉|||Gender Bender Loli
+性转霍金|||Genderbent Hawking
+性转骚操作|||Gender Bender Shenanigans
+性骚扰作者|||Sexually Harassing The Author
+怪力女主|||Super Strength Heroine
+怪力萝莉|||Super Strength Loli
+怪异|||Bizarre
+怪物后宫|||Monster Harem
+怪物娘|||Monster Girl
+怪物猎人|||Monster Hunter
+怪物领主|||Monster Lord
+怪獸|||Monster
+怪異怪異|||Strange Strange
+怪蜀黍|||Weird Uncle
+怪诞|||Bizarre
 怪谈|||Ghost Stories
+总体不错|||Overall Not Bad
+总体挺喜欢的|||Overall Quite Like It
 总裁|||CEO
+恋恋快动啊|||Lianlian Move Fast
 恋爱|||Romance
+恋爱后宫|||Romance Harem
+恋爱喜剧|||Romantic Comedy
+恋爱心理战|||Romance Mind Games
+恋爱游戏|||Romance Game
+恋爱轻喜剧|||Romance Light Comedy
+恋物癖|||Fetish
 恐怖|||Horror
+恐怖分子|||Terrorist
+恐怖刺激|||Horror Thrill
+恩恩挺好的|||Yeah, Pretty Good
+恩问题儿童|||Yeah, Problem Children
+恶女洗白|||Villainess Redemption
+恶心|||Disgusting
+恶性病娇|||Vicious Yandere
+恶意一分|||Malice 1 Point
+恶意的世界|||Malicious World
+恶意的设定|||Malicious Setting
+恶搞|||Parody
+恶搞全世界|||Pranking the Whole World
+恶灵|||Evil Spirit
+恶灵退散|||Evil Spirit Begone
+恶百合万雌王|||Evil Yuri Queen of a Thousand Wives
+恶趣味|||Dark Humor
+恶趣味中的感动|||Touching in a Twisted Way
+恶额|||Ugh
+恶魔|||Demon
+恶魔萝莉|||Demon Loli
+恶龙|||Evil Dragon
+恶龙小姐|||Evil Dragon Miss
+恶龙是萝莉|||Evil Dragon is Loli
+恶龙萌萌哒|||Evil Dragon Is Super Cute
+您有脾气吗|||Do You Have a Temper?
+您配个几把|||Are You Fucking Worthy?
+您配吗|||Are You Worthy?
+悬念|||Suspense
+悬念十足|||Full of Suspense
 悬疑|||Suspense
+悲伤|||Sadness
+悲伤的故事|||Sad Story
+悲催|||Tragic
+悲催男主|||Tragic Male Lead
+悲凉|||Desolate
+悲剧|||Tragedy
+悲剧故事|||Tragic Story
+悲剧机战|||Tragic Mech War
+悲剧男|||Tragic Male
+悲剧男主|||Tragic Male Lead
+悲剧结尾|||Tragic Ending
+悲壮|||Tragic And Heroic
+情感|||Emotion
+情感细腻|||Delicate Emotions
+情报作者女的|||Info Author Is Female
+情报作者萝莉|||Info Author Is Loli
+情景污剧|||Situational Dirty Drama
+情节有看头|||Plot Is Worth Watching
+情节波折|||Twisty Plot
+情节神展开|||Plot Twists Like Crazy
+惊奇|||Marvel
 惊悚|||Thriller
+惊悚类|||Horror Genre
+惊现激光星人|||Laser Alien Appears
+惊险刺激|||Thrilling
+惡搞主角|||Pranking the MC
+惡魔|||Demon
+惨烈修罗场|||Tragic Carnage
+想不到|||Unexpected
+想嫁策|||Want To Marry Ce
+想日主句|||Want To Fuck The Protagonist
+想日主角|||Want to Fuck the MC
+想看|||Want to Read
+想看后续|||Want to See Sequel
+想看琳萝莉|||Want to See Lin Loli
+想看百合|||Want to See Yuri
+想象力不错|||Good Imagination
+想象力丰富|||Rich Imagination
+想象力爆表|||Imagination Off The Charts
+惹不起的泽|||Can't Mess With Ze
+愉快轻松|||Pleasant And Relaxed
+愉悦|||Pleasure
+愉悦杀人|||Pleasure Killing
+意味深长|||Profound Meaning
+意外地好看|||Surprisingly Good
+意外地有趣|||Unexpectedly Interesting
+意外好看|||Surprisingly Good
+意外慢热型|||Unexpectedly Slow Burn
+意外有趣|||Surprisingly Interesting
+意外的好看|||Surprisingly Good
+意外的有意思|||Surprisingly Interesting
+意外的有趣|||Unexpectedly Interesting
+意外的温馨呢|||Unexpectedly Heartwarming
+意识流|||Stream of Consciousness
+感动|||Touching
+感动向|||Heartwarming
+感性|||Emotional
+感情|||Emotion
+感情细腻|||Delicate Emotions
+感覺不錯|||Feels Good
+感覺兄弟戀很有愛|||Feels Like Brotherly Love Is Cute
+感觉可以|||Seems Good
+感觉可以继续看下去|||Feels Like I Can Keep Reading
+感觉很不错|||Feels Great
+感觉很厉害的样子|||Looks Really Amazing
+感觉很甜|||Feels Very Sweet
+感觉挺好看|||Feels Quite Good
+感觉有大戏看|||Big Show Incoming
+感觉有点意思|||Feels Somewhat Interesting
+感觉略坑|||Feels Slightly Pitted
+感觉蛮不错的一本书|||Feels Like a Pretty Good Book
+感觉要火|||Feels Like It Will Be Popular
+感觉还不错哟|||Feels Pretty Good
+感谢支持|||Thanks For The Support
+慢慢来|||Take It Slow
+慢热|||Slow Start
+慢热剧情|||Slow-Burn Plot
+慢热后宫|||Slow-Burn Harem
+慢热后宫装逼|||Slow-Burn Harem Pretentious
+慢热型|||Slow Burn
+慢热型作品|||Slow-Burn Story
+慢热型男主|||Slow-Burn Male Lead
+慢热实力派|||Slow Burn Powerhouse
+慢热异能文|||Slow-Burn Supernatural Story
+慢热文|||Slow Burn Story
+慢热流|||Slow Burn
+慢热神作|||Slow-Burn Masterpiece
+慢热系列|||Slow Burn Series
+慢热超燃|||Slow Start Super Hot
+慢熱|||Slow Burn
+慢节奏|||Slow Paced
+慢读流|||Slow-Read Genre
+慢速大坑|||Slow Big Pit
+憨批小说|||Silly Novel
+懒惰狐仙|||Lazy Fox Immortal
+懒惰的鸽子|||Lazy Pigeon
+懒懒的作者菌|||Lazy Author
+懒癌|||Terminal Laziness
+懒癌得治|||Lazy Cancer Needs Treatment
+懒癌晚期|||Terminal Laziness
+戀愛|||Romance
+戀母情結|||Mother Complex
+戏精|||Drama Queen
+戏言风格|||Kyogen Style
+成人向|||Adult
+成吨律师函|||Tons of Lawyer Letters
+成哥|||Brother Cheng
+成绩全S|||All S-Rank Grades
+成长|||Character Growth
+我不信后宫只有两个人|||I Don't Believe the Harem Has Only Two People
+我不是人|||I'm Not Human
+我不能接受|||I Can't Accept It
+我不行了|||I Can't Anymore
+我也想要个人偶|||I Want a Doll Too
+我也要捉个叽萝回去|||I Want to Catch a Loli Too
+我们的故事|||Our Story
+我全都要|||I Want Them All
+我到底看了啥|||What Did I Just Read
+我去囧|||Oh My
+我受不了|||I Can't Take It
+我只想要姐姐|||I Only Want A Sister
+我只是想开个坑|||I Just Want to Start a Story
+我喜欢|||I Like It
+我喜欢黑色|||I Like Black
+我太喜欢了|||I Like It Too Much
+我好喜欢这样的风格|||I Really Like This Style
+我就不女装|||I Refuse to Crossdress
+我就打酱油|||I'm Just Passing By
+我怎能不妹控|||How Can I Not Be a Siscon
+我愛SAO|||I Love SAO
+我愛後宮|||I Love Harem
+我才不是萝莉|||I'm Not a Loli
+我才没笑|||I'm Not Laughing
+我把你当兄弟|||I See You As A Brother
+我把你当哥哥|||I Treat You as a Brother
+我是不是|||Am I
+我是个作者|||I Am an Author
+我是来顶的|||I'm Here to Upvote
+我是面瘫我骄傲|||I'm Expressionless and Proud
+我来组成大怒|||I'm Forming Great Anger
+我来组成头部|||I'll Form the Head
+我来顶个|||I'll Upvote
+我爱你|||I Love You
+我用五色了哈哈|||I Used Five Colors Haha
+我留名|||I Left My Name
+我的NPC不能这么软|||My NPC Can't Be This Soft
+我的回合抽卡|||It's My Turn, Draw Card
+我的王之力啊|||My Power of the King Ah
+我看上瘾了|||I'm Addicted
+我经历了什么|||What Did I Experience
+我绝望了|||I'm In Despair
+我绿我自己|||I Cuckold Myself
+我要妹妹|||I Want A Little Sister
+我要後宮|||I Want a Harem
+我要成为后宫王|||I Want to Become the Harem King
+我觉得樱花庄不该有续|||I Think Sakurasou Shouldn't Have a Sequel
+我起被秒|||I Get One-Shot Upon Waking
+我还以为是日轻|||Thought It Was Japanese Light Novel
+我选择死亡|||I Choose Death
+或单或百|||Either Solo or Yuri
+或许会很有趣|||Might Be Very Interesting
 战争|||War
+战争幸存者|||War Survivor
+战争幻想|||War Fantasy
+战争机甲|||War Mecha
+战争雷霆|||War Thunder
+战后|||Post-War
+战国|||Warring States
+战场女武神|||Valkyrie of the Battlefield
 战斗|||Combat
+战斗冒险|||Battle Adventure
+战斗向|||Combat-Oriented
+战斗姬|||Combat Girl
+战斗法师|||Battle Mage
+战斗画面不错|||Battle Scenes Are Good
+战斗真实|||Realistic Battles
+战斗系日常|||Combat-Type Daily Life
+战斗萝卜|||Battle Mecha
+战斗部分好专业|||Combat Parts Are Very Professional
+战舰|||Warship
+战舰少女|||Kantai Collection
+战舰少女R|||Azur Lane R
+战车和妹子|||Tanks and Girls
+战锤混沌|||Warhammer Chaos
+战鬥民族|||Fighting Nation
+戰鬥|||Battle
+房东|||Landlord
+所以给1分|||So Gave 1 Point
+所以说灵魂到底什么鬼|||So What the Heck Is a Soul
+手撕高达|||Hand-Tearing Gundam
+手游|||Mobile Game
+才不嫁人|||Won't Marry
+才不是嫁人|||Definitely Not Getting Married
+才不是新坑呢|||This Is Not a New Pit
+才不是鼓励新人呢哼|||Not Encouraging Newbies, Hmph
+打发时间|||Kill Time
+打响指能灭世|||Snapping Fingers Can Destroy the World
+打字機|||Typewriter
+打工|||Part-time Job
+打工死神|||Working Grim Reaper
+打工生活|||Working Life
+打戏精彩|||Fighting Scenes Are Wonderful
+打斗|||Fighting
+打斗场面劲爆|||Explosive Fight Scenes
+打斗多|||Lots of Fighting
+打某擦边球|||Slightly Lewd
+打桩机|||Pile Driver
+打死野学家|||Beat Wild Scholars to Death
+打牌小说|||Card Game Novel
+打破第四道墙|||Breaking the Fourth Wall
+执杖AL|||Staff-Wielding AL
+扭曲|||Twisted
+扮猪吃老|||Pretending to Be Weak
+扮猪吃老虎|||Underdog
+扮猪吃虎|||Underdog
+扮猪吃软饭|||Pretending To Be Weak To Eat Soft Rice
+扮豬吃老虎|||Pretending to Be Weak
+扯淡|||Nonsense
+扯淡妄想|||Nonsensical Delusion
+扯犊子|||Nonsense
+扶他妹汁|||Futanari Sister Juice
+扶她|||Futanari
+找到宝贝了|||Found A Treasure
+技能流强无敌|||Skill Flow Extremely Strong
+抄袭|||Plagiarism
+抄袭无耻|||Shameless Plagiarism
+抄袭没意思|||Plagiarism Is Boring
+抄袭狂魔|||Plagiarism Maniac
+把基础打好|||Build a Solid Foundation
+把妹|||Picking Up Girls
+把妹高手|||Master Pick-up Artist
+把衣服脱下来|||Take Off Your Clothes
+抑郁|||Depressing
+抑郁症作者|||Author Has Depression
+投错区系列|||Wrong Section Series
+投错站系列|||Wrong Station Series
+投靠崩坏|||Joining the Collapse
+抖M|||Masochist
+抖M作者|||Masochist Author
+抖M男主|||Masochist Male Lead
+抖S|||Sadist
+抖S傲娇妹子|||Sadistic Tsundere Girl
+抖m|||Masochist
+抖s女主|||Sadistic Female Lead
+折磨读者|||Torturing Readers
+抠|||Stingy
+抢妹子|||Stealing Girls
+抢老婆|||Stealing Wives
+护妹狂魔|||Sister-Protecting Demon
+护妻狂魔|||Wife Protector
+护妻狂魔女主|||Wife-Protecting Maniac Female Lead
+护花狂魔|||Flower-Protecting Maniac
+报复型撩姬|||Vengeful Flirting
+报复社会|||Taking Revenge on Society
+报社联萌|||Newspaper Club Alliance
+抱大腿的主角|||Protagonist Who Hugs Thighs
+抱老婆大腿|||Hugging Wife's Thigh
+抽卡|||Gacha
+抽象主义神作|||Abstract God-Tier Work
+拂晓黑手袭来|||Dawn's Dark Hand Strikes
+拍拍拍|||Slap Slap Slap
+拖更作者|||Slow Update Author
+拖更怪|||Update Delayer
+拖更狂魔|||Slow Updater
+拖更狂魔沐星|||Update Delaying Demon Mu Xing
+拖沓|||Draggy
+拟日轻|||Imitating Japanese Light Novel
+拯救|||Rescue
+拯救世界|||Save The World
+拯救者|||Savior
+拳皇|||King of Fighters
+拿來當老婆|||Take as Wife
+持剑主角路过|||Sword-Wielding MC Passing By
+挂男主|||Cheat Male Lead
+挂逼|||Cheater
+指挥官|||Commander
+指挥官更可爱|||Commander Is Even Cuter
+挖坑|||Digging Pit
+挣扎|||Struggling
+振作点修女大人|||Cheer Up, Sister
+挺不錯的|||Quite Good
+挺喜欢的|||Quite Like It
+挺好|||Pretty Good
+挺好的|||Quite Good
+挺好的小说赞|||Pretty Good Novel, Like
+挺好看的|||Pretty Good
+挺有意思|||Quite Interesting
+挺有意思但更新好慢|||Quite Interesting But Updates Are Slow
+挺有趣|||Quite Interesting
+挺棒的|||Pretty Awesome
+捏妹子|||Pinching Girls
+捕获萌物一只|||Captured One Cute Creature
+捡到只小萝莉|||Picked Up A Little Loli
+捡妹的人生|||Life of Picking Up Girls
+换我牛肉旗袍|||Change To My Beef Cheongsam
+换老婆的季节|||Season of Changing Wives
+换装|||Costume Change
+换装PL|||Crossdressing Play
+换身|||Body Swap
+掉书袋|||Showing Off Knowledge
+掌控雷电|||Master of Lightning
+掌握核心科技|||Mastering Core Technology
+排枪射击|||Shotgun Fire
+接吻召唤|||Kiss Summoning
+接地气|||Down-to-Earth
+接触异性性转|||Opposite Sex Gender Bender
+推倒|||Push Down
+推倒妹妹|||Pushing Down Little Sister
+推倒帝|||Push-Down Emperor
+推倒推倒|||Push Down Push Down
+推倒系|||Push-Down Genre
+推倒萝莉|||Push Down Loli
+推倒阿|||Push Down
+推到千月给赞|||Pushing to Sengetsu Gets Praise
+推到啊|||Push Her Down
+推到男主吧|||Push Down the Male Lead
+推到阿|||Push Down
+推土机|||Bulldozer
 推理|||Mystery/Detective
+推荐|||Recommended
+描写生动|||Vivid Description
+描绘细腻|||Delicate Depiction
+描述方式难受|||Uncomfortable Description Style
+插图|||Illustrations
+插图好看|||Nice Illustrations
+插图点赞|||Like the Illustrations
+插图超棒|||Amazing Illustrations
+插旗狂魔|||Flag-Planting Maniac
+插画不要钱|||Illustrations Are Free
+插画好看满分|||Illustrations are Perfectly Beautiful
+揪心|||Heart-Wrenching
+揭秘|||Reveal
+援交风|||Compensated Dating Style
+搓狐狸|||Petting Fox
+搞|||Do It
+搞事|||Stirring Trouble
+搞事情|||Stirring Trouble
+搞事的嫁人|||Troublemaking Marriage
+搞基|||Gay
+搞基or搞姬|||BL or GL
+搞姬|||Yuri
+搞建设|||Infrastructure Building
 搞笑|||Comedy
+搞笑一游戏|||Funny Game
+搞笑下的严肃|||Serious Beneath The Comedy
+搞笑吐槽|||Funny Roasts
+搞笑啊|||So Funny
+搞笑好冷|||Funny But Cold
+搞笑拙劣|||Poor Comedy
+搞笑无敌|||Unrivaled Comedy
+搞笑无敌流|||Comedy Invincible
+搞笑日常|||Funny Daily Life
+搞笑流|||Comedy Genre
+搞笑热血|||Funny and Hot-Blooded
+搞笑而严肃|||Funny Yet Serious
+搞笑非日常中的日常|||Comedy in Non-Daily Daily Life
+携带武魂舰娘|||Carrying Shipgirl Martial Souls
+摸不着套路|||Can't Figure Out the Routine
+摸摸摸摸摸了|||Petting Petting Petting
+摸鱼型作者|||Slacking Author
+撒狗粮|||Dog Food
+撩妹新高度|||New Height in Flirting
+撩妹狂魔|||Girl-Flirting Maniac
+操纵时间|||Time Manipulation
+支持|||Support
+支持原创吧|||Support Originals
+支持是动力|||Support Is Motivation
+支持橙子|||Support Orange
+支持泽月的点我|||Support Zeyue By Clicking
+支线狂魔|||Side Story Maniac
+收女仆狂魔|||Maid Collecting Maniac
+收女儿狂魔|||Daughter-Collecting Maniac
+收藏了不亏|||Worth Collecting
+收集信仰|||Collecting Faith
+改头换面|||Complete Makeover
+攻受分明|||Clear Seme/Uke Roles
+攻城狮|||Siege Lion
+攻妹兄受|||Attack Sister Brother Bottom
+攻略|||Strategy
+攻略之神|||God of Strategy
+攻略啦|||Conquered
+攻略线路开启|||Capture Route Activated
+攻略萝莉|||Conquering Lolis
+放开那个萝莉|||Let Go of That Loli
+放开那萝莉让我来|||Let Go of That Loli, Let Me Have Her
+放开那边的学姐让我来|||Let Go of That Senpai, Let Me
+放弃治疗|||Abandoning Treatment
+放眼世界|||Look at the World
+放糖|||Adding Sugar
+放错分类系列|||Wrong Category Series
+放飞自我|||Letting Loose
+政治斗争|||Political Struggle
+故事不错|||Good Story
+故事不错下|||Story Is Good
+故事新说|||New Story Retelling
+故事构思新颖|||Original Story Concept
+故事清新流畅|||Story Is Fresh And Smooth
+故事细腻|||Delicate Story
+故事衔接不好|||Story Connection Is Poor
+故我曰|||Thus I Say
+敌人变姬友|||Enemy Becomes Yuri Friend
+救世主|||Savior
 救赎|||Redemption
+敗敗|||Failure Failure
+教会|||Church
+教你如何撩妹|||Teaching You How to Flirt
+教师|||Teacher
+敢不敢多更点|||Dare To Update More
+散文|||Prose
+敬业鬼才|||Dedicated Genius
+数学分析|||Mathematical Analysis
+数学特长|||Math Talent
+数年积累|||Years of Accumulation
 数据|||Data/Numbers
+数据流|||Data Stream
+整合的很完美|||Integration Is Perfect
+文化|||Culture
+文化優越|||Cultural Superiority
+文学|||Literature
+文科大佬|||Liberal Arts Expert
+文章有质有量|||High Quality & Quantity
+文章潦草|||Sloppy Writing
+文笔|||Writing Style
+文笔一如既往的帅|||Writing As Handsome As Always
+文笔一流|||Top-Tier Writing
+文笔不一样|||Unique Writing Style
+文笔不错|||Good Writing
+文笔不错多更|||Good Writing, Update More
+文笔不错很有天分|||Good Writing, Very Talented
+文笔不错给个赞|||Good Writing, Like
+文笔优秀|||Excellent Writing
+文笔优美|||Beautiful Writing
+文笔动人|||Beautiful Writing
+文笔华丽|||Gorgeous Writing
+文笔厉害|||Excellent Writing
+文笔可以哒|||Writing Style Is Good
+文笔吊炸|||Writing Style is Awesome
+文笔大赞XD|||Writing Is Highly Praised XD
+文笔好|||Great Writing
+文笔好细腻|||Writing Is So Delicate
+文笔好评|||Good Writing Style
+文笔屌炸|||Writing Is Awesome
+文笔已爆炸|||Writing Exploded
+文笔强大|||Powerful Writing
+文笔很不错|||Great Writing
+文笔很差|||Poor Writing
+文笔很棒|||Excellent Writing
+文笔有待提升|||Writing Needs Improvement
+文笔极佳|||Excellent Writing
+文笔极好|||Excellent Prose
+文笔清新|||Fresh Writing Style
+文笔爆炸|||Writing Explodes
+文笔细腻|||Delicate Writing
+文笔绝赞|||Amazing Writing
+文笔赞|||Great Writing
+文笔超赞|||Superb Writing
+文笔还行|||Decent Writing
+文筆極好|||Excellent Writing Style
+文艺|||Literary
+文艺致死|||Literary To Death
+文艺范儿|||Literary Style
+文言战斗|||Classical Chinese Battle
+文言文|||Classical Chinese
+文采不错|||Good Writing
+文青|||Literary Youth
+文风独特|||Unique Literary Style
+文风稳妥|||Steady Writing
+文风细腻|||Delicate Writing Style
+文风逗比|||Silly Writing Style
+斗智|||Battle of Wits
+斗智斗勇|||Battle of Wits
+斗罗|||Douluo
+斗罗粉|||Douluo Fan
+断更狗|||Update-Breaking Dog
+断更魔王|||Hiatus Demon King
+断章天才|||Cliffhanger Genius
+断章苟|||Cliffhanger Dog
+断章鬼才|||Cliffhanger Genius
+断腿ing|||Leg Broken ing
+新世界|||New World
+新书加油哦|||Good Luck With New Book
+新书求推荐|||New Book Seeking Recommendations
+新人|||Newbie
+新人不要挖坑|||Newbies Shouldn't Start Pits
+新人作品|||Newbie Work
+新人作家|||New Writer
+新人作者|||New Author
+新人初次作品|||New Author's First Work
+新人加油吧|||Newbie Keep Going
+新人托更|||Newbie Begging for Updates
+新人教师|||New Teacher
+新人渣作|||Newbie Trash Work
+新坑|||New Pit
+新大陆|||New Continent
+新奇|||Novel
+新娘修行|||Bride Training
+新式百合|||New Style Yuri
+新意|||Freshness
+新感覺|||New Feeling
+新手作|||Beginner Work
+新流派出现了|||New Genre Appeared
+新现代主义|||New Modernism
+新的|||New
+新设定|||New Setting
+新超越主义|||New Transcendentalism
+新颖|||Innovative
+新颖有趣|||Novel And Interesting
+斷章王|||Cliffhanger King
+旁白很不错|||Narration Is Very Good
+旁观妹控|||Watching Sister-Obsessed
+旁邊的角色是吐槽|||Side Character Is the Roaster
+旅程|||Journey
+旅行|||Travel
+旅行冒险|||Travel Adventure
+无cp|||No CP
+无ji之谈|||Nonsense
+无下限|||No Limits
+无下限无节操|||No Limits No Integrity
+无主线|||No Main Plot
+无内涵但搞笑|||No Depth but Funny
+无力吐槽开头|||Powerless to Roast the Opening
+无厘头|||Nonsensical
+无双|||Peerless
+无双潜行|||Peerless Stealth
+无口傲娇|||Kuudere Tsundere
+无后宫|||No Harem
+无套路|||No Routines
+无异能|||No Supernatural Powers
+无形开车|||Invisible Driving
+无形性转|||Invisible Gender Bender
+无形装逼|||Subtle Flex
+无意识开后宫|||Unconscious Harem Opening
+无意识攻略|||Unconscious Strategy
+无所不怼|||Roasts Everything
+无故被甩|||Unreasonably Dumped
 无敌|||Invincible
+无敌丧尸|||Invincible Zombie
+无敌主角|||Invincible Protagonist
+无敌伪娘大佬|||Invincible Trap Big Shot
+无敌外挂|||Invincible Cheat
+无敌妹妹|||Invincible Little Sister
+无敌懒惰老师|||Invincible Lazy Teacher
+无敌才是真爱|||Invincibility Is True Love
+无敌指女主|||Invincible Refers to Heroine
+无敌文|||Invincible Story
+无敌毒蘑菇|||Invincible Poison Mushroom
+无敌流|||Invincible MC
+无敌流哪来的|||Where Did This Invincible Genre Come From
+无敌男主|||Invincible Male Lead
+无敌男二|||Invincible Second Male Lead
+无敌的咸鱼|||Invincible Salted Fish
+无敌群友|||Invincible Group Member
+无敌装逼|||Invincible Swagger
+无毒无虐|||No Toxicity No Abuse
+无比怠惰|||Extremely Slothful
+无比沙雕|||Extremely Silly
+无理由大爱这作品|||Unreasonably Love This Work
+无耻之徒|||Shameless
+无耻的萝莉控|||Shameless Loli Con
+无聊|||Boring
+无聊乏味|||Boring and Dull
+无脑|||Brainless
+无脑又中二|||Brainless And Chuuni
+无良系统|||Unscrupulous System
+无节操|||No Integrity
+无节操作者|||No Moral Operator
+无节操女主|||Shameless Heroine
+无节操称王|||Shameless King
+无节操龙爷|||Shameless Dragon Lord
+无虐欢乐向|||No Abuse Happy Genre
+无视嫁人标签|||Ignore the Marriage Tag
+无证驾驶|||Driving Without License
+无语|||Speechless
+无语了|||Speechless
+无资质勇者|||Unqualified Hero
+无超能力|||No Superpowers
+无辜的作者菌|||Innocent Author
+无违和伊莉线|||Seamless Illy Route
+无限|||Infinite
+无限剑制|||Unlimited Blade Works
+无限异世界|||Infinite Otherworlds
+无限搞事|||Unlimited Shenanigans
 无限流|||Infinite Flow
+无限狗粮|||Unlimited Dog Food
+无限穿越流|||Infinite Transmigration Stream
+无限触碰|||Infinite Touch
+无鸡之谈|||No Chicken Talk
+日久生情|||Long Time Love
+日向雏田|||Hinata Hyuga
 日常|||Slice of Life
+日常修罗场|||Daily Love Rival Battlefield
+日常卖萌装逼|||Daily Moe and Showing Off
+日常发糖|||Daily Fluff
+日常异能|||Daily Supernatural
+日常很温馨|||Daily Life Is Very Heartwarming
+日常性作死|||Daily Suicide Attempts
+日常推理|||Daily Deduction
+日常放飞自我|||Daily Self-Indulgence
+日常校园生活|||Daily Campus Life
+日常治愈|||Daily Healing
+日常流|||Slice of Life
+日常生活|||Daily Life
+日常类|||Daily Life Genre
+日常系|||Slice of Life
+日常装逼|||Daily Showing Off
+日常详细|||Detailed Daily Life
+日常说相声|||Daily Cross-Talk
+日常逗B|||Daily Goofball
+日更|||Daily Updates
+日更才是王道|||Daily Updates Are King
+日更狂魔|||Daily Update Maniac
+日更萌新|||Daily Update Newbie
+日本|||Japan
+日本动漫风格|||Japanese Anime Style
+日本战国背景|||Japanese Warring States Background
+日渐消瘦|||Getting Thinner
+日漫少女系|||Japanese Manga Shoujo Style
+日狗了|||Fucked a Dog
+日神系列|||Japanese God Series
+日系|||Japanese Style
+日語本当上手|||Japanese Is Really Good
+日轻|||Japanese Light Novel
+日轻向|||Light Novel Style
+日轻派|||Japanese Light Novel Style
+日轻风|||Japanese Light Novel Style
+日轻风格|||Japanese Light Novel Style
+日风|||Japanese Style
+日风校园幻想系|||Japanese Style School Fantasy
+早点更新|||Update Sooner
+时不时开车|||Occasional Lewd Driving
+时空|||Time And Space
+时空召唤|||Space-Time Summoning
+时钟是hentai|||Clock Is Hentai
+时长时短|||Varies In Length
+时间|||Time
+时间侼论|||Time Paradox
 时间回溯|||Time Rewind
+明日方舟|||Arknights
+明明好多萝莉|||Clearly Has Many Lolis
+明明是双性|||Clearly Hermaphrodite
 明星|||Celebrity
+明显是妹控啊|||Obviously a Siscon
+星君大人前传|||Precursor To Lord Star Monarch
+星城|||Star City
+星座|||Constellation
+星球跳跃|||Planet Hopping
+星纪元|||Stellar Era
+星罗|||Star Net
 星际|||Interstellar
+星际争霸|||StarCraft
+星际争霸的即视感|||Starcraft Vibes
+星际冒险|||Interstellar Adventure
+星际即视感|||Interstellar Vibes
+星际战争|||Interstellar War
+星际穿越|||Interstellar Travel
+春天|||Spring
+春物|||Oregairu
+是86|||It's 86
+是个受|||It's A Bottom
+是个魔鬼|||It's A Devil
+是乐园|||It Is Paradise
+是和可爱的随便有一腿|||Has Something With Cute Casual
+是喜欢的那种|||The Kind I Like
+是欢快日常吗|||Is This Cheerful Daily Life
+是欢快日常吧|||It's Cheerful Daily Life Right
+是萌新呢|||It's a Newbie
+普通的日常|||Ordinary Daily Life
+智力解决一切|||Intelligence Solves Everything
+智商压制|||Intelligence Suppression
+智商战斗|||Intelligence Battle
+智商流|||Smart MC
+智商男主|||Intelligent Male Protagonist
+智商跟得上又跟不上|||IQ Can Keep Up But Can't
+智斗|||Smart Battles
+智斗型主角|||Smart Battle MC
+智珠在握|||Master Strategist
+智障|||Retarded
+智障作者|||Retarded Author
+智障作者的床|||Idiot Author's Bed
+智障男主|||Retarded Male Lead
+暂时木有|||None For Now
+暂时转换角色|||Temporary Role Swap
+暂请勿入本坑作者拜托|||Please Don't Enter This Pit, Author Begs
+暖|||Warm
+暖人心田|||Heartwarming
+暖心|||Heartwarming
+暖文|||Heartwarming Story
+暖暖的青梅|||Warm Childhood Friend
 暗恋|||Secret Crush
+暗斗|||Dark Struggle
+暗杀女仆|||Assassin Maid
+暗百合|||Dark Yuri
+暗能量|||Dark Energy
 暗黑|||Dark
+暗黑向|||Dark Genre
+暗黑萌|||Dark Moe
+暧昧|||Ambiguous
+暴力|||Violence
+暴力缝合|||Violent Patchwork
+暴力缝合屑作|||Violent Patchwork Trash Work
+暴力老司机|||Violent Old Driver
+暴力苟|||Violent Coward
+曈曈敲可爱|||Tongtong Is Super Cute
+曲折剧情|||Twisty Plot
+曲线救国|||Indirect Salvation
+更得贼慢|||Updates Are Damn Slow
+更快點|||Faster
+更新|||Update
+更新分量足|||Updates Have Good Volume
+更新太不给力了|||Updates Too Slow
+更新太慢|||Updates Too Slow
+更新好慢|||Updates Are So Slow
+更新好慢啊|||Updates Are So Slow
+更新很快|||Updates Very Fast
+更新快|||Fast Updates
+更新慢|||Slow Updates
+更新是奇迹|||Updating Is a Miracle
+更新更新|||Update Update
+更新更新更新|||Update Update Update
+更新有点慢|||Updates a Bit Slow
+更新猛如虎|||Updates Fierce Like Tiger
+更新短小|||Short Updates
+更新稳定|||Stable Updates
+更新缓慢|||Slow Updates
+更新这么慢|||Updates So Slow
+更新速度慢|||Slow Update Speed
+更新随缘|||Updates Depend on Fate
+更新龟速|||Updates at Snail Speed
+更速宛如老狗|||Update Speed Like an Old Dog
+曹总真伪娘|||Boss Cao Is a Trap
+最为致命|||Most Fatal
+最喜欢|||Favorite
+最弱|||Weakest
+最弱无败|||Weakest Undefeated
+最弱最强|||Weakest Strongest
+最強魔帝|||Strongest Demon Emperor
+最强|||Strongest
+最强之龙|||Strongest Dragon
+最强伪娘|||Strongest Trap
+最强公会|||Strongest Guild
+最强兽耳娘|||Strongest Beast-ear Girl
+最强剑神|||Strongest Sword God
+最强勇者|||Strongest Hero
+最强吸血鬼|||Strongest Vampire
+最强大叔|||Strongest Uncle
+最强导师|||Strongest Mentor
+最强封面参上|||Strongest Cover Has Arrived
+最强崛起|||Strongest Rise
+最强无敌|||Strongest Invincible
+最强杀手|||Strongest Assassin
+最强英雄|||Strongest Hero
+最强邪龙|||Strongest Evil Dragon
+最强铲屎官|||Strongest Cat Servant
+最强魔王|||Strongest Demon King
+最爱三无长直|||Favorite is Kuudere Long Straight Hair
+最爱机械|||Loves Machines The Most
+最皮|||Most Cheeky
+最终boss|||Final Boss
+最高|||The Best
+月刊|||Monthly
+月更|||Monthly Updates
+月紫嫣更可爱|||Yue Ziyan's Even Cuter
+月老|||Matchmaker
+有个性|||Has Personality
+有人在看哟|||Someone Is Reading
+有人看太好了|||Glad Someone Reads It
+有人说慢热|||Some Say It's Slow To Start
+有内涵|||Has Depth
+有分支结局|||Has Branching Endings
+有前途|||Has Potential
+有原作的风范哟加油|||Has the Style of the Original, Keep It Up
+有可能污|||Possibly Lewd
+有嚼劲|||Chewy
+有大灰机|||Has Big Planes
+有妖气|||Has Demonic Aura
+有封面就好了|||Would Be Better With a Cover
+有待加强|||Needs Improvement
+有想法|||Has Ideas
+有意义的装逼|||Meaningful Showing Off
+有意思|||Fun
+有意思很好看|||Interesting and Very Good Looking
+有意思的剧情|||Interesting Plot
+有意絲|||Intentional Silk
+有成为神作的可能|||Has Potential to Become Divine Work
+有故事|||Has A Story
+有故事的男主|||Male Lead With A Story
+有日轻的感觉呢|||Feels Like Japanese Light Novel
+有李欣棒|||Has Li Xin Stick
+有毒|||Addictive
+有毒但有趣|||Toxic But Interesting
+有深度|||Has Depth
+有潜力|||Has Potential
+有点东西|||Has Something
+有点休闲|||A Bit Relaxed
+有点后宫了|||A Bit of Harem Now
+有点唯美|||A Bit Beautiful
+有点奇怪|||A Bit Strange
+有点妹控|||Slightly Sistercon
+有点心疼|||A Bit Heartbroken
+有点怪|||A Bit Strange
+有点意思|||Somewhat Interesting
+有点意思1|||A Bit Interesting 1
+有点意思啊|||A Bit Interesting
+有点欧美风格|||Slightly Western Style
+有点燃|||Somewhat Exciting
+有点玩一头|||A Bit Confusing
+有点虐|||Slightly Angsty
+有点骚|||A Bit Slutty
+有爱|||Heartwarming
+有爱日常|||Loving Daily Life
+有爱的小说|||Loving Novel
+有生之年|||In This Lifetime
+有生之年更新|||Updates In This Lifetime
+有生之年系列|||Lifetime Series
+有看头|||Worth Watching
+有神力|||Has Divine Power
+有福利|||Has Fanservice
+有脑子的主角|||Protagonist Has Brains
+有趣|||Interesting
+有趣2333|||Interesting 2333
+有趣且耐读|||Interesting and Enduring
+有趣到极致|||Extremely Entertaining
+有趣的日常|||Interesting Daily Life
+有趣的设定|||Interesting Setting
+有进步|||Improving
+有進步|||Improved
+有重口味福利|||Heavy Taste Benefits
+有钱任性|||Rich and Willful
+有长进|||Improved
+有问题的恋爱|||Problematic Romance
+有鸡之谈|||Chicken Talk
+朋友都是敵人|||Friends Are All Enemies
+服尔魔丝|||Fumolse
+期待|||Looking Forward
+期待一下|||Looking Forward
+期待中|||Anticipating
+期待剧情发展|||Looking Forward to Plot Development
+期待发展|||Looking Forward to Development
+期待后文|||Looking Forward to Later Chapters
+期待后续|||Looking Forward to the Rest
+期待后续剧情|||Looking Forward To Later Plot
+期待后续发展|||Looking Forward
+期待大神能神速更新|||Hope the Great God Updates at God Speed
+期待更多|||Looking Forward to More
+期待更新|||Waiting For Updates
+期待發展|||Looking Forward to Development
+期待这样的作品|||Looking Forward To This Kind Of Work
+木头|||Blockhead
+木有节操|||No Integrity
+木棍神器|||Wooden Stick Artifact
+未婚夫|||Fiancé
+未婚妻|||Fiancée
+未婚妻师妹|||Fiancee Junior Sister
+未来|||Future
+未来的神作|||Future Masterpiece
+未来网游|||Future Online Game
+未满18岁请|||Under 18 Please
+未知的主线|||Unknown Main Plot
 末世|||Apocalypse
+末世人性|||Apocalypse Humanity
+末世搞笑|||Apocalypse Comedy
+末世流|||Apocalyptic Genre
+末世游玩记|||Apocalypse Play Diary
+末世生存|||Apocalyptic Survival
+末世贵族|||Post-Apocalypse Aristocrat
 末日|||Doomsday
+末日世界|||Apocalyptic World
+末日之后|||After the Apocalypse
+末日废墟|||Apocalyptic Ruins
+末日流|||Apocalypse
+本书不嫁人|||This Book Doesn't Marry
+本书高甜|||This Book Is High Sugar
+本作者是基佬|||This Author Is Gay
+本命企业|||Life's Enterprise
+本小姐超机智|||This Young Lady Is Super Witty
+本色出演|||Playing True to Character
+术士|||Warlock
+机关少女|||Mechanical Girl
+机动战队|||Mobile Squadron
+机器人啪啪啪|||Robot Sex
+机娘|||Robot Girl
+机娘女主|||Robot Girl Female Lead
+机巧少女不会受伤|||Machine Doll Won't Get Hurt
+机战|||Mecha
+机战希望翊君|||Mech Battle Hope Yijun
+机智|||Witty
+机智的男主|||Witty Male Lead
+机械|||Mecha
+机械天使|||Mechanical Angel
+机械女仆|||Mechanical Maid
+机械娘|||Mechanical Girl
+机械娘养成|||Mechanical Girl Raising
+机械宅|||Mecha Otaku
+机械少女|||Mechanical Girl
+机械改造|||Mechanical Modification
 机甲|||Mecha
+机甲向|||Mecha Genre
+机键圣母|||Keyboard Holy Mother
+杀与艹之歌|||Song of Kill and Fuck
+杀伐果断|||Decisive Killing
+杀妹证道|||Kill Sister to Prove Dao
+杀手|||Assassin
+杀手人生自由温暖爱情|||Killer Life Freedom Warm Love
+杀手哥哥|||Assassin Older Brother
+杀手少女|||Assassin Girl
+杀手高中生的日常|||Daily Life of a Killer High Schooler
+杂糅风|||Mixed Style
+权力的游戏|||Game of Thrones
 权谋|||Political Intrigue
+杉崎键的后宫路程|||Sugazaki Ken's Harem Journey
+村民|||Villager
+来一碟夜雪|||One Plate of Night Snow
+来喽|||I'm Here
+来支持啦|||Coming To Support
+来根烟冷静下|||Have a Smoke to Calm Down
+来点个赞|||Come Give a Like
+来玩啊|||Come Play
+来自同行的|||From a Peer
+杨永信马甲|||Yang Yongxin Vest
+杯具女主|||Tragic Female Lead
+杰示|||Jesse
 東方|||Touhou
+极品|||Top Tier
+极品神作|||Top Masterpiece
+极度搞笑|||Extremely Funny
+极度无聊|||Extremely Boring
+极限慢热|||Extremely Slow Burn
+构思巧妙|||Clever Concept
+林凡的世界|||Lin Fan's World
+林神|||Forest God
+林雨琦|||Lin Yuqi
+枪|||Gun
+枪与魔法|||Guns and Magic
+枪使|||Gun User
 枪娘|||Girls' Frontline
+枪战|||Gunfight
+枪神纪|||Gun God Chronicles
+枫可爱就够了|||Maple Is Cute Enough
+枭雄|||Heroic Tyrant
+架空|||Alternate World
+架空世界|||Alternate World
+架空军事|||Alternate History Military
+架空历史|||Alternate History
+某人的中二|||Someone's Chuunibyou
+某神|||Certain God
+某种意义上的乐园|||Paradise in a Sense
+柜柜是萝莉|||Closet is Loli
 柯南|||Detective Conan
+柯南道尔流派|||Conan Doyle School
+柴刀预定|||Guillotine Reserved
+标准日轻|||Standard Light Novel
+标准的后宫闹剧|||Standard Harem Farce
+标点符号|||Punctuation
+标签出了问题|||Tags Have A Problem
+标签没说纯爱|||Tags Didn't Say Pure Love
+标签骗人|||Tags Are Deceptive
+标错标签|||Wrongly Tagged
+标题不要乱读|||Don't Misread The Title
+标题党|||Clickbait Title
+标题吓死学渣|||Title Scares Academic Failures
+标题太污|||Title Too Lewd
+标题惊人|||Shocking Title
+标题押韵|||Rhyming Title
+标题有趣|||Interesting Title
+标题难以直视|||Title Hard to Look At Directly
+标题霸气|||Overbearing Title
 校园|||School
+校园异能|||School Superpowers
+校园怪谈|||Campus Ghost Stories
+校园恋爱|||School Romance
+校园恋爱喜剧|||Campus Romance Comedy
+校园日常|||School Daily Life
+校园智斗|||Campus Intellectual Battle
+校园爱情|||Campus Romance
+校园生活|||School Life
+校园的悲喜剧|||School Tragicomedy
+校园趣事|||School Fun
+校園|||School Life
+校花|||School Belle
+核平|||Nuclear Peace
+核谐世界|||Nuclear Harmony World
+格里芬指挥官|||Griffin Commander
+桐人|||Kirito
+桐山和雄|||Kiriyama Kazuo
+梗|||Meme
+梗多|||Lots of Memes
+梗番|||Meme Chapters
+梗百科|||Meme Encyclopedia
+梦幻|||Dreamy
+梧桐这个变态|||Wutong This Pervert
+棍棒教育|||Stick Education
+棒|||Awesome
+棒棒哒|||Awesome
+棒棒糖|||Lollipop
+植物|||Plant
+植物娘|||Plant Girl
+椰汁|||Coconut Juice
+榨汁姬|||Juice Squeezer
+榨汁姬圣女|||Juice-Squeezing Saintess
+榨汁姬青梅|||Juice-Squeezing Childhood Friend
+槍|||Gun
+模仿三体风格|||Imitating Three-Body Style
+樱之雪|||Cherry Blossom Snow
+樱花庄好看|||Sakura-sou is Beautiful
+樱莲|||Ying Lian
+橘势大好|||Orange Momentum Is Great
 橘味|||GL/Yuri
+橘里橘气|||Yuri Vibes
+橘里橘气的|||Very Yuri
+櫻滿集|||Sakuraman Collection
+欠我钱|||You Owe Me Money
+次元性|||Dimensionality
+欢乐|||Comedy
+欢乐吐槽|||Happy Roasts
+欢乐向|||Comedy Oriented
+欢乐吗|||Is It Fun
+欢乐日常|||Happy Daily Life
+欢乐有趣|||Fun and Joyful
+欢乐温馨|||Joyful And Heartwarming
+欢乐装逼|||Happy Swagger
+欢乐逗比|||Joyful Silly
+欢脱的要死|||Hilariously Carefree
+欧尼酱加油|||Onii-chan Keep Going
+欧气玩家|||Lucky Player
+欧洲|||Europe
+欧派|||Oppai
+欧皇|||Lucky Emperor
+欧美风格|||Western Style
+欲宠娜娜|||Wants to Spoil Nana
+欺负小萝莉|||Bullying Little Lolis
+歌姬|||Idol Singer
+歌姬要萌|||Idol Singer Must Be Cute
+歌手的潜质哟|||Singer Potential
+正义收妹子|||Righteously Collecting Girls
+正体不明|||True Form Unknown
+正儿八经|||Serious and Proper
+正剧|||Serious Drama
+正剧百合|||Serious Yuri
+正合我意|||Just What I Want
+正太|||Shota
+正太养成|||Shota Training
+正太养成记|||Shota Raising Record
+正妻帮收后宫|||Legal Wife Helps Collect Harem
+正字大師|||Orthography Master
+正常个屁啊|||Normal My Ass
+正派冒险|||Righteous Adventure
+正版插画|||Official Illustrations
+正直男主|||Upright Male Lead
+正经|||Serious
+正经作者|||Serious Author
+正经文|||Serious Story
+正经的很|||Very Serious
+正经的轻小说|||Proper Light Novel
+正经萌|||Serious Moe
+正经讲故事|||Seriously Telling a Story
+正统日轻|||Orthodox Japanese Light Novel
+正邪通吃|||Devours Both Good And Evil
+此作有毒|||This Work is Poisonous
 武侠|||Wuxia
+武侠RPG|||Wuxia RPG
+武侠佳作|||Excellent Wuxia
+武俠|||Wuxia
+武器华丽|||Gorgeous Weapons
+武器虐男主|||Weapon Abuses Male Lead
+武术|||Martial Arts
+武林|||Martial World
+武者我来了|||Martial Artist, I'm Here
+武装后宫团|||Armed Harem Group
+武装神姬|||Armed Goddess
+死也无封面|||No Cover Even in Death
+死了就神作了|||It Would Be Divine If He Died
+死亡|||Death
+死亡游戏|||Death Game
+死妹控|||Die Siscon
+死宅哥哥|||Otaku Big Brother
+死宅必读|||Must-Read for NEETs
+死宅美少女|||NEET Beautiful Girl
+死宅脱宅之路|||NEET's Path to Leaving Home
 死神|||Bleach
+死神之手|||Hand of the Grim Reaper
+死神可啪|||Grim Reaper is Cute & Fuckable
+歼魔师|||Demon Exterminator
+残念|||Regrettable
+残念少年|||Pitiful Boy
+残暴|||Brutal
+残酷|||Cruel
+殺妹征道|||Kill Sister To Prove Dao
+毁原作|||Ruins the Original
+毁童年|||Childhood Ruiner
+母上无敌|||Mother Is Invincible
+母控|||Mother Complex
+母狼师傅|||Wolf Mother Teacher
+每人都有故事|||Everyone Has A Story
+每周两更|||Two Updates Per Week
+每次更新再多点就好了|||Wish There Were More Updates Each Time
+毒奶|||Toxic Milk
+毒奶粉玩多了吗|||Played Too Much DNF?
+毒瘤作者|||Cancerous Author
+毒瘤男主|||Cancerous Male Lead
+毒舌|||Sharp Tongue
+毒舌女主|||Sarcastic Heroine
+毒舌妹妹|||Sharp-Tongued Little Sister
+毒舌男|||Sharp-Tongued Male
+毫无节操|||No Shame
+毫无违和|||No Sense Of Incongruity
+气氛逐渐蕉灼|||Atmosphere Gradually Burns
+氛围轻松|||Relaxed Atmosphere
+氪命变强|||Pay With Life To Get Stronger
+氪金之力|||Pay-to-Win Power
+氪金大佬|||Whale Player
+氪金无敌|||Pay-to-Win Invincible
+氪金流|||Pay-to-Win Genre
+水文小能手|||Master Of Filler
+水污染治理|||Water Pollution Control
+水精灵|||Water Spirit
+水表危机文章好评|||Water Meter Crisis Story Good Review
+永不吃瘪|||Never Gets Defeated
+永恒萝莉|||Eternal Loli
+永远haki|||Forever Haki
+求Happy|||Begging for Happy Ending
+求作者速度更新|||Beg Author to Update Faster
+求你爱我啊|||Please Love Me
+求先把学院的坑填了|||Please Fill the Academy Plot Hole First
+求单身|||Seeking Single Life
+求后宫|||Begging for Harem
+求嫁|||Begging to Marry
+求收藏|||Please Bookmark
+求更|||Please Update
+求更啊|||Please Update
+求更新|||Begging For Updates
+求更新速度快一点|||Please Update Faster
+求生|||Survival
+求生之路|||Left 4 Dead
+求百合|||Begging for Yuri
+求肉戏|||Begging for Smut
+求评论|||Begging for Comments
+求赞求收藏|||Begging for Likes and Favorites
+求速更|||Beg for Fast Updates
+江乙己|||Jiang Yiji
+江湖|||Jianghu
+江湖大佬|||Jianghu Bigshot
+污|||Lewd
+污妖王|||Lewd Demon King
+污污污|||Lewd Lewd Lewd
+污污污污污污|||Lewd Lewd Lewd Lewd Lewd Lewd
+污百合|||Lewd Yuri
+污的一批|||Super Lewd
+汤姆克兰西|||Tom Clancy
+汪汪汪|||Woof Woof Woof
+沉穩|||Steady
+沉迷纸片人|||Addicted to 2D Girls
+沒妹子沒掌門|||No Girls No Sect Leader
+沒性轉|||No Gender Bender
+沒有自己的想法|||No Original Ideas
+沒用男主|||Useless Male Lead
+沙織|||Saori
+沙耶之歌|||Saya no Uta
+沙雕|||Meme
+沙雕主角|||Silly MC
+沙雕大作|||Meme Masterpiece
+沙雕式小说|||Idiotic Novel
+沙雕文|||Silly Story
+沙雕日常|||Meme Daily Life
+沙雕男主|||Silly Male Lead
+沙雕神作|||Silly God-Tier Work
+沙雕萌文|||Silly Cute Story
+没一个正常人|||No Normal People
+没一个正常的|||None Are Normal
+没事搞事|||Causing Trouble for No Reason
+没人看吗|||Is No One Reading This
+没印象|||No Impression
+没喜羊羊暴力|||Not as Violent as Pleasant Goat
+没干劲|||No Motivation
+没性转|||No Gender Bender
+没想到|||Didn't Expect
+没文笔|||No Writing Skill
+没断更过|||Never Dropped Updates
+没无敌流|||No Overpowered MC
+没时间解释了|||No Time to Explain
+没有喜洋洋暴力|||No Pleasant Goat Violence
+没有妄想|||No Delusions
+没有抄袭啊!|||No Plagiarism!
+没有男主|||No Male Lead
+没有读者|||No Readers
+没有车牌|||No License Plate
+没看过|||Haven't Read It
+没节操的作者|||Author Without Integrity
+没节操的触手|||Shameless Tentacles
+没那么严肃|||Not That Serious
+没错|||That's Right
+没错我就是萝莉控|||Yes I'm A Lolicon
+河神|||River God
+河豚|||Fujo
+河豚膨胀|||Fujo Inflation
+油腻猥琐作者|||Greasy Perverted Author
+油腻的师姐|||Greasy Senior Sister
 治愈|||Healing
+治愈与致郁|||Healing and Depression
+治愈向|||Healing Genre
+治愈型作者|||Healing-Type Author
+治愈文|||Healing Story
+治愈神作|||Healing Divine Work
+治愈系|||Healing
+治愈致郁|||Healing Depression
+治愈还是致郁|||Healing or Depressing
+治癒|||Healing
+治郁|||Depression Cure
+法师当然近战|||Mages Should Melee
+法海才是真爱|||Fahai Is True Love
+法爷的冒险|||Mage's Adventure
+泡妞秘典|||Pickup Artist Manual
+泡面剧情|||Instant Noodle Plot
+泡面番小说|||Instant Noodle Anime Novel
+泥垢了|||You've Gone Too Far
+注孤生|||Doomed to Be Alone
+注定咸鱼|||Destined to be Salted Fish
+注定当咸鱼|||Doomed to Be a Slacker
+泪燃|||Tear-Jerking
+泪腺崩坏|||Tear Glands Destroyed
+泰伦人类的崛起|||Rise of Terran Humanity
+泰坦|||Titan
+泰拉瑞亚|||Terraria
+洒狗粮|||Scattering Dog Food
+洗白神器|||Whitewashing Artifact
+洛克人封面|||Megaman Cover
+洛天依|||Luo Tianyi
+活力少女|||Energetic Girl
+活得像个配角|||Living Like a Side Character
+活泼翻译体|||Lively Translation Style
+活跃加油|||Active, Keep Going
+流氓女神|||Rogue Goddess
+流浪汉|||Tramp
+流畅的文笔叙述喜欢|||Smooth Writing and Narration, Like It
+浪到五五开|||Wild to 50-50
 海贼|||One Piece
+海贼王|||One Piece
+海贼王同人|||One Piece Fanfic
+海鸽|||Hai Ge
+涂林夕弱受|||Tu Linxi Weak Bottom
+涂油作品|||Oiled Work
+涨知识|||Educational
 涼宮ハルヒシリーズ|||Haruhi Suzumiya Series
+淑桓加油|||Shu Huan, Good Luck
+淡定不能|||Can't Stay Calm
+淡定的飘过|||Calmly Passing By
+深刻的人生观|||Profound Life View
+深夜更新|||Late-Night Updates
+深夜食堂|||Late-Night Cafeteria
+深度思考|||Deep Thinking
+深渊领主|||Abyss Lord
+深谙治愈之道|||Well-Versed In Healing
+深黑残|||Deep Dark Cruel
+混吃等死|||Eat and Wait for Death
+混合的世界|||Mixed World
+混进了大佬|||Big Shot Mixed In
+清文|||Pure Writing
+清新|||Fresh
+清新日常风|||Refreshing Daily Life Style
+清新脱俗|||Fresh and Refined
+清流|||Fresh Style
+清甜软萌|||Pure Sweet Soft & Cute
+清纯向|||Pure And Innocent
+渐入佳境|||Gradually Improving
+渚枫|||Zhufeng
+渣|||Trash
+渣作加油|||Trash Work, Keep Going
+渣女|||Scummy Girl
+渣渣|||Scum
+渣男|||Scum Male
+温情|||Heartwarming
+温暖|||Heartwarming
+温馨|||Cozy
+温馨感人|||Heartwarming and Touching
+温馨无敌流|||Heartwarming Invincible Genre
+温馨日常|||Heartwarming Daily Life
+温馨生活|||Cozy Life
+温馨的故事|||Heartwarming Story
+渲染力强|||Strong Atmosphere
+游基王的邀请|||Invitation from Youji King
 游戏|||Game
+游戏世界|||Game World
+游戏主播|||Gaming Streamer
+游戏人生|||No Game No Life
+游戏制作者|||Game Creator
+游戏只是游戏|||Game is Just a Game
+游戏后宫|||Game Harem
+游戏天才|||Game Genius
+游戏异世界|||Game Another World
+游戏异界|||Game Otherworld
+游戏很好玩|||Game Is Fun
+游戏性转|||Game Gender Bender
+游戏梗|||Game Memes
+游戏王|||Yu-Gi-Oh
+游戏设定|||Game Setting
+游戏轻小说|||Game Light Novel
+游戏风|||Game Style
+湖水是传送点|||Lake Is a Teleport Point
+源道|||Origin Path
+溫馨|||Heartwarming
+滑稽|||Funny
+满分|||Full Marks
+满分作品|||Perfect Score
+满分神作|||Perfect Masterpiece
+满地修罗场|||Everywhere Is a Battlefield of Love
+满屏骚话|||Screen Full of Lewd Talk
+满是中二气息|||Full of Chuuni Vibe
+满滿的颜文字|||Full of Kaomoji
+满级主角|||Max-Level Protagonist
+满级大佬|||Max Level Boss
+满级神装|||Max Level God Gear
+满级穿越|||Max Level Transmigration
+滿分|||Full Marks
+滿級憋屈生活|||Max Level Frustrating Life
+漂亮男主|||Handsome Male Lead
+漆黑的子弹改编版|||Black Bullet Adapted Version
+演员自我修养|||Actor's Self-Cultivation
+演绎推理|||Deductive Reasoning
+漫综|||Manga Comprehensive
+潘多拉小时候好可爱啊|||Pandora Was So Cute as a Child
+潛力|||Potential
+潛力股|||High Potential
+潜力|||Potential
+潜力作|||Potential Hit
+潜力股|||High Potential
+潜力股妥妥的|||Definite Potential Stock
+潜力股神作|||High-Potential Masterpiece
+潜意识什么鬼|||What the Heck Subconscious
+激情作品|||Passionate Work
+激萌萝莉|||Super Cute Loli
+火不了的题材|||Unpopular Theme
+火与剑|||Fire and Sword
 火影|||Naruto
+火影同人|||Naruto Fanfic
+火影套路|||Naruto Tropes
+火焰纹章|||Fire Emblem
+火车开来啦|||The Train Is Coming
+灰原哀|||Haibara Ai
+灰常慢热|||Extremely Slow Burn
+灰常有趣哦|||Super Interesting
+灰色压抑|||Gray Depression
+灰色空间|||Gray Space
+灵丹师|||Spirit Pill Master
 灵异|||Supernatural
+灵异悬疑|||Supernatural Suspense
+灵武姬|||Spirit Martial Princess
+灵能|||Psionic
+灵调者|||Spirit Tuner
+灵魂|||Soul
+灵魂互换|||Body Swap
+灵魂交换|||Soul Exchange
+灵魂插画|||Soul Illustration
+灵魂画家|||Soul Painter
+灵魂画师|||Soul Artist
+灵魂画师归来|||Soul Painter Returns
+灵魂画手|||Soul Painter
+灼眼的夏娜|||Shakugan no Shana
+灾厄之龙|||Dragon of Calamity
+灾难|||Disaster
+灾难战争|||Disaster War
+灾难日常|||Disaster Daily Life
+炉石|||Hearthstone
+炉石传说|||Hearthstone
+炒股|||Stock Trading
+炒鸡大的脑洞0|||Super Huge Plot Hole 0
+炒鸡好看|||Super Good Looking
+炒鸡萌|||Super Cute
+炫酷战斗|||Cool Battles
+炮灰骑士|||Cannon Fodder Knight
+炮狙真爱|||AWP True Love
+点击数极低|||Extremely Low Click Count
+点头yes摇头nod|||Nod Yes, Shake Nod
+炼器师|||Artifact Refiner
+炼金冒险|||Alchemy Adventure
+炼金工作室|||Atelier Alchemy
+炼金术士|||Alchemist
+炼金术师|||Alchemist
+烂到爆|||Rotten To The Core
+烂大街作品|||Overdone Trope
+烂大街玩意|||Common Trash Thing
+烂好人|||Goody Two-Shoes
+烈焰酱|||Flame-chan
+烧脑|||Mind-Bending
+烧脑向|||Brain Burning
+烧脑奇幻|||Mind-Bending Fantasy
+烧脑特辑|||Brain-Burning Special
+热兵器|||Firearms
+热心男主|||Warm-Hearted Male Lead
 热血|||Action/Hot-blooded
+热血多方面|||Hot-Blooded in Many Ways
+热血小受|||Passionate Bottom
+热血战斗|||Hot-Blooded Battle
+热血战斗番|||Hot-Blooded Battle Series
+热血搞笑|||Hot-Blooded Comedy
+热血智斗|||Hot-Blooded Intellectual Battle
+热衷吐槽|||Loves Roasting
+無口|||Silent
+無可奉告|||No Comment
+無敵流|||Invincible MC
+無敵靠老婆|||Invincible Thanks To Wife
+無敵靠隊友|||Invincible by Teammates
+無聊的劇情|||Boring Plot
+無腦直接套路|||Brainless Direct Routines
+無限流|||Infinite Stream
+然而不是性转|||But It's Not Gender Bender
+然而并非标题党|||However Not A Clickbait Title
+然而是后宫|||But It's a Harem
+然而是推理|||But It's a Mystery
+然而男主略逗比|||But MC Is a Bit Silly
+熙|||Xi
+熱血|||Hot-Blooded
+燃|||Hot-Blooded
+燃到爆炸|||Explosively Hot-Blooded
+燃向|||Hot-Blooded
+爆发|||Explosive Updates
+爆发流|||Burst Genre
+爆好看|||Extremely Good Looking
+爆更狂魔|||Fast Updater
+爆炸吧|||Explode
+爆炸吧现充|||Explode Normies
+爆炸玩梗|||Explosive Memes
+爆笑|||Hilarious
+爆肝狂|||Liver-Bursting Maniac
+爆衣|||Clothes Bursting
+爛|||Bad
+爱|||Love
+爱与正义|||Love and Justice
+爱与血与剑|||Love, Blood, and Swords
+爱了|||Loved It
+爱了爱了|||Love It Love It
+爱吃鸽的作者|||Pigeon-Loving Author
+爱女主更爱钱|||Loves Heroine But Loves Money More
+爱情|||Romance
 爱情类|||Romance-type
+爱更不更|||Update If You Want
+爱的力量|||Power of Love
+爱的战士|||Warrior of Love
+父女|||Father-Daughter
+父女play|||Father-Daughter Play
+父母陪同观看|||Parental Guidance
+父爱如山|||Father's Love Is Like A Mountain
+爽|||Satisfying
+爽快|||Refreshing
 爽文|||Power Fantasy
+爽爆|||Extremely Satisfying
+牛|||Awesome
+牛B|||Awesome
+牛b|||Badass
+牛头人|||Minotaur / NTR
+牛学家|||Cow Scholar
+牛皮|||Awesome
+牛逼|||Awesome
+牧师|||Priest
+物理学圣剑|||Physics Holy Sword
+物理超度|||Physical Salvation
+物语|||Monogatari
+物语无语系列|||Monogatari Speechless Series
+特别有意思|||Very Interesting
+特别污|||Extremely Lewd
+特摄|||Tokusatsu
+特摄剧|||Tokusatsu
+特殊的卖肉|||Special Fanservice
+特殊能力|||Special Ability
+犀利的名字|||Sharp Title
+犀利的吐槽|||Sharp Roasts
+犯二的神大人|||Idiot God-sama
+犯罪等于恋爱|||Crime Equals Love
+犹大的誓约|||Judas' Covenant
+狂想|||Wild Imagination
+狂气|||Madness
+狂虐男主|||Torture MC
+狐仙|||Fox Immortal
+狐仙杀手|||Fox Immortal Assassin
+狐仙祭祀|||Fox Immortal Sacrifice
+狐化|||Fox Transformation
+狐女|||Fox Girl
+狐妖|||Fox Spirit
+狐妖女仆|||Fox Maid
+狐妖嫁人咯|||Fox Spirit Is Getting Married
+狐妖小红娘|||Fox Spirit Matchmaker
+狐妖性感|||Sexy Fox Spirit
+狐妖狐妖|||Fox Spirit Fox Spirit
+狐娘|||Fox Girl
+狐娘养成|||Fox Girl Training
+狐娘妹妹|||Fox Girl Little Sister
+狐娘美少女|||Fox Girl Beautiful Girl
+狐娘赛高|||Fox Girl Is Supreme
+狐狸精|||Vixen
+狐白狐妖大大|||Fox White Fox Demon Great One
+狗作者真鬼畜|||Dog Author is Really Sadistic
+狗啃标点|||Dog-Gnawed Punctuation
+狗小弟|||Dog Lackey
+狗屁不通|||Nonsense
+狗粮|||Dog Food
+狗粮专业户|||Professional Dog Food Provider
+狗粮多大碗|||Huge Bowl of Dog Food
+狗粮拍脸|||Dog Food Slapped In Face
+狗血|||Melodramatic
+狼|||Wolf
 狼人|||Werewolf
+狼人妹妹绝赞|||Werewolf Little Sister Awesome
+狼群|||Wolf Pack
+猎奇|||Grotesque
+猎魔人|||Witcher
+猎龙战神|||Dragon Hunting War God
+猛猛更啊|||Update Fiercely
+猛男rua|||Buff Guy Rua
+猛男落泪|||Tough Guy Tears
+猝不及防恰糖|||Sudden Sugar Rush
+猝不及防系列|||Sudden Attack Series
+猥亵别人女友|||Molesting Someone's Girlfriend
+猥琐一笑|||Perverted Smile
+猪头法师|||Pighead Mage
+猪脚是平胸|||Protagonist Is Flat-Chested
+猪脚眼瞎|||Pig's Foot is Blind
+猫|||Cat
+猫儿|||Little Cat
+猫咪|||Kitten
+猫咪与小受|||Cat and Bottom
+猫奴|||Cat Slave
+猫娘|||Cat Girl
+猫娘控|||Catgirl Lover
+猫娘萝莉|||Cat Girl Loli
+猫少年重制版|||Cat Boy Remake
+猫耳|||Cat Ears
+猫耳啊|||Cat Ears
+猫耳女仆|||Cat Ear Maid
+猫耳娘|||Cat-Eared Girl
+猫里奥|||Cat Mario
+猴哥超可爱|||Monkey Bro Super Cute
+猴子大王|||Monkey King
+獸耳修女蘿莉萌啊|||Beast-Ear Nun Loli Is So Cute
+獸耳少女賽高|||Beast Ear Girls Are the Best
 玄幻|||Xuanhuan
+王厨|||King Chef
+王女殿下|||Princess
+王子|||Prince
+王子的逆袭|||Prince's Counterattack
+王群即为马卡罗夫|||Wang Qun Is Makarov
+王者之路|||Path of the King
+王道|||Classic
+王道热血|||Classic Hot-Blooded
+王霸|||Overbearing King
+玩坏了|||Played Until Broken
 玩梗|||Meme/References
+玩梗出众|||Excellent Memes
+玩梗向|||Meme-Oriented
+玩梗大师|||Master of Memes
+玩梗狂魔|||Meme Lord
+玩梗鬼才|||Meme Genius
+玩游戏变成妹|||Playing Game Turns Into Girl
+玫瑰花姐姐|||Rose Flower Sister
+环境保护|||Environmental Protection
+现代|||Modern
+现代对古代|||Modern vs Ancient
+现代改舰娘|||Modernized Ship Girls
+现代架空|||Modern Alternate History
+现代神话|||Modern Mythology
+现代舰娘|||Modern Ship Girls
+现代苏德战争|||Modern Soviet-German War
+现充妹妹|||Normie Little Sister
+现充学生|||Normie Student
+现充学霸|||Normie Honor Student
+现充爆炸吧|||Normies Explode
+现充给我爆炸|||Normies Explode
+现在才开始|||Just Starting Now
+现在报警应该还来得及|||Should Still Be Time to Call the Police
 现实|||Realistic
+现实且真实|||Realistic and True
+现实又中二|||Realistic Yet Chuuni
+现实向电竞文|||Realistic Esports Novel
+现实感|||Sense of Realism
+现实逻辑日常|||Realistic Logic Daily Life
+玻璃渣|||Glass Shard
+玻璃炮台|||Glass Cannon
+班主任|||Homeroom Teacher
+理想社会|||Ideal Society
+理智值恢复|||Sanity Restored
+理智的病娇|||Rational Yandere
+理科思维|||Scientific Thinking
+理综|||Science Comprehensive
+琴酒|||Gin
+瑟瑟发抖|||Shivering in Fear
+瓜皮男主|||Melon Skin MC
+甚好|||Very Good
+甜|||Sweet
+甜作|||Sweet Work
+甜到掉牙|||Sweet Enough to Lose Teeth
+甜到掉牙了|||Sweet Enough to Make Teeth Fall Out
+甜到死|||Sweet to Death
+甜到腻了大叔|||Sweet Until Sickening Uncle
+甜到齁|||Sweet Enough to Cause Diabetes
 甜宠|||Sweet Romance
+甜文|||Sweet Story
+甜炸|||Sweet Explosion
+甜甜甜|||Sweet Sweet Sweet
+甜的发腻|||Sickeningly Sweet
+甜而不虐|||Sweet Without Abuse
+甜腻|||Sweet and Sugary
+甜虐得当|||Balanced Sweet and Abuse
+生动|||Vivid
+生命女神|||Goddess of Life
+生存|||Survival
+生存无敌|||Invincible Survival
+生存者游戏|||Survivor Game
+生死|||Life and Death
+生死选择|||Life and Death Choice
+生活|||Life
+生活日常|||Slice of Life
+用主角撸了|||Used MC to Fap
+用信仰写书|||Writing With Faith
+用心之作|||Heartfelt Work
+用心写作|||Written With Heart
+用爱发电|||Powered by Love
+用绳命吐槽|||Using Life to Roast
+甩节操|||Throwing Away Integrity
+田园牧歌|||Idyllic Pastoral
+申田N|||Shinda N
+电学|||Electrics
+电波|||Strange Wavelength
+电波女与青春男|||Wave Woman and Youth Man
+电波系|||Weird Wavelength
 电竞|||Esports
 男主|||Male MC
+男主666|||MC 666
+男主不废柴|||Male Lead Is Not Trash
+男主不是人|||Male Lead Is Not Human
+男主不给力开挂吧|||Male Lead Is Weak, Open Cheat
+男主什么身份|||What is the Male Lead's Identity
+男主会道术|||Male Protagonist Knows Taoism
+男主保护协会|||Male Protagonist Protection Association
+男主光環|||Male Lead Halo
+男主再世士道|||MC Is Shido Reborn
+男主划水|||MC Is Slacking
+男主厉害|||Male Lead Is Amazing
+男主双收|||Male Protagonist Takes Both
+男主可怀孕|||MC Can Get Pregnant
+男主可怜|||Male Lead Is Pitiful
+男主后期无敌|||MC Becomes Invincible Later
+男主呆萌|||MC Is Dumb and Cute
+男主啥都会|||MC Can Do Everything
+男主外冷内傻|||Male Lead Cold Outside Dumb Inside
+男主天天掉线|||Male Lead Disconnects Daily
+男主太猥琐|||Male Lead Is Too Perverted
+男主失忆|||MC Has Amnesia
+男主女装大佬|||MC Is A Crossdressing Boss
+男主好坏|||Male Lead So Bad
+男主好妹子|||Male Lead Loves Little Sisters
+男主好看|||Male Lead Is Handsome
+男主好萌|||MC Is So Cute
+男主好贱|||Male Lead Is So Cheap
+男主好辛苦|||Male Lead Works So Hard
+男主妹控|||Male Lead Is a Siscon
+男主小天使|||MC Little Angel
+男主小时候太不听话|||Male Lead Was Too Disobedient as a Child
+男主就想着吃|||Male Lead Only Thinks About Eating
+男主幸运EX|||Male Lead Luck EX
+男主开G|||Male Lead Opens G
+男主开挂|||Male Lead Has Cheats
+男主强受|||Strong Bottom Male Lead
+男主形象好评|||Male Lead Image Good Review
+男主很坑|||Male Lead is Very Pitiful
+男主很帅|||Male Lead Is Very Handsome
+男主很强|||Male Lead Is Very Strong
+男主很萌|||Male Lead Is Cute
+男主很骚|||MC is Flirty
+男主怂|||MC Is a Coward
+男主怂B|||MC Is a Coward
+男主性有能|||MC Is Sexually Capable
+男主性格多变|||Male Lead Has Changing Personality
+男主性格很赞|||MC's Personality Is Great
+男主性格扭曲|||Male Lead Has Twisted Personality
+男主情商负数|||MC Has Negative EQ
+男主情商高|||Male Lead Has High EQ
+男主或许无敌|||MC Might Be Invincible
+男主护妻狂魔|||Male Lead Wife-Protecting Maniac
+男主推姐流|||Male Lead Pushes Sister Style
+男主文|||Male Lead Story
+男主新奇|||Unique Male Lead
+男主无敌|||Invincible Male Lead
+男主无敌挂|||Male Lead Invincible Cheat
+男主是m|||Male Lead Is M
+男主是个人渣|||MC Is A Scumbag
+男主是个外挂|||MC Is a Cheat
+男主是个废柴男二是神|||Male Lead Is a Good-for-Nothing, Male Second Is a God
+男主是个能干的妹子|||Male Lead Is a Capable Girl
+男主是个鬼才|||Male Lead Is A Genius
+男主是人渣|||Male Lead is Scum
+男主是会长|||Male Lead Is the President
+男主是伪娘|||Male Lead Is a Trap
+男主是作者亲爹|||MC Is Author's Real Dad
+男主是受|||Male Protagonist is Bottom
+男主是条狗|||Male Lead Is A Dog
+男主是真的皮|||Male Lead Is Really Cheeky
+男主是神|||MC Is A God
+男主普通人|||Male Lead Is An Ordinary Person
+男主智商很高|||Male Lead Has Very High IQ
+男主智商碾压|||MC Intelligence Crush
+男主有故事|||Male Lead Has a Story
+男主有点厉害|||Male Lead Is Quite Strong
+男主有点坏|||Male Protagonist is a Bit Bad
+男主有点骚|||MC Is A Bit Flirty
+男主极恶类|||Male Lead Is Extremely Evil
+男主毁世界|||MC Destroys The World
+男主注孤生|||Male Lead Is Doomed To Be Alone
+男主淡定帝|||Male Lead Is Super Calm
+男主温柔|||Gentle MC
+男主爱美|||Male Lead Loves Beauty
+男主玛德智障|||Male Lead Is Fucking Retarded
+男主病症无奈|||Helpless Male Protagonist Illness
+男主的称号男二的命|||Male Lead's Title, Male Second's Fate
+男主的绿帽|||Male Lead's Cuckoldry
+男主真汉子|||Male Lead Is a Real Man
+男主真绅士|||Male Protagonist is True Gentleman
+男主神挂|||MC Has Godly Cheat
+男主纯情|||MC Is Pure-Hearted
+男主绝美伪娘|||Male Lead Is An Extremely Beautiful Trap
+男主老好人|||Male Lead Is a Nice Guy
+男主莫名的萌|||Male Lead Is inexplicably Cute
+男主莫得感情|||Male Lead Has No Feelings
+男主萝莉可爱|||Male Lead's Loli Is Cute
+男主萝莉控|||Male Lead Is a LoliCon
+男主装逼|||Male Lead Showing Off
+男主角威武|||Male Lead Is Mighty
+男主角就该离女生远点|||Male Protagonist Should Stay Away from Girls
+男主角帅|||Handsome Male Protagonist
+男主角是村花|||Male Lead Is the Village Beauty
+男主贫穷|||Male Lead Is Poor
+男主贼6|||Male Lead Is Super OP
+男主超傻|||Male Lead Is Super Dumb
+男主超帅|||Male Lead Is Super Handsome
+男主辅助贼好|||Male Lead's Support Is Amazing
+男主逆天智商|||Male Protagonist Has Heaven-Defying IQ
+男主随便玩坏|||Male Lead Can Play With And Break At Will
+男主霸气|||MC Is Domineering
+男主高富帅|||Handsome Rich Tall MC
+男主黑化|||Male Lead Blackens
+男主龙傲天|||Male Lead Is Long Aotian
+男人变态有什么错|||What's Wrong With Men Being Perverted
+男人的友情|||Bromance
+男冷女热|||Cold Male Hot Female
+男女主分不清|||Can't Tell Male and Female Leads Apart
+男女通吃|||Bisexual
+男弟子|||Male Disciple
+男性慎入|||Men Beware
+男性魅魔|||Male Succubus
+男扮女装|||Male Dressed as Female
+男男|||BL
+男男CP|||Male-Male CP
+男的巫女|||Male Shrine Maiden
+男装大佬|||Tomboy
+画女硬说男|||Draws Girl but Calls It Male
+画面感|||Strong Visual Sense
+画面感十足|||Full Of Visuals
+画风全部突变|||Art Style Completely Changed
+画风清奇|||Unique Art Style
+画风突变|||Art Style Shift
+画风超赞|||Art Style Is Superb
+略中二|||Slightly Chuunibyou
+略带基|||Slightly Gay
+略燃|||Slightly Hot-Blooded
+略腹黑|||Slightly Black-Bellied
+略鬼畜|||Slightly Sadistic
+番剧感|||Anime-Like Feel
+番外卖肉|||Extra Chapters Sell Meat
+番外多|||Many Extras
+番外是本体|||Extra is the Main Story
+番外精彩|||Extras Are Excellent
+番茄酱|||Ketchup
+畫女硬說男|||Girl Drawn As Boy
+畫女硬說男流|||Drawing Girl but Insisting It's Male
+異世界|||Another World
+異界|||Otherworld
+異能|||Supernatural Powers
+疑似gay|||Suspected Gay
+疑似无敌|||Suspected Invincible
+疑似无限流|||Possibly Infinite Flow
+疑似是纯爱|||Suspected Pure Love
+疯狂|||Crazy
+疯狂填坑|||Frenzied Pit Filling
+疯狂拖跟|||Crazy At Dragging Updates
+疼爱妹妹|||Doting on Little Sister
+病娇|||Yandere
+病娇全能妹妹|||Yandere All-Rounder Little Sister
+病娇养成|||Yandere Training
+病娇前女友|||Yandere Ex-Girlfriend
+病娇变女强|||Yandere Becomes Strong Woman
+病娇后宫|||Yandere Harem
+病娇大小姐|||Yandere Young Miss
+病娇天降|||Yandere Falls from Sky
+病娇女仆|||Yandere Maid
+病娇好可怕|||Yandere Is So Scary
+病娇如风|||Yandere Like Wind
+病娇妈妈|||Yandere Mom
+病娇妹妹|||Yandere Little Sister
+病娇姐姐|||Yandere Older Sister
+病娇姑姑|||Yandere Aunt
+病娇少女|||Yandere Girl
+病娇爱病娇|||Yandere Loves Yandere
+病娇美少女|||Yandere Beautiful Girl
+病娇萝莉|||Yandere Loli
+病娇萝莉预警|||Yandere Loli Warning
+病娇贼爽|||Yandere Is So Satisfying
+病娇赛高|||Yandere Is the Best
+病娇进化史|||Yandere Evolution
+病娇闺蜜|||Yandere Best Friend
+病娇黑长直|||Yandere Black Long Straight
+病嬌|||Yandere
+病嬌表妹|||Yandere Cousin
+病态|||Sick
+病态妹控|||Sick Sister Complex
+病毒|||Virus
+病毒娘|||Virus Girl
+痴女|||Slutty Girl
+痴女姐姐|||Lewd Big Sister
+痴心绝对|||Absolute Devotion
+白切黑的汤圆|||White-Cut-Black Dumpling
+白发萝莉|||White-Haired Loli
+白夏|||White Summer
+白夜|||White Night
+白夜姬梦一攻一受|||White Night Princess Dream One Top One Bottom
+白嫩大腿|||Fair Slender Thighs
+白学|||White Album
+白学现场|||White Album Scene
+白富美妹妹|||Rich Beautiful White Little Sister
+白星快病娇啊|||White Star Hurry Up And Become Yandere
+白毛|||White Hair
+白程斩天斩地|||Bai Cheng Slashes Heaven And Earth
+白程美如画|||Bai Cheng Is Beautiful Like A Painting
+白糖|||White Sugar
+白色相簿N|||White Album N
+白蛇传|||Legend of the White Snake
+白话文|||Vernacular
+白闪封面|||White Flash Cover
+白龙少女|||White Dragon Girl
+百|||Hundred
+百个屁|||Hundred Farts
+百会后官|||Hundred Concubines
 百合|||Yuri/GL
+百合万岁|||Yuri Forever
+百合作品首选|||Top Yuri Work
+百合作者|||Yuri Author
+百合修罗场|||Yuri Battlefield
+百合元素|||Yuri Elements
+百合兄控|||Yuri Brocon
+百合同人|||Yuri Doujin
+百合同人书|||Yuri Doujin Book
+百合后宫|||Yuri Harem
+百合后宫王|||Yuri Harem King
+百合向嫁人|||Yuri-Oriented Marriage
+百合吗|||Is It Yuri?
+百合吧少女|||Yuri Girl
+百合哦|||Yuri
+百合大法好|||Yuri Is The Best
+百合学姐|||Yuri Senpai
+百合怎么嫁人|||How Can Yuri Get Married
+百合才是王道|||Yuri Is The True Way
+百合无限好|||Yuri Is Infinitely Good
+百合是什么鬼|||What The Hell Is Yuri
+百合求百合|||Yuri Seeks Yuri
+百合温情|||Yuri Warmth
+百合版失落叶|||Yuri Version of Lost Leaves
+百合理想乡|||Yuri Paradise
+百合百合|||Yuri Yuri
+百合的是人才|||Only Talented People Like Yuri
+百合精选|||Yuri Selection
+百合纯爱|||Yuri Pure Love
+百合至上|||Yuri Supremacy
+百合赛高|||Yuri Is Supreme
+百合还是嫁人|||Yuri or Marriage
+百合闺蜜|||Yuri Besties
+百萬封面|||Million Cover
+百鬼|||Hundred Demons
+百鬼温馨治愈|||Hundred Demons Warm Healing
+皇帝|||Emperor
+皮|||Cheeky
+皮一下|||Be Cheeky
+皮卡丘就决定是你了|||Pikachu, I Choose You
+皮断腿|||Skinny Broken Leg
+皮皮虾的秀|||Pipi Shrimp Show
+盗墓|||Tomb Raiding
+盗梦空间|||Inception
+目标星辰大海|||Goal: Sea of Stars
+目测嫁人|||Visually Looks Like Getting Married
+直升机|||Helicopter
 直播|||Live Streaming
+直男男主|||Straight Male Lead
+相信作者不咕|||Believe Author Won't Go AWOL
+相当接地气|||Very Down-to-Earth
+相思|||Lovesickness
+相爱相杀|||Love-Hate
+相當不錯|||Quite Good
+省略号狂魔|||Ellipsis Maniac
+看不出无敌|||Doesn't Look OP
+看不懂|||Confusing
+看不懂男主好坑|||Can't Understand, MC Is So Pitiful
+看了会喜欢的|||You'll Like It After Reading
+看了心疼|||Heartache While Reading
+看到后面好看|||Gets Good Later
+看到后面觉得十分精彩|||Very Exciting After Reading Further
+看到矢量想起一方通行|||Seeing Vector Reminds Me of Accelerator
+看到萝莉我就滚进来了|||I Rolled In When I Saw the Loli
+看图文脑补漫画系列|||Picture Text Imagination Manga Series
+看完变妹控|||Becomes Siscon After Reading
+看封面进来的|||Came for the Cover
+看就完事了嗷|||Just Read It And You're Done
+看文涨姿势|||Reading Increases Knowledge
+看点击用|||Used For Clickbait
+看的心态全炸|||Mind Blown While Reading
+看的我好兴奋|||So Exciting to Read
+看的我都兴奋了|||Got Me Excited
+看着胃疼|||Stomach Hurts Watching
+看稳狗实翻车|||Looks Stable But Actually Flips
+看见了使命召唤影子呢|||Saw Call of Duty Shadow
+看见后宫的影子|||See the Shadow of a Harem
+看起来不错|||Looks Good
+看过就知道|||You'll Know After Reading
+看门狗|||Watch Dogs
+真|||True
+真2点5次元|||True 2.5 Dimension
+真gay|||Actually Gay
+真不是搞笑文|||It's Really Not a Comedy
+真伪后宫|||Real or Fake Harem
+真冷清|||Really Desolate
+真创世神|||True Creator God
+真变身|||Real Transformation
+真后宫|||True Harem
+真善美|||Truth Goodness Beauty
+真夏夜的淫梦|||Midsummer Night's Lewd Dream
+真大佬|||True Bigshot
+真女装大佬|||Real Female Dresser
+真好笑|||Really Funny
+真娘|||Real Girl
+真娘正义|||True Girl Justice
+真实|||Realistic
+真实战争|||Realistic Warfare
+真实狗粮|||Real Dog Food
+真实的成长史|||Real Growth Story
+真实系|||Realistic
+真异能|||Real Supernatural Powers
+真徒手拆机甲|||Truly Dismantling Mechs Barehanded
+真情流露|||True Feelings
+真挚爱情|||Sincere Love
+真是二貨|||Such an Idiot
+真是楷模|||True Role Model
+真是百合问号|||Real Yuri Question Mark
+真木头男主|||Truly Dense Male Lead
+真東方文|||True Touhou Story
+真柴刀妹妹|||Real Chainsaw Little Sister
+真棒作者酱表放弃啊|||Great Job, Don't Give Up
+真橘里橘气|||Truly Yuri Atmosphere
+真正的精灵|||True Elf
+真正的自己|||True Self
+真正的骑士道|||True Chivalry
+真治愈|||Truly Healing
+真為錢而戰|||Truly Fighting for Money
+真爱|||True Love
+真爱无敌|||True Love Is Invincible
+真物|||The Real Thing
+真王能力|||True King Ability
+真的很不错耶|||Really Quite Good
+真的很好看|||Really Good Looking
+真的很普通|||Really Very Ordinary
+真的是后宫吗|||Is This Really a Harem
+真的是正经文|||It's Actually Serious Writing
+真的有在努力哦|||Really Working Hard
+真的有妹妹|||Really Has a Little Sister
+真的治愈|||Truly Healing
+真的百合|||Real Yuri
+真的逗比|||Truly a Goofball
+真群像|||True Ensemble Cast
+真致郁|||Truly Depressing
+真萝莉|||Real Loli
+真開車|||Real Driving
+真香|||Smells Good
+真香体质|||True Fragrance Physique
+真香大仙|||True Fragrance Great Immortal
+真香狐妖|||Truly Fragrant Fox Spirit
+真香警告|||Smells Good Warning
+眷族|||Familiars
+着迷了|||Captivated
+睡前奇效催眠|||Miraculous Pre-Sleep Hypnosis
+睡神|||Sleep God
+睿智|||Wise
+睿智主角|||Wise Protagonist
+瞎jb乱展开|||Randomly Expanding Plot
+瞎几把浪|||Reckless Waving
+瞪眼怀孕|||Staring Pregnancy
+瞪谁谁怀孕系列|||Stare And Impregnate Series
+知男而上|||Knows It's a Man and Still Climbs
+短|||Short
+短了点|||A Bit Short
+短小|||Short
+短小作者|||Short Author
+短小无力|||Short and Weak
+短小精悍|||Short and Powerful
+短篇|||Short Story
+短篇小说|||Short Story
+短篇才是本体|||Short Stories Are the Real Deal
+短篇集|||Short Story Collection
+石上真男人|||Ishigami Real Man
+码字姬|||Typing Princess
+砍人狂魔|||Madman Who Slashes People
+破产行善记|||Bankrupt Philanthropy Chronicles
 硬核|||Hardcore
+硬核作品|||Hardcore Work
+硬核养成|||Hardcore Training
+硬核奇幻|||Hardcore Fantasy
+硬核战斗|||Hardcore Battles
+硬核机战|||Hardcore Mecha Battle
+硬核治愈还行|||Hardcore Healing Is Okay
+硬核照相|||Hardcore Photography
+硬核男主|||Hardcore Male Lead
+硬核的海战|||Hardcore Naval Battle
+硬核神作|||Hardcore Godlike Work
+硬核穿越|||Hardcore Transmigration
+硬核魔幻物理|||Hardcore Magical Physics
+硬汉|||Tough Guy
+硬派|||Hardcore
+硬盒欢乐向|||Hard Box Happy Type
+硬科幻|||Hard Sci-Fi
+碉堡|||Awesome
+碉堡了|||Awesome
+碎尸更|||Dismemberment Updates
+碎石更|||Gravel Update
+碧蓝航线|||Azur Lane
+碼字姬|||Typing Princess
+社会|||Society
+社会你奥哥|||Society's Ao Bro
+社会我山姐|||Society's Big Sis Shan
+社会我雪哥|||Society's Bro Xue
+社会现实|||Social Realism
+社会类好评|||Well-Received Social Novel
+社保|||Social Security
+社团|||Club
+社宫王|||Shegong King
+祈求光環|||Praying for Halo
+祖师爷|||Ancestral Master
+祝成功|||Wishing Success
+神|||God
+神TM展开|||Goddamn Plot Twist
+神TM进展|||Goddamn Progress
+神tm奥特曼|||Goddamn Ultraman
+神tm最弱|||Goddamn Weakest
+神之一击|||Godly Strike
+神之描写|||Godly Description
+神之源世界|||World of Origin of Gods
+神仙之作|||Immortal Work
+神仙打架|||Gods Fighting
+神仙操作|||Godlike Moves
+神仙老婆|||Immortal Wife
+神似病娇|||Looks Like A Yandere
+神作|||Masterpiece
+神作不火系列|||Underrated Masterpiece Series
+神作中的神作|||God Tier Among God Tier
+神作劇情|||Godlike Plot
+神作即视|||Godly Work Vibes
+神作即视感|||Feels Like a Masterpiece
+神作向|||God-Tier Direction
+神作啊|||Masterpiece
+神作太可惜|||Divine Work Is Too Much of a Pity
+神作必须顶|||God Tier Must Upvote
+神作无上限|||Masterpiece Has No Limits
+神作无疑|||Undoubtedly Masterpiece
+神作无需解释|||Masterpiece Needs No Explanation
+神作既视感|||Masterpiece Vibes
+神作更新慢|||Masterpiece Updates Slowly
+神作潜力|||Masterpiece Potential
+神作潜力股|||Potential Masterpiece
+神作的气息|||Aura of a Godlike Work
+神作绝对神作|||Godly Work, Absolutely Godly Work
+神作超好|||God Tier Super Good
+神作雏形|||Godlike Work in Embryo
+神作预定|||Future Masterpiece
+神作预感|||Feels Like Masterpiece
+神作预警|||Masterpiece Warning
+神作预订|||Godly Work Reservation
+神傲娇|||Godly Tsundere
+神剧情|||Godly Plot
+神医|||Divine Doctor
+神厨|||God Chef
+神反转|||Godly Plot Twist
+神啊赞|||Godly Praise
+神坑卖队友|||Godly Pit Sells Out Teammates
+神坑小鬼|||Godly Pit Little Devil
+神壕的日常|||God-Tier Tycoon's Daily Life
+神大人|||God-Sama
+神大人没有存在感|||God Has No Presence
+神奇|||Magical
+神奇人设|||Amazing Character Design
+神奇作品|||Magical Work
 神奇宝贝|||Pokémon
+神奇懒癌|||Magical Lazy Cancer
+神奇的封面|||Magical Cover
+神奇设定|||Magical Setting
+神妹妹|||Godlike Little Sister
+神封面|||Godly Cover
+神展开|||Plot Twist
+神展开预感|||Feeling a God Tier Plot Twist
+神州|||Shenzhou
+神手|||God Hand
+神操作|||Godly Move
+神明|||God
+神明大人|||God-sama
+神明的二三事|||A God's Trifles
+神是萝莉|||God is Loli
+神棍|||God Stick
+神特么封面|||Goddamn Cover
+神特么的后宫|||What the Hell Harem
+神男主|||Godlike Male Lead
+神番|||Godly Series
+神秘|||Mysterious
+神级男主|||God-Tier MC
+神经女友|||Neurotic Girlfriend
+神经病作者|||Insane Author
+神经病欢乐多|||Psychopaths Have Lots Of Fun
+神经病系列|||Psycho Series
+神脑洞|||Insane Plot
+神萝莉|||Godly Loli
+神要老婆|||God Wants a Wife
 神话|||Mythology
+神话传说|||Myth and Legend
+神话史诗|||Mythic Epic
+神话杂烩|||Mythological Mashup
+神话黑|||Myth Black
+神误解|||God Misunderstanding
+神转折|||Amazing Twist
+神魔|||Gods and Demons
+神魔大战|||Gods and Demons War
+祸水|||Calamity
+禁忌之恋|||Forbidden Love
+禁欲系|||Abstinent Type
+福利|||Fanservice
+福利多|||Lots of Fanservice
+福利文|||Fanservice Novel
+福利满满|||Full of Fanservice
+福尔摩斯|||Holmes
+福泥|||Funi
+离奇|||Bizarre
+离题了|||Off Topic
+禽娘|||Bird Girl
+秀吉|||Hideyoshi
+秀吉脸|||Hideyoshi Face
+秀哀|||ShuAi
+秀恩愛|||Showing Off Love
+秀恩爱|||Showing Off Love
+秀技术|||Showing Off Skills
+秀智商|||Showing Off IQ
+私人武装|||Private Armament
+秋名山老司机|||Akina Mountain Old Driver
+秋名山飙车党|||Akina Mountain Racers
+秋易巨侠|||Qiu Yi Great Hero
+秋易老司机|||Qiu Yi Old Driver
+种族創造者|||Race Creator
+种族大混合|||Massive Race Mix
 种田|||Farming/Building
+种田文|||Farming Story
+种田流|||Farming Genre
+种马|||Stallion
+科学|||Science
+科学与魔法|||Science And Magic
+科学战异世|||Science vs Another World
+科学装逼|||Scientific Showing Off
+科学解释魔法|||Science Explains Magic
+科学魔法共存|||Science and Magic Coexist
 科幻|||Sci-Fi
+科幻与奇幻|||Sci-Fi and Fantasy
+科幻仙侠|||Sci-Fi Xianxia
+科幻动作|||Sci-Fi Action
+科幻后宫|||Sci-Fi Harem
+科幻后宫和欢乐日常|||Sci-Fi Harem and Cheerful Daily Life
+科幻向|||Sci-Fi Genre
+科幻大坑|||Huge Sci-Fi Pit
+科幻嫁人|||Sci-Fi Marriage
+科幻文|||Sci-Fi Novel
+科幻武斗|||Sci-Fi Martial Arts
+科幻现实主义|||Sci-Fi Realism
+科幻神话|||Sci-Fi Mythology
+科幻魔法|||Sci-Fi Magic
+科技|||Sci-Fi
+科技与魔法|||Science and Magic
+科技停滞|||Technological Stagnation
+科技大战魔法|||Technology vs Magic
+秒杀战斗|||One-Shot Battles
+积极的作者|||Positive Author
+秽翼|||Hane no Tsubasa
+稍稍有点无趣呢|||A Bit Boring
+稳中带皮|||Stable But Cheeky
+稳定更新|||Stable Updates
+穆雪|||Mu Xue
+究极鸽子|||Ultimate Pigeon
+穹妹233|||Sora Sis 233
+空之轨迹|||Trails in the Sky
+空事徒弟|||Empty Matter Disciple
+空侓之灵魂|||Soul of the Void
+空战|||Aerial Combat
+空战小说|||Air Combat Novel
+空白大叔|||Blank Uncle
+穿上裙子无敌|||Invincible in a Skirt
+穿了就搞事|||Causes Trouble After Crossdressing
 穿越|||Transmigration
+穿越冒险|||Transmigration Adventure
+穿越后期|||Late-Stage Transmigration
+穿越成精灵|||Transmigrated Into An Elf
+穿越文|||Transmigration
+穿越者多如狗|||Transmigrators Are Everywhere
+穿越者大军|||Army of Transmigrators
+穿越魔幻中世纪风|||Transported to Magical Medieval
+突然后宫加1|||Sudden Harem +1
+突然病娇|||Sudden Yandere
+突然的自恋|||Sudden Narcissism
+突然科幻|||Sudden Sci-Fi
+突然高能|||Sudden High Energy
+突然鸽|||Sudden Pigeon (Dropped)
+窃格瓦拉|||Steal Guevara
+立华奏|||Tachibana Kanade
+竖旗狂魔|||Flag Raising Maniac
+站在巨人肩上|||Standing on the Shoulders of Giants
 竞技|||Sports/Competition
+竟意外的好吃|||Surprisingly Delicious
+章末神展开|||Godly Twist At Chapter End
+章节名有毒|||Chapter Titles Are Poison
+童养媳|||Child Bride
+童年|||Childhood
 童话|||Fairy Tale
+童话故事|||Fairy Tale
+童话有你有我|||Fairy Tale With You and Me
+童颜巨乳|||Baby Face Big Breasts
+竹子篇|||Bamboo Chapter
+竹月|||Bamboo Moon
+笑到抽筋打嗝|||Laugh Until Cramp and Hiccup
+笑喷了|||Laughed Until Spitting
+笑容逐渐变态|||Smile Gradually Becomes Twisted
+笑屎我了|||Laughed My Ass Off
+笑死人不偿命|||Laugh Until You Die
+笑死咱了|||Laughed To Death
+笑点堆积|||Pile of Jokes
+笑点满满|||Full Of Laughs
+笔刀文冰|||Pen Blade Wen Bing
+笔锋行云流水|||Writing Flows Like Clouds and Water
+符文师大赞|||Rune Master is Great
+笨比娜娜|||Dumb Nana
+笨蛋底迪的风格么|||Idiot Little Brother Style
+笨蛋情侣|||Idiot Couple
+笨蛋測驗考試|||Baka Test
+笨蛋系|||Idiot Type
+笨蛋至尊|||Idiot Supreme
+笨蛋部下|||Idiot Subordinates
+第一人称|||First Person
+第一人称主角太啰嗦|||First-Person MC Is Too Wordy
+第一人称叙事|||First-Person Narrative
+第一公主殿下|||First Princess
+第一卷居然是世界观|||First Volume Is Actually Worldbuilding
+第一卷顺利完结|||First Volume Successfully Completed
+第一部让我向往的小说|||First Novel That Made Me Yearn
+第三种性别|||Third Gender
+第二人称|||Second Person
+第二卷飙车|||Volume 2 Goes Wild
+第四章正文|||Chapter Four Main Text
+第四章神展开|||Chapter 4 Divine Plot Twist
+等价交换|||Equivalent Exchange
+等待后续发展|||Waiting for Further Development
+等待更新|||Waiting for Updates
 策略|||Strategy
+筱雨|||Xiaoyu
+简介有毒|||Synopsis is Toxic
+简介有病系列|||Synopsis Is Sick Series
+简单|||Simple
+简直是好|||Simply Good
+简直有毒|||Simply Addictive
+简直棒|||Simply Awesome
+简直苟利国家|||Simply Benefits the Nation
+简约|||Simple
+算是热血流|||Sort of Hot-Blooded
+管家|||Butler
+篮球|||Basketball
+篮球校园|||Basketball School
+米莉特最棒了|||Milit is the Best
+类|||Type
+类五星物语|||Similar to The Five Star Stories
+类似刀剑神域|||Similar To Sword Art Online
+类似罪恶男主|||Similar to Sinful MC
+类型多样|||Diverse Genres
+类型大雾|||Genre in Thick Fog
+类绯弹轻小说|||Like Baka-Tsuki Light Novel
+粪作|||Shit Work
+精分|||Split Personality
+精分现场|||Split Personality On Scene
+精品|||Masterpiece
+精壮的猛萝莉|||Strong and Fierce Loli
+精彩|||Wonderful
+精悍|||Concise and Powerful
 精灵|||Elf
+精灵公主|||Elf Princess
+精灵妹妹|||Elf Little Sister
+精灵宝可梦|||Pokémon
+精神分裂|||Split Personality
+精神毒品|||Mental Drug
+精简流畅|||Concise and Smooth
+精細設定|||Detailed Setting
+精致|||Exquisite
+精英团队|||Elite Team
+精辟|||Incisive
+糖|||Sugar
+糖分充足|||Sufficient Sugar
+糖分爆溢|||Sugar Overload
+糖水|||Sugar Water
+糖里有胃药|||Sugar Has Stomach Medicine
+系統虐主|||System Abuses Protagonist
 系统|||System
+系统小姐姐|||System Miss
+系统无敌|||System Is Invincible
+系统是后宫|||System is Harem
+系统是逗比|||System Is A Goofball
+純愛|||Pure Love
+純爰|||Pure Love
+純百|||Pure Yuri
+索米|||Somi
+紧张中的轻松|||Relaxation Amid Tension
+紫妈|||Purple Mom
+紫彤好萌|||Zitong Is So Cute
+絮歇真爱|||Scher True Love
+綜漫|||Crossover Anime
+網游|||Online Game
+線上娶自己|||Marry Yourself Online
+織田信長|||Oda Nobunaga
+繼續努力|||Keep Working Hard
+纠结|||Angst
+红娘|||Matchmaker
+红色头发|||Red Hair
+红警|||Red Alert
+约会大作战|||Date A Live
 约战|||Date A Live
+约战好评|||Date A Live Praise
+约炮大作战|||Casual Sex Operation
+纯情|||Pure-Hearted
+纯情恋爱|||Pure Love
+纯情魅魔|||Pure Succubus
+纯搞笑|||Pure Comedy
+纯日常|||Pure Daily Life
+纯洁|||Pure
+纯洁1|||Pure 1
+纯洁的百合|||Pure Yuri
+纯洁精灵|||Pure Elf
 纯爱|||Pure Love
+纯爱党勿入|||Pure Love Fans Stay Away
+纯爱喜剧|||Pure Love Comedy
+纯爱型后宫|||Pure Love Harem
+纯爱无敌流|||Pure Love Invincible Genre
+纯爱气的后宫|||Pure-Love Harem
+纯百|||Pure Yuri
+纯百合|||Pure Yuri
+纯粹一个逗比|||Purely A Goofball
+纷争与和平|||Conflict and Peace
+线上游戏|||Online Game
+组队装逼|||Team Showing Off
+绅士|||Gentleman
+绅士必看|||Gentlemen Must Read
+细心|||Attentive
+细思极恐|||Creepy On Second Thought
+细腻|||Delicate
+细节很甜|||Details Are Very Sweet
+细节有待提升|||Details Need Improvement
+终极慢热型|||Ultimate Slow Burn Type
+经典|||Classic
+经典奇幻|||Classic Fantasy
+经典妹控文|||Classic Siscon Story
+经典开端|||Classic Beginning
+经常自己点赞|||Often Likes Own Comments
+经济|||Economics
 经营|||Management
+绑架|||Kidnapping
+绒布球萝莉|||Plush Ball Loli
+给力|||Awesome
+给我一打银白姬|||Give Me a Dozen Silver-Haired Waifus
+给自己点赞|||Self-Like
+给萌新一点爱|||Give Newbies Some Love
+绝不咕咕咕|||Never Drops
+绝世伪娘|||Peerless Trap
+绝世太太|||Peerless Wife
+绝地求生|||PUBG
+绝壁好看|||Absolutely Good Looking
+绝对变嫁|||Absolute Genderbend Marriage
+绝对好看|||Absolutely Beautiful
+绝对嫁人|||Definitely Getting Married
+绝对正经|||Absolutely Serious
+绝对牛|||Absolutely Awesome
+绝对的M|||Absolute Masochist
+绝对神作|||Absolute Masterpiece
+绝对神作yh|||Absolute Masterpiece yh
+绝对领域|||Absolute Territory
+绝望|||Despair
+绝美|||Stunning
+绝色美女|||Peerless Beauty
+绝非后宫片|||Definitely Not a Harem Story
+继续加油哦|||Keep Going
+继续向无敌进发吧|||Keep Marching Toward Invincibility
+继续开挂|||Keep Cheating
+续作|||Sequel
+续作顶|||Sequel Is Top
+维包子|||Wei Baozi
 综漫|||Multi-Anime Crossover
+绿帽|||NTR
+缓慢展开|||Slow Development
+编辑|||Editor
+编辑和作者|||Editor and Author
+缘之空画风|||Ano Natsu de Matteru Art Style
+缺个御姐|||Missing A Onee-san
+罐装咖啡|||Canned Coffee
 网游|||Online Game
+网游之XX|||Online Game XX
+网游武神|||Netgame War God
+网瘾少女|||Internet Addict Girl
+罕见的题材|||Rare Theme
+罗德岛|||Rhodes Island
+罪与罚|||Crime and Punishment
+罪恶王冠|||Guilty Crown
+罪犯|||Criminal
+羁绊|||Bonds
+美国|||America
+美女|||Beautiful Women
+美女儿好多|||So Many Beautiful Daughters
+美女多|||Many Beauties
+美女如云|||Beauties Everywhere
+美女成群|||Beauties in Groups
+美女机械人|||Beautiful Mechanical Girl
+美女皆我老婆|||All Beauties Are My Wives
+美好|||Beautiful
+美好异世界|||Beautiful Otherworld
+美少女|||Beautiful Girl
+美少女养成|||Beautiful Girl Raising
+美少女教师|||Beautiful Girl Teacher
+美少女杀手|||Beautiful Girl Killer
+美少女殺手|||Beautiful Girl Killer
+美少女胖次|||Beautiful Girl Panties
+美少年|||Pretty Boy
+美文|||Beautiful Writing
+美杜莎|||Medusa
+美漫|||American Comics
+美男主|||Handsome Male Lead
+美男王|||Handsome Male King
+美食|||Food
+羞羞羞|||Shy Shy Shy
+羞耻|||Embarrassing
+羞耻PLAY|||Shame Play
 群像|||Ensemble Cast
+群像作品|||Ensemble Cast
+群像剧|||Ensemble Cast
+群像剧无变身|||Ensemble Cast No Transformation
+群像小说|||Ensemble Cast Novel
+群攻搞定男主|||Group Attack to Handle Male Lead
+羽奈赞|||Yuna Is Great
+羽奈酱|||Yuna-chan
+羽毛球|||Badminton
+羽濑川小鸠|||Hasegawa Kobato
+翻书易得月票|||Easy Monthly Tickets
+翻车现场|||Car Flipping Scene
+翼翼是萝莉|||Yiyi Is a Loli
+翼翼爱女装|||Yiyi Loves Crossdressing
+老人与轻小说|||Old Man and Light Novel
+老司姬|||Veteran Yuri Driver
+老司机|||Veteran Driver
+老司机发车|||Old Driver Starting the Car
+老司机带路|||Old Driver Leads the Way
+老司机请上车|||Old Driver Please Get In
+老司机飙车|||Veteran Driver
+老哥萌|||Bro Is Cute
+老套路|||Old Routines
+老婆|||Wife
+老婆傲娇|||Tsundere Wife
+老婆厉害了|||Wife is Amazing
+老婆很棒|||Wife Is Awesome
+老婆我全都要|||I Want All the Wives
+老婆无敌|||Wife Is Invincible
+老婆是女王|||Wife is Queen
+老婆最强|||Wife Is Strongest
+老婆漂亮|||Wife Is Beautiful
+老婆真可爱|||Wife Is So Cute
+老婆诱人|||Attractive Wife
+老婆超级棒|||Wife is Super Awesome
+老师|||Teacher
+老年更|||Updates in Old Age
+老树开新花|||Old Tree Blooms Again
+老树新枝|||Old Tree New Branch
+老正经了|||Too Serious
+老滚5|||Skyrim
+老爷子|||Old Man
+老王不要挣扎|||Old Wang Stop Struggling
+老色批|||Old Pervert
+老虚|||Nasu Kinoko
+考试王啊|||Exam King
+而且死不承认|||And Stubbornly Denies It
+耐看型|||Enduringly Good Looking
 耽美|||BL/Danmei
+聊天群|||Chat Group
+聋啞少女|||Deaf-Mute Girl
 职场|||Workplace
+聖母|||Mary Sue
+肉食性萝莉|||Carnivorous Loli
+肉食男主|||Carnivorous Male Protagonist
+肝帝|||Liver Emperor
+肝帝作者|||Dedicated Author
+股市有风险|||Stock Market Has Risks
+肢体交换|||Body Part Exchange
+肢解|||Dismemberment
+肥宅万岁|||Long Live NEETs
+肥宅不死|||NEETs Never Die
+肥宅开后宫|||NEET Opens a Harem
+肥宅快乐书|||Happy NEET Book
+肥宅逆袭|||Nerd Counterattack
+胃痛|||Stomachache
+胃药|||Stomach Medicine
+背德组|||Immoral Group
+背景宏大|||Grand Background
+胸大腿长|||Big Breasts Long Legs
+胸平天下|||Flat Chest Conquers The World
+能力爆炸|||Overpowered Abilities
+能干的女仆|||Capable Maid
+能干的妹妹|||Competent Little Sister
+脏牧|||Dirty Priest
+脑壳疼|||Head Hurts
+脑子里只有赞|||Brain Only Has Likes
 脑洞|||Brain-hole/Creative
+脑洞十足|||Full of Imagination
+脑洞大|||Big Imagination
+脑洞大如天|||Brain Hole as Big as the Sky
+脑洞大开|||Wild Imagination
+脑洞大次洞次|||Huge Imagination Again
+脑洞太大|||Brain Hole Too Big
+脑洞奇大|||Insane Imagination
+脑洞好大|||Huge Brain Hole
+脑洞很大|||Huge Imagination
+脑洞打开|||Brain Hole Opened
+脑洞控制不住|||Uncontrollable Imagination
+脑洞无限|||Infinite Imagination
+脑洞清奇|||Unique Brain Hole
+脑洞男主|||Creative MC
+脑洞破天|||Imagination Breaks the Heavens
+脑洞超大|||Huge Imagination
+脑洞逆天|||Insane Imagination
+脑补冠军|||King Of Overthinking
+脑袋无线|||Wireless Brain
+脖子以上是坑|||Everything Above The Neck Is A Trap
+脱俗|||Refined
+脱离后宫路线|||Deviating from Harem Route
+腐文|||BL Novel
+腦洞與無奈|||Wild Ideas and Helplessness
+腹黑|||Scheming
+腹黑交易商|||Black-Bellied Trader
+腹黑女主|||Scheming Female Lead
+腹黑小萝莉|||Black-Bellied Little Loli
+腹黑师父|||Black-Bellied Master
+腹黑師妹|||Black-Bellied Junior Sister
+腹黑流|||Scheming Genre
+腹黑萝莉|||Black-Bellied Loli
+腹黑萝莉赛高|||Scheming Loli is the Best
+腹黑魔女|||Scheming Witch
+腿控福利|||Leg Fetish Fanservice
+腿给你打断掉|||I'll Break Your Legs
+膜蛤|||Memes About Toad
+膨胀男主|||Arrogant Male Lead
+自以为是|||Self-Righteous
+自以为是的正义|||Self-Righteous Justice
+自传|||Autobiography
+自传体小说|||Autobiographical Novel
+自娶神作|||Self-Marrying Masterpiece
+自娶系列|||Self-Marrying Series
+自嫁|||Self-Marriage
+自嫁系列|||Self-Marriage Series
+自己举鼎|||Lifting the Cauldron Himself
+自己们要搞事|||We Are Going to Cause Trouble
+自己动手|||Do It Yourself
+自己是萝莉的萝莉|||Loli Who Is a Loli Herself
+自己杀自己|||Killing Oneself
+自己的故事|||My Own Story
+自带BKB|||Built-in BKB
+自带吐槽|||Built-in Snark
+自我|||Self
+自我救赎之旅|||Journey of Self-Redemption
+自搞基|||Self Yaoi
+自攻自受|||Self Top Self Bottom
+自然|||Natural
+自爆大师|||Self-Destruction Master
+自爆狂魔|||Self-Destructing Maniac
+自畫封面|||Self-Drawn Cover
+自给自足|||Self-Sufficient
+自虐流|||Self-Abuse Genre
+自虐狂|||Masochist
+自说自话|||Talking To Oneself
+自闭主角|||Hikikomori Protagonist
+自顶|||Self Upvote
+臭屁|||Smug
+至强者|||Strongest
+至郁系|||Extremely Depressing Genre
+至高神|||Supreme God
+致平凡的人|||To Ordinary People
+致敬经典|||Homage to Classics
+致死剂量|||Lethal Dose
 致郁|||Depressing/Dark
+致郁向|||Depressing Genre
+致郁呵呵|||Depressing Hehe
+致郁系|||Depressing Genre
+舒服|||Comfortable
+舒服啊|||So Comfortable
+舔到最后应有|||Those Who Persist Shall Be Rewarded
+舔包狂人|||Loot Licker
+舔狗|||Simp
+航海王世界|||One Piece World
 舰娘|||Kantai Collection
+舰娘可爱|||Ship Girls Are Cute
 舰长|||Captain/Honkai
+舰长视角|||Captain’s Perspective
+船要沉了|||The Ship Is Sinking
+良作|||Good Work
+良心之作|||Conscientious Work
+良心作吧|||Conscience Work
+良心作品|||Conscientious Work
+良心作者|||Conscientious Author
+良心巨作|||Conscientious Masterpiece
+良心插画|||Conscientious Illustrations
+良心神作|||Conscientious Masterpiece
+色情|||Erotic
+色情血腥|||Erotic and Bloody
+色欲魔王|||Lust Demon King
+色气|||Lewd Atmosphere
+色气满满|||Full of Fanservice
+色色哒|||Lewd
+艹马的汉子|||Horse-Fucking Man
+艾丽莎好可爱|||Elisa Is So Cute
+艾姨加油|||Auntie Ai, Keep Going
+艾尔之光|||Elsword
+艾拉萌|||Ella Moe
+艾琳超可爱|||Irene Is Super Cute
+艾米莉赛高|||Emily Is Supreme
+节奏快|||Fast Paced
+节奏紧迫|||Tight Pacing
+节操|||Chastity
+节操丧尸|||Integrity Zombie
+节操何在|||Where Is Your Integrity
+节操即将破碎|||Integrity About to Shatter
+节操呢|||Where's The Integrity
+节操尽失|||All Integrity Lost
+节操木有了|||No More Integrity
+节操满满|||Full of Integrity
+节操满满的喜闻乐见|||Full of Integrity and Delightful
+节操碎一地|||Integrity Shattered Everywhere
+花式拆高达|||Fancy Gundam Dismantling
+花式虐亲爹|||Fancy Abuse of Real Dad
+花的物语|||Flower Story
+苍老师|||Teacher Cang
+苏卡不列|||Su Is Unbeatable
+苏大忽悠|||Su The Great Deceiver
+苏翰真的很强|||Su Han Is Really Strong
+苟胜无敌|||Cowardice Is Invincible
+苦逼男主|||Suffering Male Protagonist
+英灵|||Heroic Spirit
+英雄|||Hero
+英雄之旅|||Hero's Journey
+英雄前前传|||Hero Prequel
+英雄成长史|||Hero's Growth Story
+英雄生活|||Hero's Life
+英雄联盟|||League of Legends
+英雄进行时|||Hero In Progress
+荆轲刺秦王|||Jing Ke Assassinating the King of Qin
+草原|||Grassland
+荒谬式搞笑|||Absurd Comedy
+荒野|||Wilderness
+药娘|||Trans Girl
+药王|||Medicine King
+荷兰海军|||Dutch Navy
+莓办法|||No Way (Berry)
+莓良心|||No Conscience
+莫反|||No Reversal
+莫名反差萌|||Bizarre Gap Moe
+莫名喜感|||inexplicably Funny
+莫名带感|||Mysteriously Appealing
+莫得感情|||No Emotions
+莫比乌斯之门|||Mobius Door
+莲加樱等百合|||Lotus Plus Sakura Yuri
+萌|||Moe
+萌三宅|||Cute 3D Wife
+萌丧尸|||Cute Zombie
+萌二妹妹|||Cute Second Little Sister
+萌化纪实|||Cute Transformation Documentary
+萌妹|||Cute Girl
+萌妹变变变|||Cute Girl Transformations
+萌妹子|||Cute Girl
+萌妹子极多|||Extremely Many Cute Girls
+萌妹日记|||Cute Girl Diary
+萌妹魔王|||Cute Demon King
 萌宠|||Cute Pets
+萌宠邪龙|||Cute Evil Dragon Pet
+萌感|||Cuteness Factor
+萌文|||Cute Story
+萌爱姬|||Cute Love Princess
+萌狮子|||Cute Lion
+萌狼很萌|||Cute Wolf Is Very Cute
+萌王同人|||Cute King Fanfic
+萌男主|||Cute MC
+萌萌兽耳宙斯|||Cute Animal-Ear Zeus
+萌萌哒|||Super Cute
+萌萌哒的小说|||Super Cute Novel
+萌萌的三三|||Cute San-San
+萌萌達|||Super Cute
+萌萝夫君|||Cute Loli Husband
+萌萝莉|||Cute Loli
+萌虎|||Cute Tiger
+萌虎钉宫控傲|||Cute Tiger Tsundere Control
+萌龙|||Cute Dragon
+萝剑|||Loli Sword
+萝卜打怪兽|||Robot vs Monster
+萝变|||Loli Transformation
+萝太|||Loli Shota
+萝娜赛高|||Lona is the Best
+萝渊渊|||Luo Yuanyuan
+萝莉|||Loli
+萝莉万岁|||Loli Banzai
+萝莉与大叔|||Loli and Uncle
+萝莉也不放过|||Won't Spare Even Lolis
+萝莉会长|||Loli President
+萝莉作者|||Loli Author
+萝莉保护协会|||Loli Protection Association
+萝莉全面战争|||Total War Loli
+萝莉公主|||Loli Princess
+萝莉养女|||Adopted Loli Daughter
+萝莉养成|||Loli Training
+萝莉勇者|||Loli Hero
+萝莉即是正义|||Loli Is Justice
+萝莉变伪娘|||Loli Turns Into Trap
+萝莉可推|||Loli Pushable
+萝莉可爱|||Loli is Cute
+萝莉后宫|||Loli Harem
+萝莉圣女|||Loli Saintess
+萝莉头目|||Loli Boss
+萝莉女主|||Loli Heroine
+萝莉女仆|||Loli Maid
+萝莉女儿|||Loli Daughter
+萝莉女王|||Loli Queen
+萝莉女神|||Loli Goddess
+萝莉妹妹|||Loli Little Sister
+萝莉宠物|||Loli Pet
+萝莉很好|||Loli Is Very Good
+萝莉必须赞|||Loli Must Praise
+萝莉才是王道|||Loli Is The Way
+萝莉扎堆|||Loli Cluster
+萝莉控|||Lolicon
+萝莉控们的福音啊|||Gospel for Lolicon Fans
+萝莉控大佬|||Lolicon Big Shot
+萝莉控天堂|||Lolicon Paradise
+萝莉控必戳|||Lolicon Must Read
+萝莉控必看|||Must Read For Lolicons
+萝莉控恶魔|||Lolicon Demon
+萝莉控福利|||LoliCon Fanservice
+萝莉控福音|||Lolicon Gospel
+萝莉控魔王|||Lolicon Demon King
+萝莉无限好|||Loli is Infinitely Good
+萝莉既是正义|||Loli Is Justice
+萝莉是病娇|||Loli is Yandere
+萝莉校园青春|||Loli School Youth
+萝莉正義|||Loli Justice
+萝莉死不承认|||Loli Denies It To Death
+萝莉毁天灭地|||Loli Destroys The World
+萝莉画师|||Loli Artist
+萝莉癌晚期|||Terminal Loli Syndrome
+萝莉童养媳|||Loli Child Bride
+萝莉老婆|||Loli Wife
+萝莉老婆养成|||Loli Wife Training
+萝莉赛高|||Loli Is Supreme
+萝莉越来越多|||More And More Lolis
+萝莉身人妻心|||Loli Body Housewife Heart
+萝莉领主|||Loli Lord
+萝莉魔王|||Loli Demon King
+萬年不更新|||Eternal Hiatus
+萬歲|||Banzai
 蒸朋|||Steampunk
+蒸汽朋克|||Steampunk
+薛定谔|||Schrödinger
+蘿莉|||Loli
+蘿莉天下卻如水中花|||Loli World Like Flower In Water
+蘿莉女兒控|||Loli Daughter Complex
+蘿莉最高|||Loli is Supreme
+蘿莉滿滿|||Full of Lolis
+蘿莉神王|||Loli God King
+蘿莉養成|||Loli Raising
+虐|||Angst
+虐主|||Tortured MC
+虐主文|||Tortured MC Story
+虐主流|||Abuse Mainstream
+虐主角|||Torturing the Protagonist
+虐女主|||Abuse Female Lead
+虐妹狂人|||Sadistic Brother
+虐妹狂魔|||Sadistic Sister Abuser
+虐妻一时爽|||Abusing Wife Feels Good For A While
+虐得心疼|||Abuse Makes The Heart Ache
+虐心|||Heartbreaking
+虐心女主|||Heartbreaking Female Lead
 虐恋|||Tragic Love
+虐恋情深|||Abusive Deep Love
+虐文|||Tragedy
+虐是不可能的|||No Abuse Allowed
+虐智商|||Intellectually Abusive
+虐死了|||Abused to Death
+虐狗|||Dog Abuse
+虐狗日常|||Dog Abuse Daily
+虐男主|||Abuse MC
+虐菜|||Bullying Noobs
+虚拟主播|||Virtual Streamer
+虚拟建设|||Virtual Construction
+虚拟游戏|||Virtual Game
+虚拟现实|||Virtual Reality
+虚拟现实游戏|||VR Game
+虚拟空间|||Virtual Space
+虚拟网游|||Virtual MMORPG
+虚数原点|||Imaginary Origin
+虚空灭|||Void Extinction
+虚空能力|||Void Ability
+虚荣|||Vanity
+虫子|||Bug
+虫族|||Insect Race
+虫萝莉|||Bug Loli
+虽然没看但就是喜欢|||Haven't Read But Still Like It
+蛤蛤|||Hehe
+蛮不错|||Pretty Good
+蛮不错的w|||Pretty Good w
+蛮好看的|||Quite Good Looking
+蛮好看的希望加油|||Quite Good Looking, Hope You Keep Going
+蛮愉快的坐等更新|||Quite Pleasant, Waiting for Updates
+蛮有道理|||Quite Reasonable
+蜜汁兴奋|||Mysterious Excitement
+螳臂当车|||Mantis Blocking A Car
+蠢娜娜|||Stupid Nana
+蠢萌|||Clumsy Cute
+蠢萌小萝莉|||Dumb-Cute Little Loli
+蠢萌萝莉|||Silly Cute Loli
+蠻喜歡的|||Quite Like It
+蠻有道理|||Quite Reasonable
+血傲天|||Blood Arrogant Sky
+血姬中毒黑暗大爱|||Blood Princess Addiction Dark Love
+血小板|||Platelets
+血族|||Vampire
+血族公主|||Vampire Princess
+血族美少女|||Vampire Beautiful Girl
+血族萝莉|||Vampire Loli
+血源诅咒|||Bloodborne Curse
+血腥|||Gory
+行年无敌|||Xing Nian Invincible
+行文流畅|||Smooth Writing
+行文流畅好文|||Smooth Writing, Good Story
+行文风趣|||Witty Writing
+补番一样的畅快感|||Binge-Watching Satisfaction
+表情包|||Emoticon Pack
+表现主义|||Expressionism
+表示路过|||Just Passing By
+表面百合|||Surface-Level Yuri
+被動吸妹|||Passive Girl Magnet
+被压榨|||Being Exploited
+被后宫|||Reverse Harem
+被妹撩|||Teased by Little Sister
+被富婆包养|||Kept by a Rich Lady
+被封面吸引过来的|||Attracted By the Cover
+被封面骗进来|||Tricked by Cover
+被弃坑的好书|||Good Book That Was Abandoned
+被忽略的佳作|||Overlooked Masterpiece
+被无视|||Being Ignored
+被没落的小说其实挺好|||The Declined Novel Is Actually Good
+被波及者|||Those Affected
+被男主强啪|||Raped by Male Lead
+被簡介吸引怎料看不懂|||Attracted by Synopsis but Can't Understand
+被艹边缘试探|||Testing the Edge of Being Fucked
+装13|||Badass
+装b冒险|||Pretentious Adventure
+装甲与少女|||Armor and Girls
+装甲后宫|||Armored Harem
+装甲后宫黑长直|||Armored Harem Black Long Straight
+装甲核心|||Armored Core
+装的好有细节|||Great Details in Acting
+装逼|||Badass
+装逼到彻底|||Thoroughly Pretentious
+装逼如风|||Smooth Flex
+装逼打脸|||Face Slapping
+装逼无敌|||Invincible At Showing Off
+装逼日常|||Showing Off Daily Life
+装逼让小弟|||Act Cool and Let Minions Do It
+装逼逆袭|||Arrogant Counterattack
+裙下是宇宙|||Universe Under the Skirt
+裝B冒險|||Pretentious Adventure
+裝逼|||Showing Off
+裝逼沒成功過|||Failed at Showing Off
+西亚|||West Asia
+西兹黑丧心病狂|||Shizu Black Insane
 西幻|||Western Fantasy
+西幻大作|||Western Fantasy Masterpiece
+西幻巨作|||Western Fantasy Masterpiece
+西幻手抖加的|||Western Fantasy Added by Shaky Hands
+西幻正统|||Western Fantasy Classic
+西方|||Western
+西方玄幻|||Western Fantasy
+西方魔幻|||Western Fantasy
+西装少年|||Suit-Wearing Youth
+西装骨王|||Suited Bone King
+西部|||Western
+要后宫不要悲剧|||Want Harem Not Tragedy
+要喂玻璃渣了|||About to Feed Glass Shards
+要嫁人|||Wants to Marry
+要来杯凉水吗|||Want A Glass Of Cold Water?
+要死要活|||Life and Death
+要留在心里|||Keep It in Your Heart
+要百合|||Want Yuri
+要素过多|||Too Many Elements
+要脸吗|||Do You Want Face?
+視角千變萬化|||Ever-Changing Perspectives
+见封滚|||See Seal and Scram
+观望|||Observing
+规则|||Rules
+视觉小说|||Visual Novel
+视觉系|||Visual Style
+觉醒|||Awakening
+角斗士|||Gladiator
+角色反转|||Role Reversal
+角色性转|||Character Gender Bender
+角色沒智商|||Characters Have No IQ
+触手|||Tentacles
+触手怪|||Tentacle Monster
+触目惊心|||Shocking
+觸手BOSS|||Tentacle Boss
+言情|||Romance
+言灵|||Word Spirit
+設定流|||Setting-Focused
+誓当一股清泉|||Vow to Be a Clear Spring
 警报|||Alert
+警示标语|||Warning Sign
+警车司机|||Police Car Driver
+變身|||Transformation
+讓觀眾了解很重要|||It's Important for the Audience to Understand
+讚|||Praise
+讚哦|||Nice
+讚整個就是好看|||Just Plain Good
+计谋|||Schemes
 订阅|||Subscribe
+认真的作者|||Serious Author
+认真的好作品|||Seriously Good Work
+讨厌这种男主|||Hate This Kind Of Male Lead
+让舰长心塞|||Makes Captain Heartbroken
+记得服用胃药|||Remember To Take Stomach Medicine
+记忆|||Memory
+讲故事|||Storytelling
+讲道理|||Reasonable
+讴歌谎言|||Singing Lies
+论女主在哪儿|||Where Is the Female Lead
+论脑洞的作用|||On the Use of Imagination
+讽刺|||Satire
+设定|||Setting
+设定上可以接受|||Setting Is Acceptable
+设定上有点像HP|||Setting Somewhat Like HP
+设定不错|||Good Setting
+设定仔细|||Detailed Setting
+设定党|||Worldbuilding Fan
+设定剧情非常好|||Setting and Plot Are Excellent
+设定厨|||Setting Otaku
+设定好棒|||Setting Is Great
+设定好腻害|||Setting Is So Awesome
+设定崩坏|||Setting Collapse
+设定带感|||Cool Setting
+设定强大|||Strong Setting
+设定很强|||Worldbuilding Is Strong
+设定很棒|||Setting Is Great
+设定新奇|||Novel Setting
+设定新颖|||Unique Setting
+设定有趣|||Interesting Setting
+设定有趣不是一般末日|||Interesting Setting, Not Typical Apocalypse
+设定棒|||Great Setting
+设定狂魔|||Setting Maniac
+设定硬核|||Hardcore Setting
+设定神多|||Godlike Worldbuilding
+设定赞|||Great Setting
+设定超有趣|||Super Interesting Setting
+设定集|||Setting Collection
+设定非常喜欢|||Love The Setting
+设定鬼才|||Setting Genius
+设计师|||Designer
+评分拉回来|||Pull the Rating Back Up
+诅咒|||Curse
+诈尸|||Came Back From The Dead
+诈尸式更新|||Zombie Update Style
+诙谐|||Witty
+诚哥好文采啊|||Cheng Bro Has Great Writing
+诚哥有妹子就完结|||Cheng Bro Ends When He Gets a Girl
+诚实值得表扬|||Honesty Deserves Praise
+话唠|||Chatterbox
+话梅好好吃|||Plum Candy is Delicious
+话痨|||Chatterbox
+话痨魔王|||Talkative Demon King
 诡秘|||Occult/Mystery
+诡计流|||Scheming Flow
+语无伦次|||Rambling
+语言好美|||Beautiful Language
+诱拐萝莉|||Loli Kidnapping
+说你爱我|||Say You Love Me
+说好的10分|||The Promised 10 Points
+说好的性转呢|||Where's the Gender Bender
+说实话看不懂|||Honestly Can't Understand
+说无聊的看个蛋|||Those Who Say It's Boring Can Watch an Egg
+说粪作的出来|||Those Who Call It Shit Come Out
+诶嘿嘿嘿|||Ehehehe
+请加油|||Please Keep Going
+请大家支持|||Please Everyone Support
+请注意排版|||Please Pay Attention to Formatting
+请细细品尝|||Please Savor Slowly
+请问|||May I Ask
+诸神黄昏|||Twilight of the Gods
+读来略显沉重|||Slightly Heavy to Read
+读的很爽|||Very Satisfying To Read
+读着很舒服|||Very Comfortable to Read
+读着舒服|||Comfortable to Read
+读者有想象的空间|||Readers Have Room to Imagine
+谁是女主系列|||Who Is the Heroine Series
+谁给我整个|||Who Can Give Me One
+谁说天朝文差|||Who Says Chinese Writing Is Bad
+调戏学姐|||Teasing Senpai
+调教|||Training
+调教后宫|||Training Harem
+调教方式|||Training Method
+调教皇女|||Training the Imperial Princess
+调整心态|||Adjusting Mentality
+谋略军神|||Strategic War God
+谍影重重|||Heavy Espionage
+谎言与孤独|||Lies and Loneliness
+谢谢|||Thank You
+谢谢亲|||Thanks Dear
+豚豚很可爱|||Pigs Are Very Cute
 豪门|||Elite Family
+豬腳光環太厲害惹|||Protagonist Halo Too Strong
+貓娘蘿莉作者|||Catgirl Loli Author
+贝爷|||Bear Grylls
+贝罗酱完美枪械教室|||Bero-chan Perfect Firearms Classroom
+贞德|||Jeanne
+负能量满载|||Full of Negative Energy
+贤者|||Sage
+败犬|||Loser Dog
+质量|||High Quality
+贫乳大小姐|||Flat-Chested Young Lady
+贵圈真乱|||Circle is Messy
+贸易|||Trade
+费心之作|||Labor of Love
+资本家|||Capitalist
+赏金猎人|||Bounty Hunter
+赚钱|||Making Money
+赚钱养家|||Earning to Support Family
 赛博朋克|||Cyberpunk
+赛尔号|||Sailor
+赛尔号页游|||Sailor Browser Game
+赛高|||The Best
+赞|||Praise
+赞一个|||Thumbs Up
+赞文笔|||Praise The Writing
+赞👍|||Thumbs Up
+赤井秀一|||Akai Shuichi
+赤色姐真好看|||Red Sister Is So Beautiful
+走进科学|||Approaching Science
+起于微末|||Starting From Humble Beginnings
+起名困难户|||Bad at Naming
+起名困难症|||Naming Difficulty Syndrome
+起名癌|||Naming Cancer
+起点文即视感|||Qidian Novel Vibes
+起点文气息|||Qidian Literature Vibe
+起点里转来的|||From Qidian
+起点难民|||Qidian Refugee
+超人力霸王|||Ultraman
+超另类爱情|||Super Alternative Love
+超可爱女主|||Super Cute Female Lead
+超喜欢|||Super Like
+超困難人生|||Extremely Difficult Life
+超多萝莉|||Tons of Lolis
+超好的|||Super Good
+超好看|||Super Good Looking
+超好笑的|||Super Funny
+超巨强无敌|||Ultra Overpowered
+超市|||Supermarket
+超强后宫阵容|||Extremely Strong Harem Roster
+超强女主|||Super Strong Heroine
+超强萝莉|||Super Strong Loli
+超感人|||Super Touching
+超慢热|||Super Slow Burn
+超有趣|||Super Interesting
+超棒|||Awesome
+超现代|||Ultra Modern
+超现实|||Surreal
+超现实神作|||Surreal Masterpiece
+超甜|||Super Sweet
+超甜宠妻|||Ultra Sweet Wife Pampering
+超甜超沙雕|||Super Sweet Super Silly
+超生物|||Super Organism
+超硬核|||Ultra Hardcore
+超神学院同人|||Super God Academy Fanfic
+超神演技|||God-Level Acting
+超級後宮|||Super Harem
+超级修罗场|||Super Carnage
+超级好看|||Super Good Looking
+超级慢热|||Extremely Slow Burn
+超级挂B|||Super Cheater
+超级搞笑|||Super Funny
+超级教师|||Super Teacher
+超级棒|||Super Great
+超级甜呢|||Super Sweet
+超级科幻战争巨作|||Super Sci-Fi War Epic
+超级科技|||Super Technology
 超级英雄|||Superhero
+超级赞|||Super Great
+超能|||Superpowers
+超能克隆人|||Superpowered Clone
+超能力|||Superpowers
+超能力智斗|||Superpower Battle of Wits
+超能力的世界|||World of Superpowers
+超能力系|||Superpower Type
+超能力者|||Superpowered Person
+超脱|||Transcendence
+超自然|||Supernatural
+超讚|||Super Awesome
+超赞|||Super Awesome
+超赞的妹控赛高|||Super Great Siscon is the Best
+超超超级慢热|||Extremely Slow Burn
+超越常理|||Beyond Common Sense
+超郑|||Super Zheng
+超长篇|||Super Long Story
+越写越好|||Gets Better The More It's Written
+越往后越好看|||Gets Better Later On
+越打越弱|||Gets Weaker as He Fights
+越来越好看|||Getting Better And Better
+越看越好看|||Gets Better the More You Read
+越看越精彩|||Gets Better The More You Read
+趣味神话|||Fun Mythology
+足控|||Foot Fetish
+足控福利|||Foot Fetish Fanservice
+足球|||Football
+趴|||Lie Down
+跌宕起伏|||Full of Twists
+跑团|||Tabletop RPG
+跟你没关系|||None Of Your Business
+跟我一样是学生党呢|||Same Student as Me
+跪着看书系列|||Read On Your Knees Series
+路人男主|||Background Male Lead
+路人神|||Passerby God
+路哥|||Brother Lu
+路明妃|||Lu Mingfei
+路痴|||Directionally Challenged
+跳线世界观|||Jumping Worldview
+身体互换|||Body Swap
+輕鬆|||Relaxed
+轉生女孩賽高|||Reborn as a Girl is the Best
+车速又快又稳|||Fast and Steady Speed
+车速很快|||Very Fast Car Speed
+轨道交通|||Rail Transit
+转世|||Reincarnation
+转世轮回|||Reincarnation
+转世魔龙|||Reincarnated Demon Dragon
+转性|||Gender Change
+转折点非常赞|||Turning Point is Excellent
+转生|||Reincarnation
+轮回|||Reincarnation
+轮流榨干|||Taking Turns Milking Dry
+软件娘|||Software Girl
+软科幻|||Soft Sci-Fi
+软萌伪娘|||Soft Cute Trap
+软饭|||Soft Rice
+软饭无敌流|||Live-Off-Women Invincible Style
+软饭王|||Soft Rice King
+软饭真香|||Soft Rice Smells Good
+轻喜|||Light Comedy
+轻喜剧|||Light Comedy
 轻小说|||Light Novel
+轻小说型|||Light Novel Style
+轻度病娇|||Mild Yandere
+轻度精分|||Mild Split Personality
+轻恋姐姐大爱|||Light Love Big Sis Love
 轻松|||Light-hearted
+轻松向|||Relaxed Genre
+轻松向文风|||Relaxed Writing Style
+轻松型|||Relaxed Type
+轻松幽默|||Light Humor
+轻松日常|||Relaxed Daily Life
+轻松有趣|||Relaxed and Fun
+轻松欢乐|||Light and Cheerful
+轻松的日常|||Relaxed Daily Life
+轻殿|||Light Palace
+轻爽好看|||Light Refreshing And Good Looking
+轻玄幻小说|||Light Xuanhuan Novel
+轻百|||Light Yuri
+轻百合|||Light Yuri
+轻虐|||Light Angst
+轻音体弱|||Light Music Weak Body
+轻音少女|||K-On
+辛勤耕耘的好人|||Diligent Good Guy
+辛苦你们了|||You've Worked Hard
+辣舌头|||Spicy Tongue
+辣鸡|||Trash
+过了假日常|||Passed Fake Daily Life
+过于真实|||Too Realistic
+过多的科学性错误|||Too Many Scientific Errors
 运动|||Sports
+近卫骑士|||Imperial Guard Knight
+近战法师|||Melee Mage
+近战的法师|||Close-Combat Mage
+近月少女|||Kinzuki Shoujo
+近未来|||Near Future
+近未来幻想|||Near-Future Fantasy
+近未来热血|||Near-Future Passion
+还不粗哟|||Not Bad
+还不错|||Pretty Good
+还不错和好看|||Not Bad and Good Looking
+还不错的原创|||Pretty Good Original
+还不错的说|||Pretty Good
+还不错观望|||Not Bad, Watching
+还债|||Repaying Debt
+还可以|||Decent
+还可以加油|||Can Still Work Harder
+还可以咯|||It's Alright
+还可以这样玩|||Can Play It This Way
+还好|||Okay
+还好吧|||It's Okay
+还好看|||Still Good Looking
+还我七萝|||Give Me Back My Seven Luo
+还我小惠|||Give Me Back Xiao Hui
+还我病娇女友|||Give Me Back My Yandere Girlfriend
+还我血汗钱|||Give Me Back My Hard-Earned Money
+还挺有意思的|||Pretty Interesting
+还有战斗情节|||Still Has Battle Plot
+还有这种帝国|||There's This Kind of Empire
+还有这种操作|||What a Move
+还有麦克红|||And Mac Red
+还没看就这样|||Haven't Read It But Already Like This
+还真是面瘫|||She Really Is Expressionless
+还蛮不错的|||Quite Good
+还蛮有趣的|||Quite Interesting
+还行|||Decent
+还行吧|||It's Okay
+还要还要|||More More
+这tmd算是轻小说吗|||Is This Even a Light Novel
+这不是校园类|||This Is Not School Genre
+这不科学的叙述性诡计|||This Illogical Narrative Trick
+这个企鹅略碉|||This Penguin Is Kinda Awesome
+这个作者污啊|||This Author Is Lewd
+这个剑神不渣|||This Sword God Isn't Scum
+这个可以有|||This Is Acceptable
+这个奴隶好棒|||This Slave Is Great
+这个新人很有搞头哦|||This Newbie Has Potential
+这个是僵尸吗|||Is This a Zombie?
+这个是食尸鬼吗|||Is This a Ghoul
+这个杀手不太冷|||This Assassin Is Not Too Cold
+这个萝莉有毒|||This Loli is Poisonous
+这书不错|||This Book is Good
+这书有毒|||This Book is Toxic
+这书真好看|||This Book Is Really Good
+这作者死全家|||Author's Family Dead
+这刺客药丸|||This Assassin Is Doomed
+这只油必须死|||This Oil Must Die
+这头龙有点傻|||This Dragon Is a Bit Dumb
+这封面是贝露|||This Cover Is Bel
+这就是青春|||This Is Youth
+这才使真正的妹控|||This Is True Siscon
+这才是三国正史|||This Is the True Three Kingdoms History
+这才是迟来的神作|||This Is the Late Divine Work
+这抄袭|||This Is Plagiarism
+这是个假车|||This is a Fake Car
+这是什么垃圾玩意|||What Trash Is This
+这是什么节奏|||What Kind of Rhythm Is This
+这是变身吗|||Is This a Transformation
+这是后宫么|||Is This a Harem?
+这是探索好不|||This Is Exploration Okay
+这是替身攻击|||This Is Stand Attack
+这是欢快日常|||This Is Cheerful Daily Life
+这是百合吗|||Is This Yuri
+这是真的|||This Is Real
+这是社会类良心文|||This Is a Conscientious Social Novel
+这是美食番吧|||This Is A Food Anime Right
+这本小说真厉害|||This Novel Is Really Amazing
+这标签是闹哪样|||What Are These Tags For
+这病好像罪恶王冠|||This Illness Looks Like Guilty Crown
+这简介是闹啥啊|||What Is This Synopsis Doing
+这简介表示理解不能|||Synopsis Makes No Sense
+这能称神作吗|||Can This Be Called a Divine Work?
+这谁顶得住|||Who Can Withstand This
+这货竟然更新了|||This Guy Actually Updated
+这都没人看|||No One Reads This
+这里没有妹控|||No Siscon Here
+进击的真娘|||Advancing True Girl
+进化|||Evolution
+进化之旅|||Evolution Journey
+进度稍快|||Slightly Fast Paced
+进来康康|||Come in and Take a Look
+进步神速|||Rapid Progress
+进步空间大|||Lots of Room for Improvement
+进步飞快|||Rapid Progress
+连裤袜社长|||Pantyhose President
+迟早会火|||Will Get Popular Sooner or Later
+迟早会致郁|||Will Become Depressing Sooner or Later
+迟早被封|||Will Be Banned Sooner Or Later
 迪化|||Mastermind Schemer
+迪化严重|||Severe Delusional
+迷之不火|||Mysteriously Not Popular
+迷之燃点|||Mysterious Hot-Blooded Points
+迷之草稿流|||Mysterious Draft Style
+迷宫建造|||Dungeon Building
+迷茫的男主|||Confused Male Lead
 追夫|||Chasing Husband
+追梦|||Chasing Dreams
+追求霸权|||Pursuing Hegemony
+退役英雄|||Retired Hero
 退队|||Left the Party
+退隐|||Retirement
+适合|||Suitable
+适合慢读|||Good for Slow Reading
+适合拍电影|||Good For Movie Adaptation
+适宜人群|||Target Audience
+逃婚|||Runaway Bride
 逆|||Reverse
+逆后宫|||Reverse Harem
+逆天|||Defying Heaven
+逆天女主|||Defying-Heaven Heroine
+逆天成长|||Defying Heaven Growth
+逆天改命|||Defying Heaven to Change Fate
+逆天神器|||Defying Heaven Divine Artifact
+逆推|||Reverse Seduction
+逆推之作|||Reverse Push Work
+逆推倒阿|||Reverse Push Down
+逆推向|||Reverse Pursuit Genre
+逆推啊|||Push Back
+逆推的巅峰|||Peak of Reverse Seduction
+逆袭|||Counterattack
+透错区|||Wrong Section
+逐步攻略|||Gradual Strategy
+逗咱们的吧|||Are You Kidding Us
+逗比|||Idiot
+逗比主角|||Idiot Protagonist
+逗比作者|||Silly Author
+逗比兄妹|||Idiotic Siblings
+逗比成群|||Idiots Galore
+逗比抽风|||Silly Goofy
+逗比流|||Goofball Style
+逗比男主|||Idiotic Male Lead
+逗比魔王|||Silly Demon King
+逗比黑帮少年|||Idiotic Gangster Youth
+逗逼|||Idiot
+逗逼团|||Idiot Group
+逗逼搞笑|||Idiotic Comedy
+這書很有趣|||This Book is Very Interesting
+這書會火|||This Book Will Be Popular
+這該死的作者快更吧|||This Damn Author Update Already
+通知栏藏福利|||Notification Bar Hides Benefits
+速度更新|||Fast Updates
+造反流|||Rebellion
+造海工程|||Sea Creation Project
+進化|||Evolution
+進步中|||Improving
+逻辑|||Logic
+逻辑严谨|||Strict Logic
+逼婚|||Forced Marriage
+逼格较高|||High Pretentiousness
+遍地FLAG|||Flags Everywhere
+道士|||Taoist
+道术|||Taoist Magic
+還不錯|||Not Bad
+還蠻有趣的呢|||Quite Interesting
+邓超|||Deng Chao
+那些年大学的那些事|||Those University Things From Those Years
+那是作者的真名|||That's the Author's Real Name
+邪仙|||Evil Immortal
+邪恶|||Evil
+邪恶的小本本|||Evil Little Book
+邪惡使者|||Evil Messenger
+邪惡嘿嘿嘿|||Evil Hehehe
+邪术男主|||Sorcery Male Lead
+邪派|||Evil Sect
+邪神|||Evil God
+邪神男主|||Evil God Male Lead
+邪魅一笑|||Evil Charming Smile
+邪龙女仆|||Evil Dragon Maid
 都市|||Urban
+都市妖魔|||Urban Demons
+都市异能|||Urban Supernatural
+都市异能乱斗|||Urban Supernatural Brawl
+都市战斗|||Urban Battle
+都市魔幻|||Urban Fantasy
+都是作者加的|||All Added by the Author
+都是套路|||All Are Routines
+都是我的翅膀|||All Are My Wings
+都是萝莉控|||All Are Loli Cons
+都有的哟|||All of Them
+都比女主|||All Better Than The Heroine
+配图丰富|||Rich Accompanying Images
 配角|||Side Character
+配角是gay|||Supporting Character Is Gay
+配角比主角强|||Supporting Cast Stronger Than MC
+酱油女主|||Side Character Female Lead
+酷|||Cool
+酷炫的封面|||Cool Cover
+酸奶赛高|||Yogurt Supremacy
+醋王妹妹|||Jealous King Little Sister
+里世界|||Inner World
+里番诗人|||Hentai Poet
+重写文|||Rewrite Story
+重制加油|||Remake, Good Luck
+重口味|||Heavy Taste
+重启文|||Restart Story
+重度傲娇患者|||Severe Tsundere Patient
+重度兄控|||Severe Brother Complex
+重新做人|||Reborn as a New Person
 重生|||Rebirth
+重生变百|||Reborn as Girl
+重症|||Severe Case
+重置|||Reset
+重装机兵|||Metal Max
+野学二重奏|||Wild Study Duet
+野村大妈|||Auntie Nomura
+量产如奶牛|||Mass Produced Like Cows
+量子装甲|||Quantum Armor
+金发兽耳幼女|||Blonde Beast-ear Little Girl
+金惠貌似好漂亮的说|||Jin Hui Seems So Pretty
+金木娘化|||Kaneki Becomes a Girl
+金皮卡|||Golden Pika
+金钱才是王道|||Money is King
+金闪闪|||Gilgamesh
+金闪闪娘化|||Genderbent Gilgamesh
+钛合金男主|||Titanium Alloy Male Lead
+钢铁猛男|||Iron Manly Guy
+钢铁骑姬|||Steel Valkyrie
+钦定|||Imperial Selection
+钱债和情债|||Financial and Romantic Debts
+钱队|||Money Team
+铁废物|||Absolute Trash
+铁胆火车侠|||Brave Train Hero
+铁血|||Iron Blood
+铁血硬派|||Iron-Blooded Hardliner
+铁骨铮铮|||Iron-Boned Integrity
+铃科百合子|||Suzushina Yuriko
+铠传|||Armored Chronicles
+铠传同人|||Armored Chronicles Fanfic
+银发最高|||Silver Hair is the Best
+银发精灵|||Silver-Haired Elf
+银发美少女|||Silver-Haired Beautiful Girl
+银发贫乳血族|||Silver-Haired Flat-Chested Vampire
+银发赛高|||Silver Hair is the Best
+银发金瞳|||Silver Hair Golden Eyes
+银娘出品|||Silver Niang Production
+银羽很帅|||Silver Feather Is Handsome
+银长发萝莉控|||Silver Long-Haired Loli Con
+银魂|||Gintama
+银魂风|||Gintama Style
+锁血挂|||Infinite HP Cheat
+锦汉|||Jinhan
+锦衣卫|||Imperial Secret Police
+长标题已经用烂了|||Long Titles Are Overused
+长篇|||Long Story
+长篇征文金奖|||Long-Form Essay Gold Award
+開一桌|||Open a Table
+開外掛|||Cheat
+開掛|||Overpowered
+開掛的節奏|||Cheating Pace
+開車|||Driving
+闪闪不要嫁人|||Shiny Don't Get Married
+闪闪才不要死|||Shiny Doesn't Want to Die
+问题儿童的及视感|||Problem Children Vibes
+闯荡江湖|||Wandering The Jianghu
+闷声发大财|||Silent Riches
+闷骚男的奇幻旅程|||Tsundere Man's Fantasy Journey
+阎王|||King of Hell
+阎王好萌|||King of Hell Is So Cute
+阎罗王|||King of Hell
+阔以这很套路|||Okay This Is Very Routine
+阳光|||Sunny
+阴人|||Scheming Bastard
+阴暗|||Dark
+阴谋|||Conspiracy
+阴谋论|||Conspiracy Theory
+阴阳师|||Onmyoji
+阴阳螺旋|||Yin Yang Spiral
+阴险型主角|||Scheming Protagonist
+阿伟死了|||Awei Is Dead
+阿修罗是我的|||Asura Is Mine
+阿克雷斯|||Arceus
+阿凡达|||Avatar
+阿卡林|||Akari Invisible
+阿卡林妹妹|||Akari's Little Sister
+阿姨本人|||Auntie Herself
+阿尔瑞斯可耐|||Alreis Is Cute
+阿尔萨斯赛高|||Arthas is the Best
+阿库娅|||Aqua
+阿库西斯教主|||Aqua Cult Leader
+阿福试水|||Afu's Test Run
+阿离同人变嫁|||Ali Fanfic Becomes Marriage
+附身|||Possession
+降维打击|||Dimensionality Reduction
+除了短挺好|||Good Except It's Short
+除灵师|||Exorcist
+除魔师|||Demon Exorcist
 陰毛|||Pubic Hair
+随从装逼|||Follower Shows Off
+随便性转|||Casual Gender Bender
+随便看看|||Just Browsing
+随心所欲|||Do as One Pleases
+随缘更新|||Updates When Inspired
+隐世狐仙|||Hidden World Fox Immortal
+隐世神作|||Hidden Godlike Work
+隐藏病娇|||Hidden Yandere
+隐藏身份|||Hidden Identity
+隐退流|||Retirement Story
+隱瞞|||Concealment
+难得一见|||Rare
+难得一见的严肃好文|||Rare Serious Good Writing
+难得一见的军事小说|||Rare Military Novel
+难得主角不废材|||Rare Non-Trash MC
+难得的佳作|||Rare Masterpiece
+难得的好男主|||Rare Good Male Lead
+难道坑了|||Did It Get Dropped
+雁梨大法好|||Yanli's Method Is Great
+雅夜前传|||Yaye Prequel
+集体穿越|||Group Transmigration
+雇佣兵|||Mercenary
+雪瑶|||Xue Yao
+零之使魔|||Zero No Tsukaima
+零小白|||Zero Xiaobai
+雷|||Thunder
+雷姆|||Rem
+雷电法王|||Lightning Dharma King
+雾岛伊攵|||Kirishima Ibu
+雾崎梨深|||Kirizaki Rimi
+需要发育|||Needs Development
+震惊|||Shocking
+震撼|||Shocking
+露雅是我的|||Luya Is Mine
+霸气娘闪闪|||Dominant Shiny Girl
+霸王|||Overlord
+霸王硬上弓|||Tyrant Forcing Himself
+霸道公主|||Overbearing Princess
+霸道娇蛮|||Overbearing and Spoiled
+霸道总裁|||Overbearing President
+霸道男主|||Overbearing Male Lead
+霸道邪神爱上我|||Overbearing Evil God Loves Me
 青春|||Youth
+青春与恋爱|||Youth and Love
+青春校园|||Youth Campus
+青春校园爱情喜剧|||Youth School Love Comedy
+青春的感觉|||Feeling of Youth
+青梅姐妹|||Childhood Friends Sisters
+青梅竹马|||Childhood Friend
+青梅竹马盛宴|||Childhood Friends Feast
+青涩青春|||Green Youth
+非主流|||Non-Mainstream
+非人|||Non-Human
+非人类|||Non-Human
+非南北组弃书|||Not Dropped by North-South Group
+非后宫|||Non-Harem
+非圣母|||Not A Mary Sue
+非套路|||Non-Cliché
+非嫁人|||Not Getting Married
+非寻常性转|||Unusual Gender Bender
+非常不错|||Very Good
+非常不错哟|||Very Good
+非常不错哦|||Very Good
+非常不错的一部小说|||A Very Good Novel
+非常严肃|||Very Serious
+非常好|||Very Good
+非常好很有深度|||Very Good and Deep
+非常好看|||Very Beautiful
+非常有意思|||Very Interesting
+非常有趣|||Very Interesting
+非常期待|||Very Anticipated
+非常棒|||Excellent
+非常理|||Very Reasonable
+非常精彩|||Extremely Brilliant
+非快餐|||Not Fast Food
+非性转|||Not Gender Bender
+非日常|||Non-Daily
+非法童工|||Illegal Child Labor
+非洲血统|||African Bloodline
+非百合|||Not Yuri
+非酋日常|||Non-African Daily Life
+非酋男主|||Unlucky Male Protagonist
+非酋组合|||Non-African Union
+非龙傲天|||Not Long Aotian
+靠天賜吃飯的男主|||Male Lead Who Relies on Heaven's Gift
+靠智商装逼|||Showing Off With Intelligence
+靠演技|||Relying On Acting Skills
+靠谱男主|||Reliable Male Lead
+革命|||Revolution
+韦小宝再世|||Wei Xiaobao Reborn
+音乐|||Music
+預言|||Prophecy
+顶|||Top
+顶一下下么么哒|||Upvote, Muah
+顶一个|||Upvote
+顿|||Dun
+预测|||Prediction
+领主|||Lord
+题材不错|||Good Theme
+题材很有趣w|||The Theme Is Very Interesting w
+题材新颖|||Novel Theme
+颜文字|||Kaomoji
+颜文字帝王|||Kaomoji Emperor
+颜表情|||Facial Expressions
+额|||Uh
+风味独特|||Unique Flavor
+风奥|||Feng Ao
+风格奇特|||Unique Style
+风格挺清新的|||Style Is Quite Fresh
+风格独特|||Unique Style
+风纪委员|||Disciplinary Committee
+飙车|||Racing
+飙车户|||Speeding Household
+飞儿我的|||Fei'er Is Mine
+飞哥纯爷们|||Fei Ge Is A Real Man
+食人妖怪尚大|||Man-Eating Monster Is Still Big
+食尸鬼|||Ghoul
+饥荒|||Don't Starve
+馋人家身子|||Lusting After Her Body
+首页耻辱|||Front Page Shame
+驚奇|||Surprise
+马猴烧酒|||Pretty Cure
+驱魔师|||Exorcist
 骑士|||Knight
+骑士王|||Knight King
+骑马与砍杀|||Mount & Blade
+骗吃骗喝|||Freeloading
+骚东西男主|||Lewd Male Lead
+骚啊|||So Lewd
+骚操作|||Sly Moves
+骚比男主|||Sassy Male Lead
+骚气|||Sassy
+骚气主角|||Sassy MC
+骚爷快开车|||Lewd Master Drive Fast
+骚话男主|||Sassy Talk MC
+骚话连篇|||Full Of Lewd Talk
 骨王|||Overlord
+骨科max|||Incest Max
+骨科患者|||Incest Patient
+骨科股大失败|||Incest Stock Major Failure
+骨科预定|||Incest Reserved
+骨科预警|||Incest Warning
+骨质增生|||Bone Hyperplasia
+高中生|||High School Student
+高中生日常|||High Schooler Daily Life
+高中生法王|||High School Student Dharma King
+高中生活|||High School Life
+高中生的天下UP|||High Schooler's World UP
+高产|||High Output
+高冷|||Cold and Aloof
+高冷女王|||Cold Queen
+高冷校花|||Cold School Belle
+高冷男主|||Cold Male Lead
+高双商男主|||High IQ and EQ Male Lead
+高情商女主|||High EQ Female Lead
+高智商女主|||High IQ Female Lead
+高智商战斗|||High IQ Battles
+高智商男主|||High IQ Male Lead
+高校生活|||High School Life
+高水平|||High Quality
+高爽不虐|||High Refreshing No Abuse
+高甜|||Super Sweet
+高甜不虐|||Super Sweet No Abuse
+高甜度|||High Sugar Content
+高甜轻虐|||High Sweet Light Abuse
+高甜高虐|||High Sugar High Abuse
+高端向装逼|||High-End Showing Off
+高考帝|||Gaokao Emperor
+高能预警|||High Energy Warning
+高评作品不更新|||Highly Rated But No Updates
+高质量|||High Quality
+高贵神女|||Noble Goddess
+高达|||Gundam
+鬥智|||Battle of Wits
+鬼上身|||Ghost Possession
+鬼乐儿|||Ghost Loli
+鬼作必为神作|||Ghost Work Must Be Divine Work
+鬼剧情后高糖|||High Sugar After Ghost Plot
+鬼才|||Genius
+鬼故事|||Ghost Story
+鬼泣|||Devil May Cry
+鬼父|||Incest Father
+鬼父的幼女|||Ghost Father's Young Daughter
+鬼畜作者|||Twisted Author
+鬼畜哥哥|||Sadistic Brother
+鬼畜老哥|||Savage Bro
+鬼畜魔幻|||Grotesque and Magical
+魂like|||Soulslike
+魂殇是红的|||Soul Scar Is Red
+魂淡|||Soul Pale
+魂淡更新啊|||Update You Bastard
+魂穿|||Soul Transmigration
+魅惑|||Seduction
+魅魔|||Succubus
+魔伊|||Prisma Illya
+魔剑啊不要圣剑|||Magic Sword, Not Holy Sword
+魔剑萝莉|||Demon Sword Loli
+魔堕仙子|||Fallen Immortal Fairy
 魔女|||Witch
+魔女妹妹|||Witch Little Sister
+魔女游戏|||Witch Game
+魔导战魔|||Magic Battle Demon
+魔尊|||Demon Lord
+魔尬少女|||Magical Cringe Girl
 魔幻|||Magic Fantasy
+魔幻小说|||Fantasy Novel
+魔幻热血|||Magic Shonen
+魔幻神域魔法剑域|||Fantasy God Realm Magic Sword Domain
 魔幻类|||Magic Fantasy-type
+魔性|||Addictive
+魔性不止封面|||Demonic Beyond Just the Cover
+魔性世界观|||Demonic Worldview
+魔性吐槽|||Addictive Roasts
+魔性封面|||Addictive Cover
+魔性标题|||Demonic Title
+魔性画风|||Demonic Art Style
+魔性的女儿|||Bewitching Daughter
+魔性的封面|||Addictive Cover
+魔性看板娘|||Demonic Signboard Girl
+魔改|||Magical Rewrite
+魔改克苏鲁|||Demonized Cthulhu
+魔改剧情|||Demonically Modified Plot
+魔改历史|||Magically Altered History
+魔教|||Demon Cult
+魔族|||Demon Race
+魔族天王|||Demon Race Heavenly King
+魔族女王|||Demon Queen
+魔术|||Magic
+魔术师|||Magician
+魔杖娘|||Magic Wand Girl
 魔法|||Magic
+魔法vs科学|||Magic vs Science
+魔法vs科技|||Magic VS Technology
+魔法与科学|||Magic and Science
+魔法剑仙|||Magic Sword Immortal
+魔法勇者|||Magic Hero
+魔法咒语我喜欢|||Love Magic Chants
+魔法女武神|||Magic Valkyrie
+魔法学院|||Magic Academy
 魔法少女|||Magical Girl
+魔法师|||Mage
+魔法师战争|||Mage Wars
+魔法战争|||Magic War
+魔法生物|||Magical Creature
+魔法禁书目录|||A Certain Magical Index
+魔法禁书目录既视感|||Toaru Majutsu no Index Vibes
+魔法衰落|||Magic Decline
+魔法轟圣女|||Magic Bombardment of the Saintess
+魔炮|||Magical Cannon
+魔物|||Monster
+魔物娘|||Monster Girl
+魔物娘后宫|||Monster Girl Harem
+魔物娘的远征|||Monster Girl Expedition
+魔狼|||Demon Wolf
 魔王|||Demon King
+魔王会女装|||Demon King Crossdresses
+魔王儿子|||Demon King's Son
 魔王勇者|||Demon King & Hero
+魔王勇者cp|||Demon King Hero CP
+魔王勇者合体|||Demon King and Hero Merge
+魔王大人|||Demon King
+魔王妹纸|||Demon King Girl
+魔王姐姐|||Demon King Older Sister
+魔王嫁勇者|||Demon King Marries Hero
+魔王很弱|||Demon King Is Very Weak
+魔王很强大概|||Demon King Is Probably Strong
+魔王才是主角|||The Demon King Is The Protagonist
+魔王是奸商|||Demon King Is A Shady Merchant
+魔王是月老|||Demon King is Matchmaker
+魔王與勇者|||Demon King and Hero
+魔王要快点强|||Demon King Needs To Get Strong Fast
+魔王转生勇者|||Demon King Reborn as Hero
+魔界最苟|||Most Cowardly In Demon World
+魔神|||Demon God
+魔神大人真爱|||Demon God's True Love
+魔禁|||Toaru Majutsu no Index
+魔都|||Demon Capital
+魔鬼人妻|||Devilish Wife
+魔龙|||Demon Dragon
+鲁路修|||Lelouch
+鲁鲁修高达皇冠|||Code Geass Gundam Crown
+鸡汤|||Chicken Soup (Inspirational)
+鸡飞狗跳|||Chickens Fly Dogs Jump
+鸽|||Pigeon (Slacker)
+鸽子|||Pigeon
+鸽子作者性转|||Pigeon Author Genderbend
+鸽子大王满级|||Pigeon King Max Level
+鸽子王作者|||King of Pigeons Author
+鸽子精|||Pigeon Spirit
+鸽王|||King of Pigeons
+鸽王之王|||King of Pigeons
+麦克彩虹|||Mac Rainbow
+麦克白|||Macbeth
+麦克黑|||Mac Black
+麻薯加油|||Mochi Keep Going
+麻衣x当麻|||Mai x Touma
+黄段子|||Dirty Jokes
+黄段子一流|||Top Tier Dirty Jokes
+黄油女主|||Eroge Female Lead
+黑|||Black
+黑丝|||Black Stockings
+黑丝教师|||Black Stocking Teacher
+黑人能手|||Skilled Black Man
 黑化|||Blackened/Corrupted
+黑化兄控|||Yandere Brocon
+黑化美|||Darkened Beauty
+黑卡土豪|||Black Card Tycoon
+黑历史|||Dark History
+黑又硬|||Black and Hard
+黑吃黑|||Black Eats Black
+黑吃黑吃黑|||Black Eats Black Eats Black
+黑客大佬|||Hacker Big Shot
+黑岩射手|||Black Rock Shooter
+黑暗|||Dark
+黑暗中的温情|||Warmth in the Darkness
+黑暗之王|||Dark Lord
+黑暗向|||Dark Tone
+黑暗治愈|||Dark Healing
+黑暗流|||Dark Stream
+黑暗系|||Dark
+黑暗系恋爱|||Dark Love
+黑暗系精品|||Dark-Type Gem
+黑暗英雄|||Dark Hero
+黑暗萌系男主|||Dark Moe Male Lead
+黑暗风爽文|||Dark Refreshing Story
+黑深残|||Black Deep Cruel
+黑漫|||Dark Manga
+黑白剑舞更好|||Black And White Sword Dance Is Better
+黑社会|||Mafia
+黑科技|||Black Technology
+黑童话|||Dark Fairy Tale
+黑色幽默|||Black Humor
+黑车|||Black Car
+黑车警告|||Black Car Warning
+黑道|||Underworld
+黑道BOSS|||Underworld Boss
+黑长直|||Black Long Straight
+黑陸教|||Black Land Cult
+黑骑士|||Black Knight
+黑龙|||Black Dragon
+默默|||Silently
+默默装逼|||Quietly Showing Off
+齐思柔赛高|||Qi Sirou Is The Best
+龍X天|||Dragon X Sky
 龙|||Dragon
+龙与地下城|||Dungeons & Dragons
+龙与狐|||Dragon And Fox
+龙之谷|||Dragon Nest
+龙也要开后宫|||Even Dragon Wants Harem
+龙傲天|||OP MC
+龙傲天大乱斗|||Long Aotian Brawl
+龙傲天掰弯纪|||Long Aotian's Gay Bending Chronicles
+龙傲天文|||Long Aotian Novel
+龙傲天的末日|||Long Aotian's Doomsday
+龙公主|||Dragon Princess
+龙女|||Dragon Girl
+龙妈|||Dragon Mom
+龙妈妈|||Dragon Mom
+龙妹子联盟|||Dragon Girl Alliance
+龙姬|||Dragon Princess
+龙娇妻|||Dragon Spoiled Wife
+龙娘|||Dragon Girl
+龙娘x鬼|||Dragon Girl x Ghost
+龙战士4啊|||Dragon Warrior 4
+龙族|||Dragon Race
+龙族公主|||Dragon Princess
+龙昊|||Long Hao
+龙炎出品|||Produced by Long Yan
+龙猫夏露露|||Totoro Charlotte
+龙王|||Dragon King
+龟速更|||Extremely Slow Updates
+龟速更新|||Snail-Paced Updates
 가게|||Shop
 가계운영물|||Family Business
 가고토스|||Kagotous
