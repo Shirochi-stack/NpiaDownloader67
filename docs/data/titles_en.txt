@@ -41,6 +41,7 @@
 417581|||병약 관종 공녀님은 관심이 고파요|||Sickly Attention-Seeking Duchess Craves Attention
 428718|||글러먹은 영웅의 해결사 사무소|||The Washed-Up Hero's Fixer Office
 394217|||빙하기에 갤러리를 주웠다|||I Found a Gallery During the Ice Age
+429997|||이세계 귀환 다음은 아포칼립스냐?|||After Returning from Another World, Is It the Apocalypse?
 426378|||아포칼립스에서 정령으로 먼치킨|||[Munchkin as a Spirit in the Apocalypse]
 424759|||아카데미 사서는 퇴사하고 싶어|||The Academy Librarian Wants to Quit
 412428|||저는 돌아오고 싶지 않았어요|||I Didn't Want to Return
@@ -61,6 +62,7 @@
 345725|||[오버로드] 푸른 샘의 기사|||[Overlord] Knight of the Blue Spring
 428990|||무림 최악의 재앙이 되었다|||I Became the Worst Disaster in Murim
 430218|||과부거미의 겨울성채 (외)|||The Widow Spider's Winter Castle (And Others)
+429125|||대홍수에 낙원을 세우다|||Building Paradise in the Great Flood
 430011|||[Fate/Fgo] 빙의했더니 어째선지 모르는 여자들이 자꾸 내 곁에서 떠나질 않는다.|||[Fate/FGO] I Got Possessed, and for Some Reason Women Keep Leaving My Side
 430452|||이 겨울이 끝날 때까지|||Until This Winter Ends
 389300|||검은머리가 밤일을 잘함|||The Black-Haired Guy Is Good at Night Work
@@ -87,6 +89,8 @@
 96706|||천사가 사람을 먹었다.|||An Angel Ate a Person.
 396182|||잡혀버렸습니다!|||I Got Caught!
 419118|||좀비 아포칼립스의 집주인이 되었다|||I Became the Landlord of Zombie Apocalypse
+429954|||소꿉친구가 소설을 잘 씀|||My Childhood Friend Is a Great Novelist
+429915|||외면한 현실은 차가운 낙원이 되어|||The Reality I Ignored Became a Cold Paradise
 428106|||보스의 신랑감을 찾습니다|||Seeking a Groom for the Boss
 429505|||내가 쓴 중2병 일기장이 예언서가 되었다|||The Chunibyo Diary I Wrote Became a Prophecy Book
 428846|||방송 망한 넷카마가 전설적인 악기 제작자로 태어났다|||The Washed-Up Netkama Became a Legendary Instrument Maker
@@ -48116,9 +48120,11 @@
 366179|||오빠인데, 여동생입니다!|||I'm an Older Brother, But I'm a Little Sister!
 421868|||내 친구 시앙이|||"My Friend Siani"
 418675|||하던 거 마저 해주세요|||Please Finish What You Started
+427438|||러브레터 조언 부탁드립니다!|||Please Give Me Advice on This Love Letter!
 425288|||화류계|||Flower World
 425290|||154번지|||154th Street
 412894|||그런 관계 아닙니다!|||We Are Not in That Kind of Relationship!
+430025|||유리 정원|||Glass Garden
 421169|||LCPD|||LCPD
 427984|||현지화된 일본인 버튜버|||Localized Japanese Vtuber
 394972|||게임 하실래요?|||Want to Play a Game?
@@ -57409,22 +57415,28 @@
 426504|||[해리포터] 스네이프가 어둠을 선택했다면|||" [Harry Potter] If Snape Chose Darkness"
 259800|||(블루아카이브/은혼) 은빛청춘|||[Blue Archive/Gintama] Silver Youth
 367003|||[블루아카이브x케이팝 데몬 헌터스] 환생을 해도 까치인것에 대하여|||[Blue Archive x K-Pop Demon Hunters] Regarding the Fact That I'm Still a Magpie Even After Reincarnation
+430441|||[림버스]X[블루아카] 전 흑수 오 필두의 학원도시의 삶|||Limbus X Blue Archive: The Academy City Life of Former Blackwater Captain Oh Pil-doo
 391116|||【블루아카 X 프문】 키보토스에서 인격 뽑는 방송|||【Blue Archive x Project Moon】 Broadcast of Pulling Personalities in Kivotos
 397805|||[블루아카이브 X 메탈카드봇]:그리고 모든 우정이 시작되는곳|||[Blue Archive x Metal Cardbot]: And the Place Where All Friendship Begins
 158054|||닥터의 학생부(블루 아카이브x닥터 후)|||Doctor's Student Record (Blue Archive x Doctor Who)
 419879|||[블루아카이브X검은 머리 미군 대원수]검은머리 미군 선생님|||[Blue Archive × Black-Haired US Admiral] Black-Haired US Military Teacher
+430228|||[스타레일] 은하 가수의 기둥 서방|||Honkai: Star Rail – The Pillar Husband of a Galactic Idol
+429973|||[블루아카이브] 고민? 들어는 줄게.|||Blue Archive: Worried? I'll Listen.
 422963|||Vol.Abnormality 공포를 마주하고 미래를 창조하라 편|||Vol. Abnormality: Face the Fear and Create the Future
 425964|||승리의 여신, 너를 너무너무너무너무 좋아하는 100명의 니케|||Victory Goddess, 100 Nikkes Who Like You Way Too Much
+430424|||포켓몬스터:전설의 3거인을 데리고 다니는 트레이너|||Pokémon: The Trainer Who Travels with the Three Legendary Giants
 429529|||[유희생활]퍼주는 유희생활을 각성했다|||[Yu-Gi-Oh! Life] I Awakened the Generous Yu-Gi-Oh! Life
 426923|||그저 지켜보고 싶었을 뿐이었는데|||"I Just Wanted to Watch"
 370487|||[블루아카이브 X Red vs. Blue] 처치 선생님|||[Blue Archive x Red vs. Blue] Church Sensei.
 279435|||[원신]티켓쓰는 이방인|||[Genshin Impact] Stranger Using Tickets
 350343|||(블루아카이브) 키보토스의 난봉꾼|||(Blue Archive) Kivotos's Playboy
 411691|||[포켓몬] 펄기아가 되|||[Pokemon] Become Palkia
+430316|||[FGO/FATE X 전생슬]전생해도 마스터였던 건에 대하여|||FGO/Fate x Reincarnated as a Sword: About How I Was Still a Master Even After Reincarnating
 412158|||[림버스] 엄지제자, 회귀.|||Thumb Disciple, Regression
 364010|||제 4조|||[Blue Archive] Article 4
 420660|||[알드노아.제로]나 메카 못 탄다고|||[Aldnoah.Zero] Can't Ride Mecha, They Say
 382081|||저희 언니 오빠들 멋있죠?!|||Aren't My Older Sisters and Brothers Cool?!
+430432|||무언가 잘못된 해피엔딩|||A Happy Ending Gone Wrong
 424122|||지령을 따라|||Following the Directive
 274866|||[팀 포트리스2x 블루 아카이브] 용병과 청춘의 이야기|||[Team Fortress 2 x Blue Archive] Story of Mercenaries and Youth
 398070|||[데스노트] 이것은 데스노트가 아닙니다|||[Death Note] This Is Not a Death Note
@@ -57438,10 +57450,12 @@
 418597|||모험가와 바이킹(던만추X어쌔신크리드)|||Adventurer and Viking (Dungeon Munchies × Assassin's Creed)
 416875|||[유희생활] 어라?|||[Yu-Gi-Oh] Huh?
 428998|||[Fate/Fgo] 세상에게 미움을 받고, 악에게 사랑 받는 마스터|||[Fate/FGO] Master Hated by the World, Loved by Evil
+430421|||[암살교실X주술회전]천부의 폭군|||Assassination Classroom x Jujutsu Kaisen: The Heaven-Blessed Tyrant
 424410|||[유희왕] GX에서 메타비트|||Yu-Gi-Oh! GX: Metavite
 427642|||[블루아카이브 X 소전] 내 소대원들은 뭔가 잘못됐다|||【Blue Archive X Squad Jam】Something's Wrong with My Squadmates
 257713|||[전독시 X 갓오하] 제천대성 강림|||[ORV x GOH] Descent of the Great Sage, Heaven's Equal
 213361|||[토탈워:워해머]무언가가 무언가된 무언가|||[Total War: Warhammer] Something That Became Something
+430416|||[블루아카이브]데카그라마톤이 되었다|||Blue Archive: I Became the Decagrammaton
 429697|||[프문] 신탁 대행자가 되었다|||[Pr Moon] I Became an Oracle Agent
 427555|||[주술회전]신주쿠 결전은 이렇게 끝났어야 했다.|||" [Jujutsu Kaisen] Shinjuku Showdown Should've Ended Like This"
 397032|||[원피스] 포트거스 D. 아스테라|||[One Piece] Portgas D. Astera
@@ -72712,7 +72726,6 @@
 24172|||그냥 백합 이야기|||Just a Yuri Story
 226120|||다른 학교의 여학생을 도왔더니 친구부터 시작하게 되었습니다|||I Helped a Female Student from Another School and We Started as Friends
 224455|||전속 집사를 그만두니 모셨던 아가씨가 유난히 가까운데|||I Quit Being a Personal Butler and the Young Lady I Served is Unusually Close
-227044|||세드릭 디고리에게 씀 |해리포터|||||To Cedric Diggory | Harry Potter
 169165|||초능력 고등학교|||Superpower High School
 212173|||여사친 진|||Female Friend Jin
 155802|||(전) 무림맹주 (현) 미소녀|||(Former) Murim Alliance Leader (Current) Beautiful Girl
@@ -77854,20 +77867,6 @@
 40617|||재미있지만 쓸만한 곳은 1도 없는 상식|||Common Sense That's Fun But Has No Usable Parts
 451|||필트오버 흥신소(19)|||Piltover Detective Agency (19)
 55149|||이별|||Parting
-429997|||이세계 귀환 다음은 아포칼립스냐?|||After Returning from Another World, Is It the Apocalypse?
-429125|||대홍수에 낙원을 세우다|||Building Paradise in the Great Flood
-429954|||소꿉친구가 소설을 잘 씀|||My Childhood Friend Is a Great Novelist
-429915|||외면한 현실은 차가운 낙원이 되어|||The Reality I Ignored Became a Cold Paradise
-427438|||러브레터 조언 부탁드립니다!|||Please Give Me Advice on This Love Letter!
-430025|||유리 정원|||Glass Garden
-430441|||[림버스]X[블루아카] 전 흑수 오 필두의 학원도시의 삶|||Limbus X Blue Archive: The Academy City Life of Former Blackwater Captain Oh Pil-doo
-430228|||[스타레일] 은하 가수의 기둥 서방|||Honkai: Star Rail – The Pillar Husband of a Galactic Idol
-429973|||[블루아카이브] 고민? 들어는 줄게.|||Blue Archive: Worried? I'll Listen.
-430424|||포켓몬스터:전설의 3거인을 데리고 다니는 트레이너|||Pokémon: The Trainer Who Travels with the Three Legendary Giants
-430316|||[FGO/FATE X 전생슬]전생해도 마스터였던 건에 대하여|||FGO/Fate x Reincarnated as a Sword: About How I Was Still a Master Even After Reincarnating
-430432|||무언가 잘못된 해피엔딩|||A Happy Ending Gone Wrong
-430421|||[암살교실X주술회전]천부의 폭군|||Assassination Classroom x Jujutsu Kaisen: The Heaven-Blessed Tyrant
-430416|||[블루아카이브]데카그라마톤이 되었다|||Blue Archive: I Became the Decagrammaton
 412611|||집착받는 북부대공녀가 되었다.|||I Became the Obsessed Northern Grand Duchess
 414361|||나팔꽃|||Morning Glory
 415684|||소꿉친구한테 살아남기|||Surviving My Childhood Friend
@@ -80766,10 +80765,11 @@
 390006|||괴이 컴퍼니에 강제 취직 당했습니다|||Forcibly Employed by a Supernatural Company
 385076|||야간경비원을 위한 지침서|||Manual for Night Security Guards
 205410|||0의 연구|||Study of Zero
+409260|||[블루아카이브]멸망한 키보토스는 유쾌하다!|||[Blue Archive] The Ruined Kibotos Is Full of Joy!
+394365|||요녀의 제자가 되었다|||I Became the Disciple of a Fox Girl
+227044|||세드릭 디고리에게 씀 |해리포터|||
 430288|||,ㅡㅌㅋㅌㅊ|||
 11025|||ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ|||
 76952|||ㄻㄴㅇ|||
 66221|||ㅅㅍㄾ|||
 386743|||ㅡㅡㅡ|||
-409260|||[블루아카이브]멸망한 키보토스는 유쾌하다!|||
-394365|||요녀의 제자가 되었다|||
