@@ -224427,7 +224427,6 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人||||||Time Calamity: I Cannot Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -269281,6 +269280,17 @@
 660562|||星穹铁道：开局惊呆三月七|||Honkai: Star Rail - Shocking March 7th at the Start
 163219|||LV1的最强暗杀者|||The Strongest Assassin at LV1
 490343|||露娜小姐想要跟你约会|||Miss Luna Wants to Date You
+60208|||时祸：我不能杀任何人|||Temporal Calamity: I Can't Kill Anyone
+767338|||心霞流之夜|||Night of the Heart's Glow Flow
+755081|||雾歧旧事|||Old Stories of Foggy Fork
+167178|||反派英豪的神灯娇妻|||The Villain Hero's Magic Lamp Wife
+765293|||白恩女神与黑恩女神|||Bai'en Goddess and Hei'en Goddess
+742165|||植僵|||Plants vs. Zombies
+735019|||联萌之扫雷文明|||League's Minesweeper Civilization
+314471|||平行逢魔到崩坏三|||Parallel Demon Encounter into Honkai Impact 3rd
+334489|||为毛身为逢魔的我却是个气管炎|||Why is the Demon King Me Henpecked?
+162919|||月挽浮生梦繁芜|||Moonlit Dreams of a Fleeting Life
+146784|||典奥比轮的狂舞|||The Wild Dance of Di'ao Biron
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
@@ -269381,20 +269391,10 @@
 3755|||1|||
 3578|||？？？？？？|||
 3066|||ΑΝΑΓΚΗ|||
-767338|||心霞流之夜|||
-755081|||雾歧旧事|||
 737630|||1201|||
-167178|||反派英豪的神灯娇妻|||
-765293|||白恩女神与黑恩女神|||
 759255|||0721|||
-742165|||植僵|||
-735019|||联萌之扫雷文明|||
 704418|||91|||
-314471|||平行逢魔到崩坏三|||
-334489|||为毛身为逢魔的我却是个气管炎|||
 218423|||200|||
-162919|||月挽浮生梦繁芜|||
-146784|||典奥比轮的狂舞|||
 729037|||白厄？真不熟|||
 383565|||羊习习穿越火力少年王|||
 301296|||斗罗大陆之夜煞希儿|||
