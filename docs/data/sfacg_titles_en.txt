@@ -224427,7 +224427,6 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人||||||Time Calamity: I Cannot Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -247082,6 +247081,7 @@
 773218|||空白：创世|||Blank: Genesis
 773282|||一個正在死亡的少女|||A Girl Who Is Dying
 773213|||一命通关的英雄游戏|||Hero Game: One Life Clear
+705981|||千岛孤星大人依旧在拯救世界|||Lady Chishima's Lone Star Still Saves the World
 773182|||小鸡岛的来客|||The Visitor of Chick Island
 772653|||再見了親愛的朔月|||Goodbye, Dear Crescent Moon
 773224|||转生成天使的我绝不会和圣女贴贴|||Reborn as an Angel, I Refuse to Get Cozy with the Saint
@@ -247115,6 +247115,7 @@
 772467|||突然转生异世界竞技场不得不奔跑|||Suddenly Reincarnated into an Otherworld Arena and Forced to Run
 772372|||轮回的悲惨剧:虚空中的囚笼|||The Tragic Cycle of Reincarnation: Cage in the Void
 772403|||勇者死前的101个愿望|||The Hero's 101 Wishes Before Death
+765184|||我向众神祈祷，回应我的只有劳大|||I Prayed to the Gods, Only Lord Lao Answered
 772316|||魔法少女奈叶复苏的荆棘王冠|||Magical Girl Lyrical Nanoha: The Resurgent Crown of Thorns
 771936|||公主殿下不要闹啦！|||Princess, Please Stop Causing Trouble!
 772119|||盛夏的回响|||Echoes of High Summer
@@ -247701,6 +247702,7 @@
 752031|||魂赎者|||Soul Redeemer
 751821|||异世界大小姐之干翻世界！|||The Otherworld Young Lady Will Overturn the World!
 751987|||不知道起什么名字所以不起了|||I Couldn't Think of a Title So I Didn't
+751839|||神拓大陆|||Divine Expansion Continent
 748570|||感谢炼金术她又变成女儿了|||Thanks to Alchemy, She's My Daughter Again
 728105|||复仇之路1：血仇血偿|||Path of Vengeance 1: Blood Debt, Blood Repaid
 751876|||与死对头在异世界开荒美食|||Opening a Restaurant with My Mortal Enemy in Another World
@@ -247820,6 +247822,7 @@
 697391|||九华|||Jiuhua
 758894|||穿书的我只想给仙子们当小狗|||After Transmigrating Into a Book, I Just Want to Be the Fairies' Little Dog
 772234|||巨龙与女骑士的学院革新|||The Dragon and the Female Knight's Academy Revolution
+771648|||变成妖姬的圣徒大人也很可爱！|||The Saint Who Turned Into a Demoness Is Also Very Cute!
 771679|||捡到精灵公主的我，想要帮她复国|||I Picked Up an Elf Princess and Want to Help Her Restore Her Country
 771379|||雪女泪之恋|||The Snow Woman's Tearful Love
 86031|||脸黑的魔物使想要抽到SSR|||The Unlucky Monster Tamer Wants to Draw an SSR
@@ -248154,6 +248157,7 @@
 768648|||前女友成了新BOSS怎么办|||What Do I Do When My Ex-Girlfriend Becomes the New Boss?
 659824|||无忧，晚餐会|||No Worries, Dinner Party
 769512|||从断手开始的神性漂流|||Drifting Into Divinity Starting From a Severed Hand
+761995|||法兰旧事，魔法少女行动中|||Old Tales of Fran: Magical Girl in Action
 757115|||梦中变成立华奏是闹哪样啊|||Why Did I Turn Into Tachibana Kanade in My Dream?!
 752349|||命罪之锁|||Chains of Sin and Fate
 769021|||人偶的辩白|||The Puppet’s Defense
@@ -250489,6 +250493,7 @@
 775477|||魔女拯救计划，启动！|||Witch Rescue Plan, Activate!
 775592|||列宾传|||The Legend of Liebin
 775019|||在异世界备受偏爱的月光曲|||The Beloved Moonlight Sonata in Another World
+774854|||魔法少女枕边抱，白云一溪天上飘|||Magical Girl Pillow Hug, White Clouds and a Stream Float in the Sky
 775460|||成为极阴神女镇压诸天！|||Becoming the Supreme Yin Goddess to Suppress the Heavens!
 775445|||中华游龙|||The Chinese Wandering Dragon
 775437|||传闻是大地巅峰吗，可惜大帝|||Rumored to Be the Peak of the Earth, But Alas, the Great Emperor
@@ -250981,6 +250986,7 @@
 732486|||重生驭龙师|||Reborn as a Dragon Tamer
 747190|||影组织|||Shadow Organization
 745344|||闪电的冒险日记|||Lightning's Adventure Diary
+747035|||祝猪杂史|||The Miscellaneous History of Zhu the Pig
 724493|||穿越之我在顾家当青蛙|||Transmigrated: I'm a Frog in the Gu Family
 746557|||吞噬天道的我重启诸天|||I Devoured the Heavenly Dao and Restarted the Myriad Realms
 746768|||我的异世之旅不可能这么甜蜜！|||My Journey in Another World Can't Possibly Be This Sweet!
@@ -251178,6 +251184,7 @@
 735751|||关于我在修仙界直播开复仇这件事|||About Me Livestreaming My Revenge in the Cultivation World
 735716|||关于我经历无数次轮回这件事|||About Me Experiencing Countless Reincarnations
 734995|||血染仙途：韩天传|||Bloodstained Immortal Path: Legend of Han Tian
+735283|||仙侠笔记|||Immortal Cultivation Notes
 735060|||什么？系统你让我开局挑战S级？|||What? System, You Want Me to Challenge S-Rank from the Start?
 734290|||魔女杂货铺|||Witch’s General Store
 735473|||星铁：云浮梦蝶|||Honkai: Star Rail - Cloud-Floating Dream Butterfly
@@ -257055,6 +257062,7 @@
 753177|||变成猫娘的我还要嫁人，那咋了！|||I Turned Into a Catgirl and Now I Have to Get Married, So What!
 749109|||因你而在|||Existing Because of You
 768322|||文理双璧的恋爱博弈论|||The Love Game Theory of the Literary and Science Duo
+776464|||拯救后，爱意缠上了我|||After Being Saved, Love Entangled Me
 739422|||约战，恶魔也要恋爱吗？|||Date A Live: Do Demons Need Love Too?
 773153|||与她相恋的白色季节|||The White Season of Falling in Love With Her
 770674|||重生千金，想要捞鱼却翻车了|||Reborn as a Rich Heiress, I Tried to Fish for a Boyfriend but Crashed Instead
@@ -257676,6 +257684,7 @@
 89250|||某少女的灰色回忆|||A Certain Girl's Gray Memories
 70922|||真的没有问题吗这样的大学|||Is This University Really Okay?
 65122|||我享受的孤独校园生活去哪里了|||Where Did My Enjoyable Lonely School Life Go?
+57745|||少女激奏|||Girl's Intense Performance
 43490|||守护你的骑士|||The Knight Who Protects You
 680986|||短篇故事系列SSS|||Short Story Series SSS
 763862|||青梅病娇强制爱，天降月光真心动|||Childhood Friend Yandere's Forced Love; The Moonlight Girl Truly Moves My Heart
@@ -257754,6 +257763,7 @@
 515466|||大学里有一堆少女想攻略我|||A Bunch of Girls at University Want to Capture Me
 154769|||一切改变从恋爱开始|||Everything Changed When Love Began
 484174|||青梅竹马的恋爱日常|||Childhood Friends' Lovey-Dovey Daily Life
+491427|||刚表白成功的我怎会被美少女柴刀|||How Can I, Who Just Successfully Confessed, Be Hatcheted by a Beautiful Girl
 444988|||你和我不是意外|||You and I Are Not an Accident
 483485|||异装症的恋爱对象绝不是病友|||My Crossdressing Love Interest Is Definitely Not a Fellow Patient
 270349|||自闭少年的生存法则|||The Survival Rules of a Socially Withdrawn Boy
@@ -259451,6 +259461,7 @@
 697633|||自设致命错误的世界旅行|||Starting with Aya
 697476|||存护命途，但却是毁灭令使|||Path of Preservation, Yet a Lord of Destruction
 697289|||一个UNSC舰长的冒险|||The Adventures of a UNSC Captain
+696634|||从绫开始|||Starting from Aya
 660697|||与学生和士兵们的冒险|||Adventures with Students and Soldiers
 690821|||禁军统帅与众老婆们的冒险|||The Imperial Guard Commander's Adventures with His Wives
 695135|||镜流是我的姐姐|||Jingliu Is My Older Sister
@@ -262871,6 +262882,7 @@
 301544|||少前的鸽子指挥官|||Girls' Frontline: The Pigeon Commander
 365810|||自由职城|||Free Job City
 267336|||明日方舟saddiary|||Arknights: Sad Diary
+338889|||穿越成型月齐格飞的我向冠位进发|||After Transmigrating as Siegfried in Prototype Moon, I Advance Toward the Grand Order
 351587|||做无情刺客的狐狸梦破灭惹|||The Fox's Dream of Becoming a Heartless Assassin Is Shattered
 189646|||政委名叫欺负征召兵夫斯基|||The Commissar's Name Is Bully Conscriptovski
 177866|||千年之羽|||Feathers of a Millennium
@@ -263300,6 +263312,7 @@
 399071|||绝世唐门之我穿越了|||Peerless Tang Sect: I Transmigrated
 393377|||可莉的大冒险|||Klee's Big Adventure
 393100|||重生后的我变成了综漫里的红线仙|||After Rebirth, I Became the Red Thread Immortal in a Multiverse
+386057|||祖安人穿越世界|||Zu'an People Traveling Through Worlds
 397754|||莫得感情的刷本人|||The Emotionless Speedrunner
 371292|||整个寝室变身男版御三家来到崩坏|||Our Whole Dorm Transformed into the Male Starters and Entered Honkai
 394762|||斗罗大陆之龙皇|||Dragon Emperor of Douluo Continent
@@ -263994,6 +264007,7 @@
 382398|||泰拉之雪后初晴|||First Clear Skies After the Snow in Terra
 381999|||斗罗之骨魂少年|||Douluo Dalu: The Boy with Bone Soul
 381525|||星之猫友人帐|||Star Cat's Book of Friends
+382760|||当神唐三变成唐三的里人格|||When God Tang San Becomes Tang San's Inner Personality
 375087|||获得未知力量的舰长与崩坏作对|||The Captain Who Gained Unknown Power Fights Against Honkai
 380270|||乐正绫的综漫之旅|||Yuezheng Ling's Multiverse Journey
 334674|||明明我是5418ly才对|||I Should Obviously Be 5418ly
@@ -265069,6 +265083,7 @@
 341636|||PLAYER的救续|||PLAYER's Salvation Sequel
 359763|||变成猫娘在崩坏三到处浪|||Becoming a Catgirl and Wandering Freely in Honkai Impact 3rd
 355861|||木叶之咸鱼强者|||The Lazy Strongest in Konoha
+359297|||变成布狼牙被宇家的阿伟捡到|||Transformed into Bu Langya and Picked Up by Yu Family's Awei
 355653|||变成修玛吉亚的综漫|||Becoming a Humagia in the Multiverse
 359668|||店铺之下|||Beneath the Shop
 358420|||综漫上下五千年|||Five Thousand Years of Multiverse History
@@ -265141,6 +265156,7 @@
 358380|||QQ聊天记录|||QQ Chat Records
 358208|||快穿之渣男受死吧|||Quick Transmigration: Scumbag Men, Prepare to Die
 354233|||金闪闪的神之塔世界|||Gilgamesh's Tower of God World
+354894|||七罪在综漫里改变不美好的结局|||The Seven Deadly Sins Change Unhappy Endings in a Comprehensive Manga World
 358279|||天之亡骸的旅途|||The Journey of the Heavenly Corpse
 346854|||一个实验体的事情|||The Matters of a Test Subject
 352215|||成仙飞升我没有到达仙界来到魔禁|||After Ascending to Immortality I Didn't Reach the Immortal Realm but Came to Toaru
@@ -266183,6 +266199,7 @@
 334255|||原来你们都想娶我回家界外篇|||So You All Want to Marry Me and Take Me Home - Extra Chapters
 332965|||某穿越的白井黑子|||A Certain Traversing Shirai Kuroko
 334010|||孙悟姬的崩坏之旅|||Sun Wukong Princess's Honkai Journey
+334201|||学园都市的幻想与通行|||Academy City's Fantasy and Transit
 325137|||应该是一个人的旅途|||It Should Be a Solo Journey
 316240|||仙尊又穿上裙子去约战啦|||The Immortal Venerable Wears a Skirt to Date A Live Again
 325364|||关于我穿越成德克萨斯这档事|||About Me Traveling and Becoming Texas
@@ -266329,6 +266346,7 @@
 323669|||直死魔眼的综漫路程|||The Mystic Eyes of Death Perception's Multiverse Journey
 329913|||贝贝龙在某群被烤日常|||Baby Dragon's Daily Roasting in the Group Chat
 329879|||崩坏之深渊之子|||Child of the Abyss in Honkai
+326716|||关于我穿越拯救精灵这件事|||About Me Transmigrating to Save the Elves
 329683|||魔法少女小圆的综漫之旅|||Puella Magi Madoka's Multiverse Adventure
 326669|||dio厨齐格飞|||DIO Fanboy Siegfried
 328981|||我要在狐妖中制霸天下|||I Will Dominate the Fox Spirit World
@@ -268452,6 +268470,7 @@
 147866|||夜游守望者|||Night Watchman
 133104|||在哪里那不是你|||Wherever You Are, That's Not You
 79146|||柯南世界里的千金小姐|||The Young Lady in the Conan World
+83246|||八七六一|||Eight Seven Six One
 753811|||恐怖：诡异在冥妻苏醒后复苏|||Horror: The Supernatural Revives After My Ghost Wife Awakens
 734971|||转生美少女，在死亡游戏无限读档|||Reborn as a Beautiful Girl, Infinite Save-Loading in a Death Game
 667736|||灵媒体质|||Spirit Medium Constitution
@@ -269222,26 +269241,6 @@
 660562|||星穹铁道：开局惊呆三月七|||Honkai: Star Rail - Shocking March 7th at the Start
 163219|||LV1的最强暗杀者|||The Strongest Assassin at LV1
 490343|||露娜小姐想要跟你约会|||Miss Luna Wants to Date You
-705981|||千岛孤星大人依旧在拯救世界|||Lady Chishima's Lone Star Still Saves the World
-765184|||我向众神祈祷，回应我的只有劳大|||I Prayed to the Gods, Only Lord Lao Answered
-751839|||神拓大陆|||Divine Expansion Continent
-771648|||变成妖姬的圣徒大人也很可爱！|||The Saint Who Turned Into a Demoness Is Also Very Cute!
-761995|||法兰旧事，魔法少女行动中|||Old Tales of Fran: Magical Girl in Action
-774854|||魔法少女枕边抱，白云一溪天上飘|||Magical Girl Pillow Hug, White Clouds and a Stream Float in the Sky
-747035|||祝猪杂史|||The Miscellaneous History of Zhu the Pig
-735283|||仙侠笔记|||Immortal Cultivation Notes
-776464|||拯救后，爱意缠上了我|||After Being Saved, Love Entangled Me
-57745|||少女激奏|||Girl's Intense Performance
-491427|||刚表白成功的我怎会被美少女柴刀|||How Can I, Who Just Successfully Confessed, Be Hatcheted by a Beautiful Girl
-696634|||从绫开始|||Starting from Aya
-338889|||穿越成型月齐格飞的我向冠位进发|||After Transmigrating as Siegfried in Prototype Moon, I Advance Toward the Grand Order
-386057|||祖安人穿越世界|||Zu'an People Traveling Through Worlds
-382760|||当神唐三变成唐三的里人格|||When God Tang San Becomes Tang San's Inner Personality
-359297|||变成布狼牙被宇家的阿伟捡到|||Transformed into Bu Langya and Picked Up by Yu Family's Awei
-354894|||七罪在综漫里改变不美好的结局|||The Seven Deadly Sins Change Unhappy Endings in a Comprehensive Manga World
-334201|||学园都市的幻想与通行|||Academy City's Fantasy and Transit
-326716|||关于我穿越拯救精灵这件事|||About Me Transmigrating to Save the Elves
-83246|||八七六一|||Eight Seven Six One
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
@@ -269294,6 +269293,7 @@
 84798|||384400000|||
 75493|||15101051|||
 81668|||2026|||
+60208|||时祸：我不能杀任何人|||
 49350|||-.-|||
 40538|||100000|||
 34143|||14|||
