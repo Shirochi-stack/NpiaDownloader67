@@ -13,5 +13,5 @@
     "sfacg_descriptions_chunk_8.txt.gz",
     "sfacg_descriptions_chunk_9.txt.gz"
   ],
-  "source": "docs/data/sfacg_descriptions.txt.gz"
+  "source": "docs/data/sfacg_descriptions.txt"
 }
