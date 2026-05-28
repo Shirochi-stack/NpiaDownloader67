@@ -224427,6 +224427,7 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
+60208|||时祸：我不能杀任何人||||Temporal Calamity: I Can't Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -254225,6 +254226,7 @@
 774875|||丧尸危机：2197|||Zombie Crisis: 2197
 773759|||崩坏星穹铁道之重生三月七|||Honkai: Star Rail - Reborn as March 7th
 773177|||你说你也是我，但我们不太像吧？|||You Say You're Also Me, But We Don't Look Alike?
+767338|||心霞流之夜|||Night of the Heart's Glow Flow
 769758|||红河边界|||Red River Border
 771182|||后人都说墨洛温赶上了个好时代|||Later Generations Say Merovingian Was Born in a Good Era
 758798|||再见乐队短篇|||Goodbye Band Short Stories
@@ -256438,6 +256440,7 @@
 755337|||星河梦旅人|||Star River Dream Traveler
 755331|||孤独少年误入校园青春恋爱剧场|||Lonely Boy Accidentally Enters a Campus Youth Romance Theater
 743997|||记忆沉没之处，花海盛开|||Where Memories Sink, a Sea of Flowers Blooms
+755081|||雾歧旧事|||Old Stories of Foggy Fork
 754074|||熬夜看七天轻小说能变成男主角吗|||Can Staying Up Seven Nights Reading Light Novels Turn Me into the Male Lead?
 753789|||只想躺平大学生活，你却不放过我|||I Just Want to Lie Flat in College Life, But You Won’t Let Me
 744537|||只要不是风华，就算路人也好吗？|||As Long as It’s Not Feng Hua, Is Being a Background Character Fine?
@@ -257965,6 +257968,7 @@
 613739|||梦中对象竟然是女生|||The Person in My Dreams Turned Out to Be a Girl
 585493|||生活艰苦也要活下去|||Even in Hardship, I Must Keep Living
 66662|||格林学院|||Green Academy
+167178|||反派英豪的神灯娇妻|||The Villain Hero's Magic Lamp Wife
 251284|||转生魔王的我混进了勇者学院|||Reincarnated as the Demon King, I Sneaked into the Hero Academy
 386175|||裙子的价格是915元|||The Price of the Skirt Is 915 Yuan
 31196|||不良的问题日常|||The Troubled Daily Life of a Delinquent
@@ -258217,6 +258221,7 @@
 765445|||我住在，总有一天会塌的高楼|||I Live in a Skyscraper That Will Collapse One Day
 765379|||羡|||Envy
 765116|||无限选择历练系统|||Infinite Choice Training System
+765293|||白恩女神与黑恩女神|||Bai'en Goddess and Hei'en Goddess
 765016|||火星情报局的催眠师|||The Hypnotist of the Mars Intelligence Bureau
 765114|||广式双马尾夺舍了我的拼好饭|||Cantonese Twin-Tails Possessed My Perfectly Assembled Meal
 764892|||假面骑士亡骑|||Kamen Rider Death Rider
@@ -259093,6 +259098,7 @@
 743350|||崩坏与轮回|||Honkai and Reincarnation
 727126|||我竟然来到了自创AU|||I Somehow Arrived in My Own Created AU
 742171|||少女前线：旧夜余烬|||Girls' Frontline: Embers of the Old Night
+742165|||植僵|||Plants vs. Zombies
 741571|||崩坏三之我是白厄一名救世主|||Honkai Impact 3rd: I Am a Savior Named White Calamity
 741555|||穿成刚战败的女主，怎么办？|||Transmigrated as the Female Lead Who Just Lost the War, What Should I Do?
 740675|||转生神秘势力，成为EU霸主|||Reborn Into a Mysterious Faction and Becoming the EU Overlord
@@ -259138,6 +259144,7 @@
 715094|||我的妹妹是来自游戏里面的士兵|||My Little Sister Is a Soldier From a Game
 734664|||地牢之主的无聊日常|||The Dungeon Lord's Boring Daily Life
 713905|||崩坏：异域旅行|||Honkai: Otherworld Odyssey
+735019|||联萌之扫雷文明|||League's Minesweeper Civilization
 734400|||第五人格：全球水平下降一千倍|||Identity V: Global Skill Level Dropped by a Thousand Times
 730536|||奇思妙想的设定|||Whimsical Settings Collection
 726317|||领主元帅的穿越冒险|||Transmigration Adventures of a Lord Marshal
@@ -261215,6 +261222,7 @@
 339592|||我和她那些不得不说的秘密|||The Secrets Between Me and Her That Must Be Told
 339153|||少女前线穹顶月光|||Girls' Frontline: Dome Moonlight
 314118|||重生之最强主播系统|||Reborn with the Strongest Streamer System
+314471|||平行逢魔到崩坏三|||Parallel Demon Encounter into Honkai Impact 3rd
 338484|||变成女王大人的我该怎么办|||What Should I Do After Becoming the Queen
 334447|||万限世界|||World Without Limits
 338759|||这才是真正的舰长|||This Is the Real Captain
@@ -261246,6 +261254,7 @@
 334228|||我是最强王者|||I Am the Strongest King
 335982|||方舟之剑帝传说|||Legend of the Sword Emperor of Arknights
 335553|||方舟中的魔法师|||The Mage in Arknights
+334489|||为毛身为逢魔的我却是个气管炎|||Why is the Demon King Me Henpecked?
 294827|||纯的天生宠|||Pure Natural-Born Favorite
 336395|||炉石传说x我的世界|||Hearthstone × Minecraft
 335951|||都市之绝地求生|||PUBG in the City
@@ -261898,6 +261907,7 @@
 170917|||当永恒召唤师来到永恒之地|||When the Eternal Summoner Arrives at the Eternal Land
 173088|||我在fgo当流氓|||I'm a Hooligan in FGO
 141393|||作为提督的我和响在一起的日常|||My Daily Life as an Admiral Living With Hibiki
+162919|||月挽浮生梦繁芜|||Moonlit Dreams of a Fleeting Life
 172736|||活下去在这该死的游戏里|||Survive in This Damn Game
 171898|||损坏的心智云图|||Damaged Mind Map
 135429|||M14代班的咖啡厅|||M14's Temporary Cafe
@@ -261958,6 +261968,7 @@
 149163|||通关后的奖励竟然是自制萝莉|||The Reward After Clearing the Game Is a Homemade Loli
 149672|||穿越到游戏mod当大帅是什么鬼|||What the Hell, I Transmigrated Into a Game Mod as a Handsome Guy
 146995|||关于我的弟子是小学女生这件事|||About My Disciple Being an Elementary School Girl
+146784|||典奥比轮的狂舞|||The Wild Dance of Di'ao Biron
 132601|||网游之盗什么盗啊|||MMO: What Kind of Thief Is This
 142450|||人形不正常的我只好去开咖啡厅|||Because Dolls Are Abnormal, I Have No Choice but to Open a Cafe
 143600|||轻舞之风|||Light Dance of the Wind
@@ -269280,17 +269291,20 @@
 660562|||星穹铁道：开局惊呆三月七|||Honkai: Star Rail - Shocking March 7th at the Start
 163219|||LV1的最强暗杀者|||The Strongest Assassin at LV1
 490343|||露娜小姐想要跟你约会|||Miss Luna Wants to Date You
-60208|||时祸：我不能杀任何人|||Temporal Calamity: I Can't Kill Anyone
-767338|||心霞流之夜|||Night of the Heart's Glow Flow
-755081|||雾歧旧事|||Old Stories of Foggy Fork
-167178|||反派英豪的神灯娇妻|||The Villain Hero's Magic Lamp Wife
-765293|||白恩女神与黑恩女神|||Bai'en Goddess and Hei'en Goddess
-742165|||植僵|||Plants vs. Zombies
-735019|||联萌之扫雷文明|||League's Minesweeper Civilization
-314471|||平行逢魔到崩坏三|||Parallel Demon Encounter into Honkai Impact 3rd
-334489|||为毛身为逢魔的我却是个气管炎|||Why is the Demon King Me Henpecked?
-162919|||月挽浮生梦繁芜|||Moonlit Dreams of a Fleeting Life
-146784|||典奥比轮的狂舞|||The Wild Dance of Di'ao Biron
+729037|||白厄？真不熟|||White Calamity? Not Really Familiar
+383565|||羊习习穿越火力少年王|||Yang Xixi Transmigrates into Blazing Teens
+301296|||斗罗大陆之夜煞希儿|||Soul Land: Night Fiend Seele
+350999|||风云乾坤|||Storm of Heaven and Earth
+354931|||吾乃SIC骑士和异类骑士|||I Am the SIC Rider and Another Rider
+335330|||小花仙之穿越赛尔号|||Little Flower Fairy Transmigrates into Seer
+340950|||第四代理之侓者参上|||The Fourth Proxy: The Ruler Arrives
+390574|||关于被逢魔娘送去穿越这件事|||About Being Sent to Transmigrate by the Time Demon Queen
+313833|||变成卡殿的穿越|||Transmigrating into Card Temple
+316679|||无敌于赛尔号|||Invincible in Seer
+308461|||盗版赛尔号|||Pirated Seer
+44526|||霞浦高中推理纪事 异|||Xiapu High School Mystery Chronicles: Abnormal
+80479|||十日I角马之变|||Ten Days I: The Gnu Incident
+745619|||行愿阁感应录|||Records of Resonance from the Pavilion of Practiced Vows
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
@@ -269395,18 +269409,4 @@
 759255|||0721|||
 704418|||91|||
 218423|||200|||
-729037|||白厄？真不熟|||
-383565|||羊习习穿越火力少年王|||
-301296|||斗罗大陆之夜煞希儿|||
-350999|||风云乾坤|||
-354931|||吾乃SIC骑士和异类骑士|||
-335330|||小花仙之穿越赛尔号|||
-340950|||第四代理之侓者参上|||
-390574|||关于被逢魔娘送去穿越这件事|||
-313833|||变成卡殿的穿越|||
-316679|||无敌于赛尔号|||
-308461|||盗版赛尔号|||
 771725|||098|||
-44526|||霞浦高中推理纪事 异|||
-80479|||十日I角马之变|||
-745619|||行愿阁感应录|||
