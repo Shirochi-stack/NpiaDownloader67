@@ -80073,6 +80073,7 @@
 415264|||유희생활-(독참소)|||A Player's Life in the City of Calamity
 415173|||[벽람항로] 벽람항로의 정해지지 않은 전함|||An Unscheduled Ship in Azur Lane
 415548|||셰리의 조수군|||Sherry's Assistant Army
+409260|||[블루아카이브]멸망한 키보토스는 유쾌하다!|||[Blue Archive] The Ruined Kibotos Is Full of Joy!
 296320|||[마브러브] 멸망한 세계의 합중국|||The United States of a Doomed World
 414282|||[히로아카/다중] 히어로 아카데미아의 환생자|||Reincarnated in My Hero Academia
 415518|||[동방 패러디] 최강의 격투가는 홍마관의 메이드|||The Strongest Fighter Is the Maid of the Scarlet Devil Mansion
@@ -80671,6 +80672,7 @@
 376573|||천애지화(天涯之花)|||Flower at the Edge of the World
 359703|||서유강호(西遊江湖)|||Journey to the West: Martial Rivers and Lakes
 396063|||Après (아프레)|||Après
+394365|||요녀의 제자가 되었다|||I Became the Disciple of a Fox Girl
 388308|||아포칼립스를 모독하는 사상 최악의 취준생 유나민|||Yunamin, the Worst Job Seeker in History Who Desecrates the Apocalypse
 364411|||자매의 밤|||Sisters’ Night
 328176|||열죽음|||Ten Deaths
@@ -80765,11 +80767,9 @@
 390006|||괴이 컴퍼니에 강제 취직 당했습니다|||Forcibly Employed by a Supernatural Company
 385076|||야간경비원을 위한 지침서|||Manual for Night Security Guards
 205410|||0의 연구|||Study of Zero
-409260|||[블루아카이브]멸망한 키보토스는 유쾌하다!|||[Blue Archive] The Ruined Kibotos Is Full of Joy!
-394365|||요녀의 제자가 되었다|||I Became the Disciple of a Fox Girl
-227044|||세드릭 디고리에게 씀 |해리포터|||
-430288|||,ㅡㅌㅋㅌㅊ|||
-11025|||ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ|||
-76952|||ㄻㄴㅇ|||
-66221|||ㅅㅍㄾ|||
-386743|||ㅡㅡㅡ|||
+430288|||,ㅡㅌㅋㅌㅊ|||Eutkeuteuch
+227044|||세드릭 디고리에게 씀 |해리포터||||
+11025|||ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ|||OOOOOOOOOOOO
+76952|||ㄻㄴㅇ|||Rmnng
+66221|||ㅅㅍㄾ|||Splt
+386743|||ㅡㅡㅡ|||EuEuEu
