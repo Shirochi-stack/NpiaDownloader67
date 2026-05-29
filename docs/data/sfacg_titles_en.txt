@@ -224427,7 +224427,6 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人||||||Temporal Calamity: I Can't Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -269305,6 +269304,7 @@
 660562|||星穹铁道：开局惊呆三月七|||Honkai: Star Rail - Shocking March 7th at the Start
 163219|||LV1的最强暗杀者|||The Strongest Assassin at LV1
 490343|||露娜小姐想要跟你约会|||Miss Luna Wants to Date You
+60208|||时祸：我不能杀任何人|||Time Calamity: I Can't Kill Anyone
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
