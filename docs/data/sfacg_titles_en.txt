@@ -224427,7 +224427,7 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人||||Temporal Calamity: I Can't Kill Anyone
+60208|||时祸：我不能杀任何人|||||Temporal Calamity: I Can't Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -263230,6 +263230,7 @@
 745733|||斗罗开始旅行|||Starting a Journey from Douluo
 754330|||我空之律者，不想毁灭人类|||I, the Herrscher of the Void, Don't Want to Destroy Humanity
 755317|||我草履虫卡莲转世，真的假的？|||I, the Paramecium Kallen, Reincarnated—Is This Real?
+729037|||白厄？真不熟|||White Calamity? Not Really Familiar
 725923|||MyGO的不日常！|||MyGO's Not-So-Daily Life!
 740095|||我女版白夜，和女孩子贴贴|||I, the Female Version of White Night, Cuddle with Girls
 714889|||真的回不到從前了嗎？|||Can We Really Not Go Back to How Things Were?
@@ -264039,6 +264040,7 @@
 317460|||杀手的我去了学园默示录鬼混|||The Assassin Me Messing Around in Highschool of the Dead
 379129|||拥有果实能力的我来到了崩坏|||I Who Possess Devil Fruit Powers Came to Honkai
 308211|||我符华失忆刀客塔|||I, Fu Hua, Lost My Memory as a Blade Master
+383565|||羊习习穿越火力少年王|||Yang Xixi Transmigrates into Blazing Teens
 366515|||我抽到的干员来到现实变成动物了|||The Operators I Pulled Came to Reality and Turned into Animals
 383495|||史上最弱系统|||The Weakest System in History
 370758|||重生变成八重樱的弟弟|||Reborn as Yae Sakura's Little Brother
@@ -264239,6 +264241,7 @@
 378359|||舰长的校园生活|||The Captain's Campus Life
 376750|||综漫神之才能|||The Divine Talent of Multiple Anime Worlds
 374120|||我是花园宝宝|||I Am Baby Garden
+301296|||斗罗大陆之夜煞希儿|||Soul Land: Night Fiend Seele
 232882|||幻想乡聊天群|||Gensokyo Chat Group
 367219|||崩坏二三事|||A Few Things About Honkai
 379184|||祖安之下|||Under Zaun
@@ -265240,6 +265243,7 @@
 330243|||传说之下中的我变成sans|||I Became Sans in Undertale
 357586|||万叶之旅|||Manye's Journey
 323333|||大阴阳师的沙雕群聊|||The Great Onmyoji's Silly Group Chat
+350999|||风云乾坤|||Storm of Heaven and Earth
 337709|||善良的坏舰长|||The Kindly Bad Captain
 344253|||我被神变成了布洛尼亚|||God Turned Me into Bronya
 355431|||世界观察者的我仍旧很忙碌|||I, the World Observer, Am Still Very Busy
@@ -265351,6 +265355,7 @@
 354502|||千羽的综漫之旅|||Chiyu's Multiverse Anime Journey
 341868|||穿越约战之我有神之眼|||Traveling to Date A Live With God's Eye
 300092|||变成阿尔泰尔的我又将何去何从啊|||After Becoming Altair, Where Do I Go From Here?
+354931|||吾乃SIC骑士和异类骑士|||I Am the SIC Rider and Another Rider
 344616|||奈亚子的综漫游玩|||Nyaruko's Multiverse Anime Playtime
 347693|||我世界上第一个异能者|||The World's First Esper
 354667|||穿越到一拳的我也不是琦玉的对手|||Even After Traveling to One Punch Man, I'm Still No Match for Saitama
@@ -265543,6 +265548,7 @@
 348672|||沃兹的综漫之旅|||Woz's Multiverse Journey
 348769|||明日方舟with我们的平成时代|||Arknights with Our Heisei Era
 350178|||罗德岛内部沙雕群聊记录|||Rhodes Island Internal Meme Group Chat Records
+335330|||小花仙之穿越赛尔号|||Little Flower Fairy Transmigrates into Seer
 344878|||我的崩坏三怎么是这样的|||Why Is My Honkai Impact 3rd Like This
 330540|||被神变成女孩子的我该怎么办|||What Should I Do After Being Turned into a Girl by God
 349236|||作者也可以穿越的吗|||Can Authors Travel Through Worlds Too?
@@ -265651,6 +265657,7 @@
 347364|||崩坏意志|||Honkai Will
 347234|||我既是团长又是舰长|||I Am Both the Captain and the Commander
 347672|||作者与chara的冒险|||The Author and Chara's Adventure
+340950|||第四代理之侓者参上|||The Fourth Proxy: The Ruler Arrives
 342811|||him来到了约战|||Him Has Come to Date A Live
 344568|||我和我的傻白甜系统游漫综|||Me and My Silly Sweet System Touring the Multiverse
 344614|||不堪重负的舰长选择辞职|||The Overburdened Captain Chooses to Resign
@@ -266838,6 +266845,7 @@
 382962|||魔法禁书目录的魔王|||The Demon King of A Certain Magical Index
 358135|||卡萝的综漫之旅|||Carol's Comprehensive Manga Journey
 350170|||当骑士吗毁灭世界那种|||Be a Knight? The World-Destroying Kind
+390574|||关于被逢魔娘送去穿越这件事|||About Being Sent to Transmigrate by the Time Demon Queen
 346804|||律者崩坏神不值一提|||Herrscher? The Honkai God Is Nothing
 388254|||方舟巫女|||Ark Shrine Maiden
 389006|||带着系统到约战|||Bringing a System to Date A Live
@@ -266957,6 +266965,7 @@
 357189|||我只是一个余烬罢了|||I'm Just an Ember
 376689|||鲁珀在前行的路上|||Luper on the Road Forward
 346909|||负电王的崩坏之旅|||Negative Electric King's Honkai Journey
+313833|||变成卡殿的穿越|||Transmigrating into Card Temple
 307930|||鬼灭之空柱|||Demon Slayer: The Empty Pillar
 372502|||宇智波鼬在崩坏的旅途|||Uchiha Itachi's Journey in Honkai
 342075|||转生成闪灵的我只能miss|||Reincarnated as a Flash Spirit, I Can Only Miss
@@ -267378,6 +267387,7 @@
 324491|||我在综漫里玩起了修仙|||I'm Cultivating Immortality in the Multiverse
 305739|||战音劳拉位面之旅|||Laura's Plane Journey in Senki Zesshou Symphogear
 283403|||我变成阿尔泰尔在崩坏|||I Became Altair in Honkai
+316679|||无敌于赛尔号|||Invincible in Seer
 332467|||这是什么跑团|||What Kind of Tabletop RPG Is This?
 328666|||舰舰的奇妙综漫冒险|||The Captain's Wonderful Multiverse Adventure
 289835|||02的成神之路|||Zero Two's Path to Godhood
@@ -267803,6 +267813,7 @@
 309663|||罗德岛的异次元之旅|||Rhodes Island's Other-Dimensional Journey
 295302|||sans的奇妙冒險|||Sans's Wonderful Adventure
 311328|||幽兰黛尔的JOJO之旅|||Durandal's JoJo Journey
+308461|||盗版赛尔号|||Pirated Seer
 316524|||亡灵小姐今天还是喜欢罗德岛|||Miss Undead Still Likes Rhodes Island Today
 309378|||身为宇宙法则的我|||I Who Am the Law of the Universe
 307027|||我穿越后和异类崇皇相爱相杀|||After Transmigrating I Fell Into a Love-Hate Relationship With the Alien Sovereign
@@ -268602,6 +268613,7 @@
 126157|||霞浦高中推理纪事书|||Xiapu High School Mystery Chronicles
 65059|||霞浦高中推理纪事涟|||Xiapu High School Mystery Chronicles: Ripples
 38122|||霞浦高中推理纪事|||Xiapu High School Mystery Chronicles
+44526|||霞浦高中推理纪事 异|||Xiapu High School Mystery Chronicles: Abnormal
 458301|||出入于案发现场的我不可能谈恋爱|||It's Impossible for Someone Who Keeps Visiting Crime Scenes to Fall in Love
 76933|||关于我被当作罪犯培养这件事|||About Being Raised as a Criminal
 41413|||分裂人格|||Split Personality
@@ -268648,6 +268660,7 @@
 679892|||设定用书|||Setting Book
 697714|||男变女之大魔导师的崛起|||The Rise of the Grand Archmage Who Turned Male to Female
 99207|||世界备忘录|||World Memorandum
+80479|||十日I角马之变|||Ten Days I: The Gnu Incident
 137331|||操蛋的人生|||Fucked-Up Life
 369166|||变成蜂后的生存之道|||The Survival Way After Becoming a Bee Queen
 329477|||从明日方舟开始的哥斯拉|||Godzilla Starting From Arknights
@@ -268896,6 +268909,7 @@
 703041|||我的老妈居然是当代剑仙|||My Mom Is Actually a Modern Sword Immortal
 752557|||绑定御姐仙子系统|||Bound to a Onee-san Fairy System
 541325|||斗罗大陆之帝仙的我才不会去涩诱|||I, the Imperial Immortal of Douluo Continent, Will Not Seduce Anyone
+745619|||行愿阁感应录|||Records of Resonance from the Pavilion of Practiced Vows
 208845|||到了约战我能普通点吗|||Can I Please Be Normal When I Get to Date A Live?
 399435|||斗破之变身纳兰嫣然|||Battle Through the Heavens: Transforming Into Nalan Yanran
 518457|||穿越异世界，我只想躺平摆烂|||After Crossing to Another World, I Just Want to Lie Flat and Do Nothing
@@ -269291,20 +269305,6 @@
 660562|||星穹铁道：开局惊呆三月七|||Honkai: Star Rail - Shocking March 7th at the Start
 163219|||LV1的最强暗杀者|||The Strongest Assassin at LV1
 490343|||露娜小姐想要跟你约会|||Miss Luna Wants to Date You
-729037|||白厄？真不熟|||White Calamity? Not Really Familiar
-383565|||羊习习穿越火力少年王|||Yang Xixi Transmigrates into Blazing Teens
-301296|||斗罗大陆之夜煞希儿|||Soul Land: Night Fiend Seele
-350999|||风云乾坤|||Storm of Heaven and Earth
-354931|||吾乃SIC骑士和异类骑士|||I Am the SIC Rider and Another Rider
-335330|||小花仙之穿越赛尔号|||Little Flower Fairy Transmigrates into Seer
-340950|||第四代理之侓者参上|||The Fourth Proxy: The Ruler Arrives
-390574|||关于被逢魔娘送去穿越这件事|||About Being Sent to Transmigrate by the Time Demon Queen
-313833|||变成卡殿的穿越|||Transmigrating into Card Temple
-316679|||无敌于赛尔号|||Invincible in Seer
-308461|||盗版赛尔号|||Pirated Seer
-44526|||霞浦高中推理纪事 异|||Xiapu High School Mystery Chronicles: Abnormal
-80479|||十日I角马之变|||Ten Days I: The Gnu Incident
-745619|||行愿阁感应录|||Records of Resonance from the Pavilion of Practiced Vows
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
