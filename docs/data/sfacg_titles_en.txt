@@ -224427,7 +224427,6 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人||||||Time Calamity: I Can't Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -269305,66 +269304,6 @@
 660562|||星穹铁道：开局惊呆三月七|||Honkai: Star Rail - Shocking March 7th at the Start
 163219|||LV1的最强暗杀者|||The Strongest Assassin at LV1
 490343|||露娜小姐想要跟你约会|||Miss Luna Wants to Date You
-776643|||Familar|||Familar
-227672|||k9|||k9
-255509|||Recover|||Recover
-269349|||AGUL|||AGUL
-36587|||corker|||corker
-102169|||所谓伊人|||The So-Called Belle
-424733|||柯南之助鬼为乐|||Conan: Joy of Ghost-Helping
-537935|||女尊之宿醉在宾馆|||Matriarchy: Hotel Hangover
-290321|||重生为女|||Reborn as a Woman
-523690|||缺爱少女的日常生活|||The Daily Life of a Love-Starved Girl
-47919|||ERFT——没有恶意的世界|||ERFT: A World Without Malice
-109096|||病娇诊疗师|||Yandere Therapist
-394752|||希尔薇与渣男医生|||Sylvie and the Scumbag Doctor
-35303|||巫女巫女爱丽丝|||Miko Miko Alice
-23221|||我家的美少女|||The Beautiful Girl at My House
-776841|||全世界只有我会玩第五人格|||Only I in the World Can Play Identity V
-776400|||梦幻者之穿越到原神世界|||Dreamer: Transmigrating into Genshin Impact
-702992|||少前:人形AW50|||Girls' Frontline: T-Doll AW50
-514844|||地平线下的紫罗兰|||Violet Beneath the Horizon
-625849|||原神：天使舰娘|||Genshin Impact: Angel Shipgirl
-334221|||明日方舟的现代战争|||Arknights: Modern Warfare
-478295|||这个舰娘过于谨慎|||This Shipgirl Is Too Cautious
-389274|||无限的次元之旅|||Infinite Dimensional Journey
-511796|||凹凸世界第五季|||Aotu World Season 5
-542492|||火灵号的碧蓝航线穿越之旅|||Fire Spirit's Journey Across Azur Lane
-605317|||原神，这任草神是德丽莎和纳西妲|||Genshin Impact: This Dendro Archon Is Both Theresa and Nahida
-652820|||铁驭与碧蓝航线和女孩子的冒险|||Pilot: Azur Lane and Girls' Adventure
-294350|||穿越斗罗的琪亚娜|||Kiana Transmigrates into Douluo
-571494|||邪恶玩家进行时|||Evil Player in Progress
-417081|||无尽号舰娘|||Shipgirl Endless
-237564|||电竞女神|||Esports Goddess
-385705|||西琳的万界旅途|||Sirin's Journey Across the Worlds
-501196|||明日方舟里的猎手和终结者|||Hunters and Terminators in Arknights
-616383|||在槽糕世界的我转生为史莱姆|||In a Crappy World, I Reincarnated as a Slime
-402333|||荧之旅|||Lumine's Journey
-327966|||穿越到B站鬼畜区世界后的生存|||Survival After Transmigrating into Bilibili's Kichiku Zone
-227945|||转生成一只白狼娘会怎么样|||What If I Reincarnated as a White Wolf Girl?
-461389|||战舰设计与电竞少女|||Warship Design and the Esports Girl
-384689|||化血为晶|||Turning Blood into Crystal
-617113|||感覺驚悚遊戲在針對我|||I Feel Like the Horror Game Is Targeting Me
-776590|||怪盗基德vs莉可丽丝|||Kaito Kid vs Lycoris
-692864|||无尽穿梭：异我同行|||Endless Transmigration: Walking with My Other Self
-55040|||鬼畜探侦秃作|||Kichiku Detective: Hagesaku
-484155|||雨夜带刀不带伞|||Rainy Night, Knife and No Umbrella
-155364|||末世孤雄|||Apocalypse's Lone Man
-51257|||名侦探柯北|||Great Detective Ke Bei
-705786|||G大规则怪谈|||G-Major: Rule Creepypasta
-347493|||缝隙中的手|||The Hand in the Gap
-124217|||嘿咻嘿咻的游戏|||The Heave-Ho Game
-579284|||失翼：Fallen|||Lost Wings: Fallen
-506176|||末日模拟器：血姬女友与丧尸学妹|||Apocalypse Simulator: Vampire Girlfriend and Zombie Junior
-708488|||喂猫，然后捡到姜妙妙|||Feeding Cats, Then I Picked Up Jiang Miaomiao
-710205|||对话合集|||Dialogue Collection
-145841|||短篇小说合集|||Short Story Collection
-76208|||梦中的她|||She in My Dreams
-8765|||When It Sucks|||When It Sucks
-664474|||胶卷中的时空|||Time and Space in the Film
-635726|||在无尽轮回中被充满爱意地杀死|||Killed with Love in an Endless Cycle
-43090|||我与女鬼H生活|||My H Life with a Ghost Girl
-364030|||坟墓之镇|||The Town of Graves
 776774|||崩铁：永恒星穹环游记|||Honkai: Star Rail – Eternal Star Dome Travelogue
 776772|||蚀光之刃|||Blade of Eroding Light
 776770|||穿越成圣女，欲念领主系统什么鬼|||Reincarnated as a Saintess, What's with This Desire Lord System?
@@ -269377,6 +269316,7 @@
 776589|||围着我的她们，一定是异常现象|||The Girls Surrounding Me Must Be an Anomaly
 776756|||兄弟变成精灵后我成她的专属猎手|||After My Bro Turned into an Elf, I Became Her Personal Hunter
 776757|||流意|||Flowing Will
+776643|||Familar|||Familar
 776611|||罪途:我与恶魔签订契约|||Path of Sin: I Signed a Contract with a Demon
 776606|||一拳：关于我变成金发少女这档事|||One Punch: About Me Turning into a Blonde Girl
 776739|||黛姨和她的寿命共享魔法|||Aunt Dai and Her Lifespan-Sharing Magic
@@ -269504,6 +269444,8 @@
 46674|||恶魔是怎么炼成的|||How a Demon Is Made
 161686|||火影之变身九尾|||Naruto: Transform into the Nine-Tails
 30101|||苍穹之法芙娜同人集|||Fafner of the Azure Fanfiction Collection
+227672|||k9|||k9
+255509|||Recover|||Recover
 709880|||逃离恶役小姐？横死也只能爱她！|||Escape the Villainess? Even in Death, I Can Only Love Her!
 709706|||变成猫娘的我只想好好活下去|||Turned Into a Catgirl, I Just Want to Survive
 58258|||异世界大法师|||The Otherworldly Archmage
@@ -269597,6 +269539,7 @@
 679659|||无限人生局|||Infinite Life Bureau
 412850|||我穿越成为了雪帝|||I Transmigrated and Became the Snow Empress
 718338|||无职转生，鲁迪乌斯的轮回转生|||Mushoku Tensei: Rude
+269349|||AGUL|||AGUL
 365232|||命运闭环|||The Loop of Fate
 671610|||战锤40K重生我是绿皮军阀|||Warhammer 40K: Reborn as an Ork Warlord
 745634|||观测者锈蚀之被观测的文明困境|||Observer Rust: The Plight of the Observed Civilization
@@ -269697,6 +269640,7 @@
 538263|||被猫娘女仆宠坏的我决定发奋图强|||Spoiled by My Catgirl Maid, I Decide to Get My Act Together
 499794|||重生后的我选择与校花分手|||After Rebirth, I Choose to Break Up with the School Beauty
 421350|||喜欢我的美少女居然都黑化了|||All the Beautiful Girls Who Like Me Have Turned Dark
+36587|||corker|||corker
 209744|||为什么这些女孩会爱上我|||Why Do These Girls Fall in Love with Me?
 196211|||绿茶妹妹与毒舌同学与怯弱的我|||The Green Tea Little Sister, the Sharp-Tongued Classmate, and the Timid Me
 163685|||空城忆笙|||Empty City, Remembering the Flute
@@ -269739,6 +269683,86 @@
 655849|||女友的母亲竟是我的初恋？|||My Girlfriend's Mother Is Actually My First Love?
 156611|||病娇大小姐的贴身女仆竟然是我|||The Yandere Young Lady's Personal Maid Actually Turns Out to Be Me
 221321|||双子星陨落|||Fall of the Twin Stars
+102169|||所谓伊人|||The So-Called Belle
+424733|||柯南之助鬼为乐|||Conan: Joy of Ghost-Helping
+537935|||女尊之宿醉在宾馆|||Matriarchy: Hotel Hangover
+290321|||重生为女|||Reborn as a Woman
+523690|||缺爱少女的日常生活|||The Daily Life of a Love-Starved Girl
+47919|||ERFT——没有恶意的世界|||ERFT: A World Without Malice
+109096|||病娇诊疗师|||Yandere Therapist
+394752|||希尔薇与渣男医生|||Sylvie and the Scumbag Doctor
+35303|||巫女巫女爱丽丝|||Miko Miko Alice
+23221|||我家的美少女|||The Beautiful Girl at My House
+776841|||全世界只有我会玩第五人格|||Only I in the World Can Play Identity V
+776400|||梦幻者之穿越到原神世界|||Dreamer: Transmigrating into Genshin Impact
+702992|||少前:人形AW50|||Girls' Frontline: T-Doll AW50
+514844|||地平线下的紫罗兰|||Violet Beneath the Horizon
+625849|||原神：天使舰娘|||Genshin Impact: Angel Shipgirl
+334221|||明日方舟的现代战争|||Arknights: Modern Warfare
+478295|||这个舰娘过于谨慎|||This Shipgirl Is Too Cautious
+389274|||无限的次元之旅|||Infinite Dimensional Journey
+511796|||凹凸世界第五季|||Aotu World Season 5
+542492|||火灵号的碧蓝航线穿越之旅|||Fire Spirit's Journey Across Azur Lane
+605317|||原神，这任草神是德丽莎和纳西妲|||Genshin Impact: This Dendro Archon Is Both Theresa and Nahida
+652820|||铁驭与碧蓝航线和女孩子的冒险|||Pilot: Azur Lane and Girls' Adventure
+294350|||穿越斗罗的琪亚娜|||Kiana Transmigrates into Douluo
+571494|||邪恶玩家进行时|||Evil Player in Progress
+417081|||无尽号舰娘|||Shipgirl Endless
+237564|||电竞女神|||Esports Goddess
+385705|||西琳的万界旅途|||Sirin's Journey Across the Worlds
+501196|||明日方舟里的猎手和终结者|||Hunters and Terminators in Arknights
+616383|||在槽糕世界的我转生为史莱姆|||In a Crappy World, I Reincarnated as a Slime
+402333|||荧之旅|||Lumine's Journey
+327966|||穿越到B站鬼畜区世界后的生存|||Survival After Transmigrating into Bilibili's Kichiku Zone
+227945|||转生成一只白狼娘会怎么样|||What If I Reincarnated as a White Wolf Girl?
+461389|||战舰设计与电竞少女|||Warship Design and the Esports Girl
+384689|||化血为晶|||Turning Blood into Crystal
+617113|||感覺驚悚遊戲在針對我|||I Feel Like the Horror Game Is Targeting Me
+776590|||怪盗基德vs莉可丽丝|||Kaito Kid vs Lycoris
+692864|||无尽穿梭：异我同行|||Endless Transmigration: Walking with My Other Self
+55040|||鬼畜探侦秃作|||Kichiku Detective: Hagesaku
+484155|||雨夜带刀不带伞|||Rainy Night, Knife and No Umbrella
+155364|||末世孤雄|||Apocalypse's Lone Man
+51257|||名侦探柯北|||Great Detective Ke Bei
+705786|||G大规则怪谈|||G-Major: Rule Creepypasta
+347493|||缝隙中的手|||The Hand in the Gap
+124217|||嘿咻嘿咻的游戏|||The Heave-Ho Game
+579284|||失翼：Fallen|||Lost Wings: Fallen
+506176|||末日模拟器：血姬女友与丧尸学妹|||Apocalypse Simulator: Vampire Girlfriend and Zombie Junior
+708488|||喂猫，然后捡到姜妙妙|||Feeding Cats, Then I Picked Up Jiang Miaomiao
+710205|||对话合集|||Dialogue Collection
+145841|||短篇小说合集|||Short Story Collection
+76208|||梦中的她|||She in My Dreams
+8765|||When It Sucks|||When It Sucks
+664474|||胶卷中的时空|||Time and Space in the Film
+635726|||在无尽轮回中被充满爱意地杀死|||Killed with Love in an Endless Cycle
+43090|||我与女鬼H生活|||My H Life with a Ghost Girl
+364030|||坟墓之镇|||The Town of Graves
+725492|||天崩开局:重生职高女厕|||Apocalyptic Start: Reborn in a Vocational Girls' Toilet
+172792|||约战之次元精灵|||Date A Live: Dimensional Spirit
+257343|||某科学的白井黑子|||A Certain Scientific Kuroko Shirai
+679580|||变成人偶，但是大姐姐总想薄纱我|||Turned into a Puppet, But the Older Girl Always Tries to Wreck Me
+729167|||胸大腰细腿长的我，终将赌赢神明|||Big Breasts, Slim Waist, Long Legs: Eventually, I'll Out-Gamble the Gods
+640479|||才不要变狐耳娘被关起来码字呢！|||I Refuse to Turn into a Fox Girl and Get Locked Up Writing!
+536693|||修炼绝世功法的我逐渐雌化了|||My Peerless Cultivation Technique Is Slowly Turning Me Female
+741049|||前女友快走开，当女儿的活让我来|||Ex-Girlfriend, Get Lost! Let Me Be the Daughter Instead
+505931|||金钱交换女孩灵魂的秘密我才不会|||I Would Never Reveal the Secret of Buying a Girl's Soul with Money
+379075|||变身之纵横花都|||Metamorphosis: Dominating the Flower City
+543833|||被迫和妹妹契约的我生活大变样了|||Forced Into a Contract with My Sister, My Life Was Turned Upside Down
+147689|||那依然盛开在地下城的夕雾花|||The Evening Mist Flower That Still Blooms in the Dungeon
+249769|||梦幻0血之护卫|||The Fantastical Zero-HP Guardian
+400231|||让毁灭世界的鬼拯救世界不正常吗|||Isn't It Normal for a World-Destroying Demon to Save the World?
+317050|||身为杀手的我居然白给了|||I'm an Assassin, But I Keep Getting Myself Killed for Nothing
+506373|||签下协议后女主她真香了|||After Signing the Contract, the Heroine Had a 'It's Actually Good!' Moment
+276848|||阎萝王你能不能靠谱点|||Yanluo Wang, Could You Be a Bit More Reliable?
+573506|||失忆的我被病娇少女缠上了|||I Lost My Memory and Now a Yandere Girl Won't Leave Me Alone
+166305|||约会的崩坏|||The Date's Collapse
+165884|||魔女不祈祷|||The Witch Doesn't Pray
+372747|||咬过我的丧尸都变成了我的美少女|||The Zombies That Bit Me All Became My Beautiful Girls
+310028|||拥有女性幻魂的我不想变成女生|||I Have a Female Phantom Soul, But I Don't Want to Turn Into a Girl
+555694|||御变后不可能遭女武神与魔女俘获|||After My Transformation, I Won't Be Captured by Valkyries and Witches
+412996|||少女渐变进行时与我的制反策略|||A Maiden's Gradual Transformation and My Counter-Plan
+588878|||全知全能小小主播能有什么坏心思|||What Bad Intentions Could an Omniscient and Omnipotent Little Streamer Possibly Have?
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
@@ -269791,6 +269815,7 @@
 84798|||384400000|||
 75493|||15101051|||
 81668|||2026|||
+60208|||时祸：我不能杀任何人|||
 49350|||-.-|||
 40538|||100000|||
 34143|||14|||
@@ -270158,28 +270183,3 @@
 693115|||退休的反派魔法少女绝不成为女仆|||
 75575|||我被不现实恋爱绑架了|||
 383758|||猫猫也可以被关心吗|||
-725492|||天崩开局:重生职高女厕|||
-172792|||约战之次元精灵|||
-257343|||某科学的白井黑子|||
-679580|||变成人偶，但是大姐姐总想薄纱我|||
-729167|||胸大腰细腿长的我，终将赌赢神明|||
-640479|||才不要变狐耳娘被关起来码字呢！|||
-536693|||修炼绝世功法的我逐渐雌化了|||
-741049|||前女友快走开，当女儿的活让我来|||
-505931|||金钱交换女孩灵魂的秘密我才不会|||
-379075|||变身之纵横花都|||
-543833|||被迫和妹妹契约的我生活大变样了|||
-147689|||那依然盛开在地下城的夕雾花|||
-249769|||梦幻0血之护卫|||
-400231|||让毁灭世界的鬼拯救世界不正常吗|||
-317050|||身为杀手的我居然白给了|||
-506373|||签下协议后女主她真香了|||
-276848|||阎萝王你能不能靠谱点|||
-573506|||失忆的我被病娇少女缠上了|||
-166305|||约会的崩坏|||
-165884|||魔女不祈祷|||
-372747|||咬过我的丧尸都变成了我的美少女|||
-310028|||拥有女性幻魂的我不想变成女生|||
-555694|||御变后不可能遭女武神与魔女俘获|||
-412996|||少女渐变进行时与我的制反策略|||
-588878|||全知全能小小主播能有什么坏心思|||
