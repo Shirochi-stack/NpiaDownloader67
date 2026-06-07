@@ -45479,8 +45479,8 @@
 54197918|||오빠는 여동생을 지키지 못했다|||The Older Brother Couldn't Protect His Younger Sister
 54111255|||뉴비들이 사는 세상|||World Where Newbies Live
 54208879|||그 동화의 비하인드|||Behind the Fairy Tale
-54014206|||침식 (클린버전)|||Erosion (Clean Version)
-54014659|||이테라토 (클린버전)|||Iterato (Clean Version)
+54014206|||침식 [클린버전]|||Erosion (Clean Version)
+54014659|||이테라토 [클린버전]|||Iterato (Clean Version)
 54212515|||라스트 서바이버 : 진화로 살아남아라!|||Last Survivor: Survive Through Evolution!
 54061251|||주인공이 자꾸자꾸 부활함|||The Protagonist Keeps Reviving
 54218319|||신화급 각성으로 최상위종|||Myth-Rank Awakening to Apex Species
@@ -45866,7 +45866,7 @@
 53944870|||숨은 그대 찾기|||Finding You Who Are Hidden
 52627947|||스페이스바운드|||Spacebound
 53995661|||떨림 [개정판]|||Trembling [Revised Edition]
-54014575|||밥 잘 먹는 예쁜 강아지 (클린버전)|||Pretty Puppy Who Eats Well (Clean Version)
+54014575|||밥 잘 먹는 예쁜 강아지 [클린버전]|||Pretty Puppy Who Eats Well (Clean Version)
 54037468|||(이용권) 나무를 담벼락에 끌고 들어가지 말라 2부 (상) [단행본]|||Don't Drag the Tree to the Wall, Part 2 (Part 1) [Book]
 54037461|||(이용권) 나무를 담벼락에 끌고 들어가지 말라 1.5부 [단행본]|||Don't Drag the Tree Into the Wall, Part 1.5 [Volume Edition]
 54037361|||(이용권) 나무를 담벼락에 끌고 들어가지 말라 1부 [단행본]|||Don't Drag the Tree into the Wall, Part 1 [Volume Edition]
@@ -45879,7 +45879,7 @@
 53998505|||너의 아이가 아니야|||It's Not Your Child
 54033842|||마침내, 봄 [완결]|||At Last, Spring [Completed]
 53994125|||이웃 백작가에는 전생의 친구가 산다|||My Past Life Friend Lives in the Neighboring Count's Family
-54020607|||비(非)다정한 다정 (클린버전)|||Non-Kind Kindness (Clean Version)
+54020607|||비(非)다정한 다정 [클린버전]|||Non-Kind Kindness (Clean Version)
 53712329|||비익몽 - 두 왕자의 여인 [단독 선공개]|||Biikmong - The Two Princes' Woman [Exclusive Pre-release]
 54004161|||어린 아빠|||Young Dad
 53974578|||조자룡 하북제패 [완결]|||Zhao Ziyang's Conquest of Hebei [Completed]
@@ -45889,7 +45889,7 @@
 54018243|||꽃은 묵은 가지에서 피네 [단행본]|||Flowers Bloom on Old Branches [Book]
 54018213|||그 신부를 믿지 마세요 [단행본]|||Don't Trust That Bride [Single Volume]
 54018136|||그 동화의 끝은 막장 드라마 [단행본]|||The End of That Fairy Tale is a Makjang Drama [Volume Edition]
-54020478|||저스트 핏! (클린버전)|||Just Fit! (Clean Version)
+54020478|||저스트 핏! [클린버전]|||Just Fit! (Clean Version)
 54002547|||이 로맨스 사양할게요|||I Refuse This Romance
 54021868|||무종도담|||Martial Tale of the Sword
 53975659|||작가, 전설을 쓰다 [완결]|||The Writer, Writing a Legend [Completed]
@@ -45943,7 +45943,7 @@
 54012774|||불가원(不可遠) : 멀어지지 마라|||Bulgawon: Do Not Get Far Away
 54012979|||억겁의 붉은 하늘|||Red Sky of Eons
 53887530|||루머 읽는 배우님 [완결]|||The Actor Who Reads Rumors [End]
-54014488|||시발, 점 (클린버전)|||Damn, a Dot [Clean Version]
+54014488|||시발, 점 [클린버전]|||Damn, a Dot [Clean Version]
 53959026|||말랑말랑|||Soft and Squishy
 53969930|||초한몽경화|||Dreamscape of Chu-Han
 53959267|||반값전당포|||Half-Price Pawnshop
@@ -50627,9 +50627,9 @@
 51958138|||더 가까이|||Closer
 51912708|||저승에서 배웠다 [완결]|||I Learned in the Afterlife [Completed]
 51943947|||전지적 관중 시점|||Omniscient Spectator's Point of View
-51979212|||연못 속의 다로 (클린버전)|||Daro in the Pond (Clean Version)
+51979212|||연못 속의 다로 [클린버전]|||Daro in the Pond (Clean Version)
 51967218|||밑 빠진 용병대에 돈 붓기|||Pouring Money Into a Bottomless Mercenary Corps
-51978637|||리턴 투 베이스 (클린버전)|||Return to Base (Clean Version)
+51978637|||리턴 투 베이스 [클린버전]|||Return to Base (Clean Version)
 51658177|||대한민국 검사 청정국[완결]|||South Korea Prosecutor Clean Country [Completed]
 51971405|||철혈의선|||Iron Blood's Line
 51939064|||요동왕|||King of Liaodong
@@ -51650,7 +51650,7 @@
 51438388|||학교로 간 보스 [단독선공개]|||The Boss Goes to School [Exclusive Preview]
 51494525|||아이 엠 어 프로듀서 [완결]|||I Am a Producer [Completed]
 51481746|||얼음심장 기사단|||Ice Heart Knight Order
-51492081|||멍청이들 (클린버전)|||Idiots (Clean Version)
+51492081|||멍청이들 [클린버전]|||Idiots (Clean Version)
 51485460|||왕화학생기|||King Chemistry Chronicles
 51491737|||사랑이 찾아오면|||When Love Comes
 51489845|||짝사랑 남편 [외전증보판]|||Unrequited Love Husband [Side Story Expanded Edition]
@@ -52152,7 +52152,7 @@
 51274727|||리라이프 플레이어|||Relife Player
 51276574|||우리 이별의 이유는|||The Reason for Our Farewell
 51272745|||혼요|||Mixed Desire
-51106426|||마이 팻보이(클린버전)|||My Fat Boy (Clean Version)
+51106426|||마이 팻보이 [클린버전]|||My Fat Boy (Clean Version)
 51280418|||회귀자의 스킬무쌍|||The Returnee's Skill Musou
 51187369|||악마의 오른발 [완결]|||Devil's Right Foot [End]
 51240647|||이계에서 힘을 얻다|||Gaining Power in Another World
@@ -52498,7 +52498,7 @@
 51064376|||나는 엑스트라가 아니다|||I Am Not an Extra
 51110278|||역적 이한용|||Traitor Lee Han-yong
 51116290|||돌발|||Sudden Incident
-51118115|||그 문이 열리면(클린버전)|||When That Door Opens (Clean Version)
+51118115|||그 문이 열리면 [클린버전]|||When That Door Opens (Clean Version)
 51117175|||청국비담 (15세 개정판)|||Qing Kingdom Secret Tales (15+ Revised)
 51069767|||뽑기 마스터|||Gacha Master
 51114005|||사슴뿔 황비님|||The Deer-Horned Empress
@@ -52649,8 +52649,8 @@
 51040987|||잘 부탁드립니다 [완결]|||Please Take Care of Me [Completed]
 51036835|||그날 밤 우리는 [완결]|||That Night We [Complete]
 51049324|||달에 피는 꽃|||Flower Blooming on the Moon
-51054897|||달 밝은 밤에 (클린버전)|||On a Bright Moonlit Night (Clean Version)
-51055346|||에브리 브레스 (클린버전)|||Every Breath (Clean Version)
+51054897|||달 밝은 밤에 [클린버전]|||On a Bright Moonlit Night (Clean Version)
+51055346|||에브리 브레스 [클린버전]|||Every Breath (Clean Version)
 51033306|||아델리아 - 꽃의 속박[단행본]|||Adelia - Bondage of Flowers [Book]
 51044035|||욕망의 끝 [단독선공개]|||The End of Desire [Exclusive Preview]
 50905065|||입술을 맛보다 사랑을 깨우다|||Tasting Lips and Awakening Love
@@ -52664,7 +52664,7 @@
 51043704|||악마와의 계약|||Contract with the Devil
 51043772|||바람의 이유|||Reason for the Wind
 51043797|||해바라기, 피다|||Sunflowers, Bloom
-50922338|||또 하나의 세계(클린버전)|||Another World (Clean Version)
+50922338|||또 하나의 세계 [클린버전]|||Another World (Clean Version)
 51044409|||은밀한 유희|||Secret Pleasure
 51019916|||향(香) [완결]|||Fragrance [Complete]
 50986039|||비주얼 커플|||Visual Couple
@@ -52960,7 +52960,7 @@
 50924163|||패튼의 날개|||Patton's Wings
 50903923|||관상인간으로 살아남기[BL][15세개정판]|||Surviving as a Physiognomy Human [BL] [15+ Revised Edition]
 50888315|||금수의 가시꽃|||Beast's Thorny Flower
-50705634|||장미의 주인(클린버전)|||Master of Roses (Clean Version)
+50705634|||장미의 주인 [클린버전]|||Master of Roses (Clean Version)
 50718071|||너에게 잠기다|||Submerged in You
 50832995|||귀환용병|||Returned Mercenary
 50813607|||세자빈의 발칙한 비밀[단행본]|||The Crown Princess's Cheeky Secret [Volume Edition]
@@ -53099,7 +53099,7 @@
 50841204|||Dr. 스펠|||Dr. Spell
 50635686|||사신공주의 재혼|||The Reaper Princess's Remarriage
 50860286|||아빠는 탑스타|||Dad is a Top Star
-50856879|||얼음의 소년(클린버전)|||Ice Boy (Clean Version)
+50856879|||얼음의 소년 [클린버전]|||Ice Boy (Clean Version)
 50526318|||메디컬|||Medical
 50853204|||그 책에 마음을 주지 마세요|||Don't Give Your Heart to That Book
 50582016|||자꾸 자꾸 잘생겨져![완결]|||Getting More and More Handsome! [Completed]
@@ -53199,7 +53199,7 @@
 50838089|||오빠|||Oppa
 50837814|||그녀, 입이 거칠다|||She Has a Foul Mouth
 50837166|||제발! 사랑하지 마|||Please! Don't Love
-50705456|||친구사이? (클린버전)|||Friends? (Clean Version)
+50705456|||친구사이? [클린버전]|||Friends? (Clean Version)
 50838179|||그들의 사랑은 길었다|||Their Love Was Long
 50841052|||난공불락 그 여자 [외전선공개]|||That Impregnable Woman [Side Story Pre-release]
 50734985|||Kiss Me, Liar(키스 미, 라이어)|||Kiss Me, Liar
@@ -53525,7 +53525,7 @@
 50706892|||붉은 늑대의 유혹 [완결]|||"Red Wolf's Seduction" [Complete]
 50710433|||뜨거운 충동|||Hot Impulse
 50708921|||그렇게 웃지 말아줘|||Don't Smile Like That
-50708589|||뉴 이어 맨(클린버전)|||New Year Man (Clean Version)
+50708589|||뉴 이어 맨 [클린버전]|||New Year Man (Clean Version)
 50615270|||몽천악|||"Dreaming of Heavenly Music"
 50698018|||히마와리|||Himawari
 50696905|||노크-온(Knock-on)|||"Knock-On"
@@ -54204,10 +54204,10 @@
 50390605|||오우거 스탯[완결]|||Ogre Stats [Complete]
 50383817|||하라면 해서|||Because I Did It When Told
 50380798|||복숭앗빛 연상 연하|||Peach-Colored Older Woman, Younger Man
-50359989|||딥 블루(클린버전)|||Deep Blue (Clean Version)
-50341233|||체인드(클린버전)|||Chained (Clean Version)
-50359756|||우아한 세계(클린버전)|||Elegant World (Clean Version)
-50260185|||매화서방(클린버전)|||Plum Blossom Husband (Clean Version)
+50359989|||딥 블루 [클린버전]|||Deep Blue (Clean Version)
+50341233|||체인드 [클린버전]|||Chained (Clean Version)
+50359756|||우아한 세계 [클린버전]|||Elegant World (Clean Version)
+50260185|||매화서방 [클린버전]|||Plum Blossom Husband (Clean Version)
 46516143|||빅보스|||Big Boss
 50393840|||내 세상의 주연은 너|||The Lead in My World Is You
 50354145|||페티시 시즌 1. 어린짐승|||Fetish Season 1. Young Beast
@@ -54288,7 +54288,7 @@
 50319741|||그녀는 마왕?!|||Is She a Demon King?!
 50299808|||전국 수석 무림 가다 [개정판]|||National Top Student Goes to Murim [Revised Edition]
 50339057|||빠져들다|||Falling In
-50360190|||삶에 참 평화 없어라(클린버전)|||No True Peace in Life (Clean Version)
+50360190|||삶에 참 평화 없어라 [클린버전]|||No True Peace in Life (Clean Version)
 50357316|||야릇한관계_BL_외전추가(단독선공개)|||Risqué Relationship_BL_Side Story Added (Exclusive Pre-release)
 50291914|||일구이언 이부지자 [완결]|||Double-Talker, Illegitimate Son [Completed]
 50361170|||술은 집에서 얌전히 드십시다|||Let's Drink Alcohol Quietly at Home
@@ -54611,7 +54611,7 @@
 50176631|||오늘도 난 너를 기다려|||I Wait for You Again Today
 50207925|||향월화|||Fragrant Moon Flower
 50175400|||키친(개정판) [단독선공개]|||Kitchen (Revised Edition) [Exclusive Preview]
-50105054|||퍼펙트맨(클린버전)|||Perfect Man (Clean Version)
+50105054|||퍼펙트맨 [클린버전]|||Perfect Man (Clean Version)
 50119275|||헤어지지 말자|||Let's Not Break Up
 50212396|||악역이라도 해피엔딩이 필요해!|||Even a Villain Needs a Happy Ending!
 50205665|||신들린 노래 [완결]|||Divine Song [Complete]
@@ -54949,7 +54949,7 @@
 50055952|||다경이를 품다|||Embracing Dagyeong
 50055748|||포식자의 취향|||Predator's Taste
 50087335|||컴백 (학사 김필도 2부)|||Comeback (Scholar Kim Pildo Part 2)
-49989071|||나의 육식시대(클린버전)|||My Carnivorous Era (Clean Version)
+49989071|||나의 육식시대 [클린버전]|||My Carnivorous Era (Clean Version)
 50081693|||리턴 싱어[완결]|||Return Singer [Complete]
 50045433|||파머킹 [완결]|||Farmer King [Finale]
 50050286|||천 번의 환생끝에|||After a Thousand Reincarnations
@@ -55010,7 +55010,7 @@
 50040414|||그분 안에 그놈이 산다 (개정판)|||That Guy Lives Inside Him (Revised Edition)
 50040110|||어느 날, 갑자기|||One Day, Suddenly
 50029556|||THIRST (개정판)|||THIRST (Revised Edition)
-49989327|||내가 보이니(클린버전)|||Can You See Me (Clean Version)
+49989327|||내가 보이니 [클린버전]|||Can You See Me (Clean Version)
 50050267|||월드 오브 라그나로크|||World of Ragnarok
 49989820|||던전 공략 LIVE|||Dungeon攻略 LIVE
 50050147|||악처럼|||Like Evil
@@ -55115,7 +55115,7 @@
 50009025|||읽지 않음|||Unread
 50001458|||천위|||Heavenly Position
 49988230|||에이미의 우울|||Amy's Melancholy
-49989864|||열꽃이 피어나(클린버전)|||Fever Flowers Bloom (Clean Version)
+49989864|||열꽃이 피어나 [클린버전]|||Fever Flowers Bloom (Clean Version)
 50003348|||요시카와 에이지의 삼국지 [완결]|||Eiji Yoshikawa's Three Kingdoms [Completed]
 50006856|||쓰담쓰담|||Pat Pat
 49972019|||내꺼하자 [단독선공개]|||Be Mine [Exclusive Pre-release]
@@ -55162,7 +55162,7 @@
 49959634|||그 남자의 사랑|||That Man's Love
 49977921|||우리가 기다리는 동안|||While We Wait
 49893899|||커피 볶는 남자|||The Man Who Roasts Coffee
-49974833|||쁘띠 꼬꼬(클린버전)|||Petit Coco (Clean Version)
+49974833|||쁘띠 꼬꼬 [클린버전]|||Petit Coco (Clean Version)
 49977935|||패전처리, 회귀하다|||Defeat Processing, Regressing
 49783417|||취<取>|||Take
 49959266|||워블(War-ble)|||War-ble
@@ -55192,9 +55192,9 @@
 49967803|||바다 저편의 연인[할리퀸]|||Lover Beyond the Sea [Harlequin]
 49972095|||바다의 마녀[할리퀸]|||Sea Witch [Harlequin]
 49624508|||체인지 러브|||Change Love
-49974385|||결핍(클린버전)|||Lack (Clean Version)
-49974244|||원테이크(클린버전)|||One Take (Clean Version)
-49973984|||후애(클린버전)|||After Love (Clean Version)
+49974385|||결핍 [클린버전]|||Lack (Clean Version)
+49974244|||원테이크 [클린버전]|||One Take (Clean Version)
+49973984|||후애 [클린버전]|||After Love (Clean Version)
 49974090|||프레릭의 영주|||Lord of Frerik
 49967787|||클로이의 클로버|||Chloe's Clover
 49946299|||절애지|||Record of Extreme Love
@@ -55214,7 +55214,7 @@
 49968109|||링크 더 오크|||Link the Orc
 49867461|||행복을 찾아서[할리퀸]|||In Search of Happiness [Harlequin]
 49952931|||궁인 일기|||Palace Lady's Diary
-49972628|||화무(클린버전)|||Flower Dance (Clean Version)
+49972628|||화무 [클린버전]|||Flower Dance (Clean Version)
 49972483|||사랑입니까|||Is It Love?
 49972333|||지독한 클리셰|||Vicious Cliché
 49919733|||달의 노래|||Song of the Moon
@@ -55572,8 +55572,8 @@
 49786280|||이계궁녀|||Otherworld Palace Lady
 49811977|||13번째 후궁|||The 13th Concubine
 49763894|||아우스 : 마도 시대의 시작|||Aus: Beginning of the Magic Era
-49794664|||영웅이 될 수 없는 이유(클린버전)|||Reason I Can't Be a Hero (Clean Version)
-49794185|||리빌드 오메가(클린버전)|||Rebuild Omega (Clean Version)
+49794664|||영웅이 될 수 없는 이유 [클린버전]|||Reason I Can't Be a Hero (Clean Version)
+49794185|||리빌드 오메가 [클린버전]|||Rebuild Omega (Clean Version)
 49592406|||화랑세기|||Hwarang Chronicle
 49593609|||열녀, 홍길동전|||Virtuous Woman, Tale of Hong Gildong
 49592863|||시간의 이해|||Understanding Time
@@ -55600,7 +55600,7 @@
 49793363|||이 영광, 너에게|||This Glory, to You
 49793860|||나는 허수아비|||I Am a Scarecrow
 49792743|||연애하자|||Let's Date
-49798369|||천생연분(클린버전)|||Match Made in Heaven (Clean Version)
+49798369|||천생연분 [클린버전]|||Match Made in Heaven (Clean Version)
 49791669|||더 모먼트 (The Moments): 별이 되는 순간들|||The Moments: Becoming a Star
 49747092|||여공작 나탈리|||Duchess Natalie
 49790249|||자월공주 혜강 [단독선공개]|||Purple Moon Princess Hyegang [Exclusive Pre-release]
@@ -55614,8 +55614,8 @@
 49795921|||정규직 몬스터 [완결]|||Full-Time Monster [Complete]
 49796927|||영원을 거니는 봄|||Spring Walking Through Eternity
 49788977|||윤 비서가 간첩이라니|||Secretary Yoon Is a Spy?
-49798543|||하인리히의 법칙 (클린버전)|||Heinrich's Law (Clean Version)
-49798963|||헤어짐의 방법 (클린버전)|||How to Break Up (Clean Version)
+49798543|||하인리히의 법칙 [클린버전]|||Heinrich's Law (Clean Version)
+49798963|||헤어짐의 방법 [클린버전]|||How to Break Up (Clean Version)
 49751134|||전령새 왕녀님|||Messenger Princess
 49749656|||거침없이 스탯 업|||Fearless Stat Up
 49772173|||별이 다방|||Byeol-i Teahouse
@@ -57478,7 +57478,7 @@
 49083936|||그 도서관의 주인은 마법사입니다|||The Owner of That Library Is a Mage
 49061553|||그 사람이 너라서|||Because That Person is You
 49083602|||아름다운 정복자|||Beautiful Conqueror
-49077259|||기사는 검에 죽지 않는다(클린버전)|||Knights Don't Die by the Sword (Clean Version)
+49077259|||기사는 검에 죽지 않는다 [클린버전]|||Knights Don't Die by the Sword (Clean Version)
 49085631|||후궁부(後宮部)|||Harem Department
 48927139|||전생해서 꿀빨기|||Reincarnating to Live an Easy Life
 49071067|||슬픈 동화|||Sad Fairy Tale
@@ -64390,3 +64390,138 @@
 69046263|||제갈세가 셋째아들은 귀환한 무신|||
 68905657|||남궁세가 돈지랄 천하제일인|||
 69300384|||비선실세의 조선 정상화[단행본]|||
+69428262|||약사가 제조해서 활약함|||
+69342257|||마법헌터소녀는 던전을 꾸며!|||
+69403250|||젠틀 매드니스(Gentle Madness)|||
+69400692|||어플 하나로 재벌가 참교육|||
+69329615|||우리는 단지 봄을 사랑하지 않았을 뿐 [19세 완전판]|||
+69329606|||우리는 단지 봄을 사랑하지 않았을 뿐|||
+69325652|||나의 하이틴 너드 라이벌|||
+69286547|||장래 희망 : 차애|||
+69349123|||나랑 자게 될 거야 [19세 완전판]|||
+69374570|||인연 아닌 연인|||
+69371947|||그락서스의 군주[단행본]|||
+69371936|||궁극의 마스터[단행본]|||
+69363388|||내 안에 축신강림|||
+69406650|||(소설) 소꿉친구의 S급 파티에서 추방된 성수사. 만능 지원마법과 동료를 늘려 최강으로!|||
+69372472|||영주 레이샤드 [단행본]|||
+69372447|||무황전설 [단행본]|||
+69416455|||고리 덫 [19세 완전판]|||
+69416416|||고리 덫|||
+69417924|||유이의 연승이 이어진다면 [단행본]|||
+69417589|||유이의 연승이 이어진다면|||
+69385640|||회귀한 천재 투수는 행복하게 살기로 했다.|||
+69384725|||퇴사 후 포션 팔았더니 국가가 쩔쩔맴|||
+69383850|||좌천당했더니 돈이 미쳤다|||
+69383630|||재해급 쉬었음 청년|||
+69383416|||음악천재인 줄 모르고 약혼녀가 파혼하자함|||
+69383211|||부르고뉴의 기사가 되었다!|||
+69382980|||방출 투수에게 상태창이 생김|||
+69382757|||돈에 미친 천재 타자가 회귀함|||
+69368114|||내 인벤토리엔 드래곤이 산다|||
+69367751|||귀환자 삼촌의 힐링식탁|||
+69367495|||권고사직 후 S급이 몰려듦|||
+69367278|||NBA 악동의 농구 스트리밍|||
+69365210|||EX급 사제인줄 모르고 해고당함|||
+69373316|||삼국지 - 재앙급 영웅 여포|||
+69358546|||회귀 후 소꿉친구한테 청혼했더니|||
+69295205|||회귀자의 빙판은 금빛|||
+69302369|||친구와 야한 일탈|||
+69391795|||평범한 영애님은 최애만 보러 가고 싶을 뿐|||
+69391416|||평범한 영애님은 최애만 보러 가고 싶을 뿐 [단행본]|||
+69387778|||옆방 오빠[단행본]|||
+69377757|||부처천월과거양와일상|||
+69367257|||쓰레기 레시피 [단행본]|||
+69354689|||용사파티 탈퇴 이후의 세계 [단행본]|||
+69340572|||마법사가 살아가는 법|||
+69337730|||스틸 허니(Steal Honey) [외전 선공개]|||
+69299901|||난신 [단행본]|||
+69299324|||난신|||
+69297630|||서난종명|||
+69297560|||서난종명[단행본]|||
+69276626|||탱커|||
+69263471|||탈형채 [단행본]|||
+69399825|||초월급 헌터는 마검 흡수자 [단행본]|||
+69312759|||마법약 교수의 평화로운 아카데미 생활|||
+69347794|||결혼, 열|||
+69315312|||결혼, 열 [19세 완전판]|||
+66823856|||종말의 마법사가 되었다 |||
+68418794|||조직 간부의 소꿉친구가 신입으로 들어왔다 [19세 완전판][단행본]|||
+60869881|||[BL] 사장님이 맛있고 커피가 친절해요|||
+69395343|||산에서 내려가고 싶었을 뿐인데|||
+69402715|||격투기를 이상하게 잘함|||
+69338195|||로열 사이코틱 [19세 완전판][단행본]|||
+69316499|||고래는 싸워, 새우는 빠질게!|||
+68694922|||맹인 성녀인데 눈이 보인다 [19세 완전판]|||
+69326147|||이혼 후 알게 된 것들 [단행본]|||
+69326130|||폭군의 순정 [단행본]|||
+69326103|||미인어 [단행본]|||
+69215901|||계약 결혼일 뿐이었다|||
+69400921|||천마의 현대 헌터 귀환기|||
+69305073|||마탑주 전남친과 공무수행 중|||
+69403762|||헌터 아카데미에서 조선 독립을 외치다|||
+69372510|||차원이 다른 대표님 [단행본]|||
+69366862|||지기 위해 펴라 [단행본]|||
+69334321|||우리 집 메이드는 학교 제일의 미인입니다 [단행본]|||
+69307550|||미래일기로 생존게임 [단행본]|||
+69307511|||마교천하의 무한회귀자 [단행본]|||
+69307262|||경배받는 흑마법사의 퇴마오피스 [단행본]|||
+69392170|||살아 있는 무공백과 [단행본]|||
+67782597|||전생 소드마스터의 탑 공략|||
+69345459|||천기누설로 강해짐[단행본]|||
+69394086|||황로천하를 꿈꾸다|||
+69393583|||무림 속 외노자가 되었다[단행본]|||
+69392849|||나폴리탄 괴담에 너무 잘 적응했다 [단행본]|||
+69389954|||방구석 로켓배송|||
+69389541|||회귀한 줄 모르고 천재 배우를 캐스팅함|||
+69389022|||마령|||
+69372037|||블러드 드래곤 [단행본]|||
+69361057|||루바토|||
+69327282|||마법소녀는 퇴직하고 싶다 [단행본]|||
+69295871|||1선발 못하면 죽음 [단행본]|||
+69295609|||아카데미 조교는 집에 가고 싶다 [단행본]|||
+69295430|||무림 메가코프 은하상단 [단행본]|||
+69391417|||실전무제 [단행본]|||
+69382386|||초월급 헌터는 마검 흡수자|||
+69405989|||천붕연가|||
+69338411|||육아물 여주인공의 새언니 [단행본]|||
+69315063|||이번 생의 히트곡은 복수입니다|||
+69261941|||상성대여금고|||
+69381398|||이레귤러는 괴물을 먹는다[단행본]|||
+69381374|||망돌 친구 몸에 빙의해 데뷔합니다[단행본]|||
+69381355|||검은 머리 영국 음대생[단행본]|||
+69380710|||좀비 아포칼립스에 공청기로 쉘터 키우기[단행본]|||
+69380564|||늦깎이 재벌가 막내손주[단행본]|||
+69378622|||40대 김 과장 유일한 마법사가 되었다|||
+69378200|||천마를 사부로 모시니 탑 공략이 너무 쉬움|||
+69355813|||시한부 도련님의 노예|||
+69339057|||전 여친이 기사단장으로 부임했다|||
+69310580|||파혼 스캔들|||
+69375207|||토키노 소라 ~버츄얼 아이돌이지만 응원해 주실 건가요?~|||
+69297277|||계약 남편이 이혼을 요구한다|||
+69372030|||무림맹 학관엔 천마가 산다 [단행본]|||
+69339858|||마교 처가살이 200년만에 돌아왔다|||
+69372479|||이세계 대문호의 비밀 도서관 [단행본]|||
+69334290|||아카데미 악당영애 교정하기 [단행본]|||
+69322448|||다시 수능부터 시작하는 회귀자 생활|||
+69322444|||검선이지만 제자는 마교의 소교주입니다|||
+69322439|||아포칼립스에서 바바리안으로 살아남기|||
+69322433|||모용세가 시조전|||
+69314587|||EX급 탑의 주인이 되었다.|||
+69290260|||배역 뽑기로 천재 대배우 [단행본]|||
+69270474|||나도 연애는 처음이라 [단행본]|||
+69270097|||이번 생엔 암살보다 청소가 체질입니다 [단행본]|||
+69269226|||서브남주의 덕질요정이 되었습니다! [단행본]|||
+69268947|||전남편과 첫 결혼|||
+69268936|||전남편과 첫 결혼 [단행본]|||
+69268289|||우연처럼 너를|||
+69268209|||우연처럼 너를 [단행본]|||
+69214341|||대표님, 반만 넣으시면 안 될까요? [19세 완전판][단행본]|||
+69214338|||대표님, 반만 넣으시면 안 될까요? [19세 완전판]|||
+69214100|||아정호랑설화(雅正虎狼說話) [19세 완전판][단행본]|||
+69214099|||입안에 복숭아 [19세 완전판][단행본]|||
+69214098|||아정호랑설화(雅正虎狼說話) [19세 완전판]|||
+69214097|||입안에 복숭아 [19세 완전판]|||
+68940163|||파멸이, 돌아오다 [단행본]|||
+68598629|||파멸이, 돌아오다|||
+57090094|||폭군의 심장을 쥐었다|||
