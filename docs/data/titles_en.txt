@@ -80792,94 +80792,235 @@
 431076|||SSSS. [DYNAZERO]|||SSSS. [DYNAZERO]
 430202|||Triple C|||Triple C
 198288|||Halcyon coromanda|||Halcyon coromanda
-227044|||세드릭 디고리에게 씀 |해리포터|||
-432764|||주인 없는 도시|||
-432382|||별의 아이(잃어버린 사람을 찾아서)|||
-432757|||데스나이트 아가씨는 순애의 꿈을 꾸는가|||
-430515|||성군이 아니라 독재자입니다만?|||
-431023|||로판 속 남부대공이 신대륙을 발견함|||
-431302|||재벌집 마법사의 애완 이무기|||
-431834|||아카데미의 이공계 마법사가 되었다|||
-432497|||프로게이머가 마왕을 죽임|||
-432306|||다크 판타지 세계관 통합 거래소|||
-432515|||겜빙의에 성공했지만 다크판타지가 되어있었다|||
-432734|||로판 속 호구 황태자에 빙의했다.|||
-432408|||내가 왜 마법소녀야?|||
-432718|||Ntr소설속 무능이 되었다.|||
-432215|||로판 속 호구 재앙급 대악녀들에게 집착당함|||
-431138|||태초의 존재가 되었다|||
-432048|||로판 속 악녀를 살렸더니 성녀까지 집착한다|||
-432582|||대공녀의 호위기사를 그만뒀다|||
-432073|||카오는 길들여지고 싶지 않다|||
-430423|||처음 보는 마녀가 날 아는 척함|||
-432170|||위장황후|||
-432358|||로판 속 삼류 악당이 되었다|||
-432268|||총으로 이세계 협박하기|||
-431126|||[원신] 해적의 티바트 생활일지|||
-431991|||악녀의 반려견이 되었다|||
-431472|||[마노사바] 회귀한 명탐정|||
-420579|||맹인 헌터인데 속마음이 잘 들림|||
-432168|||포켓몬스터 SPECIAL×가면라이더 위저드×울트라맨 긴가×소년기사 라무 II (반지의 마법사와 빛의 거인과 전설의 용사)|||
-431170|||멸망 예정 악녀들을 구했더니 전부 내 하렘이 됐다|||
-432751|||우리 학교에 게이트가 열렸다|||
-430604|||사망전야_ 리셋|||
-431264|||여배우들이 나를 상대역으로만 세운다|||
-430709|||야겜 속 호위기사가 되었다.|||
-432745|||마법소녀들의 지휘관이 되었다|||
-432742|||마일스톤|||
-431575|||100년 만에 귀환한 축구천재|||
-432021|||악역의 마법소녀 조직이 너무 성공했다|||
-432436|||중세랜드의 기사로 살아남기|||
-432117|||해상을 주름잡는 검신이 되다|||
-431667|||로판에 빙의했으니 튈렵니다|||
-432179|||[하이스쿨 DXD X 디지몬] 나는 王(킹)이다!|||
-432151|||황녀님 책상 밑은 제 안전가옥입니다|||
-430388|||히든 스테이지의 대장장이가 되었다|||
-432038|||어쩌다보니 이능력 히어로가 되었다?!|||
-429667|||죽음을 전제로, 기사가 되었다|||
-432479|||초월자가 대한민국을 재판함|||
-432726|||공산주의 대한민국에서 살아남기|||
-432590|||뒷세계 흑막 악덕 흡혈귀 아닙니다|||
-432015|||로판 속 악마 변호사가 되었다|||
-431614|||사냥리그 투명 헌터|||
-431006|||북부대공의 악역 남편이 되었다|||
-431092|||[하이스쿨DXD]주인공 조상의 친척이다|||
-430294|||은퇴했는데도 얀데레 동료들이 집착해온다|||
-430018|||아포칼립스의 랜덤가챠 플레이어|||
-431804|||역변해서 아카데미로 돌아갔다.|||
-431530|||로판 속 유일 무당은 집착당한다|||
-430957|||므하항! 무당집 막내딸이 되었구나!|||
-431476|||악역 전투원A, 전대의 그린이 되었습니다.|||
-431608|||초인세계 유일의 총잡이가 되었다|||
-423899|||[TS] 인연 어플리케이션|||
-432608|||아포칼립스 기차역의 운영자가 되었다|||
-431513|||멸망 루트 악역은 히로인들에게 붙잡혔다|||
-431269|||버프, 필요하신가요?!|||
-432733|||미소녀지만 탑등반|||
-430858|||내 AI는 이세계에서 성장한다|||
-431797|||주운 고양이가 재앙급 몬스터였다|||
-432719|||나는 하늘을 날거야!|||
-431585|||마법학원의 무능력자였습니다, 하지만 마법에 각성함|||
-432556|||아카데미 흙수저가 수상하게 대검을 잘 씀|||
-432720|||정령의 힘이 공주 배꼽에 흡수되니 160갑자 내공이 됨|||
-430639|||암컷타락 권능의 서큐버스인데 애호받는다.|||
-432476|||대마법을 숨겼더니 최강 기사로 착각당했다|||
-432695|||소꿉친구가 나를 무서울 정도로 좋아한다|||
-431754|||로판 속 악질 우결충이 되었다|||
-432068|||욕먹으면 강해지는 만능 헌터가 되었다|||
-432646|||환생한 마신은 재앙급 마녀들을 키운다|||
-432370|||게이트를 읽는 던전 분석가|||
-430855|||멸망한 세상에서 내가 만든 사이비 종교가 세상을 구원하려 한다|||
-432658|||묵시록의 리빙 아머가 되었다|||
-432709|||이번생엔 박쥐로 살아보려한다.|||
-432024|||아카데미 최악의 악역이 되었다.|||
-432112|||코인 대박난 TS녀는 오늘도 인생을 산다|||
-432529|||악녀들의 집사가 되었다|||
-431278|||창조주인데, 마나가 0입니다|||
-430868|||아파트 주민이 이상하다(스텔라이브)|||
-432693|||로판 속 악역으로 살아남기|||
-432542|||사형수들의 집착받는 말동무가 되었다.|||
-432321|||[나히아] 내 개성이 너무 굉장하다|||
+227044|||세드릭 디고리에게 씀 |해리포터||||
+432764|||주인 없는 도시|||The City Without a Master
+432382|||별의 아이(잃어버린 사람을 찾아서)|||Child of the Stars (In Search of the Lost)
+432757|||데스나이트 아가씨는 순애의 꿈을 꾸는가|||Does the Death Knight Lady Dream of Pure Love?
+430515|||성군이 아니라 독재자입니다만?|||I'm Not a Sage, I'm a Dictator?
+431023|||로판 속 남부대공이 신대륙을 발견함|||The Southern Archduke in a Romance Fantasy Discovers the New World
+431302|||재벌집 마법사의 애완 이무기|||The Chaebol Family Magician's Pet Imoogi
+431834|||아카데미의 이공계 마법사가 되었다|||I Became a STEM Magician at the Academy
+432497|||프로게이머가 마왕을 죽임|||A Pro Gamer Kills the Demon King
+432306|||다크 판타지 세계관 통합 거래소|||Dark Fantasy Worldview Integrated Exchange
+432515|||겜빙의에 성공했지만 다크판타지가 되어있었다|||I Successfully Transmigrated into a Game, But It Turned Into a Dark Fantasy
+432734|||로판 속 호구 황태자에 빙의했다.|||I Possessed the Doomed Crown Prince in a Romance Fantasy
+432408|||내가 왜 마법소녀야?|||Why Am I a Magical Girl?
+432718|||Ntr소설속 무능이 되었다.|||I Became the Incompetent Guy in an NTR Novel
+432215|||로판 속 호구 재앙급 대악녀들에게 집착당함|||The Doomed Guy in a Romance Fantasy Gets Obsessed Over by Catastrophe-Class Villainesses
+431138|||태초의 존재가 되었다|||I Became a Primordial Being
+432048|||로판 속 악녀를 살렸더니 성녀까지 집착한다|||I Saved the Villainess in a Romance Fantasy, and Now Even the Saintess Is Obsessed
+432582|||대공녀의 호위기사를 그만뒀다|||I Quit Being the Grand Duchess's Bodyguard Knight
+432073|||카오는 길들여지고 싶지 않다|||Kao Doesn't Want to Be Tamed
+430423|||처음 보는 마녀가 날 아는 척함|||A Witch I've Never Met Pretends to Know Me
+432170|||위장황후|||The Fake Empress
+432358|||로판 속 삼류 악당이 되었다|||I Became a Third-Rate Villain in a Romance Fantasy
+432268|||총으로 이세계 협박하기|||Threatening Another World with a Gun
+431126|||[원신] 해적의 티바트 생활일지|||[Genshin Impact] A Pirate's Teyvat Life Journal
+431991|||악녀의 반려견이 되었다|||I Became the Villainess's Pet Dog
+431472|||[마노사바] 회귀한 명탐정|||[Mano Saba] The Returned Great Detective
+420579|||맹인 헌터인데 속마음이 잘 들림|||I'm a Blind Hunter, But I Can Hear Inner Thoughts Clearly
+432168|||포켓몬스터 SPECIAL×가면라이더 위저드×울트라맨 긴가×소년기사 라무 II (반지의 마법사와 빛의 거인과 전설의 용사)|||Pokémon SPECIAL × Kamen Rider Wizard × Ultraman Ginga × Boy Knight Ramu II (The Ring Wizard, the Giant of Light, and the Legendary Hero)
+431170|||멸망 예정 악녀들을 구했더니 전부 내 하렘이 됐다|||I Saved Villainesses Destined for Doom, and Now They're All My Harem
+432751|||우리 학교에 게이트가 열렸다|||A Gate Opened at My School
+430604|||사망전야_ 리셋|||Eve of Death: Reset
+431264|||여배우들이 나를 상대역으로만 세운다|||Actresses Keep Casting Me as Their Leading Man
+430709|||야겜 속 호위기사가 되었다.|||I Became a Bodyguard Knight in an Eroge
+432745|||마법소녀들의 지휘관이 되었다|||I Became the Commander of Magical Girls
+432742|||마일스톤|||Milestone
+431575|||100년 만에 귀환한 축구천재|||A Soccer Genius Returns After 100 Years
+432021|||악역의 마법소녀 조직이 너무 성공했다|||The Villain's Magical Girl Organization Was Too Successful
+432436|||중세랜드의 기사로 살아남기|||Surviving as a Knight in Medievalland
+432117|||해상을 주름잡는 검신이 되다|||Becoming a Sword God Who Rules the Seas
+431667|||로판에 빙의했으니 튈렵니다|||I Possessed a Romance Fantasy, So I'm Running Away
+432179|||[하이스쿨 DXD X 디지몬] 나는 王(킹)이다!|||[High School DxD X Digimon] I am the King!
+432151|||황녀님 책상 밑은 제 안전가옥입니다|||Under the Princess's Desk Is My Safe House
+430388|||히든 스테이지의 대장장이가 되었다|||I Became the Hidden Stage Blacksmith
+432038|||어쩌다보니 이능력 히어로가 되었다?!|||Somehow I Became an Esper Hero?!
+429667|||죽음을 전제로, 기사가 되었다|||On the Premise of Death, I Became a Knight
+432479|||초월자가 대한민국을 재판함|||A Transcender Judges the Republic of Korea
+432726|||공산주의 대한민국에서 살아남기|||Surviving in Communist Korea
+432590|||뒷세계 흑막 악덕 흡혈귀 아닙니다|||I'm Not the Evil Vampire Mastermind of the Underworld
+432015|||로판 속 악마 변호사가 되었다|||I Became a Demon Lawyer in a Romance Fantasy
+431614|||사냥리그 투명 헌터|||Hunting League's Invisible Hunter
+431006|||북부대공의 악역 남편이 되었다|||I Became the Villain Husband of the Northern Archduke
+431092|||[하이스쿨DXD]주인공 조상의 친척이다|||[High School DxD] I'm a Relative of the Main Character's Ancestor
+430294|||은퇴했는데도 얀데레 동료들이 집착해온다|||Even Though I Retired, My Yandere Comrades Are Obsessed with Me
+430018|||아포칼립스의 랜덤가챠 플레이어|||Apocalypse Random Gacha Player
+431804|||역변해서 아카데미로 돌아갔다.|||I Returned to the Academy After a Transformation
+431530|||로판 속 유일 무당은 집착당한다|||The Only Shaman in a Romance Fantasy Is Obsessed Over
+430957|||므하항! 무당집 막내딸이 되었구나!|||Muhahang! I've Become the Youngest Daughter of a Shaman Household!
+431476|||악역 전투원A, 전대의 그린이 되었습니다.|||Villain Combatant A: I Became the Previous Generation's Green Ranger
+431608|||초인세계 유일의 총잡이가 되었다|||I Became the Only Gunslinger in a Metahuman World
+423899|||[TS] 인연 어플리케이션|||[TS] The Destiny Application
+432608|||아포칼립스 기차역의 운영자가 되었다|||I Became the Operator of the Apocalypse Train Station
+431513|||멸망 루트 악역은 히로인들에게 붙잡혔다|||The Doom Route Villain Was Captured by the Heroines
+431269|||버프, 필요하신가요?!|||Do You Need a Buff?!
+432733|||미소녀지만 탑등반|||I'm a Pretty Girl, But I'm Climbing the Tower
+430858|||내 AI는 이세계에서 성장한다|||My AI Grows in Another World
+431797|||주운 고양이가 재앙급 몬스터였다|||The Stray Cat I Picked Up Was a Catastrophe-Class Monster
+432719|||나는 하늘을 날거야!|||I Will Fly to the Sky!
+431585|||마법학원의 무능력자였습니다, 하지만 마법에 각성함|||I Was an Incompetent at the Magic Academy, But I Awakened to Magic
+432556|||아카데미 흙수저가 수상하게 대검을 잘 씀|||That Academy Commoner Suspiciously Handles a Greatsword Well
+432720|||정령의 힘이 공주 배꼽에 흡수되니 160갑자 내공이 됨|||The Spirit's Power Was Absorbed into the Princess's Belly Button, Granting 160 Years of Inner Energy
+430639|||암컷타락 권능의 서큐버스인데 애호받는다.|||I'm a Succubus with the Power of Female Corruption, and I'm Doted On
+432476|||대마법을 숨겼더니 최강 기사로 착각당했다|||I Hid My Grand Magecraft, and Was Mistaken for the Strongest Knight
+432695|||소꿉친구가 나를 무서울 정도로 좋아한다|||My Childhood Friend Likes Me to a Scary Degree
+431754|||로판 속 악질 우결충이 되었다|||I Became a Malicious WGM Fanatic in a Romance Fantasy
+432068|||욕먹으면 강해지는 만능 헌터가 되었다|||I Became an All-Purpose Hunter Who Gets Stronger When Insulted
+432646|||환생한 마신은 재앙급 마녀들을 키운다|||The Reincarnated Demon Lord Raises Catastrophe-Class Witches
+432370|||게이트를 읽는 던전 분석가|||The Dungeon Analyst Who Reads Gates
+430855|||멸망한 세상에서 내가 만든 사이비 종교가 세상을 구원하려 한다|||In a Ruined World, the Cult I Founded Tries to Save the World
+432658|||묵시록의 리빙 아머가 되었다|||I Became the Living Armor of the Apocalypse
+432709|||이번생엔 박쥐로 살아보려한다.|||In This Life, I'll Try Living as a Bat
+432024|||아카데미 최악의 악역이 되었다.|||I Became the Worst Villain in the Academy
+432112|||코인 대박난 TS녀는 오늘도 인생을 산다|||The TS Girl Who Hit the Jackpot with Crypto Lives Her Life Today Too
+432529|||악녀들의 집사가 되었다|||I Became the Villainesses' Butler
+431278|||창조주인데, 마나가 0입니다|||I'm the Creator, but My Mana Is Zero
+430868|||아파트 주민이 이상하다(스텔라이브)|||The Apartment Resident is Strange (Stellarive)
+432693|||로판 속 악역으로 살아남기|||Surviving as a Villain in a Romance Fantasy
+432542|||사형수들의 집착받는 말동무가 되었다.|||I Became the Death Row Convicts' Obsessed Conversation Partner
+432321|||[나히아] 내 개성이 너무 굉장하다|||[MHA]
+432294|||[블루아카이브] 엑스트라에 빙의한 나는 밴드를 한다|||[Blue Archive] Possessed by an Extra, I Start a Band
+431315|||[비질랜티(히로아카)/포켓몬] 꼬마 비질랜티는 트레이너|||[Vigilante (MHA) / Pokémon] The Little Vigilante Is a Trainer
+431796|||[원피스] 몽키.D.루피입니다.|||[One Piece] I’m Monkey D. Luffy.
+426327|||[프로젝트 문]도시에 대하여|||[Project Moon] About the City
+431365|||[가면라이더 젯츠X젠존제] 검은가지 소속의 에이전트...아니 가면라이더입니다.|||[Kamen Rider Geats X Xenon-Z] Agent of the Black Branch... No, I’m a Kamen Rider.
+432083|||[거미집xfgo] 중버러지|||[Spider-Web x FGO] The Overbug
+430352|||[FATE/FGO]그리스 대영웅의 후손|||[Fate/FGO] Descendant of a Great Greek Hero
+431370|||선택받지 못한 자.[animations]|||The Unchosen One. [animations]
+431067|||(콜 오브 듀티 X 블루 아카이브) 청춘 오브 듀티|||(Call of Duty X Blue Archive) Youth of Duty
+431908|||[스포일러가 너무 심한 RPG2] 이 사내도 스포일러가 너무 심하다.|||[RPG 2: Spoilers Are Too Heavy] This Guy Is Also Too Heavy on Spoilers.
+432196|||역시 내 유희생활은 잘못됐다|||As Expected, My Yu-Gi-Oh Life Is Wrong
+432082|||블루아카이브 {밀레니엄의 남학생은 히어로를 꿈꾼다.}|||Blue Archive {The Male Student of Millennium Dreams of Being a Hero}
+432267|||[동방] 이 하쿠레이 레이무의 삶이란|||[Touhou] This Life of Hakurei Reimu
+432077|||선생만 두명인 소설|||A Story with Two Senseis
+430528|||성검과 유희생활|||The Sacred Sword and Yu-Gi-Oh Life
+432185|||[블루아카이브] 나기사에게 '클라나드'를 해보았다|||[Blue Archive] I Had Nagisa Play 'Clannad'
+430518|||만달로어인 환생자|||A Reincarnator as a Mandalorian
+430234|||[유희생활] 의식의 흐름대로|||[Yu-Gi-Oh Life] Stream of Consciousness
+431535|||[유희생활] 유희를 즐기는 생활|||[Yu-Gi-Oh Life] A Life Enjoying the Game
+431190|||[프문] 도시에서 평범한 삶을 추구해본다|||[Project Moon] Pursuing a Normal Life in the City
+431396|||디지몬 트리거|||Digimon Trigger
+432018|||[트릭컬] 우이, 개구리 그리고 이슬비|||[Trickcal] Ui, the Frog, and Isulbi
+427867|||임 선생님|||Teacher Lim
+431241|||[롤X주술회전] 주술회전에 떨어진 블라디미르|||[LoL x Jujutsu Kaisen] Vladimir Dropped into Jujutsu Kaisen
+431677|||이대로 가지마...|||Don't Go Like This...
+430967|||모코우 제독께서 보고계셔!|||Admiral Mokou Is Watching!
+431445|||[불꽃소방대] 여러 색상|||[Fire Force] Multiple Colors
+431380|||[블루 아카이브] 다시 한 번, 키보토스|||[Blue Archive] Once More, Kivotos
+431854|||[마블 붕괴 스타레일]  무명객 로키|||[Marvel Honkai: Star Rail] Nameless Loki
+431849|||가족/친인척에게 들킨 것 같아서 잠시 은둔합니다.|||I Think My Family/Relatives Caught On, So I'm Laying Low for a While
+431778|||전생했더니 유희생활을 각성했던 건에 대하여|||Concerning My Reincarnation into Awakening a Yu-Gi-Oh Life
+423597|||[나히아×다중]개성이 가챠 입니다만, 이상한 일들이 일어나는 건에 대하여|||[MHA × Multiverse] My Quirk Is a Gacha, and Strange Things Keep Happening
+430555|||유희생활 : 구원|||Yu-Gi-Oh Life: Salvation
+431165|||[이런 영웅은 싫어] 나비는 사랑을 꿈꾼다.|||[I Hate This Kind of Hero] The Butterfly Dreams of Love
+430473|||뉴 에리두의 평범한 소시민(?) [리메이크 버전]|||An Ordinary Citizen(?) of New Eridu [Remake Version]
+431516|||[명일방주] 60일 뒤에 죽는 박사|||[Arknights] The Doctor Who Dies in 60 Days
+431114|||[하이스쿨 dxd] 천하패도의 검|||[High School DxD] The Sword of World Domination
+431568|||[블루 아카이브] 무기 대장간에 어서오세요!|||[Blue Archive] Welcome to the Weapon Forge!
+431160|||[주술회전]이상성욕자를 피해라!|||[Jujutsu Kaisen] Avoid the Abnormal Sexual Deviant!
+431591|||[블루아카이브] 최강자들 앞에서 죽어보았다|||[Blue Archive] I Died in Front of the Strongest
+431571|||무한의 유희생활|||Infinite Yu-Gi-Oh Life
+430952|||[최애의아이]호시노 아이의 아들이 되었다|||[Oshi no Ko] I Became Hoshino Ai's Son
+430748|||[유희생활] 만물교환의 유희생활|||[Yu-Gi-Oh Life] The Yu-Gi-Oh Life of Bartering Everything
+426442|||[니케X가면라이더]이 비틀어진 악몽을 타파하라|||[Nike x Kamen Rider] Destroy This Twisted Nightmare
+431485|||로묘와 줄롓|||Romyo and Julot
+430974|||[블루아카X림버스] 진정하세요 발렌치나 선생님!|||[Blue Archive x Limbus] Calm Down, Ms. Valentina!
+431333|||포켓몬 실전 뉴비의 경기 복기|||A Pokémon Battling Newbie's Match Review
+431290|||[블아X배트맨] 다크 나이트 아카이브|||[Blue Archive x Batman] Dark Knight Archive
+431412|||[독참소]검과 마법의 세계|||[Dokchamso] A World of Swords and Magic
+426136|||[독참소]평범한 유희생활(?)|||[Dokchamso] An Ordinary Yu-Gi-Oh Life(?)
+431312|||종막|||The Final Act
+431044|||[가히리] 하늘 너머의 별이 머무르는 곳|||[GahiRi] Where the Stars Dwell Beyond the Sky
+430844|||[독참소]죄들이 사는 탑|||[Dokchamso] The Tower Where Sins Dwell
+430567|||[프문] 혈귀가 되었다|||[Project Moon] I Became a Bloodfiend
+431080|||[fateX아메리카노 엑소더스] 그럴듯한 새장속 죽어가는 새|||[Fate x Americano Exodus] A Plausible Dying Bird in a Cage
+431054|||쇼타인데 샷건을 겻들인 [명조 둠]|||A Shota with a Shotgun Seasoning [Myeongjo Doom]
+431028|||[원신X주술회전]어주자가지고 원신(R)|||[Genshin x Jujutsu Kaisen] The Fisherman Goes to Genshin(R)
+430886|||아포칼립스 속 최상위 포식자|||Apex Predator in the Apocalypse
+419973|||(보컬로이드)꽃은 지기에 아름답다|||(Vocaloid) Flowers Are Beautiful Because They Fall
+430827|||학생들 몰래 입대했는데 망한 일에대하여|||Concerning Joining the Army Behind My Students' Backs and Ruining Everything
+430695|||미소녀에다가 농 체형이 되버린 마티아스가 되버렸다|||I Became Matthias, a Beautiful Girl with a Dwarf Body
+430833|||[젠레스 존 제로] 공허 사냥꾼? 그래, 아무렇게나 불러라.|||[Zenless Zone Zero] Void Hunter? Yeah, Call Me Whatever.
+430775|||[림버스X메이드래곤] 수감자가 아니라 칸나 카무이입니다|||[Limbus x Miss Kobayashi's Dragon Maid] I'm Not an Inmate, I'm Kanna Kamui
+430615|||[주술회전 X 유희왕] 어쩔 우라라|||[Jujutsu Kaisen X Yu-Gi-Oh] What to Do, Urara
+430628|||[블루 아카이브] 마술을 무기로 사용하는 학생|||[Blue Archive] A Student Who Uses Magic as a Weapon
+430676|||[독참소] 초!카구야 공주|||[Dokchamso] Super! Princess Kaguya
+430653|||[블루아카Xnoob experiment]타이탄 게스트 선생과 메카 게스트 선생|||[Blue Archive x Noob Experiment] Titan Guest Sensei and Mecha Guest Sensei
+430625|||[림버스X블루아카] 절망의 끝에서 피어나는 보석에게|||[Limbus x Blue Archive] To the Gem Blooming at the Edge of Despair
+429852|||[블루 아카이브] 분홍 여우를 입양하다.|||[Blue Archive] Adopting a Pink Fox
+430474|||[디펜스 기반 독참소] 디펜스 게임의 등장인물이 되었다.|||[Defense-Based Dokchamso] I Became a Character in a Defense Game
+430485|||[독참소] 도시와 이야기|||[Dokchamso] City and Story
+332945|||덴마크 해협에서 왈츠를|||A Waltz in the Denmark Strait
+431824|||마교 소공녀의 애완 스승님이 되었다|||I Became the Pet Master of the Demonic Cult's Young Lady
+432155|||애견병원을 차렸더니, 전 남친들이 개가 되어 나타남|||I Opened a Vet Clinic, and My Ex-Boyfriends Showed Up as Dogs
+430745|||입학한 김에 실세까지! (블루아카이브)|||Since I Enrolled, Might as Well Be the Boss! (Blue Archive)
+432193|||클리셰? 먹는건가요?|||Cliché? Is It Edible?
+430684|||소꿉친구는 내 하렘을 허락하지 않는다|||My Childhood Friend Won't Allow My Harem
+431374|||러브코미디 속 패배히로인이 집착한다|||The Losing Heroine in a Rom-Com Is Obsessive
+415195|||내 주인님은 외계인 소녀|||My Master Is an Alien Girl
+430591|||학원섬 외전|||Academy Island Side Story
+432176|||무림맹주는 천마를 사랑한다.|||The Murim Alliance Leader Loves the Heavenly Demon
+432700|||좋아한다고 말하기가 무서워!|||I'm Afraid to Say I Like You!
+432534|||우주는 숨 쉬는 법 따위 잊어버렸다|||The Universe Forgot How to Breathe
+432350|||내공만천하제일|||Inner Power, the Greatest Under Heaven
+432458|||끈질겨요 마왕님!|||How Persistent, Demon King!
+431154|||천재는 사람을 모른다|||The Genius Doesn't Know People
+431768|||30일 뒤 자X하는 여고생|||The High School Girl Who Will Commit Suicide in 30 Days
+430538|||무명의 팔라딘|||The Nameless Paladin
+431884|||스카이 엘리베이터|||Sky Elevator
+432649|||그녀의 이름은 윤희정|||Her Name Is Yoon Hee-jeong
+432575|||사랑이란 무엇일까..|||What Is Love...
+432407|||뉴비 작가 일기|||Newbie Author's Diary
+432390|||고아가 선무문의 복수를 한다|||An Orphan Takes Revenge for the Seonmu Clan
+431983|||붉은 파도|||Crimson Waves
+431289|||친애하는 나의 괴물들에게|||To My Dear Monsters
+431836|||노래 단편집|||Song Collection
+430240|||느티나무 앞에서|||In Front of the Zelkova Tree
+430879|||여우를주웠다|||I Picked Up a Fox
+430534|||단 한 사람을 위해|||For Just One Person
+430697|||재혼한 마누라 따라 데릴사위로 들어간다|||Following My Remarried Wife, I Become a Live-in Son-in-Law
+431950|||새아빠가 여동생을 탐하길래, 나는 새엄마를 길들였다|||When My Stepdad Coveted My Sister, I Tamed My Stepmom
+432553|||너의 마지막 여름을 훔쳤다|||I Stole Your Last Summer
+432325|||사이버 펑크 이세카이의 딸깍 마법사|||A Clickbait Magician in a Cyberpunk Isekai
+430761|||네 손끝에서 찬란하게, 빛나리.|||Shine Brilliantly from Your Fingertips
+431379|||여우왕자와 충직한 신하|||The Fox Prince and His Loyal Servant
+431202|||군대에서TS한김에 [여왕벌]시작합니다.|||Since I Got TS'd in the Military, I'll Start [Queen Bee]
+432199|||무림에서 나 홀로 상태창을 가졌다.|||Alone in Murim with a Status Window
+432221|||내 머리에 벌레가 산다|||A Bug Lives in My Head
+431470|||우주시대의 빚쟁이 사냥꾼|||Debt-Collecting Hunter of the Space Age
+430270|||암살자가 내조하는법|||How an Assassin Supports Her Husband
+427789|||곰은 옥타곤을 찢어|||The Bear Rips the Octagon
+432465|||새로운 희망|||A New Hope
+431021|||뭔가 이상한 삼국지에 떨어졌다|||I Fell into a Weird Romance of the Three Kingdoms
+431862|||환생했더니 초대 파라오였다.|||After Reincarnation, I Was the First Pharaoh
+431901|||흑사병을 죽여라|||Kill the Black Death
+432712|||SF 게임 속 문명 파괴자가 되었다|||I Became a Civilization Destroyer in an SF Game
+431833|||은하 터널의 카우보이|||Cowboy of the Galactic Tunnel
+431498|||더 시티 : 사라진 귀환 모듈|||The City: The Missing Return Module
+431499|||눈을 떴더니 사이버펑크 속 이었다|||When I Opened My Eyes, I Was in Cyberpunk
+431013|||무협지인줄 알았는데 원시시대였다.|||I Thought It Was a Wuxia, but It Was the Primitive Era
+431180|||고아들이 모이면 무림 최강이 된다|||When Orphans Gather, They Become the Strongest in Murim
+432122|||선계의 불꽃으로 대요괴가 되어 세상을 지배합시다.|||Let's Become a Great Demon with the Flame of Seon-gye and Rule the World
+432514|||화산파 도사로 살아가는 법|||How to Live as a Daoist of the Hwasan Sect
+432165|||제천대성의 망나니 수제자가 되었다|||I Became the Rogue Top Disciple of the Great Sage Equal to Heaven
+430939|||부채의 무림 생활|||The Debtor's Murim Life
+430783|||흑상복천|||Black Tortoise Subdues Heaven
+431045|||산타클로스 행복 노역장|||Santa Claus Happy Labor Camp
+428371|||감평용12321|||For Gam-pyeong 12321
+430678|||세계관 모음|||Worldbuilding Collection
+432414|||[프리큐어/ 신비아파트/ 기타 크로스오버] 신비아파트 이터널 리턴:RE(리메이크)|||[PreCure / Shinbi Apartment / Other Crossovers] Shinbi Apartment Eternal Return: RE (Remake)
+432296|||소항성 소설 모음집|||Sohangseong Story Collection
+431720|||사해수필|||Sahae's Essays
+430730|||아이디어 노트123|||Idea Note 123
+430716|||X사건 기록|||X Incident Record
+428695|||슼슼슼 단편소설|||Skrr Skrr Skrr Short Stories
+430516|||하하! 이리와라!|||Haha! Come Here!
+431005|||회귀자는 이순신을 살리고 조선을 버린다|||The Regressor Saves Yi Sun-sin and Abandons Joseon
+430552|||히틀러와 스탈린이 회귀했다|||Hitler and Stalin Have Regressed
+428798|||삼국지에서 통일 제국 수립기|||The Founding of a Unified Empire in the Three Kingdoms
+431894|||뇌 식힐 때 쓰는 무서운 이야기|||Scary Stories to Cool Your Brain
+432763|||한줄일기|||One-Line Diary
 431853|||로판 속 악마들의 담당 일진이 되었다.|||
 432236|||삼국지 우화등선후 미친 무력으로 천하재패|||
 430435|||로판 속 흑기사가 집착당함|||
@@ -81611,145 +81752,4 @@
 427064|||[FATE/가면라이더]후회!피폐!집착!그리고!가면라이더!|||
 432381|||블루 아카이브•해피 라이프|||
 431484|||[프문] 관리자님은 현장직!|||
-432294|||[블루아카이브] 엑스트라에 빙의한 나는 밴드를 한다|||
-431315|||[비질랜티(히로아카)/포켓몬] 꼬마 비질랜티는 트레이너|||
-431796|||[원피스] 몽키.D.루피입니다.|||
-426327|||[프로젝트 문]도시에 대하여|||
-431365|||[가면라이더 젯츠X젠존제] 검은가지 소속의 에이전트...아니 가면라이더입니다.|||
-432083|||[거미집xfgo] 중버러지|||
-430352|||[FATE/FGO]그리스 대영웅의 후손|||
-431370|||선택받지 못한 자.[animations]|||
-431067|||(콜 오브 듀티 X 블루 아카이브) 청춘 오브 듀티|||
-431908|||[스포일러가 너무 심한 RPG2] 이 사내도 스포일러가 너무 심하다.|||
-432196|||역시 내 유희생활은 잘못됐다|||
-432082|||블루아카이브 {밀레니엄의 남학생은 히어로를 꿈꾼다.}|||
-432267|||[동방] 이 하쿠레이 레이무의 삶이란|||
-432077|||선생만 두명인 소설|||
-430528|||성검과 유희생활|||
-432185|||[블루아카이브] 나기사에게 '클라나드'를 해보았다|||
-430518|||만달로어인 환생자|||
-430234|||[유희생활] 의식의 흐름대로|||
-431535|||[유희생활] 유희를 즐기는 생활|||
-431190|||[프문] 도시에서 평범한 삶을 추구해본다|||
-431396|||디지몬 트리거|||
-432018|||[트릭컬] 우이, 개구리 그리고 이슬비|||
-427867|||임 선생님|||
-431241|||[롤X주술회전] 주술회전에 떨어진 블라디미르|||
-431677|||이대로 가지마...|||
-430967|||모코우 제독께서 보고계셔!|||
-431445|||[불꽃소방대] 여러 색상|||
-431380|||[블루 아카이브] 다시 한 번, 키보토스|||
-431854|||[마블 붕괴 스타레일]  무명객 로키|||
-431849|||가족/친인척에게 들킨 것 같아서 잠시 은둔합니다.|||
-431778|||전생했더니 유희생활을 각성했던 건에 대하여|||
-423597|||[나히아×다중]개성이 가챠 입니다만, 이상한 일들이 일어나는 건에 대하여|||
-430555|||유희생활 : 구원|||
-431165|||[이런 영웅은 싫어] 나비는 사랑을 꿈꾼다.|||
-430473|||뉴 에리두의 평범한 소시민(?) [리메이크 버전]|||
-431516|||[명일방주] 60일 뒤에 죽는 박사|||
-431114|||[하이스쿨 dxd] 천하패도의 검|||
-431568|||[블루 아카이브] 무기 대장간에 어서오세요!|||
-431160|||[주술회전]이상성욕자를 피해라!|||
-431591|||[블루아카이브] 최강자들 앞에서 죽어보았다|||
-431571|||무한의 유희생활|||
-430952|||[최애의아이]호시노 아이의 아들이 되었다|||
-430748|||[유희생활] 만물교환의 유희생활|||
-426442|||[니케X가면라이더]이 비틀어진 악몽을 타파하라|||
-431485|||로묘와 줄롓|||
-430974|||[블루아카X림버스] 진정하세요 발렌치나 선생님!|||
-431333|||포켓몬 실전 뉴비의 경기 복기|||
-431290|||[블아X배트맨] 다크 나이트 아카이브|||
-431412|||[독참소]검과 마법의 세계|||
-426136|||[독참소]평범한 유희생활(?)|||
-431312|||종막|||
-431044|||[가히리] 하늘 너머의 별이 머무르는 곳|||
-430844|||[독참소]죄들이 사는 탑|||
-430567|||[프문] 혈귀가 되었다|||
-431080|||[fateX아메리카노 엑소더스] 그럴듯한 새장속 죽어가는 새|||
-431054|||쇼타인데 샷건을 겻들인 [명조 둠]|||
-431028|||[원신X주술회전]어주자가지고 원신(R)|||
-430886|||아포칼립스 속 최상위 포식자|||
-419973|||(보컬로이드)꽃은 지기에 아름답다|||
-430827|||학생들 몰래 입대했는데 망한 일에대하여|||
-430695|||미소녀에다가 농 체형이 되버린 마티아스가 되버렸다|||
-430833|||[젠레스 존 제로] 공허 사냥꾼? 그래, 아무렇게나 불러라.|||
-430775|||[림버스X메이드래곤] 수감자가 아니라 칸나 카무이입니다|||
-430615|||[주술회전 X 유희왕] 어쩔 우라라|||
-430628|||[블루 아카이브] 마술을 무기로 사용하는 학생|||
-430676|||[독참소] 초!카구야 공주|||
-430653|||[블루아카Xnoob experiment]타이탄 게스트 선생과 메카 게스트 선생|||
-430625|||[림버스X블루아카] 절망의 끝에서 피어나는 보석에게|||
-429852|||[블루 아카이브] 분홍 여우를 입양하다.|||
-430474|||[디펜스 기반 독참소] 디펜스 게임의 등장인물이 되었다.|||
-430485|||[독참소] 도시와 이야기|||
-332945|||덴마크 해협에서 왈츠를|||
-431824|||마교 소공녀의 애완 스승님이 되었다|||
-432155|||애견병원을 차렸더니, 전 남친들이 개가 되어 나타남|||
-430745|||입학한 김에 실세까지! (블루아카이브)|||
-432193|||클리셰? 먹는건가요?|||
-430684|||소꿉친구는 내 하렘을 허락하지 않는다|||
-431374|||러브코미디 속 패배히로인이 집착한다|||
-415195|||내 주인님은 외계인 소녀|||
-430591|||학원섬 외전|||
-432176|||무림맹주는 천마를 사랑한다.|||
-432700|||좋아한다고 말하기가 무서워!|||
-432534|||우주는 숨 쉬는 법 따위 잊어버렸다|||
-432350|||내공만천하제일|||
-432458|||끈질겨요 마왕님!|||
-431154|||천재는 사람을 모른다|||
-431768|||30일 뒤 자X하는 여고생|||
-430538|||무명의 팔라딘|||
-431884|||스카이 엘리베이터|||
-432649|||그녀의 이름은 윤희정|||
-432575|||사랑이란 무엇일까..|||
-432407|||뉴비 작가 일기|||
-432390|||고아가 선무문의 복수를 한다|||
-431983|||붉은 파도|||
-431289|||친애하는 나의 괴물들에게|||
-431836|||노래 단편집|||
-430240|||느티나무 앞에서|||
-430879|||여우를주웠다|||
-430534|||단 한 사람을 위해|||
-430697|||재혼한 마누라 따라 데릴사위로 들어간다|||
-431950|||새아빠가 여동생을 탐하길래, 나는 새엄마를 길들였다|||
-432553|||너의 마지막 여름을 훔쳤다|||
-432325|||사이버 펑크 이세카이의 딸깍 마법사|||
-430761|||네 손끝에서 찬란하게, 빛나리.|||
-431379|||여우왕자와 충직한 신하|||
-431202|||군대에서TS한김에 [여왕벌]시작합니다.|||
-432199|||무림에서 나 홀로 상태창을 가졌다.|||
-432221|||내 머리에 벌레가 산다|||
-431470|||우주시대의 빚쟁이 사냥꾼|||
-430270|||암살자가 내조하는법|||
-427789|||곰은 옥타곤을 찢어|||
-432465|||새로운 희망|||
-431021|||뭔가 이상한 삼국지에 떨어졌다|||
-431862|||환생했더니 초대 파라오였다.|||
 432257|||태산고봉 (太山高峰)|||
-431901|||흑사병을 죽여라|||
-432712|||SF 게임 속 문명 파괴자가 되었다|||
-431833|||은하 터널의 카우보이|||
-431498|||더 시티 : 사라진 귀환 모듈|||
-431499|||눈을 떴더니 사이버펑크 속 이었다|||
-431013|||무협지인줄 알았는데 원시시대였다.|||
-431180|||고아들이 모이면 무림 최강이 된다|||
-432122|||선계의 불꽃으로 대요괴가 되어 세상을 지배합시다.|||
-432514|||화산파 도사로 살아가는 법|||
-432165|||제천대성의 망나니 수제자가 되었다|||
-430939|||부채의 무림 생활|||
-430783|||흑상복천|||
-431045|||산타클로스 행복 노역장|||
-428371|||감평용12321|||
-430678|||세계관 모음|||
-432414|||[프리큐어/ 신비아파트/ 기타 크로스오버] 신비아파트 이터널 리턴:RE(리메이크)|||
-432296|||소항성 소설 모음집|||
-431720|||사해수필|||
-430730|||아이디어 노트123|||
-430716|||X사건 기록|||
-428695|||슼슼슼 단편소설|||
-430516|||하하! 이리와라!|||
-431005|||회귀자는 이순신을 살리고 조선을 버린다|||
-430552|||히틀러와 스탈린이 회귀했다|||
-428798|||삼국지에서 통일 제국 수립기|||
-431894|||뇌 식힐 때 쓰는 무서운 이야기|||
-432763|||한줄일기|||
