@@ -1231,6 +1231,8 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 ㄹㅇ|||Fr
 ㄻㄴㅇ|||LMNI
 ㅁㄴㅇ|||MNI
+ㅁㄴㅇㅁㄴㅇ|||mnomno
+ㅁㄴㅇㅎ|||mnoh
 ㅁㄹㅇㅁㄴ|||MLGMN
 ㅁㅁㅁ|||MMM
 ㅁㅁ세계|||MM World
@@ -1238,6 +1240,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 ㅆㅂ|||Shit
 ㅇ|||Yes
 ㅇㄷㄹ|||ODL
+ㅇㅁㄴㅇ|||omno
 ㅇㅅㅇ|||O_O
 ㅇㅇ|||Yeah
 ㅇㅇㅅㅇㅇ|||OOSOO
@@ -1248,6 +1251,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 ㅈ중앙정보부|||J KCIA
 ㅌ|||T
 ㅎ|||Haha
+ㅎㄴㅁㅇㅀ|||hnmolh
 ㅎㅌㅁ|||HTM
 ㅏ벚ㅈ쟈ㅓㄴ|||A Cherry Ja En
 ㅏ아|||Ah
