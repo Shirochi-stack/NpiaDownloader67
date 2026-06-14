@@ -1,0 +1,150 @@
+0|||主角是系统|||System MC
+1|||有新意|||Fresh Concept
+2|||主角有挂|||Cheat MC
+3|||前期劝退向|||Slow Start
+4|||初代剑圣|||First Sword Saint
+5|||姐弟高甜福利|||Sweet Sibling Romance
+6|||姐弟争风吃醋|||Sibling Rivalry
+7|||硬核末世魔幻|||Hardcore Post-Apocalyptic Fantasy
+8|||慢熱這書有趣|||Slow-Burn Fun
+9|||日式校园恋爱|||School Romance
+10|||撒糖|||Fluff
+11|||软饭小萝莉|||Kept Little Girl
+12|||全员病娇|||All Yandere Cast
+13|||萌出一脸血|||Cute Overload
+14|||自己写自己|||Self-Insert
+15|||怪阿姨不要脸|||Shameless Auntie
+16|||吃软饭真棒|||Freeloading is Great
+17|||少年|||Shounen
+18|||良心好文|||Quality Writing
+19|||隐性病娇|||Hidden Yandere
+20|||单身狗没老婆|||Forever Alone
+21|||苦兮兮|||Miserable
+22|||丧尸王者|||Zombie King
+23|||丧尸妹|||Zombie Sister
+24|||诚哥北欧神话|||Makoto in Norse Myth
+25|||少女们的dd|||Girls' DD
+26|||傲娇添|||Tsundere
+27|||替身使者|||Stand User
+28|||共系统|||Shared System
+29|||圣女是男孩子|||Boy Saintess
+30|||作者是男孩子|||Male Author
+31|||良心作|||Masterpiece
+32|||80后回忆|||80s Nostalgia
+33|||有点难看懂|||Confusing
+34|||公主是全能|||All-Rounder Princess
+35|||神域|||God's Domain
+36|||黑猫|||Black Cat
+37|||难看|||Bad Writing
+38|||烂作|||Garbage Work
+39|||乙女|||Otome
+40|||嫁人是误输|||Accidentally Married
+41|||我才不是妹控|||Not a Siscon
+42|||妹控王道|||Siscon Route
+43|||光與暗|||Light & Dark
+44|||複雜vs簡單|||Complex vs Simple
+45|||智商在线|||Smart Characters
+46|||暴龙萝莉|||Berserker Loli
+47|||废柴王子翻身|||Prince's Rise
+48|||百番集成|||Mega Crossover
+49|||描写不错|||Good Writing
+50|||妹控毁灭世界|||Siscon World Destruction
+51|||我们还是朋友|||We're Still Friends
+52|||狼萝莉|||Wolf Loli
+53|||废宅神王|||Neet God King
+54|||老久都不更新|||Hiatus
+55|||无敌泥石流|||Unstoppable Unorthodox
+56|||毒得一批|||Heavy Poison
+57|||一炮超人|||One-Shot Hero
+58|||本子画家|||Doujin Artist
+59|||脑袋打开|||Mind-Blowing
+60|||六六哒|||Awesome
+61|||公举殿下啊|||Princess
+62|||作者女装超赞|||Author Crossdresser
+63|||银发|||Silver Hair
+64|||咸鱼作|||Slacker Story
+65|||猫妖|||Cat Spirit
+66|||作者会嘤嘤嘤|||Author Makes Cute Noises
+67|||上帝|||God
+68|||巫师|||Wizard
+69|||封面大赞|||Great Cover Art
+70|||轻文|||Light Novel
+71|||魔王是萝莉|||Loli Demon King
+72|||节操可视|||Visible Morality
+73|||能力丧心病狂|||Insane Ability
+74|||冶愈|||Healing
+75|||作者无耻|||Shameless Author
+76|||奇妙的文风|||Quirky Style
+77|||性转百合|||Genderbend Yuri
+78|||执事|||Butler
+79|||何为救赎|||What is Redemption
+80|||自闭少女逆袭|||Shut-in Girl's Counterattack
+81|||回车略多|||Too Many Line Breaks
+82|||超次元游戏海王星|||Hyperdimension Neptunia
+83|||魔法少女小圆|||Madoka Magica
+84|||大杂烩多的要死|||Too Much Mishmash
+85|||绍凯X浩天|||Shao Kai x Hao Tian
+86|||白羽X安琪|||Bai Yu x An Qi
+87|||晨诺X叶辰|||Chen Nuo x Ye Chen
+88|||幽灵娘|||Ghost Girl
+89|||作者可以再短一点吗|||Author Could Be Shorter
+90|||作者好短好快|||Author So Short and Fast
+91|||朴素|||Simple
+92|||夜日必须结婚|||Yato x Hiyori Marriage Needed
+93|||痴汉夜斗|||Pervert Yato
+94|||大坑|||Unfinished Masterpiece
+95|||很严肃的一本小说|||Very Serious Novel
+96|||你是为老婆|||Wife Material
+97|||校园纯爱|||School Romance
+98|||大文豪|||Literary Giant
+99|||温情感人|||Heartwarming
+100|||毁三观|||Mindfuck
+101|||虐心神作|||Tearjerker Masterpiece
+102|||太短結尾濫作|||Rushed Ending Trash
+103|||人生|||Life
+104|||特别|||Special
+105|||战斗系|||Action
+106|||讽刺小说|||Satire
+107|||送妹男主|||Girl-Gifting MC
+108|||好萌|||Super Cute
+109|||世羽酱|||Seyu-chan
+110|||不定时更新|||Irregular Updates
+111|||百合线|||Yuri Route
+112|||作者最帅|||Author is Hot
+113|||早晚黑化系列|||Eventual Yandere Series
+114|||地下城城主|||Dungeon Master
+115|||膜法|||Meme Magic
+116|||牛头人NTR|||NTR
+117|||可能有点重口|||Maybe Heavy Content
+118|||另类爽文|||Alternative Power Fantasy
+119|||蠢龙|||Dumb Dragon
+120|||药剂师|||Alchemist
+121|||好像很厉害|||Sounds OP
+122|||逆天会很恼火|||Angry Heaven-Defying
+123|||强的逆天|||Heaven-Defying Power
+124|||继续努力|||Keep It Up
+125|||封面进|||Clicked for Cover
+126|||强到爆炸|||Explosive Power
+127|||圣剑|||Holy Sword
+128|||作者是二哈|||Author is a Dumb Husky
+129|||戏精本精|||Drama Queen
+130|||性转甜宠嫁人|||Genderbend Sweet Romance Marriage
+131|||交出封面我们就是朋友辣！|||Gimme Cover, Let's Be Friends!
+132|||滥交|||Promiscuity
+133|||工口|||Erotic
+134|||魔剑姬|||Demon Sword Princess
+135|||很吸引人|||Captivating
+136|||变百最高|||Genderbend Yuri Best
+137|||猪脚真文盲|||Illiterate MC
+138|||小鲜肉男主|||Pretty Boy MC
+139|||炮姐|||Railgun
+140|||左边是瞎说的|||Left Side Lies
+141|||女主是心机婊|||Scheming FL
+142|||女装的朝颜|||Crossdressing Asagao
+143|||最佳治愈作|||Best Comfort Story
+144|||打动人的作品|||Touching Story
+145|||温柔的文字|||Gentle Writing
+146|||求新作|||Need New Works
+147|||猫娘赛高|||Catgirl Best
+148|||无敌YY文|||Invincible Power Fantasy
+149|||狂三|||Kurumi
