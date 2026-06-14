@@ -72727,7 +72727,6 @@
 24172|||그냥 백합 이야기|||Just a Yuri Story
 226120|||다른 학교의 여학생을 도왔더니 친구부터 시작하게 되었습니다|||I Helped a Female Student from Another School and We Started as Friends
 224455|||전속 집사를 그만두니 모셨던 아가씨가 유난히 가까운데|||I Quit Being a Personal Butler and the Young Lady I Served is Unusually Close
-227044|||세드릭 디고리에게 씀 |해리포터|||||
 169165|||초능력 고등학교|||Superpower High School
 212173|||여사친 진|||Female Friend Jin
 155802|||(전) 무림맹주 (현) 미소녀|||(Former) Murim Alliance Leader (Current) Beautiful Girl
@@ -81249,7 +81248,15 @@
 430707|||미연시 속 히로인이 살아있는 것 같다|||The Heroine in the Dating Sim Seems Alive
 430551|||[포켓몬스터] 구애의 스카프|||[Pokémon] Choice Scarf
 430649|||[블리치] 다시 겉모습만 우르키오라다.|||[Bleach]
+430490|||중새판타지 속 아마추어 마도발명가|||Amateur Magitech Inventor in a Post-Apocalypse Fantasy
+430541|||[유희생활]랜덤생활|||[Play Life] Random Life
+430661|||빡빡 용사의 후일담|||The Balding Hero’s After Story
+430539|||1952년, 게이트가 열렸다|||The Gate Opened in 1952
+430494|||동화의 뒷이야기|||Behind the Fairy Tale
+430613|||괴물의 일기|||The Monster’s Diary
+428484|||마법대학의 음대 교수는 퇴근하고 싶다|||The Magic University Music Professor Wants to Clock Out
 430523|||2B2b|||2B2b
+430522|||순례자는 성유물을 모은다|||The Pilgrim Collects Holy Relics
 431401|||[FGO]Fate로 탑 정복|||[FGO]Fate로 탑 정복
 432628|||[이지스] : [A.E.G.I.S]|||[이지스] : [A.E.G.I.S]
 432153|||U-Turn|||U-Turn
@@ -81468,14 +81475,7 @@
 428798|||삼국지에서 통일 제국 수립기|||The Founding of a Unified Empire in the Three Kingdoms
 431894|||뇌 식힐 때 쓰는 무서운 이야기|||Scary Stories to Cool Your Brain
 432763|||한줄일기|||One-Line Diary
-430490|||중새판타지 속 아마추어 마도발명가|||Amateur Magitech Inventor in a Post-Apocalypse Fantasy
-430541|||[유희생활]랜덤생활|||[Play Life] Random Life
-430661|||빡빡 용사의 후일담|||The Balding Hero’s After Story
-430539|||1952년, 게이트가 열렸다|||The Gate Opened in 1952
-430494|||동화의 뒷이야기|||Behind the Fairy Tale
-430613|||괴물의 일기|||The Monster’s Diary
-428484|||마법대학의 음대 교수는 퇴근하고 싶다|||The Magic University Music Professor Wants to Clock Out
-430522|||순례자는 성유물을 모은다|||The Pilgrim Collects Holy Relics
+227044|||세드릭 디고리에게 씀 |해리포터|||
 431921|||밥 잘해주는 예쁜 누나|||
 432538|||[괴담에떨어져도 출근을해야하는구나]심연호텔:오너(Owner)도 야근을 해야 하는구나.|||
 432434|||검술명가 역대급 천재 망나니가 정반대로 환생했다|||
