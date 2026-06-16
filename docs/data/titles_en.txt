@@ -317,7 +317,7 @@
 426325|||악역 영애로 눈떴는데, 어째서 모두가 나를 놓아주지 않는 것인가|||[I Woke as the Villainess, But Why Won't Anyone Let Me Go?]
 372290|||아카데미 수상한 수녀가 되었다|||I Became a Suspicious Nun at the Academy
 429142|||사자심왕은 엑스칼리버를 뽑았다|||The Lionheart King Drew Excalibur
-429003|||SLG 게임 능력으로 나 혼자만 땅 주인.|||The Young Forcefully Invested Gets Unfairly Bullied by the World
+429003|||애호받는 사령관은 살고 싶다.|||The Young Forcefully Invested Gets Unfairly Bullied by the World
 425458|||나만 정상인 마조히스트 월드|||The Only Normal Person in a Masochist World
 413831|||아카데미의 인체실험 교보재가 되었다|||I Became the Academy's Human Experiment Teaching Material
 409881|||전능 시뮬레이터 : 에덴은 안전한 타락을 재현합니다.|||Omnipotent Simulator: Eden Recreates Safe Corruption.
@@ -72727,6 +72727,7 @@
 24172|||그냥 백합 이야기|||Just a Yuri Story
 226120|||다른 학교의 여학생을 도왔더니 친구부터 시작하게 되었습니다|||I Helped a Female Student from Another School and We Started as Friends
 224455|||전속 집사를 그만두니 모셨던 아가씨가 유난히 가까운데|||I Quit Being a Personal Butler and the Young Lady I Served is Unusually Close
+227044|||세드릭 디고리에게 씀 |해리포터|||||
 169165|||초능력 고등학교|||Superpower High School
 212173|||여사친 진|||Female Friend Jin
 155802|||(전) 무림맹주 (현) 미소녀|||(Former) Murim Alliance Leader (Current) Beautiful Girl
@@ -80816,12 +80817,12 @@
 430388|||히든 스테이지의 대장장이가 되었다|||I Became the Hidden Stage Blacksmith
 432038|||어쩌다보니 이능력 히어로가 되었다?!|||Somehow I Became an Esper Hero?!
 429667|||죽음을 전제로, 기사가 되었다|||On the Premise of Death, I Became a Knight
-432479|||초월자가 대한민국을 재판함|||A Transcender Judges the Republic of Korea
+432479|||초월자가 대한민국을 심판함|||A Transcender Judges the Republic of Korea
 432726|||공산주의 대한민국에서 살아남기|||Surviving in Communist Korea
 432590|||뒷세계 흑막 악덕 흡혈귀 아닙니다|||I'm Not the Evil Vampire Mastermind of the Underworld
 432015|||로판 속 악마 변호사가 되었다|||I Became a Demon Lawyer in a Romance Fantasy
 431614|||사냥리그 투명 헌터|||Hunting League's Invisible Hunter
-431006|||북부대공의 악역 남편이 되었다|||I Became the Villain Husband of the Northern Archduke
+431006|||북부대공의 망나니 남편이 되었다|||I Became the Villain Husband of the Northern Archduke
 431092|||[하이스쿨DXD]주인공 조상의 친척이다|||[High School DxD] I'm a Relative of the Main Character's Ancestor
 430294|||은퇴했는데도 얀데레 동료들이 집착해온다|||Even Though I Retired, My Yandere Comrades Are Obsessed with Me
 430018|||아포칼립스의 랜덤가챠 플레이어|||Apocalypse Random Gacha Player
@@ -81257,9 +81258,75 @@
 428484|||마법대학의 음대 교수는 퇴근하고 싶다|||The Magic University Music Professor Wants to Clock Out
 430523|||2B2b|||2B2b
 430522|||순례자는 성유물을 모은다|||The Pilgrim Collects Holy Relics
+430511|||야겜 속 짐꾼을 추방한 용사가 되었다|||I Became the Hero Who Banished the Porter in an Eroge
+430465|||오타쿠가 이세계에 갔는데 너무 잘됨|||An Otaku Went to Another World and It’s Going Too Well
+430488|||괴담 기자가 되었다|||I Became a Ghost Story Reporter
+430489|||[FATE, 타입문] 모르간의 남편이자, 가웨인의 아버지가 되었다|||[Fate/Type-Moon] I Became Morgan’s Husband and Gawain’s Father
+430484|||로판 속 악인이 능력을 훔침|||The Villain in a Romance Fantasy Steals Powers
+420021|||~전시용|||~For Display
+417646|||아우로라|||Aurora
+344957|||처음 집 나왔는데 현상금 붙음|||Just Left Home and Now I Have a Bounty
+215899|||개연성 없는 이상세계|||A World Without Logic
+430870|||사장님께 사육당하는 버튜버 생활!|||A VTuber Life Tamed by the Boss!
+431171|||백합 소설 속 엑스트라인데 여주들이 원작 남주를 버렸다|||An Extra in a Yuri Novel Where the Heroines Dumped the Original Male Lead
+432738|||부패한 검찰총장은 개과천선합니다.|||The Corrupt Prosecutor General Turns Over a New Leaf
+432401|||죽음의 땅|||Land of Death
+431350|||과금 유도의 신이 돌아왔다|||The God of Gacha Bait Has Returned
+432022|||종이접기로 여친 만들기 대작전!|||Operation: Make a Girlfriend with Origami!
+431056|||둘의 사랑은 이미테이션|||Their Love Is an Imitation
+431229|||AI가 당신의 꿈을 만들어 드립니다!(LDD DREAM Co.)|||AI Makes Your Dreams Come True! (LDD DREAM Co.)
+432574|||루나쨩의 자살일기|||Luna-chan’s Suicide Diary
+432354|||메카라 빔 쏘면서 좀비퇴치 방송합니다|||Streaming Zombie Extermination While Firing a Mecha’s Beam
 431401|||[FGO]Fate로 탑 정복|||[FGO]Fate로 탑 정복
+432308|||나만 모르는 러브코미디|||A Romcom Only I Don’t Know
 432628|||[이지스] : [A.E.G.I.S]|||[이지스] : [A.E.G.I.S]
+432371|||연구팀장의 검은 노트|||The Black Notebook of the Research Team Leader
+432687|||나는 꿈꾸지 않는다|||I Do Not Dream
+431673|||역전세계에서 조용히 연애합니다|||Quietly Falling in Love in a Reversed World
+431319|||후드여우는 오늘도 숨고 싶다|||The Hooded Fox Wants to Hide Again Today
+431612|||[뱅드림]퇴사한 후배가 내 스폰서가 되었다|||[BanG Dream!] The Junior Who Resigned Became My Sponsor
+432526|||은퇴한 스트리머는 버튜버로 재데뷔합니다|||A Retired Streamer Re‑debuts as a VTuber
+430786|||사이렌(독참소)|||Siren (Dokchamso)
+432672|||셰어하우스의 관리인|||The Share House Manager
+430831|||귀신이 부르는 아이|||The Child Summoned by Ghosts
+432304|||나만 보던 스트리머에게 집착당한다|||Obsessed by the Streamer Only I Watched
+432636|||내 자판기 앞에는 예쁜 길고양이들이 산다|||Pretty Stray Cats Live in Front of My Vending Machine
+432317|||귀농한 미소녀는 앵무새와 함께 시골에서 살아 가보려 합니다|||The Pretty Farm‑Returning Girl Tries Country Life with a Parrot
+432355|||내 악플러가 룸메이트가 됐다|||My Hater Became My Roommate
+430828|||로리부흥기의 암타확정썰|||A Guaranteed Dark Horse Story from the Lolita Renaissance
+432136|||취미 방송입니다|||It’s Just a Hobby Stream
+432598|||작품명(미정)|||Title (TBD)
+424573|||주식빼고 다 잘하는 주식 스트리머|||A Stock Streamer Who Is Good at Everything Except Stocks
+431158|||옥탑방 TS 수기|||Rooftop Room TS Memoir
+431716|||(블루아카이브) 쉬었음 선생|||(Blue Archive) The Sensei Who Took a Break
+431009|||그만 때려줘 나 아프다니까|||Stop Hitting Me, I Said It Hurts
+430699|||스물아홉, 연애를 포기했는데|||Twenty‑Nine, and I Gave Up on Romance
+430504|||아일랜드의 걸작|||Ireland’s Masterpiece
+431131|||하루라는 평범한 삶의 무개|||The Weightlessness of an Ordinary Life Called Haru
+431288|||[코미양] 타다노 군은 친절한 이웃입니다|||[Komi‑san] Tadano‑kun Is a Kind Neighbor
+431962|||[블루 아카이브(3차창작)] 그 어떤 것도 위험을 감수할 가치가 없다.|||[Blue Archive (Fanwork)] Nothing Is Worth Taking Any Risk
+431348|||음침녀에게 상냥한 양키가 되었다|||Became a Kind Delinquent to a Gloomy Girl
+432510|||빅뱅이론의 영앤리치 백수 형이 되었다|||I Became the Young and Rich Unemployed Brother from The Big Bang Theory
+432233|||쥬라기월드 재팬|||Jurassic World Japan
+431851|||고아2부|||Orphan Part 2
+432442|||잔해 도시|||Ruin City
+431059|||명탐정의 소꿉친구로 환생하다?!|||Reincarnated as a Great Detective’s Childhood Friend?!
+431779|||대행AI그녀|||Proxy AI Girlfriend
+432043|||물망초 : 나를 잊지 말아요|||Forget‑Me‑Not: Don’t Forget Me
+430946|||라스트 카니발|||Last Carnival
+432173|||행복한 크라임!|||Happy Crime!
+431494|||얘는 그냥 게임을 사랑함|||This One Just Loves Games
+432299|||[마블X히로아카] 스파이더맨 느와르: 거미는 자비를 모른다|||[Marvel X MHA] Spider‑Man Noir: The Spider Knows No Mercy
+430640|||전자계산기부!|||Electronic Calculator Club!
+431993|||러브코미디물 여주인공의 보호자가 되었다-|||Became the Guardian of a Rom‑Com Heroine
+431098|||대한왕(王)국 : 한국에서 왕에 도전함|||The Kingdom of Daehan: Challenging the Throne in Korea
+432115|||[카구라바치] 반드시 악인을 벌하리라|||[Kagurabachi] I Shall Surely Punish the Wicked
+431740|||개복치 키우는 법|||How to Raise a Sunfish
 432153|||U-Turn|||U-Turn
+431997|||메딕은 데미지를 제거하겠습니다.|||The Medic Will Remove the Damage
+432120|||부실 수 없다면 가져버리겠어!!|||If I Can’t Break It, I’ll Just Take It
+432074|||남고딩인데 내일 출산 예정입니다|||I’m a High School Boy and I’m Due to Give Birth Tomorrow
+431100|||부끄럼을 많이 타는 소꿉친구에게 손을 잡아달라고 해보았다|||I Tried Asking My Extremely Shy Childhood Friend to Hold Hands
 428743|||Operation: Journey to the West|||Operation: Journey to the West
 432711|||[워해머]Son of Horus|||[워해머]Son of Horus
 431260|||[블루아카이브] 말 안듣는 츤데레 케이쨩☆!|||[Blue Archive] The Tsundere Kei-chan☆ Who Just Won't Listen!
@@ -81475,73 +81542,55 @@
 428798|||삼국지에서 통일 제국 수립기|||The Founding of a Unified Empire in the Three Kingdoms
 431894|||뇌 식힐 때 쓰는 무서운 이야기|||Scary Stories to Cool Your Brain
 432763|||한줄일기|||One-Line Diary
-227044|||세드릭 디고리에게 씀 |해리포터||||
-430511|||야겜 속 짐꾼을 추방한 용사가 되었다|||I Became the Hero Who Banished the Porter in an Eroge
-430465|||오타쿠가 이세계에 갔는데 너무 잘됨|||An Otaku Went to Another World and It’s Going Too Well
-430488|||괴담 기자가 되었다|||I Became a Ghost Story Reporter
-430489|||[FATE, 타입문] 모르간의 남편이자, 가웨인의 아버지가 되었다|||[Fate/Type-Moon] I Became Morgan’s Husband and Gawain’s Father
-430484|||로판 속 악인이 능력을 훔침|||The Villain in a Romance Fantasy Steals Powers
-420021|||~전시용|||~For Display
-417646|||아우로라|||Aurora
-344957|||처음 집 나왔는데 현상금 붙음|||Just Left Home and Now I Have a Bounty
-215899|||개연성 없는 이상세계|||A World Without Logic
-430870|||사장님께 사육당하는 버튜버 생활!|||A VTuber Life Tamed by the Boss!
-431171|||백합 소설 속 엑스트라인데 여주들이 원작 남주를 버렸다|||An Extra in a Yuri Novel Where the Heroines Dumped the Original Male Lead
-432738|||부패한 검찰총장은 개과천선합니다.|||The Corrupt Prosecutor General Turns Over a New Leaf
-432401|||죽음의 땅|||Land of Death
-431350|||과금 유도의 신이 돌아왔다|||The God of Gacha Bait Has Returned
-432022|||종이접기로 여친 만들기 대작전!|||Operation: Make a Girlfriend with Origami!
-431056|||둘의 사랑은 이미테이션|||Their Love Is an Imitation
-431229|||AI가 당신의 꿈을 만들어 드립니다!(LDD DREAM Co.)|||AI Makes Your Dreams Come True! (LDD DREAM Co.)
-432574|||루나쨩의 자살일기|||Luna-chan’s Suicide Diary
-432354|||메카라 빔 쏘면서 좀비퇴치 방송합니다|||Streaming Zombie Extermination While Firing a Mecha’s Beam
-432308|||나만 모르는 러브코미디|||A Romcom Only I Don’t Know
-432371|||연구팀장의 검은 노트|||The Black Notebook of the Research Team Leader
-432687|||나는 꿈꾸지 않는다|||I Do Not Dream
-431673|||역전세계에서 조용히 연애합니다|||Quietly Falling in Love in a Reversed World
-431319|||후드여우는 오늘도 숨고 싶다|||The Hooded Fox Wants to Hide Again Today
-431612|||[뱅드림]퇴사한 후배가 내 스폰서가 되었다|||[BanG Dream!] The Junior Who Resigned Became My Sponsor
-432526|||은퇴한 스트리머는 버튜버로 재데뷔합니다|||A Retired Streamer Re‑debuts as a VTuber
-430786|||사이렌(독참소)|||Siren (Dokchamso)
-432672|||셰어하우스의 관리인|||The Share House Manager
-430831|||귀신이 부르는 아이|||The Child Summoned by Ghosts
-432304|||나만 보던 스트리머에게 집착당한다|||Obsessed by the Streamer Only I Watched
-432636|||내 자판기 앞에는 예쁜 길고양이들이 산다|||Pretty Stray Cats Live in Front of My Vending Machine
-432317|||귀농한 미소녀는 앵무새와 함께 시골에서 살아 가보려 합니다|||The Pretty Farm‑Returning Girl Tries Country Life with a Parrot
-432355|||내 악플러가 룸메이트가 됐다|||My Hater Became My Roommate
-430828|||로리부흥기의 암타확정썰|||A Guaranteed Dark Horse Story from the Lolita Renaissance
-432136|||취미 방송입니다|||It’s Just a Hobby Stream
-432598|||작품명(미정)|||Title (TBD)
-424573|||주식빼고 다 잘하는 주식 스트리머|||A Stock Streamer Who Is Good at Everything Except Stocks
-431158|||옥탑방 TS 수기|||Rooftop Room TS Memoir
-431716|||(블루아카이브) 쉬었음 선생|||(Blue Archive) The Sensei Who Took a Break
-431009|||그만 때려줘 나 아프다니까|||Stop Hitting Me, I Said It Hurts
-430699|||스물아홉, 연애를 포기했는데|||Twenty‑Nine, and I Gave Up on Romance
-430504|||아일랜드의 걸작|||Ireland’s Masterpiece
-431131|||하루라는 평범한 삶의 무개|||The Weightlessness of an Ordinary Life Called Haru
-431288|||[코미양] 타다노 군은 친절한 이웃입니다|||[Komi‑san] Tadano‑kun Is a Kind Neighbor
-431962|||[블루 아카이브(3차창작)] 그 어떤 것도 위험을 감수할 가치가 없다.|||[Blue Archive (Fanwork)] Nothing Is Worth Taking Any Risk
-431348|||음침녀에게 상냥한 양키가 되었다|||Became a Kind Delinquent to a Gloomy Girl
-432510|||빅뱅이론의 영앤리치 백수 형이 되었다|||I Became the Young and Rich Unemployed Brother from The Big Bang Theory
-432233|||쥬라기월드 재팬|||Jurassic World Japan
-431851|||고아2부|||Orphan Part 2
-432442|||잔해 도시|||Ruin City
-431059|||명탐정의 소꿉친구로 환생하다?!|||Reincarnated as a Great Detective’s Childhood Friend?!
-431779|||대행AI그녀|||Proxy AI Girlfriend
-432043|||물망초 : 나를 잊지 말아요|||Forget‑Me‑Not: Don’t Forget Me
-430946|||라스트 카니발|||Last Carnival
-432173|||행복한 크라임!|||Happy Crime!
-431494|||얘는 그냥 게임을 사랑함|||This One Just Loves Games
-432299|||[마블X히로아카] 스파이더맨 느와르: 거미는 자비를 모른다|||[Marvel X MHA] Spider‑Man Noir: The Spider Knows No Mercy
-430640|||전자계산기부!|||Electronic Calculator Club!
-431993|||러브코미디물 여주인공의 보호자가 되었다-|||Became the Guardian of a Rom‑Com Heroine
-431098|||대한왕(王)국 : 한국에서 왕에 도전함|||The Kingdom of Daehan: Challenging the Throne in Korea
-432115|||[카구라바치] 반드시 악인을 벌하리라|||[Kagurabachi] I Shall Surely Punish the Wicked
-431740|||개복치 키우는 법|||How to Raise a Sunfish
-431997|||메딕은 데미지를 제거하겠습니다.|||The Medic Will Remove the Damage
-432120|||부실 수 없다면 가져버리겠어!!|||If I Can’t Break It, I’ll Just Take It
-432074|||남고딩인데 내일 출산 예정입니다|||I’m a High School Boy and I’m Due to Give Birth Tomorrow
-431100|||부끄럼을 많이 타는 소꿉친구에게 손을 잡아달라고 해보았다|||I Tried Asking My Extremely Shy Childhood Friend to Hold Hands
+431984|||내가 돌아온 이유|||Why I Returned
+257951|||사랑의 묘약을 함부로 쓰면 안되는 이유|||Why You Shouldn’t Carelessly Use Love Potions
+431864|||상처를 비추는 일주일|||A Week That Illuminates Wounds
+430897|||외팔의 처형인이 돌아왔다|||The One-Armed Executioner Returns
+431660|||블루아카이브X단간론파|||Blue Archive X Danganronpa
+431681|||샬레 일지(외전)|||Schale Journal (Side Story)
+430747|||괴이들한테 집착받는 사람이 되었다|||I Became the Target of the Monsters’ Obsession
+431666|||어느날갑자기슈퍼작곡AI뽀글머리우주초전도체아이언맨자비스개구리가핸드폰에깔려있었다|||One Day, a Super Composing AI, a Curly-Haired Space Superconductor Iron Man Jarvis Frog, Was Installed on My Phone
+431646|||보건복지부 장관|||The Minister of Health and Welfare
+430979|||여름밤 끝, 내가 죽는건 어떻게 생각해|||At the End of a Summer Night, What Do You Think of My Death?
+431583|||제발, 나를 떠나가|||Please, Leave Me
+430904|||[코난 -하이바라 팬픽] 六花 육화(눈송이)|||[Conan - Haibara Fanfic] Snowflake
+431495|||쇼기 명가의 용왕 소녀|||The Dragon King Girl of a Prestigious Shogi Family
+418659|||나는 ■■의 보호자 입니다.|||I Am the Guardian of ■■
+431027|||역전 세계에서 위층 여자가 나를 못 잡아먹어서 안달이다|||In a Reversed World, the Woman Upstairs Is Frantic Because She Can’t Devour Me
+431201|||가출소녀는 오늘도 살아간다|||The Runaway Girl Lives Another Day
+431064|||친애하지 않는 낮밤|||Days and Nights Without Affection
+250075|||여우우리|||Fox Cage
+430934|||지는 해를 따라 걷다, 너를 만났다.|||I Walked Along the Setting Sun and Met You
+430947|||우리는 내일 이야기를 하지 않았다|||We Never Talked About Tomorrow
+430943|||그 저택의 시계는 내일로 흐르지 않는다|||The Clock in That Mansion Does Not Move Toward Tomorrow
+430893|||F인 아이돌을 만나 쌉T가 되었다|||After Meeting an F Idol, I Became a Total T
+430602|||사죄(死罪)|||Capital Crime
+430742|||여캠이 도네를 안감사한다.|||The Female Streamer Never Thanks for Donations
+430741|||가랑비가 속삭이는 날에|||On the Day the Drizzle Whispers
+430725|||성공하려다 미친 작가의 이야기|||The Story of a Writer Who Went Crazy Trying to Succeed
+430701|||끝 절|||The Final Chapter
+430629|||도박세계|||Gambling World
+430616|||가짜 연애 계약서|||Fake Love Contract
+429355|||골든 타운: 시즌 1 사생활 유통기한|||Golden Town: Season 1 - The Expiration Date of Privacy
+421803|||polly의 일기|||Polly’s Diary
+424005|||[유희생활]이름 미정|||[Yugioh Life] Untitled
+432525|||가이드와 창작물 속으로|||Into the Guide and the Creation
+396413|||[전독시×언더테일]멸망한 세계의 모녀와 게으른 뼈다귀|||[Jeondoksi X Undertale] The Mother and Daughter of a Ruined World and the Lazy Bones
+429265|||[블루아카이브]100년 후에는 아비도스가 망해?|||[Blue Archive] Will Abydos Collapse in 100 Years?
+432752|||[블루아카/림버스]이게 멀티버스인가 뭔가하는 그거냐|||[Blue Archive/Limbus] Is This That Multiverse Thingy?
+432647|||[림버스 컴퍼니] 7시즌 유입 뉴비식 스토리 밀기|||[Limbus Company] Season 7: Pushing Through the Story as a Newbie
+432558|||[로보토미] 무덤덤한 나, 그리고 웃는 너.|||[Lobotomy] The Indifferent Me, and the Smiling You
+432249|||[블루아카이브]게헨나의 반역자라고들 하네요.|||[Blue Archive] They Call Me the Traitor of Gehenna
+430483|||[최애의 아이]이방인 이야기|||[Oshi no Ko] The Stranger’s Story
+431254|||턱거인을 계승했다.|||I Inherited the Jaw Titan
+432060|||(데어라/건담SEED)자유의 정령|||(Deareora/Gundam SEED) Spirit of Freedom
+431467|||[동방] 오늘의 향림당|||[Touhou] Today’s Kourindou
+432722|||[블루아카이브X고지라] 고지라 선생의 역습|||[Blue Archive X Godzilla] Godzilla-Sensei’s Counterattack
+432486|||[데어라]프로젝트 데이트|||[Date A Live] Project Date
+430533|||[명일방주] 어쩌다 이 지경까지|||[Arknights] How Did It End Up Like This?
+430689|||[포켓몬] 원반의 아이|||[Pokémon] The Disc Child
+431988|||[유희생활]감자도리의 유희생활|||[Yugioh Life] Potato Dori’s Yugioh Life
+432723|||[괴담 호텔 탈출기] 천지개벽|||[Ghost Story Hotel Escape] The World Turned Upside Down
 431921|||밥 잘해주는 예쁜 누나|||
 432538|||[괴담에떨어져도 출근을해야하는구나]심연호텔:오너(Owner)도 야근을 해야 하는구나.|||
 432434|||검술명가 역대급 천재 망나니가 정반대로 환생했다|||
@@ -81704,52 +81753,3 @@
 431777|||별 빼왔는데 념글 ㄱㄴ?|||
 432360|||용사에게 고용된 마왕님|||
 430680|||하청 개발자의 이세계 슬로우 라이프|||
-431984|||내가 돌아온 이유|||
-257951|||사랑의 묘약을 함부로 쓰면 안되는 이유|||
-431864|||상처를 비추는 일주일|||
-430897|||외팔의 처형인이 돌아왔다|||
-431660|||블루아카이브X단간론파|||
-431681|||샬레 일지(외전)|||
-430747|||괴이들한테 집착받는 사람이 되었다|||
-431666|||어느날갑자기슈퍼작곡AI뽀글머리우주초전도체아이언맨자비스개구리가핸드폰에깔려있었다|||
-431646|||보건복지부 장관|||
-430979|||여름밤 끝, 내가 죽는건 어떻게 생각해|||
-431583|||제발, 나를 떠나가|||
-430904|||[코난 -하이바라 팬픽] 六花 육화(눈송이)|||
-431495|||쇼기 명가의 용왕 소녀|||
-418659|||나는 ■■의 보호자 입니다.|||
-431027|||역전 세계에서 위층 여자가 나를 못 잡아먹어서 안달이다|||
-431201|||가출소녀는 오늘도 살아간다|||
-431064|||친애하지 않는 낮밤|||
-250075|||여우우리|||
-430934|||지는 해를 따라 걷다, 너를 만났다.|||
-430947|||우리는 내일 이야기를 하지 않았다|||
-430943|||그 저택의 시계는 내일로 흐르지 않는다|||
-430893|||F인 아이돌을 만나 쌉T가 되었다|||
-430602|||사죄(死罪)|||
-430742|||여캠이 도네를 안감사한다.|||
-430741|||가랑비가 속삭이는 날에|||
-430725|||성공하려다 미친 작가의 이야기|||
-430701|||끝 절|||
-430629|||도박세계|||
-430616|||가짜 연애 계약서|||
-429355|||골든 타운: 시즌 1 사생활 유통기한|||
-421803|||polly의 일기|||
-424005|||[유희생활]이름 미정|||
-432525|||가이드와 창작물 속으로|||
-396413|||[전독시×언더테일]멸망한 세계의 모녀와 게으른 뼈다귀|||
-429265|||[블루아카이브]100년 후에는 아비도스가 망해?|||
-432752|||[블루아카/림버스]이게 멀티버스인가 뭔가하는 그거냐|||
-432647|||[림버스 컴퍼니] 7시즌 유입 뉴비식 스토리 밀기|||
-432558|||[로보토미] 무덤덤한 나, 그리고 웃는 너.|||
-432249|||[블루아카이브]게헨나의 반역자라고들 하네요.|||
-430483|||[최애의 아이]이방인 이야기|||
-431254|||턱거인을 계승했다.|||
-432060|||(데어라/건담SEED)자유의 정령|||
-431467|||[동방] 오늘의 향림당|||
-432722|||[블루아카이브X고지라] 고지라 선생의 역습|||
-432486|||[데어라]프로젝트 데이트|||
-430533|||[명일방주] 어쩌다 이 지경까지|||
-430689|||[포켓몬] 원반의 아이|||
-431988|||[유희생활]감자도리의 유희생활|||
-432723|||[괴담 호텔 탈출기] 천지개벽|||
