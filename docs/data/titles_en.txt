@@ -80826,7 +80826,7 @@
 430294|||은퇴했는데도 얀데레 동료들이 집착해온다|||Even Though I Retired, My Yandere Comrades Are Obsessed with Me
 430018|||아포칼립스의 랜덤가챠 플레이어|||Apocalypse Random Gacha Player
 431804|||역변해서 아카데미로 돌아갔다.|||I Returned to the Academy After a Transformation
-431530|||로판 속 유일 무당은 집착당한다|||The Only Shaman in a Romance Fantasy Is Obsessed Over
+431530|||로판 속 무당이 되었다|||The Only Shaman in a Romance Fantasy Is Obsessed Over
 430957|||므하항! 무당집 막내딸이 되었구나!|||Muhahang! I've Become the Youngest Daughter of a Shaman Household!
 431476|||악역 전투원A, 전대의 그린이 되었습니다.|||Villain Combatant A: I Became the Previous Generation's Green Ranger
 431608|||초인세계 유일의 총잡이가 되었다|||I Became the Only Gunslinger in a Metahuman World
@@ -81248,6 +81248,7 @@
 430707|||미연시 속 히로인이 살아있는 것 같다|||The Heroine in the Dating Sim Seems Alive
 430551|||[포켓몬스터] 구애의 스카프|||[Pokémon] Choice Scarf
 430649|||[블리치] 다시 겉모습만 우르키오라다.|||[Bleach]
+430680|||하청 개발자의 이세계 슬로우 라이프|||The Subcontract Developer’s Isekai Slow Life
 430490|||중새판타지 속 아마추어 마도발명가|||Amateur Magitech Inventor in a Post-Apocalypse Fantasy
 430541|||[유희생활]랜덤생활|||[Play Life] Random Life
 430661|||빡빡 용사의 후일담|||The Balding Hero’s After Story
@@ -81590,8 +81591,7 @@
 428798|||삼국지에서 통일 제국 수립기|||The Founding of a Unified Empire in the Three Kingdoms
 431894|||뇌 식힐 때 쓰는 무서운 이야기|||Scary Stories to Cool Your Brain
 432763|||한줄일기|||One-Line Diary
-430680|||하청 개발자의 이세계 슬로우 라이프|||The Subcontract Developer’s Isekai Slow Life
-227044|||세드릭 디고리에게 씀 |해리포터|||
+227044|||세드릭 디고리에게 씀 |해리포터||||
 431921|||밥 잘해주는 예쁜 누나|||
 432538|||[괴담에떨어져도 출근을해야하는구나]심연호텔:오너(Owner)도 야근을 해야 하는구나.|||
 432434|||검술명가 역대급 천재 망나니가 정반대로 환생했다|||
@@ -81662,8 +81662,8 @@
 431968|||이 새끼 웃는데요?|||
 431668|||환생한 성좌님이 개쳐이쁨|||
 432527|||성단 윤씨의 선각자|||
-429256|||로판 속 무자각 플러팅 빌런이 되었다|||
-431611|||트루먼쇼에서 탈출했다|||
+429256|||로판 속 무자각 플러팅 장인이 되었다|||
+431611|||대저방부에서 탈출했다|||
 432499|||스포일러가 너무 심한 RPG ―최후의 적의 정체는 용사의 아버지―|||
 431717|||로판에서 너무 강해져버렸다|||
 430782|||최강자로 오해받는중 입니다|||
