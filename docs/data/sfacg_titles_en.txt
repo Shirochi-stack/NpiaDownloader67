@@ -271524,6 +271524,21 @@
 753010|||黑暗中的喵|||A Meow in the Dark
 752945|||鲑鱼|||Salmon
 752893|||午夜惊牛|||Midnight Cow Fright
+60208|||时祸：我不能杀任何人|||Time Calamity: I Can't Kill Anyone
+777753|||让我对抗世界，可我只会卖萌啊！|||Make Me Fight the World, But I Only Know How to Be Cute!
+777952|||来自星际的魔法少女不会魔法|||The Magical Girl from the Stars Can't Use Magic
+777772|||偶像？从拿下破产千金开始|||Idol? Starting from Capturing the Bankrupt Heiress
+777847|||乙女魂穿：病娇暴君的唯一安抚物|||Otome Isekai: The Yandere Tyrant's Only Soothing Object
+777666|||伪装高冷物理魔女今天也在被养成|||Pretending to Be Aloof Physics Witch, Still Being Pampered Today
+777553|||与缠上我逐渐病娇的小幽灵的故事|||Story of the Little Ghost That's Becoming Yandere and Clinging to Me
+777857|||镜头后的我们：公益微电影社团|||Us Behind the Lens: Public Welfare Microfilm Club
+777573|||我是血姬猎人，才不是你的仆人|||I'm a Blood Princess Hunter, Not Your Servant
+777419|||失明后被美少女逼到角落|||After Going Blind, Cornered by a Beautiful Girl
+777497|||变成诡异我成了发小的高冷女上司|||After Turning into an Anomaly, I Became My Childhood Friend's Aloof Female Boss
+777822|||黑玫瑰的记忆s八神庵|||Memory of the Black Rose: Iori Yagami
+777507|||变百：我竟被我的首席骑士盯上了|||TG Yuri: My Chief Knight Has Set Her Sights on Me
+777676|||我的龙女守护者|||My Dragon Girl Guardian
+777525|||黑道长公主演病娇失败很可笑吗|||The Underworld Princess Fails at Acting Yandere: Is That a Joke?
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
@@ -271576,7 +271591,6 @@
 84798|||384400000|||
 75493|||15101051|||
 81668|||2026|||
-60208|||时祸：我不能杀任何人|||
 49350|||-.-|||
 40538|||100000|||
 34143|||14|||
@@ -271630,17 +271644,6 @@
 704418|||91|||
 218423|||200|||
 771725|||098|||
-777753|||让我对抗世界，可我只会卖萌啊！|||
-777952|||来自星际的魔法少女不会魔法|||
-777772|||偶像？从拿下破产千金开始|||
-777847|||乙女魂穿：病娇暴君的唯一安抚物|||
-777666|||伪装高冷物理魔女今天也在被养成|||
-777553|||与缠上我逐渐病娇的小幽灵的故事|||
-777857|||镜头后的我们：公益微电影社团|||
-777573|||我是血姬猎人，才不是你的仆人|||
-777419|||失明后被美少女逼到角落|||
-777497|||变成诡异我成了发小的高冷女上司|||
-777822|||黑玫瑰的记忆s八神庵|||
 777536|||抱歉女主，你恋人要被恶役拐走喽|||
 777482|||末世，我是否该继续坚持|||
 777521|||圣女小姐，请您也快点堕落吧！|||
@@ -271751,9 +271754,6 @@
 777804|||欲望小镇：我怎么生存下去呀|||
 777802|||次元界，天罚降临|||
 777483|||这坑爹系统想把我变成妹子!|||
-777507|||变百：我竟被我的首席骑士盯上了|||
-777676|||我的龙女守护者|||
-777525|||黑道长公主演病娇失败很可笑吗|||
 777478|||都市大小姐驾到，统统闪开|||
 777767|||打赌输了跟我姓，转校同桌当真了|||
 777533|||斬神：徬徨於夢境之中的特工|||
