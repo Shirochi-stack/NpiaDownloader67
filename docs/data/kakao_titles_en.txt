@@ -13353,7 +13353,7 @@
 65124576|||잘 키운 아이돌 셋이면 고백 공격을 한다|||Three Well-Raised Idols Attack with Confessions
 65017738|||도깨비 야시|||Goblin Night Market
 65180577|||[BL] 와이드 오픈 (외전) [19세 완전판][단행본]|||[BL] Wide Open
-65179946|||[BL] 오메가 아닌데요 (외전 2~3) [19세 완전판][단행본]|||[BL] I'm Not an Omega (Side Story 2) [19+ Uncut Edition][Volume Edition]
+65179946|||오메가 아닌데요 (외전 2~3) [19세 완전판][단행본]|||[BL] I'm Not an Omega (Side Story 2) [19+ Uncut Edition][Volume Edition]
 65263904|||배터리 충전해 줄 남주 찾습니다|||Looking for a Male Lead to Charge My Battery
 65277650|||말년병장, 이등병 되다![단행본]|||The Sergeant at the End of His Service Becomes a Private! [Volume]
 65278062|||운한소회[단행본][개정판]|||Regretful Reminiscence
@@ -16233,8 +16233,8 @@
 64444778|||뉴욕 사는 그 마법사[단행본]|||That Mage Living in New York [Volume]
 64366048|||왕따직원 아니고 재벌입니다[단행본]|||I'm Not an Outcast Employee, I'm a Chaebol [Volume]
 64211945|||회귀 이단심문관의 악마 사냥법 [단행본]|||Demon Hunting Method of a Regressed Inquisitor [Volume]
-64424367|||[BL] 시한부는 최애나 살리다 죽겠습니다 (외전) [19세 완전판][단행본]|||[BL] The Terminally Ill Patient Dies After Saving Their Favorite [Side Story] [19+ Uncut Edition][Volume Edition]
-64424354|||[BL] 시한부는 최애나 살리다 죽겠습니다 [단행본]|||[BL] The Terminally Ill Patient Dies After Saving Their Favorite [Volume Edition]
+64424367|||시한부는 최애나 살리다 죽겠습니다 (외전) [19세 완전판][단행본]|||[BL] The Terminally Ill Patient Dies After Saving Their Favorite [Side Story] [19+ Uncut Edition][Volume Edition]
+64424354|||시한부는 최애나 살리다 죽겠습니다 [단행본]|||[BL] The Terminally Ill Patient Dies After Saving Their Favorite [Volume Edition]
 64411743|||시한부는 계약결혼을 제안한다|||The Terminally Ill Patient Proposes a Contract Marriage
 64392521|||랭킹 1위의 쪼렙 고군분투기 [단행본]|||Rank 1's Low-Level Struggle [Print Edition]
 64373124|||터치 레슨 [단행본]|||Touch Lesson [Book]
@@ -16433,7 +16433,7 @@
 64347428|||조폭인 내가 고등학생이 되었습니다|||I, a Gangster, Became a High School Student
 64372465|||당신의 오만이 추락하길|||May Your Arrogance Fall
 64356100|||호랑이 새끼를 키웠습니다|||I Raised a Tiger Cub
-64378105|||[BL] 오메가 아닌데요 (외전) [19세 완전판][단행본]|||[BL] I'm Not an Omega (Side Story) [19+ Edition][Book]
+64378105|||오메가 아닌데요 (외전) [19세 완전판][단행본]|||[BL] I'm Not an Omega (Side Story) [19+ Edition][Book]
 64343593|||신과 함께 만화천재[단행본]|||Manhwa Genius with the Gods [Single Volume]
 64350984|||시스템 에러로 종족초월|||Transcending My Race Through a System Error
 64350501|||무한서고의 계약자!|||Contractor of the Infinite Library!
@@ -17159,7 +17159,7 @@
 63708102|||대뜸 착각당했다 괴물 천재배우로|||Suddenly Mistaken for a Monster Genius Actor
 64096522|||이세계 지구의 마기 포식자|||Magic Predator of the Otherworld Earth
 64121572|||어둠은 당신의 꿈을 꾸지 않는다|||The Darkness Does Not Dream of You
-64116950|||[BL] 충견 [단행본]|||[BL] Loyal Hound [Book Edition]
+64116950|||충견 [단행본]|||[BL] Loyal Hound [Book Edition]
 64080675|||다정한 구속|||Sweet Confinement
 64009003|||대배우의 악녀 연기는 망했습니다|||The Great Actor's Villain Acting Failed
 64125449|||미친개 도련님 만들기 [외전][단행본]|||Making the Mad Dog Young Master [Side Story] [Book]
@@ -17925,7 +17925,7 @@
 63889242|||대공님, 좋아하지만 죽어 주세요!|||Duke, I Like You, But Please Die!
 63790949|||원더랜드의 SSS급 랭커|||SSS-Rank Ranker of Wonderland
 63790897|||지독한 포식자|||Terrible Predator
-63871811|||[BL] 시한부는 최애나 살리다 죽겠습니다 (외전) [19세 완전판]|||[BL] I'll Die Saving My Bias While Terminally Ill (Side Story) [19+ Uncut]
+63871811|||시한부는 최애나 살리다 죽겠습니다 (외전) [19세 완전판]|||[BL] I'll Die Saving My Bias While Terminally Ill (Side Story) [19+ Uncut]
 63908758|||최애 아이돌이 망해서 내가 살린다|||My Favorite Idol Failed, So I'll Save Them
 63886464|||미완의 스펙트럼|||Incomplete Spectrum
 63879070|||우당탕탕, 범인을 찾아라!|||Clatter, Find the Culprit!
@@ -19114,12 +19114,12 @@
 62756317|||[BL] 망국의 책사가 살아남는 법 5권 (완결) [19세 완전판][단행본]|||[BL] How the Strategist of a Fallen Nation Survives, Vol. 5 (Finale) [19+ Uncut Edition][Volume Edition]
 62756308|||[BL] 망국의 책사가 살아남는 법 1~4권 [19세 완전판][단행본]|||[BL] How the Strategist of a Fallen Nation Survives, Vol. 1-4 [19+ Uncut Edition][Volume Edition]
 62755961|||[BL] 망국의 책사가 살아남는 법 [19세 완전판]|||[BL] How the Strategist of a Ruined Nation Survives [Rated 19+ Uncut Edition]
-62644550|||[BL] 오메가 아닌데요 5권 (완결) [19세 완전판][단행본]|||[BL] I'm Not an Omega, Vol. 5 (Finale) [19+ Uncut Edition][Volume Edition]
-62644546|||[BL] 오메가 아닌데요 4권 [19세 완전판][단행본]|||[BL] I'm Not an Omega, Vol. 4 [19+ Uncut Edition][Volume Edition]
-62644531|||[BL] 오메가 아닌데요 3권 [19세 완전판][단행본]|||[BL] I'm Not an Omega, Vol. 3 [19+ Uncut Edition][Volume Edition]
-62644526|||[BL] 오메가 아닌데요 2권 [19세 완전판][단행본]|||[BL] I'm Not an Omega, Vol. 2 [19+ Edition][Book]
-62644515|||[BL] 오메가 아닌데요 1권 [19세 완전판][단행본]|||[BL] I'm Not an Omega, Vol. 1 [19+ Edition][Book]
-62644551|||[BL] 오메가 아닌데요 [19세 완전판]|||[BL] I'm Not an Omega [19+ Uncut]
+62644550|||오메가 아닌데요 5권 (완결) [19세 완전판][단행본]|||[BL] I'm Not an Omega, Vol. 5 (Finale) [19+ Uncut Edition][Volume Edition]
+62644546|||오메가 아닌데요 4권 [19세 완전판][단행본]|||[BL] I'm Not an Omega, Vol. 4 [19+ Uncut Edition][Volume Edition]
+62644531|||오메가 아닌데요 3권 [19세 완전판][단행본]|||[BL] I'm Not an Omega, Vol. 3 [19+ Uncut Edition][Volume Edition]
+62644526|||오메가 아닌데요 2권 [19세 완전판][단행본]|||[BL] I'm Not an Omega, Vol. 2 [19+ Edition][Book]
+62644515|||오메가 아닌데요 1권 [19세 완전판][단행본]|||[BL] I'm Not an Omega, Vol. 1 [19+ Edition][Book]
+62644551|||오메가 아닌데요 [19세 완전판]|||[BL] I'm Not an Omega [19+ Uncut]
 62442169|||성공지향적 가이드 [19세 완전판][단행본]|||Success-Oriented Guide [19+ Edition][Book]
 62442160|||성공지향적 가이드 [19세 완전판]|||Success-Oriented Guide [19+ Uncut]
 63506878|||성좌님! 저 아이돌 할래요! [단행본]|||Constellation! I Want to Be an Idol! [Book]
@@ -20424,8 +20424,8 @@
 62408350|||[BL] 사탄에게도 사정이 있다 [19세 완전판][단행본]|||[BL] Even Satan Has Circumstances [19+ Uncut Version] [Volume]
 62388796|||[BL] 브라이티스트 (외전) [19세 완전판]|||[BL] Brightest (Side Story) [19+ Uncut Edition]
 62388528|||[BL] 브라이티스트 (외전) [19세 완전판][단행본]|||[BL] Brightest (Side Story) [19+ Uncut Edition] [Book]
-62387173|||[BL] 순정만화가 너무 어려워! (외전) [19세 완전판]|||[BL] Pure Romance Is Too Hard! (Side Story) [Rated 19+ Uncut Edition]
-62387149|||[BL] 순정만화가 너무 어려워! (외전) [19세 완전판][단행본]|||[BL] Pure Romance Manga Is Too Hard! (Side Story) [19+ Edition][Book]
+62387173|||순정만화가 너무 어려워! (외전) [19세 완전판]|||[BL] Pure Romance Is Too Hard! (Side Story) [Rated 19+ Uncut Edition]
+62387149|||순정만화가 너무 어려워! (외전) [19세 완전판][단행본]|||[BL] Pure Romance Manga Is Too Hard! (Side Story) [19+ Edition][Book]
 62386942|||[BL] 짝사랑 끝내려다 내 인생을 끝내게 생겼다 (외전) [19세 완전판]|||[BL] I Was Going to End My Unrequited Love but Ended My Life (Side Story) [19+ Full Version]
 62386574|||[BL] 짝사랑 끝내려다 내 인생을 끝내게 생겼다 (완결)|||[BL] Tried to End My Unrequited Love and Ended Up Ending My Life (Completed)
 62386541|||[BL] 짝사랑 끝내려다 내 인생을 끝내게 생겼다 (외전) [19세 완전판][단행본]|||[BL] I Tried to End My Unrequited Love and Ended Up Ending My Life (Side Story) [19+ Uncut Version] [Volume]
@@ -23041,7 +23041,7 @@
 62295674|||[BL] 용과 연금술사|||[BL] Dragon and Alchemist
 62295671|||[BL] 용과 연금술사 외전 [19세 완전판][단행본]|||[BL] Dragon and Alchemist Side Story [19+ Uncut] [Book]
 62295656|||[BL] 용과 연금술사 [단행본]|||[BL] Dragon and Alchemist [Book]
-62295642|||[BL] 이노센트 신드롬 [19세 완전판][단행본]|||[BL] Innocent Syndrome [19+ Complete Edition] [Single Volume]
+62295642|||이노센트 신드롬 [19세 완전판][단행본]|||[BL] Innocent Syndrome [19+ Complete Edition] [Single Volume]
 62295256|||[BL] 그 괴도는 새벽을 훔친다 외전 [19세 완전판][단행본]|||[BL] That Phantom Thief Steals the Dawn: Side Story [19+ Full Version] [Book]
 62295245|||[BL] 그 괴도는 새벽을 훔친다 [19세 완전판][단행본]|||[BL] That Phantom Thief Steals the Dawn [19+ Uncut Version] [Volume]
 62295242|||[BL] 넝쿨째 굴러온 후회공 (완결) [19세 완전판][단행본]|||[BL] The Regret Gong Who Rolled In With the Vine (Complete) [19+ Complete Edition] [Single Volume]
@@ -24355,7 +24355,7 @@
 61915945|||더티 웨딩 [단행본]|||Dirty Wedding [Single Volume]
 61915651|||대표님의 옆자리 [단행본]|||Next to the CEO [Volume Edition]
 62012981|||기레기는 대배우가 되기로 했다 [단행본]|||The Trash Reporter Decided to Become a Great Actor [Volume]
-62008034|||[BL]남자인데도 내가 좋다고?|||[BL] You Like Me Even Though I'm a Man?
+62008034|||남자인데도 내가 좋다고?|||[BL] You Like Me Even Though I'm a Man?
 62012879|||완벽한 결혼의 조건|||Conditions for a Perfect Marriage
 61959745|||결국 그들은 나를 죽이지 못했다|||In the End, They Couldn't Kill Me
 61936046|||화화몽(火花夢) 외전 [19세 완전판][단행본]|||Fireworks Dream: Side Story [19+ Complete Edition][Single Volume]
@@ -24691,7 +24691,7 @@
 61907810|||톱스타와 결혼했습니다|||I Married a Top Star
 61906989|||전투기 버리고 기간트 탑니다|||I Quit Fighter Jets and Ride Gigants
 61905345|||나는 이렇게 재벌이 되었다|||This is How I Became a Chaebol
-61808787|||[BL] 충견|||[BL] Loyal Hound
+61808787|||충견|||[BL] Loyal Hound
 61920876|||스승님이 귀환하셨다|||Master Has Returned
 61916190|||여주인데 원작을 망쳐버렸다|||I'm the Heroine But I Ruined the Original Story
 61911152|||악역 동생이 살아남는 법|||How the Villain Younger Sibling Survives
@@ -25676,7 +25676,7 @@
 61620790|||젖은 밤의 위로|||Comfort on a Wet Night
 61629082|||너에게 물드는 시간 [단행본]|||Time to Be Dyed by You [Book]
 61442565|||결혼 구속|||Marriage Restraint
-61660664|||[BL] 환생했더니, 옛 제자가 신선이 되어 찾아왔다 [단행본]|||[BL] Reincarnated, My Old Disciple Came Looking for Me as a God [Volume Edition]
+61660664|||환생했더니, 옛 제자가 신선이 되어 찾아왔다 [단행본]|||[BL] Reincarnated, My Old Disciple Came Looking for Me as a God [Volume Edition]
 61535827|||히어로 게임인데 빌런을 뽑아버렸습니다 [단행본]|||It's a Hero Game, but I Pulled a Villain [Volume Edition]
 61637632|||이번 생은 조선의 왕 입니다 [단행본]|||This Life, I Am the King of Joseon [Volume]
 61665958|||사기당해서 황후가 되었습니다 [단행본]|||I Was Scammed Into Becoming Empress [Volume Edition]
@@ -25891,7 +25891,7 @@
 61610417|||멸망급 빌런들의 선생님|||Teacher of the Apocalypse-Class Villains
 61446324|||여우가 기다리는 식당|||The Restaurant Where the Fox Waits
 61549903|||재능 독식자의 회귀는 특별합니다|||The Talent Monopolizer's Regression is Special
-61575839|||[BL] 빙의가 처음이신가본데 저도 처음입니다 [단행본]|||[BL] Looks Like It's Your First Time Possessing, It's Mine Too [Volume Edition]
+61575839|||빙의가 처음이신가본데 저도 처음입니다 [단행본]|||[BL] Looks Like It's Your First Time Possessing, It's Mine Too [Volume Edition]
 61609454|||나 혼자만 이지모드|||I Alone Am on Easy Mode
 61576140|||임꺽정은 살아있다 [단행본]|||Im Kkeokjeong Is Alive [Volume Edition]
 61575151|||무림 다운로더. [단행본]|||Murim Downloader [Volume]
@@ -26706,7 +26706,7 @@
 61290157|||데우스 엑스 마키나|||Deus Ex Machina
 61219745|||북부로 간 왕녀가 깽판침|||The Princess Who Went North Causes a Scene
 61324591|||백작가의 방패는 왕국을 지킨다|||The Count's Family's Shield Protects the Kingdom
-61281880|||[BL] 시한부는 최애나 살리다 죽겠습니다|||[BL] I'll Save My Bias and Die as a Terminally Ill Patient
+61281880|||시한부는 최애나 살리다 죽겠습니다|||[BL] I'll Save My Bias and Die as a Terminally Ill Patient
 61268859|||악당들에게서 언니를 지키는 법|||"How to Protect My Sister from the Villains"
 61248294|||다시,부부|||Again, Married Couple
 61302453|||치명적인 상사님 [외전 선공개]|||Fatal Boss [Side Story Pre-release]
@@ -28003,7 +28003,7 @@
 60744009|||별의 주인과 선의 마법사 [단행본]|||Master of the Stars and the Mage of Good [Volume]
 60731343|||버림받은 대공비가 아이를 가졌다|||The Abandoned Grand Duchess Got Pregnant
 60728827|||[외전 선공개] 살롱 더 위시 (Salon the Wish)|||[Side Story Pre-release] Salon the Wish
-60681242|||[BL] Innocent Scandal (이노센트 스캔들)|||[BL] Innocent Scandal
+60681242|||Innocent Scandal (이노센트 스캔들)|||[BL] Innocent Scandal
 60792099|||[BL] 집착광공의 아빠가 꼬심 당하는 중|||[BL] The Obsessive Mad Gong's Dad is Being Seduced
 60801308|||다시, 그대|||Again, You
 60807858|||잠성|||Sleeping Star
@@ -29011,7 +29011,7 @@
 60396915|||꽃이 된 남자|||The Man Who Became a Flower
 60389792|||누가 나보고 폭군이래?|||Who Calls Me a Tyrant?
 60372824|||저랑 주택청약 하실래요?|||Do You Want to Do a Housing Subscription With Me?
-60342918|||[BL] 나쁜남자 접근금지|||[BL] Bad Man Keep Out
+60342918|||나쁜남자 접근금지|||[BL] Bad Man Keep Out
 60305956|||질 나쁜 상사의 아이[외전 선공개]|||Bad Boss's Child (Side Story Pre-release)
 60412883|||아카데미 사기꾼으로 살아남기|||Surviving as an Academy Swindler
 60395815|||하찮은 재능으로 인생 역전 [완결]|||Life Reversal with Trivial Talent [Completed]
@@ -30560,7 +30560,7 @@
 59811458|||사설민원해결회사|||Private Civil Complaint Resolution Company
 59743023|||아카데미 담당 일진|||Academy Bully-in-Charge
 59719864|||부부의 시간 [외전 선공개]|||A Couple's Time [Side Story Preview]
-59750375|||[BL] 환생했더니, 옛 제자가 신선이 되어 찾아왔다|||[BL] I Reincarnated, and My Old Disciple Found Me as a Taoist Immortal
+59750375|||환생했더니, 옛 제자가 신선이 되어 찾아왔다|||[BL] I Reincarnated, and My Old Disciple Found Me as a Taoist Immortal
 59716261|||악당들의 최애는 나|||I Am the Villains' Bias
 59754901|||청해진주식회사|||Cheonghaejin Co., Ltd.
 59688945|||흥신소에 늑대가 산다 [단행본]|||A Wolf Lives in the Detective Agency [Book]
@@ -32100,7 +32100,7 @@
 59209736|||파도가 부서지는 사막|||The Desert Where Waves Break
 59209726|||봄날|||Spring Day
 59199247|||아수라무신|||Asura Martial God
-59155353|||[BL] 빙의가 처음이신가본데 저도 처음입니다 [완결]|||[BL] It Seems This is Your First Possession, It's Mine Too [Completed]
+59155353|||빙의가 처음이신가본데 저도 처음입니다 [완결]|||[BL] It Seems This is Your First Possession, It's Mine Too [Completed]
 59102409|||입주 하녀가 수상합니다|||The Live-in Maid is Suspicious
 59173375|||터질 듯이 너만|||Only You, About to Burst
 59173757|||은밀한 어둠|||Secret Darkness
@@ -34747,8 +34747,8 @@
 58251450|||거래|||Deal
 58231834|||마른 가지의 라가 [단행본]|||Laga of the Dry Branch [Volume Edition]
 58238685|||길들여|||Tame
-58169780|||[BL] 순정만화가 너무 어려워! [단행본]|||[BL] Pure Romance Comics Are Too Hard! [Volume Edition]
-58163925|||[BL] 순정만화가 너무 어려워!|||[BL] Pure Romance Comics are Too Hard!
+58169780|||순정만화가 너무 어려워! [단행본]|||[BL] Pure Romance Comics Are Too Hard! [Volume Edition]
+58163925|||순정만화가 너무 어려워!|||[BL] Pure Romance Comics are Too Hard!
 54272257|||완벽한 비서|||Perfect Secretary
 58227967|||새드엔딩 소설의 조연이 되었습니다|||I Became a Supporting Character in a Sad Ending Novel
 58254132|||프라이머시 이펙트(Primacy effect)[BL]|||Primacy Effect [BL]
@@ -64455,7 +64455,7 @@
 69230801|||괜히 무림맹에 들어가서는|||
 69195457|||미친 크툴루 심해의 선장으로 살아남기|||
 69046263|||제갈세가 셋째아들은 귀환한 무신|||
-68905657|||남궁세가 돈지랄 천하제일인|||
+68905657|||남궁세가 전능의 템빨 무신이 되었다|||
 69300384|||비선실세의 조선 정상화[단행본]|||
 69428262|||약사가 제조해서 활약함|||
 69342257|||마법헌터소녀는 던전을 꾸며!|||
@@ -64513,7 +64513,7 @@
 69315312|||결혼, 열 [19세 완전판]|||
 66823856|||종말의 마법사가 되었다 |||
 68418794|||조직 간부의 소꿉친구가 신입으로 들어왔다 [19세 완전판][단행본]|||
-60869881|||[BL] 사장님이 맛있고 커피가 친절해요|||
+60869881|||사장님이 맛있고 커피가 친절해요|||
 69395343|||산에서 내려가고 싶었을 뿐인데|||
 69402715|||격투기를 이상하게 잘함|||
 69338195|||로열 사이코틱 [19세 완전판][단행본]|||
@@ -64710,3 +64710,141 @@
 69345307|||변방의 외노자[단행본]|||
 69344990|||옥타곤에서 모르면 맞아야지[단행본]|||
 69344889|||지옥에서 성장력 9999999배[단행본]|||
+69438380|||더티 페이소스 [19세 완전판][외전 독점]|||
+69438379|||더티 페이소스|||
+69427294|||감금 저택 [19세 완전판] [외전 독점]|||
+69427265|||감금 저택 [외전 독점]|||
+69395541|||예쁜아, 한 입만|||
+69377750|||예쁜아, 한 입만 [삽화본] [19세 완전판]|||
+69234818|||석팀장 사용설명서 [19세 완전판]|||
+69234809|||석팀장 사용설명서|||
+69170791|||아찔한 남사친 [19세 완전판]|||
+69170780|||아찔한 남사친|||
+69392651|||찰나의 첫사랑|||
+69391956|||찰나의 첫사랑 [19세 완전판]|||
+69325904|||교수님에게 먹이를 주지 마세요!|||
+69296192|||왜 내 남편이 흑막 계략남인 건데요!|||
+69173854|||악녀전(惡女傳)|||
+69349122|||어린 아내의 사정 [19세 완전판]|||
+69349121|||어린 아내의 사정|||
+69491911|||10000경짜리 운석을 주웠다|||
+69511374|||후계자의 은밀한 집착|||
+69501110|||선수 입장|||
+69437797|||어느 AI의 일기|||
+69451257|||창궁벽파 [단행본]|||
+69500901|||하레스 천하 [단행본]|||
+69500892|||파천의 주군 [단행본]|||
+69451145|||해리수표도의 도망자 [단행본]|||
+69451140|||허공록[단행본]|||
+69451101|||헌터 에이지[단행본]|||
+69451100|||호화군림보 [단행본]|||
+69451009|||화우도 [단행본]|||
+69373706|||태클걸지마 [단행본]|||
+69456249|||회귀한 부장님이 일을 너무 잘함|||
+69452804|||천재 연금술사의 신약은 특별하다|||
+69449810|||절대영도의 탑 공략 방송|||
+69454155|||신이 찍어준 주식으로 돈이 미치게 쌓임|||
+69453804|||방출당한 아이돌한테 저작권료가 계속 쌓임|||
+69453009|||물려받은 빵집에 거물들이 몰려옴|||
+69453521|||딸깍 한 번에 천재 배우로 착각 당했다|||
+69449993|||이방원이 단종에 빙의함|||
+69448324|||내 스킬 레벨 1,541,461,513,235|||
+69452399|||내 소환수가 크툴루 외신이다|||
+69448795|||개미 키우다 외신으로 오해 받았다|||
+69402394|||핑계|||
+69416116|||악녀인데 하트 받아버렸다 [단행본]|||
+69401222|||드래곤의 심장을 먹었다|||
+69429629|||대학원생이 최종보스라니요|||
+69422923|||내가 주는 상처가 모두 흉터로 남기를|||
+69454962|||독일 제국이 패전을 안 함[단행본]|||
+69173288|||신왕환생 [단행본]|||
+69402181|||잔인한 사랑에 대하여|||
+69457644|||고낭제일검 |||
+69494604|||선자|||
+69479604|||비서 종료|||
+69474394|||아이돌 공략법으로 데뷔합니다 [단행본]|||
+69474323|||야구를 못할 수가 없음 [단행본]|||
+69470881|||네모 안에 공을 넣어(제발)[단행본]|||
+69467717|||킬 더 크라운|||
+69464828|||빙의된 악녀가 악역 대공과 결혼하면|||
+69463899|||돈 버는 게 숨 쉬는 것보다 쉬웠어요 [단행본]|||
+69463886|||밀실 마피아 게임 [단행본]|||
+69457067|||저주받은 황자님의 치료제가 되었다 [19세 완전판]|||
+69446817|||물건 비서|||
+69404729|||어느 날 곱게 키운 흑막이 도망갔다 [단행본]|||
+69401984|||도박사가 확률을 지배함 [단행본]|||
+69401963|||상남자특)지옥에서 무쌍찍음 [단행본]|||
+69396032|||내하타요전만관|||
+69391111|||깊은 사정|||
+69390894|||깊은 사정 [단행본]|||
+69348470|||이세계 무기개발자가 되었다|||
+69335000|||인기 여배우에게 집착 받는 천재작가가 되었다 [단행본]|||
+69275178|||선협 속 무공으로 연예계를 씹어 먹음|||
+69275166|||검술 없는 세상의 소드마스터|||
+69258873|||평범한 B급 헌터가 스킬이 137,588개 [단행본]|||
+69406355|||너를 그리는 계절|||
+69326248|||너를 그리는 계절 [단행본]|||
+69472272|||그 남자 [단행본]|||
+69472179|||그 남자|||
+69423124|||친구의 동생은 여자가 아니라면서요?|||
+69408037|||왕자님, 유혹은 제가 합니다 [단행본]|||
+69391247|||이세계의 다차원 칵테일 바 [단행본]|||
+69357752|||보스, 당신의 전공의는 처음이라서|||
+69331266|||경력직 뉴비는 내 과거를 알고 있다|||
+69484826|||중생지후부양녀|||
+69484837|||중생지후부양녀 [단행본]|||
+69494140|||죽음을 피하려다 엉켜버렸다[단행본]|||
+69296303|||어느 날 황제의 조카를 주웠다|||
+69483387|||폐가 샀더니 미국에서 찬양함|||
+69432688|||아기빌런과 파파|||
+69432607|||아기빌런과 파파 [단행본]|||
+69480919|||기사들의 왕|||
+69470065|||회귀자는 명검을 먹는다|||
+69493683|||소꿉친구가 내 남편이 되기까지[단행본]|||
+69497885|||망나니 로맨스[단행본]|||
+69497942|||신입 X파일[단행본]|||
+69498200|||아모르 시에고[단행본]|||
+69488780|||기비역습(버림받은 비의 역습)|||
+69470483|||환생한 영웅은 우울하다|||
+69490124|||위험한 상사[단행본]|||
+69493435|||불건전한 파트너[단행본]|||
+69494046|||위험한 오빠들[단행본]|||
+69491295|||다정한 구속[단행본]|||
+69489667|||욕망으로 물든 밤[단행본]|||
+69479895|||나쁜 감각 [단행본]|||
+69409393|||몰락 가문의 대소저가 되었다|||
+69391382|||노예가 너무 잘생김!|||
+69462690|||18살, 혼인신고|||
+69384415|||이번 생은 나 혼자 산다|||
+69482963|||영업 게임|||
+69467474|||조선 양과자 제과점|||
+69442376|||귀농했을 뿐인데 랭킹 1위가 됨 [단행본]|||
+69433447|||늦은 저녁의 로맨스 [단행본]|||
+69433375|||늦은 저녁의 로맨스|||
+69344565|||불손한 사역마를 거부하지 못했습니다 [단행본]|||
+69117132|||어느 날, 우리 집 침대에 NPC가 떨어졌다 [단행본][15세 개정판]|||
+69035180|||어느 날, 우리 집 침대에 NPC가 떨어졌다 [15세 개정판]|||
+69472930|||뇌각성 알약으로 천재 재벌 화학자|||
+69480441|||풀어 줘요, 변호사님 [단행본]|||
+69479482|||욕심이 나서 [단행본]|||
+69423106|||곱게 자란 또라이|||
+69337415|||이혼 예정 남편이 미쳐서 돌아왔다|||
+69318017|||너를 버린 계절에|||
+69413749|||신화급 제작자의 역전 플랜 [단행본]|||
+69326179|||암살 가문의 천재 어쌔신 [단행본]|||
+69326160|||망가진 북부 대공으로 살아남기 [단행본]|||
+69263043|||애 딸린 하녀|||
+69463566|||튜토리얼에서 500년 만에 돌아왔다|||
+69443936|||망나니 아빠가 S급으로 회귀함|||
+69439980|||내가 원수를 사랑할 리가 없다|||
+69434422|||악녀는 그림을 그린다 [단행본]|||
+69434041|||무림 고수의 아내가 되었습니다 [단행본]|||
+69433216|||황궁연담 [단행본]|||
+69433125|||황궁연담|||
+69377012|||언니가 주인공인데요 [단행본]|||
+69376894|||친구와의 계약 연애는 신중히 [단행본]|||
+69361766|||천재투수는 투심 마스터 [단행본]|||
+69355505|||오빠 친구와 은밀하게 [단행본]|||
+69345764|||던전도시의 만물식당|||
+69334985|||아카데미 감탄충이 되었다 [단행본]|||
+69275253|||천검빙의록|||
