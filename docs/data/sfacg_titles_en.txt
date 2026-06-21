@@ -224427,7 +224427,7 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人||||Time Calamity: I Can't Kill Anyone
+60208|||时祸：我不能杀任何人|||||Time Calamity: I Can't Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -269483,7 +269483,7 @@
 776671|||醒来后一切都变了|||After Waking Up, Everything Changed
 776622|||堕落魔法与魔女转化守则|||Fallen Magic and the Code of Witch Transformation
 776129|||Love是最温柔的你|||Love Is the Tenderest You
-776042|||恶役千金逃离不了沦为小狗的剧情|||The Villainess Heiress Can't Escape the Plot of Becoming a Puppy
+776042|||恶役千金逃离不了病娇圈养的剧情|||The Villainess Heiress Can't Escape the Plot of Becoming a Puppy
 709084|||阴暗庭院|||Shadowy Courtyard
 776616|||詭異降臨，我祈求逃離她的樊籠|||Ghostly Arrival: I Prayed to Escape Her Cage
 767136|||别再给我神人技能了啊|||Stop Giving Me God-Tier Skills!
@@ -270106,7 +270106,7 @@
 776919|||恶魔天使来我家|||Demon Angel Came to My House
 777222|||被柴刀之后的我只能攻略所有人了|||After Being Axed, I Can Only Conquer Everyone
 777422|||证明一加一等于三|||Proving One Plus One Equals Three
-777265|||魔法老母今日也想代女洗白|||The Old Magic Mother Wants to Whitewash on Behalf of Her Daughter Today
+777265|||反派妈妈，你的女儿不想洗白|||The Old Magic Mother Wants to Whitewash on Behalf of Her Daughter Today
 777293|||变成小小猫娘也要成为全游第一|||Even as a Tiny Catgirl, I Must Become the Top of the Whole Game
 777022|||病弱少女怎么可能沦为团宠？|||How Could a Sickly Girl Become the Group’s Darling?
 777057|||天哪！高中生也要拯救世界吗？|||Oh God! Do High Schoolers Also Have to Save the World?
@@ -271043,7 +271043,7 @@
 777069|||告鬼神|||Indicting the Gods
 777067|||最后的病院|||The Last Hospital
 777052|||我还想给你看一次远边的云|||I Still Want to Show You the Distant Clouds One More Time
-777648|||王女大人被龙姬绑架了！|||The Princess Has Been Kidnapped by the Dragon Princess!
+777648|||银白龙姬与躺平王女同居的那些年|||The Princess Has Been Kidnapped by the Dragon Princess!
 777878|||瀞灵廷之暗：这把斩魄刀太饿了|||The Darkness of Seireitei: This Zanpakutō Is Too Hungry
 777807|||她们是好女孩吗？|||Are They Good Girls?
 777810|||暴躁天道，开局收拾烂摊子|||Grumpy Way of Heaven: Cleaning Up a Mess at the Start
@@ -271060,7 +271060,7 @@
 777751|||穿书成女主的我才不要对黄毛心动|||I Transmigrated as the Female Lead: No Way I'm Falling for That Delinquent
 777673|||病弱少女怎会是黑道大姐姐的忠犬|||How Can a Sickly Girl Be the Loyal Dog of a Gangster Big Sister?
 777511|||仙子，去成为魔法少女吧！|||Fairy Maiden, Go Become a Magical Girl!
-777899|||魔主的学院生活，全员迪化！|||The Demon Lord's Academy Life: Everyone Becomes Wise!
+777899|||关于圣女大人，是恶魔之主这件事|||The Demon Lord's Academy Life: Everyone Becomes Wise!
 777614|||猩红挽歌|||Crimson Elegy
 777611|||东京，醒来变成活死人！|||Tokyo, Waking Up as the Living Dead!
 777571|||相始而生|||Born of Our Meeting
@@ -271079,14 +271079,14 @@
 777730|||说好的分手，怎么被黄毛拿捏了？|||We Agreed to Break Up, So Why Am I Being Manipulated by That Delinquent?
 774946|||闪耀吧，纯白之光！|||Shine, Pure White Light!
 777338|||星空：弑神|||Starry Sky: Deicide
-777926|||电子对抗讲行时|||Electronic Warfare: Operation Time
+777926|||军械少女档案录|||Electronic Warfare: Operation Time
 777578|||不必痊愈|||No Need to Heal
 777740|||不要宠我了，人家怀上是意外！|||Stop Spoiling Me, This Pregnancy Was an Accident!
 777750|||完蛋，我的凤傲天下属都想压榨我|||Oh No, My Overpowered Subordinates Want to Exploit Me
 777387|||穿越异世界后，我竟然成圣天使了|||After Transmigrating, I Became a Holy Angel
 777662|||继承者们|||The Heirs
 777790|||蓝月亮与五星币|||Blue Moon and the Five-Star Coin
-777785|||死神把我变成可爱的魔女|||The Grim Reaper Turned Me Into a Cute Witch
+777785|||死神把我变成可爱的魔女魔法少女|||The Grim Reaper Turned Me Into a Cute Witch
 777964|||在满是神明的世界里成为心灵女神|||In a World Full of Gods, I Became a Psychic Goddess
 777958|||蛊界真人|||The Gu World Cultivator
 777400|||养成救世主少女，却被反关小黑屋|||Raising a Savior Girl, But She Locked Me in the Dark Room
@@ -271095,8 +271095,8 @@
 777952|||来自星际的魔法少女不会魔法|||The Magical Girl from the Stars Can't Use Magic
 777772|||偶像？从拿下破产千金开始|||Idol? Starting from Capturing the Bankrupt Heiress
 777847|||乙女魂穿：病娇暴君的唯一安抚物|||Otome Isekai: The Yandere Tyrant's Only Soothing Object
-777666|||伪装高冷物理魔女今天也在被养成|||Pretending to Be Aloof Physics Witch, Still Being Pampered Today
-777553|||与缠上我逐渐病娇的小幽灵的故事|||Story of the Little Ghost That's Becoming Yandere and Clinging to Me
+777666|||伪装出道做魔女，白给竟是我自己|||Pretending to Be Aloof Physics Witch, Still Being Pampered Today
+777553|||探寻传闻，被病娇小幽灵缠上了|||Story of the Little Ghost That's Becoming Yandere and Clinging to Me
 777857|||镜头后的我们：公益微电影社团|||Us Behind the Lens: Public Welfare Microfilm Club
 777573|||我是血姬猎人，才不是你的仆人|||I'm a Blood Princess Hunter, Not Your Servant
 777419|||失明后被美少女逼到角落|||After Going Blind, Cornered by a Beautiful Girl
@@ -271105,10 +271105,15 @@
 777507|||变百：我竟被我的首席骑士盯上了|||TG Yuri: My Chief Knight Has Set Her Sights on Me
 777676|||我的龙女守护者|||My Dragon Girl Guardian
 777525|||黑道长公主演病娇失败很可笑吗|||The Underworld Princess Fails at Acting Yandere: Is That a Joke?
+777742|||孽徒！别毁我无情道！|||Wicked Disciple, Don't Ruin My Heartless Path!
+777490|||神明大人太无聊，所以转生了|||God Was So Bored He Reincarnated
+777744|||一些特别的故事|||Some Special Stories
+777505|||异世界剑灵的收徒指南|||A Sword Spirit's Guide to Taking Disciples in Another World
+777731|||成为神|||Becoming a God
 777456|||不知名的百与合短篇集|||An Unnamed Yuri Short Story Collection
 777721|||少女的坠楼是星的飞翔|||A Girl's Fall Is a Star's Flight
 777712|||基友瞒着我在当魔法少女|||My Best Friend Is a Magical Girl Behind My Back
-777715|||宇宙通缉犯生存指南|||Survival Guide for a Cosmic Fugitive
+777715|||她来自未来|||Survival Guide for a Cosmic Fugitive
 777347|||锁链之下|||Beneath the Chains
 777618|||猫耳青梅竹马不会接受我的告白|||My Cat-Eared Childhood Friend Won't Accept My Confession
 777242|||反派炮灰|||Villainous Cannon Fodder
@@ -271202,6 +271207,108 @@
 768500|||人间：之上|||The Human World: Above
 777630|||转生灾厄魔女我只想经营魔药小屋|||Reincarnated as a Catastrophe Witch, I Just Want to Run a Potion Shop
 53171|||灰烬之剑与白银之铳|||Ashen Sword and Silver Gun
+335551|||这个企业酱明明超强却过分自闭|||This Corporate Girl Is Overpowered but Too Reclusive
+560917|||病娇魔王和不屈服的剑圣|||The Yandere Demon King and the Unyielding Sword Saint
+166159|||年级第二|||Second in the Grade
+744973|||本圣女才不会被催眠勇者攻略|||This Holy Maiden Won't Be Conquered by the Hypnosis Hero
+82008|||我的姐姐不可能是弟控|||My Big Sister Can't Possibly Be a Brocon!
+113327|||吾王在约战|||My King in Date A Live
+268421|||斗罗大陆的逢魔时王|||Ohma Zi-O in Douluo Dalu
+163056|||标题整改2|||Title Revision 2
+400368|||带着三千少女殖民异世界|||Colonizing Another World with Three Thousand Girls
+653532|||我被ntr后化身为了牛头人战士|||After Being NTR'd, I Became a Minotaur Warrior
+527300|||开局从蓝若冰开始守护|||Starting the Game by Protecting Lan Ruobing
+733467|||我男生，成为了魔法少女|||I'm a Boy but I Became a Magical Girl
+740433|||鬼畜魔王|||The Sadistic Demon King
+735092|||病娇精灵女王的牢笼|||The Yandere Elf Queen's Cage
+80716|||拳皇之大蛇降临|||King of Fighters: Descent of Orochi
+136154|||圣女的委托是杀掉所有穿越者|||The Saintess's Request: Kill All Transmigrators
+143409|||魔法与病娇|||Magic and Yandere
+151332|||穿越主角死对头的我被主角强上了|||I Transmigrated as the Protagonist's Archrival and Got Forced by Him
+106800|||寻找我们的巨乳魔灵|||Finding Our Big-Breasted Demon Spirit
+357270|||穿越神印|||Transmigrating into Shen Yin
+362622|||斗罗大陆之霍雨浩失忆|||Douluo Dalu: Huo Yuhao's Amnesia
+324847|||游戏世界里的最强灵宠|||The Strongest Spirit Pet in the Game World
+509549|||圣骑士的日常生活|||A Paladin's Daily Life
+736633|||社恐少女的拯救世界指南|||A Socially Anxious Girl's Guide to Saving the World
+721319|||猫娘要被姐姐摆弄了|||The Catgirl Is Going to Be Toyed With by Her Sister
+82761|||泰拉瑞亚的世界与智商下线的勇者|||The World of Terraria and the Hero with Zero IQ
+87070|||龙珠之最强赛亚人|||Dragon Ball: The Strongest Saiyan
+742637|||咒回：谈个恋爱就成为最强了|||Jujutsu Kaisen: Fall in Love and Become the Strongest
+291859|||穿越到鬼灭成为义勇|||Transmigrated into Demon Slayer as Giyu
+557892|||零号档案|||File Zero
+30988|||世羽！世羽！|||Seyu! Seyu!
+47258|||骑士的反叛物语|||A Knight's Rebellion Tale
+122087|||我是SCP基金会D级成员|||I'm a D-Class in the SCP Foundation
+241486|||我在中世纪当领主|||I'm a Lord in the Middle Ages
+119730|||转生成为异世界死灵术士的那些事|||That Time I Reincarnated as a Necromancer in Another World
+350507|||一魂双体开始的校园生活|||School Life Starting with One Soul in Two Bodies
+309608|||穿梭在各世界的帝皇铠甲|||The Imperial Armor Shuttling Between Worlds
+56368|||零之骑士|||The Knight of Zero
+61898|||来自虚空中的天界之主|||The Heavenly Lord from the Void
+329525|||地下城的魔王不想毁灭世界|||The Dungeon's Demon King Doesn't Want to Destroy the World
+483374|||自从那天我看到她们成精|||Since That Day I Saw Them Become Spirits
+358709|||绝望世界人们的旅途|||The Journey of People in a World of Despair
+364588|||超能力调查局|||Bureau of Superpower Investigation
+537856|||黑色四叶草之先启者|||Black Clover: The Forerunner
+697788|||沌之咒|||Curse of Chaos
+699265|||关于我转生史莱姆拯救世界这件事|||That Time I Reincarnated as a Slime and Saved the World
+733801|||异界流氓，我吸收美少女体香变强|||Otherworld Rogue: I Grow Stronger by Absorbing Beauties' Fragrance
+41309|||契约带来的萝变|||A Contract-Induced Loli Transformation
+55589|||身为农民的我却成了地下城城主|||I'm a Farmer but Became a Dungeon Lord
+144337|||紫色恶魔的交易所|||The Purple Devil's Exchange
+130263|||我是村民你有意见|||I'm a Villager, Got a Problem?
+246242|||一個憂鬱女孩亂了忍者世界|||A Melancholic Girl Disrupts the Ninja World
+245887|||我的契约精灵竟然是圣剑少女|||My Contracted Spirit Turned Out to Be a Holy Sword Maiden
+113079|||失败的三十岁大叔穿越之旅|||A Failed Thirty-Year-Old's Transmigration Journey
+278231|||穿越到斗罗的我成了史莱克的一员|||Transmigrating to Douluo, I Became a Member of Shrek
+328188|||我怀疑自己是不是点了地狱难度|||I Suspect I've Selected Hell Difficulty
+637216|||带着游戏面板开始异世界生活|||Starting Another World Life with a Game Panel
+39170|||假如明日天放晴|||If Tomorrow the Sky Clears
+99867|||魔物娘|||Monster Girls
+121801|||穿越到异世界从奴隶开始|||Transmigrated to Another World, Starting as a Slave
+444497|||从零开始的异世界百科全书|||The Other World Encyclopedia Starting from Zero
+209005|||无论如何我们的恋情都是十厘米|||No Matter What, Our Love Is Ten Centimeters Apart
+314709|||君与彼女与她的物语|||You, Her, and Her Story
+683177|||邻居妹妹，对不起啦！|||Sorry, Little Sister Next Door!
+736252|||战俘营里的美少女们|||The Beautiful Girls in the Prisoner-of-War Camp
+597862|||左拥右抱的生活从变成猫娘开始|||A Life of Embracing Beauties Starts with Becoming a Catgirl
+723010|||魔王受召成勇者？我是来把妹的|||The Demon King Summoned as a Hero? I'm Here to Pick Up Girls
+681770|||灾难亲临|||Disaster Arrives
+337118|||变成冰帝后的位面之旅|||After Becoming the Ice Emperor, a Journey Through Planes
+630713|||成为灰太狼的女仆后，我逃婚了|||After Becoming Hui Tailang's Maid, I Ran Away from Marriage
+72632|||精灵幻想记|||Spirit Fantasy Chronicles
+317980|||斗罗之萌神的日常生活|||Douluo: The Daily Life of the Moe God
+733771|||刚成为吸血姬的我，被病娇抓走了|||I Just Became a Vampire Princess and Was Kidnapped by a Yandere
+69706|||变成女性生活在综漫中|||Turned into a Girl and Living in an Anime Crossover World
+742538|||为美好的世界献上自由|||Offering Freedom to a Wonderful World
+626754|||作为龙娘血姬的我不可能是败犬！|||As a Dragon Girl Blood Princess, I Can't Possibly Be a Loser!
+182951|||群主不会堕落成人妻|||The Group Admin Won't Fall and Become a Married Woman
+217128|||重生之魔道祖师|||Reborn as the Founder of the Demonic Path
+750380|||我与她不存在的五个月|||The Five Months That Don't Exist Between Me and Her
+264072|||掌控一切后我决定创造世界|||After Mastering Everything, I Decided to Create a World
+606613|||Re：我的战争世界|||Re: My War World
+754732|||女主们的出轨对象全是我这恶女？|||The Heroines' Affair Partner Is Me, the Villainess?
+713071|||走开精灵我才不要和你生孩子|||Go Away, Elf, I Don't Want to Have Your Child
+747185|||小血姬怎么会是天然雌小鬼？|||How Can the Little Blood Princess Be a Natural Brat?
+737922|||成为她的召唤兽只能俯首称臣吗？|||If I Become Her Summoned Beast, Do I Have to Bow and Submit?
+650466|||坠海之歌|||Song of Falling into the Sea
+541182|||死棺上的跳尸|||The Hopping Corpse on the Death Coffin
+656800|||说好的临时人质，怎么就回不去了|||You Said I Was a Temporary Hostage, So Why Can't I Go Back?
+724559|||情债深重的我要被她们清算了！|||Deep in Romantic Debt, I'm About to Be Settled by Them!
+681823|||万人嫌选择龙娘女仆后她们急了|||After the Hated Loner Chose a Dragon Girl Maid, They Panicked
+168518|||身为贞德的我绝不可能被攻略|||As Jeanne d'Arc, I Can't Possibly Be Conquered
+741958|||恶役皇女才不会成为她们的白月光|||The Villainous Princess Won't Become Their White Moonlight
+735266|||金丝雀王后今天也想逃离偏执女帝|||The Canary Queen Today Also Wants to Escape the Paranoid Empress
+680287|||关于我被时停女主纠缠这件事|||About Me Being Annoyed by a Time-Stopping Heroine
+714412|||穿越到异世界，才不要被勇者攻略|||Transmigrated to Another World? No Way I'm Being Conquered by the Hero
+127924|||错误转生的魔王竟成了勇者的女婿|||The Demon King Who Reincarnated by Mistake Became the Hero's Son-in-Law
+739729|||异世续命：背后有神撑腰|||Life Extension in Another World: Backed by a God
+648653|||我的恐怖美少女恋爱游戏|||My Horror Beauty Dating Sim
+595879|||女尊：从蓝颜祸水开始|||Female Supremacy: Starting as a Heartthrob
+206085|||重生成为血族的我从异世界回来了|||After Reincarnating as a Bloodkin, I Returned from Another World
+230186|||身为黑龙的我绝对不会被攻略|||As a Black Dragon, I Will Absolutely Not Be Conquered
+435578|||变身血族后的主仆生活|||Master-Servant Life After Becoming a Bloodkin
 123243|||FateShadowWar|||FateShadowWar
 88755|||GOSICKBSW|||GOSICKBSW
 777748|||第一届水晶球联赛|||The First Crystal Ball League
@@ -271539,113 +271646,301 @@
 753010|||黑暗中的喵|||A Meow in the Dark
 752945|||鲑鱼|||Salmon
 752893|||午夜惊牛|||Midnight Cow Fright
-777742|||孽徒！别毁我无情道！|||Wicked Disciple, Don't Ruin My Heartless Path!
-777490|||神明大人太无聊，所以转生了|||God Was So Bored He Reincarnated
-777744|||一些特别的故事|||Some Special Stories
-777505|||异世界剑灵的收徒指南|||A Sword Spirit's Guide to Taking Disciples in Another World
-777731|||成为神|||Becoming a God
-335551|||这个企业酱明明超强却过分自闭|||This Corporate Girl Is Overpowered but Too Reclusive
-560917|||病娇魔王和不屈服的剑圣|||The Yandere Demon King and the Unyielding Sword Saint
-166159|||年级第二|||Second in the Grade
-744973|||本圣女才不会被催眠勇者攻略|||This Holy Maiden Won't Be Conquered by the Hypnosis Hero
-82008|||我的姐姐不可能是弟控|||My Big Sister Can't Possibly Be a Brocon!
-113327|||吾王在约战|||My King in Date A Live
-268421|||斗罗大陆的逢魔时王|||Ohma Zi-O in Douluo Dalu
-163056|||标题整改2|||Title Revision 2
-400368|||带着三千少女殖民异世界|||Colonizing Another World with Three Thousand Girls
-653532|||我被ntr后化身为了牛头人战士|||After Being NTR'd, I Became a Minotaur Warrior
-527300|||开局从蓝若冰开始守护|||Starting the Game by Protecting Lan Ruobing
-733467|||我男生，成为了魔法少女|||I'm a Boy but I Became a Magical Girl
-740433|||鬼畜魔王|||The Sadistic Demon King
-735092|||病娇精灵女王的牢笼|||The Yandere Elf Queen's Cage
-80716|||拳皇之大蛇降临|||King of Fighters: Descent of Orochi
-136154|||圣女的委托是杀掉所有穿越者|||The Saintess's Request: Kill All Transmigrators
-143409|||魔法与病娇|||Magic and Yandere
-151332|||穿越主角死对头的我被主角强上了|||I Transmigrated as the Protagonist's Archrival and Got Forced by Him
-106800|||寻找我们的巨乳魔灵|||Finding Our Big-Breasted Demon Spirit
-357270|||穿越神印|||Transmigrating into Shen Yin
-362622|||斗罗大陆之霍雨浩失忆|||Douluo Dalu: Huo Yuhao's Amnesia
-324847|||游戏世界里的最强灵宠|||The Strongest Spirit Pet in the Game World
-509549|||圣骑士的日常生活|||A Paladin's Daily Life
-736633|||社恐少女的拯救世界指南|||A Socially Anxious Girl's Guide to Saving the World
-721319|||猫娘要被姐姐摆弄了|||The Catgirl Is Going to Be Toyed With by Her Sister
-82761|||泰拉瑞亚的世界与智商下线的勇者|||The World of Terraria and the Hero with Zero IQ
-87070|||龙珠之最强赛亚人|||Dragon Ball: The Strongest Saiyan
-742637|||咒回：谈个恋爱就成为最强了|||Jujutsu Kaisen: Fall in Love and Become the Strongest
-291859|||穿越到鬼灭成为义勇|||Transmigrated into Demon Slayer as Giyu
-557892|||零号档案|||File Zero
-30988|||世羽！世羽！|||Seyu! Seyu!
-47258|||骑士的反叛物语|||A Knight's Rebellion Tale
-122087|||我是SCP基金会D级成员|||I'm a D-Class in the SCP Foundation
-241486|||我在中世纪当领主|||I'm a Lord in the Middle Ages
-119730|||转生成为异世界死灵术士的那些事|||That Time I Reincarnated as a Necromancer in Another World
-350507|||一魂双体开始的校园生活|||School Life Starting with One Soul in Two Bodies
-309608|||穿梭在各世界的帝皇铠甲|||The Imperial Armor Shuttling Between Worlds
-56368|||零之骑士|||The Knight of Zero
-61898|||来自虚空中的天界之主|||The Heavenly Lord from the Void
-329525|||地下城的魔王不想毁灭世界|||The Dungeon's Demon King Doesn't Want to Destroy the World
-483374|||自从那天我看到她们成精|||Since That Day I Saw Them Become Spirits
-358709|||绝望世界人们的旅途|||The Journey of People in a World of Despair
-364588|||超能力调查局|||Bureau of Superpower Investigation
-537856|||黑色四叶草之先启者|||Black Clover: The Forerunner
-697788|||沌之咒|||Curse of Chaos
-699265|||关于我转生史莱姆拯救世界这件事|||That Time I Reincarnated as a Slime and Saved the World
-733801|||异界流氓，我吸收美少女体香变强|||Otherworld Rogue: I Grow Stronger by Absorbing Beauties' Fragrance
-41309|||契约带来的萝变|||A Contract-Induced Loli Transformation
-55589|||身为农民的我却成了地下城城主|||I'm a Farmer but Became a Dungeon Lord
-144337|||紫色恶魔的交易所|||The Purple Devil's Exchange
-130263|||我是村民你有意见|||I'm a Villager, Got a Problem?
-246242|||一個憂鬱女孩亂了忍者世界|||A Melancholic Girl Disrupts the Ninja World
-245887|||我的契约精灵竟然是圣剑少女|||My Contracted Spirit Turned Out to Be a Holy Sword Maiden
-113079|||失败的三十岁大叔穿越之旅|||A Failed Thirty-Year-Old's Transmigration Journey
-278231|||穿越到斗罗的我成了史莱克的一员|||Transmigrating to Douluo, I Became a Member of Shrek
-328188|||我怀疑自己是不是点了地狱难度|||I Suspect I've Selected Hell Difficulty
-637216|||带着游戏面板开始异世界生活|||Starting Another World Life with a Game Panel
-39170|||假如明日天放晴|||If Tomorrow the Sky Clears
-99867|||魔物娘|||Monster Girls
-121801|||穿越到异世界从奴隶开始|||Transmigrated to Another World, Starting as a Slave
-444497|||从零开始的异世界百科全书|||The Other World Encyclopedia Starting from Zero
-209005|||无论如何我们的恋情都是十厘米|||No Matter What, Our Love Is Ten Centimeters Apart
-314709|||君与彼女与她的物语|||You, Her, and Her Story
-683177|||邻居妹妹，对不起啦！|||Sorry, Little Sister Next Door!
-736252|||战俘营里的美少女们|||The Beautiful Girls in the Prisoner-of-War Camp
-597862|||左拥右抱的生活从变成猫娘开始|||A Life of Embracing Beauties Starts with Becoming a Catgirl
-723010|||魔王受召成勇者？我是来把妹的|||The Demon King Summoned as a Hero? I'm Here to Pick Up Girls
-681770|||灾难亲临|||Disaster Arrives
-337118|||变成冰帝后的位面之旅|||After Becoming the Ice Emperor, a Journey Through Planes
-630713|||成为灰太狼的女仆后，我逃婚了|||After Becoming Hui Tailang's Maid, I Ran Away from Marriage
-72632|||精灵幻想记|||Spirit Fantasy Chronicles
-317980|||斗罗之萌神的日常生活|||Douluo: The Daily Life of the Moe God
-733771|||刚成为吸血姬的我，被病娇抓走了|||I Just Became a Vampire Princess and Was Kidnapped by a Yandere
-69706|||变成女性生活在综漫中|||Turned into a Girl and Living in an Anime Crossover World
-742538|||为美好的世界献上自由|||Offering Freedom to a Wonderful World
-626754|||作为龙娘血姬的我不可能是败犬！|||As a Dragon Girl Blood Princess, I Can't Possibly Be a Loser!
-182951|||群主不会堕落成人妻|||The Group Admin Won't Fall and Become a Married Woman
-217128|||重生之魔道祖师|||Reborn as the Founder of the Demonic Path
-750380|||我与她不存在的五个月|||The Five Months That Don't Exist Between Me and Her
-264072|||掌控一切后我决定创造世界|||After Mastering Everything, I Decided to Create a World
-606613|||Re：我的战争世界|||Re: My War World
-754732|||女主们的出轨对象全是我这恶女？|||The Heroines' Affair Partner Is Me, the Villainess?
-713071|||走开精灵我才不要和你生孩子|||Go Away, Elf, I Don't Want to Have Your Child
-747185|||小血姬怎么会是天然雌小鬼？|||How Can the Little Blood Princess Be a Natural Brat?
-737922|||成为她的召唤兽只能俯首称臣吗？|||If I Become Her Summoned Beast, Do I Have to Bow and Submit?
-650466|||坠海之歌|||Song of Falling into the Sea
-541182|||死棺上的跳尸|||The Hopping Corpse on the Death Coffin
-656800|||说好的临时人质，怎么就回不去了|||You Said I Was a Temporary Hostage, So Why Can't I Go Back?
-724559|||情债深重的我要被她们清算了！|||Deep in Romantic Debt, I'm About to Be Settled by Them!
-681823|||万人嫌选择龙娘女仆后她们急了|||After the Hated Loner Chose a Dragon Girl Maid, They Panicked
-168518|||身为贞德的我绝不可能被攻略|||As Jeanne d'Arc, I Can't Possibly Be Conquered
-741958|||恶役皇女才不会成为她们的白月光|||The Villainous Princess Won't Become Their White Moonlight
-735266|||金丝雀王后今天也想逃离偏执女帝|||The Canary Queen Today Also Wants to Escape the Paranoid Empress
-680287|||关于我被时停女主纠缠这件事|||About Me Being Annoyed by a Time-Stopping Heroine
-714412|||穿越到异世界，才不要被勇者攻略|||Transmigrated to Another World? No Way I'm Being Conquered by the Hero
-127924|||错误转生的魔王竟成了勇者的女婿|||The Demon King Who Reincarnated by Mistake Became the Hero's Son-in-Law
-739729|||异世续命：背后有神撑腰|||Life Extension in Another World: Backed by a God
-648653|||我的恐怖美少女恋爱游戏|||My Horror Beauty Dating Sim
-595879|||女尊：从蓝颜祸水开始|||Female Supremacy: Starting as a Heartthrob
-206085|||重生成为血族的我从异世界回来了|||After Reincarnating as a Bloodkin, I Returned from Another World
-230186|||身为黑龙的我绝对不会被攻略|||As a Black Dragon, I Will Absolutely Not Be Conquered
-435578|||变身血族后的主仆生活|||Master-Servant Life After Becoming a Bloodkin
+777766|||星穹铁道：你说你是奥特曼？|||Star Rail: You Say You're Ultraman?
+778088|||永春少女的虚度光阴|||The Idle Days of the Everspring Maiden
+777972|||再活一次，这真的合理吗|||Another Life: Is This Really Okay?
+778238|||什么骗钱小绿茶，我可是白月光!|||Scammy Green Tea? I'm the White Moonlight!
+778047|||魔法少女工作手册|||Magical Girl Work Manual
+778479|||放学后的第七封信|||The Seventh Letter After School
+777986|||风铃草堂的暖阳|||Warm Sunshine at the Bellflower Hall
+674507|||只是一只小猫娘，该如何拿捏巨龙|||Just a Little Catgirl, How to Tame a Dragon
+778475|||古木纪事|||Chronicles of the Ancient Tree
+778330|||今天，魔法少女也在让世界微笑中|||Today, the Magical Girl Keeps the World Smiling
+778234|||蒸汽时代下的宇宙|||The Universe in the Age of Steam
+778474|||非必要存在|||Unnecessary Existence
+778323|||魔女退休再就业指南|||A Witch's Guide to Retirement and Reemployment
+778264|||浮空舰：我的舰灵画风好像不对|||Airship: My Ship Spirit's Art Style Seems Off
+777816|||想贴贴的我为什么在被人追杀啊|||Why Am I Being Chased When I Just Want Cuddles?
+778473|||魔鬼，余命一月|||The Devil Has One Month Left
+778288|||穿越修仙与魔法，只为找到你|||Crossing Worlds of Cultivation and Magic, Just to Find You
+190955|||只有我们的世界|||A World Only for Us
+778141|||未完成的我们|||The Unfinished Us
+777782|||躺平摆烂恶鬼王，摸鱼抓鬼养饱饱|||Lazy Demon King: Slacking, Ghost Hunting, and Eating Well
+778249|||女尊，爱心魔女怎么总想下克上|||Matriarchy: Why Does the Loving Witch Always Want to Upstage Me?
+778317|||金发大小姐罩着小弟，但他|||The Blonde Young Lady Protects Her Minion, But He...
+777998|||星铭刻墟，三世神殇|||Stellar Engraved Ruins: The God's Three-Life Tragedy
+778469|||假如劳动力市场平台化|||If the Labor Market Became a Platform
+778468|||米莉拉海盗小姐不干了|||Pirate Miss Millira Quits
+778281|||公主殿下，您的地精请查收|||Your Highness, Your Goblin Awaits
+778245|||魔王姐姐勇者妹妹|||Demon Lord Big Sis and Hero Little Sis
+777953|||转生的我才不会是魔王|||I Reincarnated, but I'm No Demon Lord
+778454|||不是游戏吗？怎么变成魔女了！|||It Was Just a Game, Now I'm a Witch?!
+778152|||神灵之契约者|||The Contractor of the Gods
+777520|||异界落玉，我即是转生者|||Falling Jade in Another World: I Am the Reincarnated
+778464|||在樱花飘落前，为你轻抚伤痕|||Before the Sakura Falls, I'll Soothe Your Wounds
+778462|||一觉醒来我异父异母的大弟变妹妹|||Woke Up and My Step-Brother From a Different Father Became a Little Sister
+778069|||一事无成的我刚转生就被处刑？|||I Just Reincarnated and I'm Already Getting Executed?
+778369|||白夜：红警世界的最高权限者|||Byakuya: Top Clearance in the Red Alert World
+778450|||我不会再爱你了|||I Won't Love You Anymore
+778446|||穿越到约会大作战的平行世界|||Transmigrated into the Parallel World of Date A Live
+778062|||纨绔少爷，不想成为小娇妻|||Playboy Young Master, I Refuse to Be Your Darling Wife
+778444|||路人女主捡到吸血鬼后日常崩了|||The Generic Heroine Picks Up a Vampire and Ruins Her Normal Life
+778319|||逆系，爆魂少女|||Inverse: Explosive Spirit Girl
+778381|||重生后，高中校花竟然倒追|||Reborn: The Campus Queen Is After Me!
+778331|||成为魔女的我会被美少女单推吗？|||Will I, a Witch, Be Stanned by Pretty Girls?
+778441|||云落琪琳|||Qilin of the Falling Clouds
+778035|||屡次被丢下的我选择逃跑|||Abandoned Again and Again, I Decided to Escape
+778007|||末日旅程|||Journey of the Apocalypse
+778434|||虚拟都市，女儿是电子幽灵|||Virtual City: My Daughter Is a Digital Ghost
+778375|||圣女的救世之旅|||The Saint's Journey to Save the World
+776068|||穿成弱雌，末世圈养六位顶级兽夫|||Transmigrated as a Weak Female, Raising Six Top Beast Husbands in the Apocalypse
+778156|||少女日常，但是恐鬼症|||A Girl's Everyday Life, but with Phasmophobia
+777669|||我在坐牢，你们在玩嘎啦给木？|||I'm in Jail, and You Guys Are Playing Galgame?
+778429|||檐下拾忆|||Picking Up Memories Under the Eaves
+776394|||剑鞘骑士：旅途终回日|||Sheath Knight: The Final Day of the Journey
+778428|||慢慢走到你身边|||Slowly Walking to Your Side
+778416|||止渊君心似我芯|||Zhiyuan, Your Heart Mirrors My Chip
+778418|||林间小屋的守灵少女|||The Girl Guarding the Spirit in the Forest Cabin
+778265|||古川事务所趣闻：东方林失踪案|||Furukawa Agency Anecdotes: The Disappearance of Dongfang Lin
+778424|||魔女小姐，你也不想身份被发现吧|||Miss Witch, You Don't Want Your Identity Exposed Either, Right?
+778237|||濒死重来后，神人队友太多了|||After a Near-Death Reset, Too Many God-Tier Teammates
+778420|||摆烂的我也会有校园青春恋爱吗？|||Will a Cynical Slacker Like Me Still Get a Sweet School Romance?
+778345|||渊黑|||Abyssal Black
+778034|||先天邪恶的小鬼，看我一刀斩之|||Innately Evil Brat, Watch Me Slice You in One Blow
+778415|||追忆日记门的另一面|||The Other Side of the Reminiscence Diary Door
+778291|||异世界东北雨姐不会梦到退队勇者|||The Northeastern Rain Sister of Another World Won't Dream of a Quitting Hero
+778203|||陛下，先生此生只许江山|||Your Majesty, This Scholar Only Devotes His Life to the Nation
+778407|||冰箱与机器人女仆|||The Fridge and the Robot Maid
+778172|||巅峰之上|||Beyond the Summit
+778221|||哪来的笨蛋？|||Where Did This Fool Come From?
+778396|||笨蛋黑龙娘与冒事阳角女的故事|||The Tale of the Dumb Black Dragon Girl and the Troublesome Sunshine Girl
+778342|||赐狐重樱篇之樱花飘落之时1|||Bestowed Fox: When the Sakura Fall, Part 1
+778070|||被买来的精灵诱倒是计划一部分吗|||Is Being Seduced by the Purchased Elf Part of the Plan?
+777941|||山田与夏川|||Yamada and Natsukawa
+777927|||沉默少帅每逢五天当一回大小姐|||The Silent Young Marshal Turns Into a Lady Once Every Five Days
+777978|||在希望和梦想的土地上|||On the Land of Hope and Dreams
+777574|||帝国飞升，我成了留下的不和谐音|||Imperial Ascension: I’m the Dissonance Left Behind
+777951|||化身阳光小狗妹，怎么都馋上我啦|||Turned Into a Sunny Puppy Girl, Now Everyone’s After Me
+777930|||无法做出正确的选择|||Unable to Make the Right Choice
+777916|||攻略大反派|||Capturing the Main Villain
+778442|||寻找姐姐的我进入了里世界？！|||Searching for My Sister, I Stumbled Into the Reverse World?!
+778517|||魔法少女搜打撤，我被一枪颗秒了|||Magical Girl Search & Destroy: One-Shot KO
+778443|||虚无姬的存在之证|||The Hollow Princess’s Proof of Existence
+777939|||妖刀绯月|||Crimson Moon Demon Blade
+778340|||末日下恋爱指数直线上升|||Love Index Skyrockets in the Apocalypse
+778397|||异世界摆烂这件事|||Going Full Slacker in Another World
+778440|||奇谭！界塔周游记|||Fantastic Tale! Touring the World Tower
+778294|||月悬碎梦，日却升星消后|||Moon Hung in Broken Dreams, Sun Rises After the Stars Fade
+777962|||Mili聆后感|||Reflections After Listening to Mili
+778376|||异种之间|||Between Different Species
+652792|||玩个游戏玩到异世界|||Played a Game and Ended Up in Another World
+778360|||纯良小红帽今天也要逃离坏结局|||Innocent Little Red Hood: Escaping the Bad End Again Today
+777775|||神明的神明游戏|||A God’s God Game
+777860|||七七的异界之旅|||Nana’s Otherworld Journey
+778332|||转生落魄贵族，绝不接受女仆教育|||Reincarnated as an Impoverished Noble: I Refuse Maid Training
+778232|||鬼灭以樱为刃，渡你不死|||Demon Slayer: Sakura Blade, Guiding You Beyond Death
+778132|||不准叫我血小妹！！|||Don’t Call Me Little Blood Sister!!
+776844|||我家的猫妖不可能是病娇|||My Cat Spirit Can’t Be Yandere
+777636|||獨咒枯行|||Cursed Solitude, A Withering Path
+778031|||深渊圣女的卧底日常|||The Undercover Daily Life of the Abyss Saintess
+778068|||报告！今天也在被异族女特务诱惑|||Report! Today I’m Being Seduced by the Alien Female Agent Again
+778074|||黑焰白花|||Black Flame, White Flower
+91255|||C.S.Y.F  END|||C.S.Y.F  END
+515074|||Aeterumreich|||Aeterumreich
+778503|||SweetDreams|||SweetDreams
+620018|||高冷仙子才不会被狐娘攻略|||The Aloof Fairy Won't Be Conquered by a Fox Girl
+205057|||魔女之徒与狼妖少女|||The Witch's Disciple and the Wolf Demon Girl
+475725|||在天愿作比翼鸟我劈了比翼鸟|||"In Heaven We'd Be Lovebirds"—So I Chopped the Lovebird
+733929|||穿越成为圣女的我|||Reincarnated as a Saintess
+287751|||这位仁兄你脱离现实了|||Bro, You're Out of Touch with Reality
+399621|||我家大师姐又犯病了|||Our Senior Sister Is Acting Up Again
+596668|||身为反派的我，却被女主纠缠|||I'm the Villain, But the Heroine Won't Leave Me Alone
+707537|||晚夜微雨，共绘繁星点点|||Night Drizzle, Painting the Starry Sky Together
+481246|||变身银龙公主的我只喜欢女孩子|||Transformed into a Silver Dragon Princess, I Only Like Girls
+676976|||凉薄仙子怎会挂念他人|||How Could a Cold-Hearted Fairy Miss Someone?
+755170|||转生成黄狗的我要嫁给饲主吗？|||Reincarnated as a Yellow Dog, Should I Marry My Owner?
+181068|||我的无敌生涯变得越来越奇怪|||My Invincible Life Is Getting Weirder and Weirder
+759385|||天道圣体被反派堵在新手村|||My Divine Physique Got Camped by Villains in the Starter Village
+745209|||鸭真人带娃，仙子们别追了|||Duck Sage Raising Kids: Fairies, Stop Chasing Me
+173407|||最后的零|||The Last Zero
+381701|||见习女王不靠谱|||The Trainee Queen Is Unreliable
+317288|||论魔头如何累积功德成就帝位|||How a Demon Lord Accumulates Merit to Ascend the Throne
+284436|||天子大人造反啦|||His Majesty the Emperor Has Rebelled!
+407982|||斩妖卷|||Demon-Slaying Scroll
+60690|||最强的我，握着最强的剑|||The Strongest Me, Wielding the Strongest Sword
+50842|||冥皇是萝莉|||The Netherworld Emperor Is a Loli
+426758|||频频被打扰的我根本没法修仙|||Constantly Disturbed, I Can't Cultivate at All
+422328|||面对逆境不得已的对策|||A Desperate Countermeasure Against Adversity
+778370|||师尊竟然是女的|||My Master Is Actually a Woman
+778260|||乱葬岗上生榆桑|||Elm and Mulberry Grow on the Mass Grave
+777919|||不知该起啥名，求推荐|||No Idea What to Title This; Suggestions Welcome
+777762|||状元夫君养成记|||Raising My Husband to Be Top Scholar
+778102|||斩魔之后，她与我共长生|||After Slaying the Demon, She Shares Eternal Life with Me
+737336|||破坏宫女的计谋|||Foiling the Palace Maid's Scheme
+114784|||少年的罪恶人生|||A Boy's Sinful Life
+56463|||面具大仙加油啊|||Masked Immortal, Hang In There!
+147373|||武林至尊不好当|||It's Not Easy Being the Martial Arts Supreme
+653678|||我反派一心求死，凤傲天何必心软|||I'm a Villain Seeking Death—Why Would a Phoenix-Protagonist Spare Me?
+667584|||如何逃离正派师尊偏执的爱|||How to Escape My Righteous Master's Obsessive Love
+626910|||穿越狡猾皇后要做陛下|||Transmigrated as a Cunning Empress, I Want to Be Emperor
+43699|||换性！吾乃萝莉|||Gender Swap! I'm a Loli Now
+91593|||彼岸花上|||Upon the Red Spider Lily
+487806|||认错主角反派的我如何避免被柴刀|||I Mistook the Protagonist for a Villain—How to Avoid Getting Yandere'd
+83222|||我在将军府上当仆从的日常|||My Daily Life as a Servant in the General's Mansion
+685329|||被脑补过度的我被迫成为武林至尊|||Overimagined by Others, I'm Forced to Become the Martial Arts Supreme
+249866|||仙山为家|||Home Is the Immortal Mountain
+148668|||月殇|||Moon Sorrow
+452823|||被女妖怪们纠缠不休的我只想修仙|||Pestered by Female Monsters, I Just Want to Cultivate
+611124|||魔修的我潜入男修宗派只为除心魔|||As a Demonic Cultivator, I Infiltrated an All-Male Sect Just to Purge My Inner Demon
+500613|||锲以良木|||Carved from Fine Wood
+267633|||成为了剑神却还是有打不败的敌人|||I Became the Sword God, Yet There's Still an Unbeatable Enemy
+683680|||天娇莫追，在下只会打铁|||Don't Chase Me, Heavenly Pride; I Only Know How to Smith
+431593|||变身绝色美少女后我权御天下|||After Becoming a Gorgeous Girl, I Rule the World
+461470|||无所不能的我被前世妻子们攻略|||The All-Powerful Me Is Being Pursued by My Past-Life Wives
+397824|||江湖百曉生|||Know-It-All of the Jianghu
+184885|||老祖不要闹|||Ancestor, Don't Make a Scene
+291325|||霸道绝色师尊的无限宠溺|||Unlimited Pampering from the Domineering, Exquisite Master
+374751|||魔道赘婿|||The Demonic Path's Live-in Son-in-Law
+171879|||将心权谋|||Schemes of the Heart
+77242|||请叫我大师兄|||Just Call Me Senior Brother
+22204|||刁蛮,任性,这就是我的公主|||Spoiled, Willful—That's My Princess
+271317|||进大牢吧崽种|||Go to Prison, You Brat
+70234|||光秀你给我切腹谢罪|||Mitsuhide, Apologize by Seppuku!
+624642|||一朝穿越，仙子你怎么黑化了？|||After Transmigrating, Why Did the Fairy Turn Yandere?
+765260|||染红的天空|||The Sky Dyed Red
+778470|||156计划|||Plan 156
+778325|||遗心|||Forsaken Heart
+778091|||有损|||Damaged
+778027|||假面骑士Biovle|||Kamen Rider Biovle
+777923|||拟战世游|||Simulated War Game World
+777922|||想要以光速接近你|||I Want to Approach You at the Speed of Light
+778247|||Redaily|||Redaily
+778273|||转生畸变体，我即是深空终焉|||Reincarnated as an Aberration: I Am the Deep Space End
+777984|||镇守诡异的我靠炸鸡收容S级|||Guarding Anomalies, I Use Fried Chicken to Contain S-Ranks
+740000|||雨夜邂逅|||Encounter on a Rainy Night
+650971|||一个国的崛起与没落和再起|||The Rise, Fall, and Re-Rise of a Nation
+705277|||微妙关系|||Delicate Relationship
+750360|||长官，干员星河向您报告|||Commander, Operator Star River Reporting In
+732697|||connect云端|||connect Cloud
+576334|||崩坏：环太平洋|||Honkai: Rim Pacific
+736593|||物理学四大神兽的灭亡|||The Extinction of Physics' Four Mythical Beasts
+322046|||当布洛妮娅穿越到约会大作战|||When Bronya Transmigrated into Date A Live
+696874|||赛博朋克:我靠回收器官挣彩礼|||Cyberpunk: I Rely on Organ Recycling to Earn My Dowry
+42901|||海弦|||Sea Strings
+56011|||丧尸狂人|||Zombie Maniac
+61557|||自由舰长的异世界游记|||The Free Captain's Travels in Another World
+59480|||黎明与黄昏的境界线|||The Boundary Line Between Dawn and Dusk
+263058|||逆天舰长因可爱外星女友被迫营业|||The OP Captain Forced to Work Because of His Cute Alien Girlfriend
+100945|||第三执法者|||The Third Enforcer
+385663|||方舟游记|||Ark Travelogue
+536840|||血色灰域:病变区|||Blood Ashes Zone: Lesion Area
+167930|||神明转生为吸血鬼美少女的那些事|||Those Things About a God Reincarnated as a Beautiful Vampire Girl
+180395|||关于我成为休伯利安舰长这档事|||About Me Becoming the Captain of the Hyperion
+346021|||FIG幻想守录基金会|||FIG Fantasy Chronicle Foundation
+702740|||失乐园:|||Paradise Lost:
+60272|||苍空|||Blue Sky
+47938|||外星人社团|||Alien Club
+51714|||苍穹之音|||Sound of the Firmament
+456168|||脑脊液|||Cerebrospinal Fluid
+714566|||好兄弟变成美少女只能寄生我家|||My Best Bro Became a Beautiful Girl and Had to Parasitize at My Place
+743062|||红警：1900|||Red Alert: 1900
+43485|||音速少女队|||Sonic Girl Squad
+50919|||创世纪:夜创|||Genesis: Night Creation
+268919|||只有想象力好的人才能成为的黑客|||Only Those with Good Imagination Can Become Hackers
+186702|||与丧尸妹妹的末世之旅|||Post-Apocalyptic Journey with My Zombie Little Sister
+43510|||梦境连接|||Dream Link
+296641|||神姬的二三事|||A Few Things About the Divine Princess
+778143|||校园恋语|||Campus Love Story
+778261|||将眼睛借给你|||Lending You My Eyes
+778272|||挽风Retain|||Retain the Wind
+778108|||鼠月之御魂少女|||Spirit Maiden of the Rat Moon
+778220|||贵族学校之转校生|||The Transfer Student of the Noble School
+778153|||我想要珍藏你的微笑|||I Want to Treasure Your Smile
+778051|||在积雪消融之前的胶片|||The Film Before the Snow Melts
+778022|||我的青春恋爱不是虚拟游戏！|||My Youth Romantic Comedy Is Not a Virtual Game!
+776780|||幽幽小萝2|||Gloomy Little Rascal 2
+778367|||一千零三十七日与十六封情书|||1037 Days and Sixteen Love Letters
+778024|||我们正在飞向天空|||We Are Flying Toward the Sky
+778175|||白昼同窗，夜半狐卿|||Classmates by Day, Fox Consort by Night
+285626|||她们病态的爱|||Their Morbid Love
+176303|||与校花交换身体的我不做碧池|||Swapping Bodies with the Campus Belle, I Won't Be a Bitch
+286253|||这只路明非逐渐沙雕|||This Lu Mingfei Is Getting Dumber by the Day
+723978|||我的女友很帅气和还有可爱的我|||My Cool Girlfriend and the Cute Me
+653333|||给学院高岭之花当狗怎么你们了?|||What's Wrong with Being the Dog of the Academy's Unattainable Flower?
+658241|||危害|||Harm
+492156|||花间事|||Affairs Among Flowers
+643612|||人在约战，攻略我想吃牢饭吗？|||In Date A Live, Am I Heading for Jail by Targeting the Heroines?
+746365|||灰黑篮球状星体上的孩子们|||Children on the Gray-Black Basketball-Shaped Celestial Body
+631468|||无色与多彩的她们|||The Colorless and Colorful Girls
+563107|||变身校花，被渣的女友们回来复仇|||Turned into the Campus Belle, the Ex-Girlfriends I Played Come Back for Revenge
+10265|||某人渣的幻想杀手|||That Scumbag's Fantasy Killer
+129432|||我那攻略魔女的悲惨人生|||My Tragic Life of Trying to Win the Witch
+198422|||性转穿越回小学的我|||Gender-Swapped and Back to Elementary School
+245288|||她的心|||Her Heart
+691065|||致成为女性的你|||To the You Who Became a Woman
+53689|||守护甜心之破碎的心|||Shugo Chara: The Broken Heart
+514883|||奔现后穿短裙直闯漫展|||After Meeting IRL, She Charged into the Anime Con in a Short Skirt
+65767|||我变成兽耳萝莉了|||I Became a Kemonomimi Loli
+153902|||有妹有房的我竟然会喜欢青梅竹马|||I Have a Sister and a House, Yet I Still Like My Childhood Friend
+157680|||风轻轻吹|||The Wind Blows Gently
+248093|||神幻机甲|||Divine Phantom Mecha
+34333|||同学，能让我脱下你的内裤吗？|||Classmate, Can I Take Off Your Panties?
+143380|||我的咸鱼日记|||My Slacker Diary
+444010|||穿越约战的我变成了捷德奥特曼|||Transmigrated into Date A Live, I Became Ultraman Geed
+681784|||反派只想教你学习|||The Villain Just Wants to Teach You
+572265|||这与好友一起变换多是一件美事啊|||How Wonderful It Is to Transform Together with Friends
+103900|||病名为爱|||The Disease Called Love
+289013|||我的会长大人是前女友|||My Student Council President Is My Ex-Girlfriend
+639303|||当我遇到血族皇女后的那些事|||After Meeting the Vampire Princess
+548804|||昨夜，又做了同一场梦|||Last Night, I Had That Same Dream Again
+742740|||成为公司总裁的我才不想嫁人|||I Became the CEO, But I Don't Want to Marry!
+102927|||我和妹妹的青春物语|||My Youth Story with My Little Sister
+529364|||scp基金会机动特遣队大全|||SCP Foundation Mobile Task Force Compendium
+724265|||be还是he？当然选le！|||BE or HE? I Choose LE!
+267838|||这个大佬爱夺舍|||This Big Shot Loves Body Snatching
+716591|||捡来的非人女孩总是觊觎我|||The Stray Non-Human Girl Keeps Coveting Me
+259928|||变身恶毒女配|||Turned into the Wicked Supporting Female Lead
+563802|||我的二次元时代|||My 2D Life
+554118|||原谅咱吧，搜查官大人！|||Forgive Me, Mr. Detective!
+305263|||卡尔的草稿箱|||Karl's Draft Box
+706585|||市井间的女孩们相伴钻研魔法|||Girls from the Streets Delve into Magic Together
+626329|||我绑定了恶役APP|||I Equipped a Villainess App
+300608|||全知全能的我想和青梅竹马在一起|||The All-Knowing Me Just Wants My Childhood Friend
+485961|||我变成了龙娘结果是自己的锅|||I Became a Dragon Girl, and It's All My Fault
+38603|||倔强的初雪|||The Stubborn First Snow
+493493|||我在约战混日子|||Slacking Off in Date A Live
+189599|||关于我家妹妹是个腹黑这件事|||About My Little Sister Being Two-Faced
+435955|||滚回去学习|||Go Back to Studying!
+90508|||我重生成精灵了|||I Got Reincarnated as an Elf
+619124|||我是逆天蜕皮师|||I Am the Defiant Skin-Shedding Master
+593663|||和病爱女友分手后成为病娇诊疗师|||After Dumping My Yandere Girlfriend, I Became a Yandere Therapist
+298932|||静心录|||Journal of a Peaceful Mind
+88828|||从零开始的臆想|||Delusions from Zero
+95920|||听闻花语|||Hearing the Language of Flowers
+494214|||开局变身被男人捡回家|||I Transformed at the Start and a Man Took Me Home
+219836|||藤原家的二三事|||A Few Things About the Fujiwara Family
+147415|||我与病娇妹妹相隔一个世界|||A World Apart from My Yandere Sister
+368800|||一无是处的财迷少女你喜欢吗|||Would You Like a Useless Money-Loving Girl?
+193592|||变身的我又无敌了|||I'm Invincible Once More After My Transformation
+395180|||帮猴子在蓝星准备闹天宫|||Aiding the Monkey to Wreak Havoc in Heaven on the Blue Star
+344015|||约见的网友竟然是黄油的女主声优|||The Online Friend I Met Was the Voice Actress of an Eroge Heroine
+778262|||舟批作者的发电日志|||An Arknights Fan Author's Deranged Diary
+778387|||谁让他当世界boss的|||Who Let Him Become the World Boss?
+327861|||琪露诺的奇妙夏季大冒险|||Cirno's Great Summer Adventure
+323630|||火影之我为四代目|||Naruto: I'll Become the Fourth Hokage
+559667|||约战的遗老白龙|||Date A Live's Old Guard White Dragon
+569818|||失去记忆的我转生提瓦特|||I Lost My Memories and Reincarnated in Teyvat
+375605|||假面骑士脑叶守护光明|||Kamen Rider Brain Leaf: Guardian of Light
+222761|||KENSHI|||KENSHI
+589556|||明日方舟：前夜|||Arknights: Eve
+621756|||狼群特别行动指挥部的冒险|||The Adventures of the Wolf Pack Special Ops Command
+36472|||叛逆游戏|||Rebel Game
+70415|||绝望游戏之黑白|||Despair Game: Black and White
+160024|||约会大作战之幻想|||Date A Live: Fantasy
+253834|||变身成希儿的异世界之旅|||My Journey to Another World After Transforming into Seele
+224272|||这不是我所熟悉的fate|||This Is Not the Fate I Know
+178013|||崩坏世界的空我|||Kuuga in the Honkai World
+778103|||关于我被亲奶奶骗进无限流这档事|||About Being Tricked into the Infinite Loop by My Grandma
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
@@ -271752,7 +272047,7 @@
 218423|||200|||
 771725|||098|||
 777536|||抱歉女主，你恋人要被恶役拐走喽|||
-777482|||末世，我是否该继续坚持|||
+777482|||机械少女与她最后的教堂|||
 777521|||圣女小姐，请您也快点堕落吧！|||
 777640|||贴贴世界的破百之王|||
 777853|||絶惘世间|||
@@ -271770,7 +272065,7 @@
 777658|||说好契约结婚，圣女殿下你越界了|||
 777596|||魔女小姐，你也不想永远被封印吧|||
 777513|||我阿尔托莉雅，打钱!|||
-777591|||慕叶卡之诗|||
+777591|||Sr：身为魔法天才的我也会近战|||
 777660|||手握世界设定，我真的不想当仙子|||
 777719|||失忆勇者没有和女主们结婚的义务|||
 777708|||当世界终焉时|||
@@ -271778,13 +272073,13 @@
 777928|||海贼：这么多神加我一个不过分吧|||
 777397|||一辈子的一被子少女乐队|||
 777809|||剑圣酒狐和她的废物狗修金|||
-777741|||魔法变奏曲|||
-777798|||暗黑LL：黄玉髓冒险谭|||
+777741|||魔法少女也会梦到赛博女鬼吗？|||
+777798|||血色的月光下|||
 777441|||橘子游戏|||
 776467|||说好当救世主，为什么我是废物？|||
 777364|||在魔法消沉后拜师魔女混日子|||
 776658|||斯黛拉，是能够成为我母亲的女人|||
-777867|||无辜冰龙减到灭世幼崽|||
+777867|||无辜冰龙捡到灭世幼崽|||
 777318|||女仆小姐，要被前后夹击了哦|||
 777379|||欺负我的店长大人今天也虎视眈眈|||
 777732|||魔法世界里的不可名状|||
@@ -271818,7 +272113,7 @@
 777841|||谁懂啊！刚重生就被龙娘赖上了|||
 777763|||明明是我调的，怎么被天降偷跑了|||
 777889|||七等分的爱|||
-777888|||红月呓语|||
+777888|||红月之下，我的理智全靠演技|||
 777554|||穿越魔女的我怎么在异界蓝星|||
 777564|||可惜了，我只能召唤美少女|||
 777883|||灰烬魔族与被诅咒的血脉|||
@@ -271828,7 +272123,7 @@
 777808|||人家这么可爱，才不是魅狐狸|||
 777868|||和蛇发女妖小姐的同居生活|||
 777865|||寒蝉:艾草与茴香|||
-777858|||笨拙的我们|||
+777858|||笨拙的我们，花鸢学院恋爱攻防战|||
 777839|||邪神将我焊死成牧师小姐该怎么办|||
 777466|||失控与例外|||
 777720|||恶魔X女仆？亦或只属于我的忠犬|||
@@ -271843,7 +272138,7 @@
 777723|||双生影|||
 777457|||为美好的银龙献上祝福|||
 777687|||堪德玛拉|||
-777830|||混沌系魔法少女的生活日常记|||
+777830|||魔法少女，今日又是你和我的纠缠|||
 777828|||被病娇杀害后，开始的修罗场|||
 777827|||玫瑰纪年录|||
 777825|||魅m圣女的被迫营业日常|||
@@ -271853,7 +272148,7 @@
 777774|||从魔法少女开始成为嘉豪|||
 777817|||谁不让我种地，我就把谁种地里|||
 777546|||我的舍友把我变成了女孩|||
-777814|||转生剑之圣女却成了她们的白月光|||
+777814|||失忆寻踪的我怎被她们虎视眈眈|||
 777577|||星海殖民纪元|||
 777711|||夫君，你的皇位我收下了|||
 777738|||我被黑帮大小姐没收了！|||
@@ -271868,7 +272163,7 @@
 777626|||海贼世界我和草帽双雄争霸新世界|||
 777530|||魔法少女对反派拳打脚踢|||
 777683|||渊都妖奇谈|||
-777680|||变成女生的我，绝不会被她们攻略|||
+777680|||失忆后，我竟变成了女生|||
 777703|||论来签合同的恶魔，有趣在哪|||
 777760|||终局游戏|||
 777755|||奇迹之旅Wonderful|||
@@ -271938,5 +272233,679 @@
 777835|||变成美少女后加点到无敌|||
 777601|||世子之争，但开局血姬远嫁蛮夷|||
 777733|||狐狐的我怎么会有个龙族母亲?|||
-777592|||轉生狐娘，纔該如何活下去|||
+777592|||轉生狐娘纔該如何活下去|||
 777754|||远方宁静之岭传说世代篇|||
+777963|||菜鸟魔法少女监管S级黏人恶徒？|||
+778528|||星穹道典|||
+778301|||死者复生，少女们未完成的心愿|||
+778142|||报告！今天也被异族女特务诱惑|||
+778313|||变升失败后，我进入了大变时代|||
+778530|||虚度人伦|||
+778529|||哈气吸血姬想当大神而不是团宠|||
+778306|||我只想躺平，才不想当你们的妻子|||
+778188|||快穿橘味：与一百名小说女主恋爱|||
+778060|||隔壁太太，今天也是独自一人|||
+778049|||落魄反派千金的自动化炼金之旅|||
+777979|||成为星座少女后的我不得不战斗|||
+778154|||附身软糯少女的我成了她的通天代|||
+778512|||变成坏女人精灵后，被玩家喊老婆|||
+770745|||吃饭吃到饱|||
+778453|||都市生活不应该是这样的|||
+778408|||欢迎开启真实向异世界的二次人生|||
+778129|||贫瘠无敌魔女才不喜欢中二肌肉女|||
+778486|||帝国教宗不死于病娇修罗场|||
+778335|||不靠谱魔女大人的快乐补给站|||
+778030|||我和魔法少女互换身体|||
+778384|||本魔法少女一定能肘赢复活赛！|||
+778499|||白蛇修仙录|||
+778478|||赛马娘:陪她走上世界之巅|||
+778419|||为什么我能镶嵌99颗灵魂宝石啊|||
+778111|||我喵！一觉醒来怎么变成猫娘了|||
+778334|||女尊：末日天命女主都想得到我|||
+778337|||落魄骑士小姐想要活下去|||
+778041|||重生域外天魔，我夺舍了魔道妖女|||
+778524|||白龙与葱烧海参的夏日回忆|||
+778118|||那个毫无包袱对你说喜欢的女孩|||
+777818|||我才不是血姬，更不是血族的公主|||
+496559|||我在游戏异世界开酒馆|||
+777894|||神秘复苏之民国苟活|||
+778452|||不是，你们变强靠贴贴？|||
+778523|||哈瓦拉之城|||
+778507|||便利店魔王与勇者转校生|||
+778135|||开局和美少女开一局|||
+778126|||黑猫酒吧|||
+778366|||不慎被捡来的小病娇缠上了|||
+778296|||人在奥特，我是银河巨神|||
+778115|||逆鳞系统：校园弃女的逆袭之路|||
+774169|||战地士兵从崩坏开始的异世界之旅|||
+778207|||迷途魔女与小学徒的悠哉生活|||
+778032|||可攻略女主角扮演中|||
+778326|||我都恶役了，女主们还倒追？|||
+778519|||血女之路，道阻且长|||
+778520|||星空下的守夜人|||
+778200|||创神之路|||
+778137|||丰川祥子才不想变成魔女|||
+778056|||与诡的圣典|||
+776159|||在充满科学的世界成为战争魔女|||
+777940|||穿越斗罗，只和女生一起修炼|||
+778183|||转生圣女，我的分身都是灾厄|||
+778005|||赛马娘出身却只想当训练员|||
+778018|||打工吧！非常规魔法少女|||
+778275|||综漫：独属于我的救赎之旅|||
+778482|||我废柴系统怎么把女主变成病娇了|||
+777909|||转生恶役千金，为了活命饲养魔王|||
+778385|||镇徒至尊|||
+778417|||失忆血姬小姐，今天也在打工还债|||
+778080|||乡下的问题少女怎么都想强制爱|||
+778445|||这个精灵不太冷|||
+778225|||魅惑圣女，只想被大小姐们欺负|||
+778217|||身为魔女的我也能成为魔法少女？|||
+778071|||重生的我，不想变成她们的笼中雀|||
+778151|||射雕：周光武帝郭靖|||
+778508|||因为交际所以麻烦的高中生活|||
+778343|||这修仙界真的正经吗？|||
+778509|||平凡的我终将在异世界里不平凡|||
+778064|||不夜町异闻录|||
+778500|||贪|||
+778465|||重生后，爱神的娘化大冒险|||
+777932|||我的情人遍布修仙界|||
+778162|||幼小村姑只想为美好世界献上绝望|||
+778321|||雨后，我与她的恋爱进度条刷新中|||
+778338|||青崖囚月，师姐予我以情深|||
+777891|||只想开酒馆躺平，怎么都来当店员|||
+778504|||兄弟成女友，她说做什么都可以|||
+778085|||让你们抱憾终身，怎么都来找我了|||
+778076|||战败魔王才不会被圣女狠狠欺负|||
+778501|||凤轻辞，到此一游|||
+778357|||获得超能力后，我来改造世界|||
+778395|||君子不死君子不死然后是君子不死|||
+778386|||天才主播才不会被榜一大姐开盒|||
+778488|||危机时刻|||
+778320|||仙子别拔剑，还是考验软肋吧|||
+778435|||幕后反派的我怎会如此软糯香甜？|||
+778169|||3比1的恋爱是否过于扭曲？|||
+778182|||堕落魔女的我不想被圣女强制贴贴|||
+774574|||娇娇妹宝甜又撩，权贵大佬争着宠|||
+778216|||战士之村的魔剑贤者|||
+778307|||别挣扎了，人类小姐|||
+778048|||被病娇关住强制爱，不想逃了咋办|||
+778494|||别闹魔龙，我不想再带孩子了|||
+778168|||背负诅咒，寻找二十七星赐者|||
+778448|||我不想再忘记你，雨宫同学|||
+778392|||人偶小姐要养成过去的自己！|||
+778492|||诡压七阶|||
+778149|||高岭之花同学，在看我手中的咖喱|||
+778439|||魔王大人你就认命吧|||
+778248|||都嘉豪了，她们怎么还没喜欢我|||
+778480|||我的女友竟是我的兄弟|||
+778327|||天骄转生十四岁少女|||
+778423|||溺于苍穹|||
+778209|||先生，您的精灵小姐已邮寄到家！|||
+778391|||本不该相遇的我们|||
+778382|||什么？原来我也可以变成龙？|||
+778178|||被巨魔逼婚的我，误入校园修罗场|||
+778279|||我与乐队少女们的校园恋爱日常|||
+778189|||双身魔女被圣女们偏执圈禁|||
+778349|||温斯洛普的幸福|||
+778195|||欢迎加入自救部！！|||
+778197|||全世界的追梦魔法师|||
+777848|||穿越银发白毛美少女网恋室友麻了|||
+778177|||一台脱控机兵如何飞升星海传奇？|||
+778379|||魔女小姐，你的装备掉了|||
+778378|||扮演系统：开局成为寰宇巨星|||
+777989|||蔚蓝档案：漂泊的奇迹之光|||
+778277|||灰烬与圣冠|||
+778280|||契约之后，她们缠上了我|||
+778038|||fate人活着就是为了伊莉雅！|||
+778374|||伤心内脏|||
+778358|||第七天的雨宫同学|||
+778278|||神异当铺：契约美少女为我打工|||
+778298|||重生剑之圣女却成了她们的白月光|||
+778086|||什么叫被未来的自己设局娘化了？|||
+778355|||穿越异世界，什么叫我是魔王之女|||
+778138|||古董店老板娘又把谁变成魔女了？|||
+778114|||我只是想要爆款新闻啊|||
+778348|||双生：空酱与新酱的崩铁之旅|||
+778218|||世界末的我与我|||
+778077|||西幻血姬在修仙世界如何生存|||
+777726|||退队炼金师小姐又被勇者拐走啦！|||
+778228|||佛系少女才不是宿敌血族的娇妻|||
+778231|||和阴阳眼老板娘的怪谈回收日志|||
+778039|||干掉她队友后，神官小姐缠上我了|||
+778336|||无限列车byRin|||
+778297|||病娇魔女穿进副本，拐跑邪神|||
+778312|||算命先生说我命犯桃花|||
+778314|||神人同学太多了|||
+778310|||被神明变成魔女，然后讨伐魔王？|||
+778308|||精灵公主与冷酷大魔王的爱情|||
+774280|||主神空间的游戏|||
+778259|||喂喂|||
+778130|||魔女后，全队学姐都在贴贴|||
+778285|||恶龙获得公主的办法|||
+778292|||诗雨江南大学城那边|||
+778185|||闭嘴魔女，我不是你的掌中玩物|||
+778150|||上任蜂后，在异世界奴役蜜蜂娘|||
+778230|||梦想天使|||
+778094|||铠甲勇士开局帝皇铠甲|||
+777992|||与冰山魔法少女的战斗和日常|||
+778117|||灰色寒冬，第一篇章澄清篇|||
+778274|||穿越崩坏三，但我只是一个厨子啊|||
+778258|||偶像被抓到异能学院贴贴|||
+778271|||星星的引力|||
+777935|||转生精灵公主，目标美少女全收集|||
+778263|||诸天兄弟成仙，子了|||
+778003|||关于隔壁女生总找我帮忙这件事|||
+778253|||深夜档案馆|||
+778078|||樱花凋零之日，命运重启之时|||
+778246|||与贵族大小姐的兄妹扮演|||
+778204|||请等一下，我真不是魔法少女啊！|||
+777976|||我们的终焉，世人之始途|||
+778242|||心爱之人早已把我写进他的故事里|||
+778164|||全世界都被AI托管，除了我|||
+778235|||烬夜神谕|||
+778198|||精灵女王今天也在伪装呢？|||
+778208|||穿成反派后我成了万人迷|||
+777872|||说好的先强带后强，我可没骗你们|||
+778226|||盗墓，满级古武麒麟女杀疯了|||
+778112|||魔法少女莉莉莎|||
+778224|||病娇魔女请退队！我是若只反派？|||
+778148|||魔法少女我真得狠狠控制你|||
+778119|||藏匿在内心某处|||
+778211|||神秘复苏，她的学生个个都是大佬|||
+778160|||这个世界正在褐色，而我为你着色|||
+778120|||嘘嘘哗啦哗啦的声音很是悦耳吗？|||
+777264|||时停大姐姐不会遇到杂鱼雌小鬼|||
+778192|||约战我才不是辣妹是魔术师|||
+778082|||狗男主，我要让你体验缅北二游！|||
+778146|||转生圣女小姐却被她们喜欢|||
+778184|||救命，我竟然转生成了耶稣基督|||
+778173|||对纵容下流魔法的勇者产生爱意|||
+778170|||今天的选项依然蠢女孩好感依旧涨|||
+731539|||凡者成舞|||
+778081|||彼岸城I：黑色元年|||
+778166|||不要!凡人的我如何在修仙界混|||
+778002|||我的攻略门扉开在xx天堂里！？|||
+778144|||天青色的契约|||
+778084|||少女前线钢铁与雏菊|||
+778116|||邦布的異界大冒險|||
+777995|||宝石精灵与世界的终焉|||
+777985|||癌症后为仙子疯狂氪金|||
+778044|||灭世魔女？都给我善堕成魔法少女|||
+777980|||超凡世界的恶魔娘绝对不会死|||
+778125|||大小姐的攻守异形指南|||
+777977|||新转生之乙女不是那么好混的|||
+778014|||忘川逸事录：这帮大佬也太难带了|||
+778009|||修学流浪，每个城市都欠一场恋爱|||
+778128|||我靠反套路修成修仙界第一显眼包|||
+777655|||恰如流星萤火般的爱恋|||
+777983|||我只是块石头，你们想要干嘛？|||
+778106|||半盏绿焰|||
+777933|||媚魔小姐，请收下今天的KPI吧|||
+777988|||全都怪邪神让牧师小姐嗜赌如命|||
+777728|||我转生成少女后，依然要做你老子|||
+778052|||从零开始的异世界国王生活|||
+777987|||幻影王之翼|||
+777997|||生化危机：里昂的好哥们我吗？|||
+778059|||旮旯给木的生活|||
+777949|||非少女之魔法少女的战斗义务|||
+777944|||失忆的我当上了魔都精兵的新组长|||
+778037|||道法第一|||
+777566|||在这个SB世界观下的我只想活着|||
+777955|||全垒打心跳：棒球版樱木花道|||
+777970|||魔女最后的心|||
+777844|||被精灵少女看上了|||
+777934|||不听话就关起来好了|||
+777991|||藤原妹红的不死纪行|||
+778016|||凡骨踏仙痕|||
+776818|||潮汐之塔|||
+777994|||穿越到女尊世界总是被欺负|||
+777921|||被魔法少女俘虏后她对我关爱有加|||
+777946|||初始反派角色不是男主|||
+778011|||穿越成杂鱼傀儡也想生活|||
+777967|||哥斯拉：寄宿者传说|||
+777982|||战败成为宠物|||
+777918|||转生魔女的异世界日常|||
+775865|||宠物？我才不是！|||
+777954|||我只是个药剂师，没有那样的力量|||
+777910|||救赎原典|||
+777852|||深感煎熬的魔女|||
+771571|||雪花那样的她，终将如玫瑰般绽放|||
+778425|||图鉴猎人失业之后|||
+778214|||恶役魔女渴求安稳|||
+777820|||星旅师的中世学园故事|||
+778176|||神坛的灰烬|||
+778518|||想要成为别人的白月光然后死去|||
+778266|||魔女小姐与圣女阁下的共生法则|||
+777957|||水之魔女的相册|||
+778000|||青梅还在热恋，她们却偷改我常识|||
+777904|||記憶的彼岸|||
+778090|||无限轮回：被诅咒的奇迹少女|||
+696712|||连体！我和她的异世界物语|||
+654593|||妖怪名单：我有一剑|||
+107362|||某病娇正太的综漫|||
+731221|||傲娇血姬？是超有爱的贴贴老婆！|||
+687905|||魔王被讨伐后，被勇者各种玩弄|||
+676466|||我想要的异世界|||
+408197|||在妖怪名单的师傅是宇智波斑|||
+669558|||我变成克系魔法少女|||
+55111|||迪尔米塔记事·羽落之剧|||
+66211|||子弹时间中的逆心者|||
+694304|||变成双子的我往来于两界之间|||
+66740|||火影忍者未来之眼|||
+230410|||手持系統在地下城橫行|||
+240721|||小小血族的进化史|||
+107079|||重生之火影|||
+297227|||替身使者在鬼灭之刃|||
+642395|||辅佐她登上皇位|||
+697536|||这是魔女的故事|||
+745012|||圣女大人才不会爱上催眠勇者|||
+746725|||柑橘公主的香香枕头被魔女偷走了|||
+691029|||未来圣子的女儿不可能是哥布林|||
+742638|||听雨穿越|||
+82374|||病娇姐姐是勇者|||
+81190|||进击的性转妹子军团|||
+188870|||进击的巨人第一季|||
+185716|||假面骑士剑的漫游|||
+735930|||假面骑士响鬼的同人文|||
+145727|||為美好的世界獻上爆裂魔法|||
+422008|||印纹默诗|||
+374593|||在魔圆的世界里成为魔女的故事|||
+550637|||病娇竟是我自己|||
+589922|||转生吸血姬，但是很强|||
+700412|||少女与鱼|||
+337247|||斗罗大陆我穿越变成霍雨浩无敌啦|||
+734397|||开局强上银龙女王|||
+63555|||我被传唤到异世界当国王？|||
+100145|||黑之契约者|||
+36598|||学战绯兰多的八重之樱|||
+121350|||第二次弑神之战|||
+137044|||地狱乐园计划|||
+254917|||娜塔莉的魔法成长实录|||
+47021|||简单易懂的冒险故事|||
+210424|||魅塔骑士的异界冒险|||
+137690|||深渊之种|||
+105143|||约会大作战之救赎之路|||
+331688|||作为恶龙的我无奈只好绑架公主|||
+106597|||灰之幻想|||
+120892|||花儿与少年的守护|||
+492246|||女孩子的我竟被反向攻略|||
+685508|||三国杀全武将|||
+531182|||我在被车祸后转生到异世界的冒险|||
+601997|||这个心魔有点蠢|||
+35567|||獵獸師|||
+42465|||失乐园（一番）|||
+46596|||神魔的穿越之旅|||
+52216|||衣柜里的女孩|||
+49172|||罪城失却|||
+59835|||我被附身成魔法萝莉|||
+85002|||论病娇与后宫共存的可能性|||
+89028|||在異世界就沒有記憶完整的一天嗎|||
+205843|||99999个复活币的哥布林|||
+180958|||无证勇者太受欢迎|||
+224726|||成为最强先从攻略美少女开始|||
+161254|||与乳牛系爱妻的婚后生活|||
+163173|||听说穿越到异界的死宅都脱宅了|||
+165616|||一个无人所知的故事|||
+131282|||我是勇者但我想成咸鱼|||
+99196|||魔王勇者是对冤家|||
+292483|||被变成了女孩子|||
+360325|||史萊姆的附身之旅|||
+700816|||我转世成了一把剑|||
+747846|||转生的异世界日常|||
+746094|||转生小龙娘的我绝不会屈服龙族！|||
+740260|||星游记回忆录：克拉篇|||
+39622|||存在零的世界S|||
+39909|||青丘物语|||
+43661|||信仰者|||
+40746|||契约未达的奈法莉亚|||
+49158|||弑神殿-凶|||
+48587|||圣大陆除魔记|||
+48019|||回忆酒吧|||
+48162|||蝎与精灵的神化之途|||
+53574|||玩网游的大小姐要成为首席|||
+85847|||我转生来到了召唤师世界|||
+81977|||战法剑圣的神之领域|||
+82213|||遮天之人道无敌|||
+129797|||不科学的次元旅行|||
+142687|||成为龙骑士的我却是被骑的那只|||
+151570|||由乃的崩坏之旅|||
+164298|||业余爱好是勇者养成的漆黑魔王|||
+211672|||火影之|||
+556261|||勇者的堕落|||
+746600|||白毛少女初拥我，化身血族始祖|||
+97458|||堕落or救赎|||
+103489|||最强剑术传承者与不平凡的日常|||
+70580|||奏响吧！献给魔王勇者的安魂曲|||
+70843|||龙族的雨希三龙子|||
+62077|||灵帝 天之殇|||
+77627|||东方八云紫遇见八云紫|||
+35242|||苍术之歌|||
+42422|||香巴拉的遗产|||
+42167|||被魔王选中的我要被推倒了？|||
+43276|||灭龙侠之歌|||
+43709|||某科学的基本作力|||
+47329|||大家的反派不可能这么糟糕|||
+46527|||神裔：脆弱的女武|||
+51583|||傭兵公主X神使繪卷|||
+54404|||选择战斗者，3分与23时57分|||
+56631|||猎杀世界之芯|||
+127098|||我在斗气横行的时代当炼金法师|||
+138030|||我在异世界植树造林|||
+145275|||父控女儿|||
+427208|||幻想收录册|||
+370875|||神话世界世界构成|||
+378568|||我被作为英灵召唤到二次元|||
+581167|||身为天灾幼龙姫的我要向她复仇|||
+181205|||狂噬转生I品尝神灵的滋味|||
+211306|||归宿1|||
+183148|||错误代码404|||
+666211|||转生成最弱魔王女儿之后|||
+648780|||异世的存在|||
+232711|||创神计划|||
+260052|||双人穿越刀剑神域|||
+267114|||我叫漩涡鸣子|||
+284363|||魔法世界的蛮力超人|||
+325086|||这不是哈利波特|||
+347836|||成为血姬前往异界|||
+713455|||浪漫冒险谭|||
+778058|||我买的卑微少女，竟是未来魔王|||
+778083|||花香满溢的异世界调香师|||
+332488|||迟暮骑士踏上约定的回程|||
+661416|||宝可梦世界的迷人少女！|||
+615059|||断更后，码字姬的自我救赎|||
+46763|||丘比才不要死！|||
+731580|||一魂双体，但是转生史莱姆了|||
+701582|||养成失败贤者妈妈被反派女儿萝变|||
+648629|||救命！牛头反派的我竟被女主盯上|||
+471587|||我的恋人竟是血族女王|||
+45637|||夕落的旅途|||
+169058|||猎魔人的我变成血族之后|||
+699205|||全班穿越，被背叛的我登临最强|||
+673320|||剑圣少年不想成为血族公主|||
+344863|||弹丸论破之当你拥有了绝对的实力|||
+683170|||约战之男孩子也要嫁士道|||
+602401|||在下后山银巨神，有何指教！|||
+484695|||硝烟之上|||
+198525|||被幻想所侵染的时代|||
+57902|||失忆的我在末世被当成了色情狂|||
+277904|||逆天魔神搞事情|||
+58831|||白羽族|||
+60211|||无限神域|||
+183887|||毁灭世界的滑稽小姐|||
+131578|||天玄地魄|||
+230598|||龙的工匠守则|||
+235797|||我的异能是变成女孩子|||
+355286|||吸血子的奇妙冒险|||
+564935|||怎么都说我是魔女|||
+725080|||绝世唐门：魂导器和假面骑士|||
+750051|||羅爾政委征戰錄|||
+52637|||真实梦境|||
+87815|||我实在想不出名字反正很6就是了|||
+138114|||阴阳师才不萌妖怪嘞|||
+162727|||我在异界开后宫正妻却在搞百合|||
+378102|||失忆的将军|||
+381772|||某白毛网骗的奇妙冒险|||
+738979|||幼龙！别一脸嫌弃自称我妈妈！|||
+747101|||你在干什么!骑士不是你这样的！|||
+59171|||唐小藏参上|||
+60865|||邪恶的魔王|||
+40959|||银色大陆|||
+43546|||只会说漫才的我才当不了魔王呢|||
+53521|||苍银的魔法世界|||
+57113|||唯独一人信仰的神|||
+118651|||时空乱流的大妖|||
+124877|||毫无存在感的我成了最强刺客|||
+605208|||诡异世界，但是守护甜心|||
+248122|||万界时空聊天群|||
+287006|||异现穿越的断尾少女要改变异世界|||
+430916|||身为吸血鬼的我竟然拥有圣光属性|||
+389122|||那一天我遇见了死神|||
+494703|||名为虚无的约会|||
+116697|||穿越到异世界后我成了不死之身|||
+511100|||穿越成女剑仙的我想当普通人|||
+715198|||我穿越进了二次元领主游戏|||
+589917|||魔法少女Miraitown|||
+400487|||才不是正义的银龙姬呢|||
+186162|||我的世界梦幻之旅|||
+240551|||世上最后的5人|||
+506161|||回到极北之国|||
+90994|||我仍在追寻那不曾存在的圆舞曲|||
+206463|||少年的作死之路|||
+659491|||转生成龙娘的我踏上复仇之路|||
+45586|||妖精尾巴之冰龍|||
+443834|||觉醒之日这一次一定会保护你们|||
+659763|||血族公主才不会被龙姬小姐诱拐|||
+55196|||黃道神帝|||
+194941|||重生成混血血族的我略强|||
+138751|||创世神的门扉|||
+34482|||萝莉汁|||
+57331|||不思议的动漫之旅|||
+97370|||异界召唤佣兵系统|||
+183895|||关于我转生后为所欲为|||
+604544|||时空轮回者艾米莉雅篇|||
+55223|||外挂派送专员的工作记录|||
+422089|||为了女仆少女的爱我什么都能做到|||
+206501|||主角是精灵萝莉|||
+252383|||穿越到崩坏3却和奥拉扯上关系|||
+107630|||我的老婆是个可以毁灭世界的伪娘|||
+683555|||屑天使的试炼游戏|||
+678328|||糟糕，恶龙落入了勇者的陷阱！|||
+664644|||这么抽象的异世界才不要啦！|||
+466295|||被虐的变酱|||
+209233|||异界狐娘生存法则|||
+526648|||变成魔女后我被病态怪异盯上了|||
+521118|||变身暗黑女王黑化全世界|||
+286882|||人类少女与血族女王|||
+529473|||论如何在世风日下的世界风声水起|||
+36315|||堕落骑士的王国|||
+166062|||能一只手干翻的我从不废话|||
+59510|||我成萌妹子了|||
+55996|||精灵王？别开玩笑了|||
+700170|||女尊世界非要叠上克苏鲁buff|||
+694854|||骂谁坏女人呢！|||
+469884|||正经人谁玩男角色|||
+716015|||转生在充满魔物的世界里当女帝|||
+386630|||血雨星恒|||
+465418|||在火影中的我转职玩枪械|||
+590802|||背刺我后，她们悔成了火葬场|||
+585351|||幼龙姬的我才不想当游戏boss|||
+186043|||命运伪萝的无限次元重生|||
+137299|||宠魅序传|||
+79770|||我在异界的故事|||
+169306|||天境之域|||
+345579|||穿越异世界的我被迫成了魔神|||
+21095|||粹暗之契|||
+70105|||白岩射手|||
+109333|||以罪恶之名|||
+182259|||全职神官|||
+87878|||刺杀了上帝的我逃到了异世界|||
+245748|||当魔法少女变成了反派|||
+45487|||边疆：沙之远方|||
+75253|||灵动|||
+52058|||无限战纪|||
+58203|||为何我的身边出现后宫|||
+539041|||圣安黛娜学院才不会培养橘味学生|||
+437277|||乱流里的少女们都在追着欺负我|||
+394066|||神明所存在的世界|||
+66774|||妖精与少女的轮舞|||
+675602|||无法升级的我怎么会被大神盯上|||
+90393|||我这魔王娶了一个奴隶精灵当老婆|||
+169538|||萨兰斯杂货店|||
+591198|||M2：因游戏而成为女神眷属的我|||
+30841|||幻想桃源乡|||
+124201|||左轮手枪与兔子与刀|||
+191154|||在异世界靠邂逅生存是不是搞错了|||
+214227|||凡人们|||
+205662|||末世后该干嘛来冒险么|||
+432297|||二次重生的我成为最强|||
+363709|||成为穿越者遣返员的我被疯狂倒追|||
+650412|||窃星皓月时|||
+778505|||原神，但开局捡到的是盏灯|||
+778380|||纯良魔女小姐才不会沦为圣女走狗|||
+778496|||随想散文|||
+778410|||我许下了一个，没有你的愿望|||
+778427|||仙子请自重我真不想吃软饭|||
+778254|||永夜中的微光|||
+778066|||凡尘旧梦|||
+778350|||从苹果摊开始的假面骑士ZZZ|||
+778353|||火影：斑爷今天也在干农活吗？|||
+778347|||彼方的低语|||
+778302|||异世界升级：无限系统|||
+778008|||与太阴仙子一体双魂的我绝不吃瘪|||
+778092|||极术之域|||
+778026|||罗德岛的幻想乡日常|||
+777702|||守星人|||
+775852|||你别取笑自己想做的事情啊|||
+777942|||被同学嘲笑变成真菌娘真的不好玩|||
+777240|||我在全努防御病娇们疯狂的攻击|||
+778240|||第七次缝补，她忘却了自己的名字|||
+777866|||择天伐物|||
+778315|||穿成太子妃，我靠豆包架空太后|||
+778223|||我把兄弟当大哥，兄弟把我当老婆|||
+685483|||重生之后，我与他们的梦幻之旅|||
+72504|||为衰落的魔魅宗献上大宝剑|||
+633014|||重生霍雨浩之认清唐三|||
+438168|||我可是魔王|||
+166521|||斗破苍穹之02创世复苏|||
+260232|||我在逆转的世界为所欲为|||
+177741|||死神之子创世神之女|||
+178253|||终焉的西琳|||
+531668|||宝可梦，我的搭档是伊布|||
+639456|||转生血族后我的异世界之旅|||
+347465|||可爱的师兄你喜欢吗|||
+594630|||穿越斗破后，我变成了游戏角色|||
+749187|||炮灰圣女，怎么就成你们白月光了|||
+640837|||霍雨浩之开局就摊牌|||
+765739|||哥布林女王|||
+764401|||也没人说炸单会变龙娘啊！|||
+166166|||师傅怎么感觉爱上你了|||
+667441|||转生为鸾鸟的我，在这个世界成仙|||
+667665|||衍|||
+748729|||龙族：变成美少女的我才不要嫁人|||
+213076|||飞升失败的我穿越异界被柴刀预警|||
+156974|||快穿之反派大人|||
+322659|||无限世界，从被主神变成富江开始|||
+578841|||我是个写书人但也是个旅客|||
+516624|||成为暗黑公爵的宝贝女儿|||
+583685|||我剑圣，领养个魔王女儿不过分吧|||
+148905|||修仙什么的不存在的|||
+213207|||凌妃传|||
+181003|||不懂爱的月老与狐妖所诉说的爱情|||
+292148|||斗罗大陆之天命降临|||
+602377|||穿越只能修真，拜托这是西幻世界|||
+672866|||旱魃游世记|||
+641120|||仙书|||
+704958|||战败，魔道监狱里沦为仙子的玩具|||
+736749|||某不科学的约会大作战|||
+722491|||二周目，天机小姐的主角恶堕计划|||
+465551|||把我变成血族之后还想要怎样|||
+419908|||投胎成白蛇我只好化龙了|||
+743805|||我卧底的正派圣女不对劲！|||
+378285|||斗罗之我真不是女的|||
+540423|||路明非从零开始的斗罗|||
+746687|||穿成恶毒千金后想洗白求原谅|||
+750730|||真假千金玩转灵幻界|||
+500974|||一魂双体之玄界|||
+351916|||人鱼与喵娘的奇妙日常|||
+618221|||屑魔女，不过在提瓦特|||
+321800|||穿越到女尊世界的我自带魅惑系统|||
+269350|||怨灵|||
+178515|||天才少女的修仙之路|||
+317973|||命运之始遇妖狐|||
+628644|||友谊山之流浪宇宙|||
+528754|||李宇列传之残帝无双|||
+463691|||父母是圣尊魔皇的我同是圣魔道子|||
+286022|||只要小说名字够长也可以叫轻小说|||
+507247|||我才不要与黑化仙子们双修|||
+681185|||少女的斗罗通关指南|||
+411685|||转生成为魔王又如何|||
+737415|||只是假装道侣怎么都来吸我修为？|||
+405991|||转生狐妖的我被凤凰公主掳走了|||
+594038|||黃坂市的十三个人|||
+203687|||身为帝师却要和女徒弟们躲猫猫|||
+384097|||身为店小二的我为什么要被逼婚|||
+498146|||成为美少女的我又成了御兽灵师|||
+456752|||我真的是个废柴啊|||
+43471|||孙悟空是傲娇女孩不是常识吗？|||
+301588|||九星混沌诀|||
+463041|||穿越了我不小心把魔神娶回家|||
+695300|||卧底正道的我，绝不会被仙子清算|||
+213818|||我家未婚妻不可能这么高冷|||
+415715|||魔门有女名苏瞳|||
+571439|||宗门被灭的我只好祸害世界|||
+441348|||斗罗之九尾乱世|||
+712829|||莫亚谛斯很无聊！|||
+505309|||重生之绝不再做热兵器|||
+631812|||我的室友不可能是女生|||
+267112|||人生养成游戏|||
+558673|||黄毛反派的我总被女主们唤醒本能|||
+560643|||虽然吃软饭但我不是小白脸|||
+556664|||即使是萌妹，也绝不成为小宝贝|||
+554279|||我为什么不能摆脱她们的控制|||
+672968|||我的青梅竹马居然是女孩子|||
+382478|||请把同居校花当成猫咪来养|||
+728436|||黑化少女爱上我|||
+502968|||身陷病态的生活|||
+149228|||名为孤独的不治之症|||
+417419|||现在我变成了她|||
+521069|||优游自如的我该如何对待未来|||
+504435|||关于因为我手贱变成美少女这件事|||
+437977|||我的柠檬味黑化女友只娇不病|||
+150222|||修真杨少泽|||
+48667|||名为配角的恋爱循环|||
+373585|||闹着笑着静静笑着|||
+136408|||老师的我竟被自己学生反推|||
+510705|||接吻后，成为恋人|||
+572347|||无色少女的虹色生活|||
+69762|||我变身异界公主了|||
+278056|||我的女友果然有问题|||
+680136|||于是，阴湿宅女成为了魔法少女？|||
+273709|||不知为何前女友依然黏着我|||
+778414|||抱歉，我是无神论者|||
+778251|||子承父业，什么叫我爸是魔法少女|||
+778477|||男娘也要谈女朋友啊喂！|||
+778036|||我只是想好好交个朋友|||
+777981|||女尊:捡到病娇养在家|||
+778436|||想要回家的我却遇到了无助的你|||
+778421|||天才的日记本|||
+778282|||侦探小姐才不会死呢|||
+778371|||等雨|||
+778257|||不要把小血姬调成宠物啊！|||
+778190|||说好美少女游戏交流群，游戏呢？|||
+778171|||穿进gal中，解锁各种CG|||
+778087|||水镜之城|||
+778100|||蚀刃|||
+778096|||蚊孽|||
+778409|||花期延误|||
+778456|||成为少女，从一开始就被死党盯上|||
+778072|||久世咖啡馆|||
+778372|||落尽诡幕无寒心|||
+769755|||请听见我们的心声|||
+768206|||骑士系统在手，但我只想活下去|||
+768735|||安杰娜的四季小镇|||
+34785|||同人集|||
+277264|||渣男的我被变成了女孩子|||
+159651|||我的食尸鬼女友|||
+394961|||变身我能怎么办|||
+737512|||小南梁|||
+723416|||玉琉璃|||
+43681|||雪球|||
+89258|||果然同父异母的妹妹不好应付吧|||
+135522|||我只是金丝雀|||
+108735|||我直播时的经历|||
+430322|||她想骗我谈恋爱|||
+522516|||有个人的故事|||
+691311|||遇见绿茶妹妹我直接发癫|||
+740770|||仙帝的我穿越后被读心很好笑吗！|||
+633036|||改变世界的方式有很多|||
+704645|||变女孩后，哥哥竟然不争家产了？|||
+741337|||我魔法少女怎么可能是邪恶干部！|||
+223490|||仅一人之下|||
+193940|||我传奇铁驭怎么会跑到约战里来|||
+543731|||变成血族真祖才不会被她们欺负|||
+501852|||身为宅女的我竟然会被刺杀|||
+759418|||笼中之蝶|||
+702633|||我都从良了怎么还不放过我啊！|||
+717591|||里游NPC，怎么玩家都想攻略我|||
+222695|||冰帝的位面之旅|||
+171619|||不死者和谐生活指南|||
