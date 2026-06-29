@@ -10103,6 +10103,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 검은마법사|||Black Mage
 검은머리|||Black Hair
 검은머리미군대원수|||Black-Haired US Marshal
+검은비|||Black Rain
 검은신화|||Black Myth
 검은양복|||Black Suit
 검은양복TS|||Black Suit TS
@@ -10579,6 +10580,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 곤장|||Caning
 곤충|||Insect
 곤충계|||Insect Type
+곤충괴수|||Insect Kaiju
 곤트|||Gonta
 골드런|||Gold Run
 골드쉽|||Gold Ship
@@ -10774,6 +10776,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 관계의존|||Relationship Dependent
 관계중심|||Relationship Focus
 관계파탄|||Relation Breakdown
+관계회복|||Relationship Recovery
 관광|||Tourism
 관능|||Sensual
 관능판타지|||Sensual Fantasy
@@ -10908,6 +10911,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 교류|||Exchange
 교미|||Copulation
 교배|||Breeding
+교배아저씨|||Breeder Uncle
 교복|||Uniform
 교사|||Teacher
 교생실습|||Student Teaching
@@ -11087,6 +11091,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 굴렁쇠|||Marble
 굴렁쇠주인공|||Marble Protagonist
 굴려지는주인공|||Rolled MC
+굴림남주|||Manipulated ML
 굴림판타지|||Gacha Fantasy
 굴복|||Surrender
 굴욕|||Humiliation
@@ -11558,6 +11563,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 기술명외치기|||Technique Shout
 기술뽕|||Tech Buff
 기술스릴러|||Tech Thriller
+기술융합|||Technology Fusion
 기술자|||Engineer
 기술자히로인|||Tech Heroine
 기승떡|||Build Climax Sex
@@ -11908,6 +11914,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 나태|||Sloth
 나태남|||Lazy Man
 나태한|||Lazy
+나태한주인공|||Slothful MC
 나팔꽃|||Trumpet Flower
 나폴레옹|||Napoleon
 나폴리탄|||Neapolitan
@@ -13633,6 +13640,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 두뇌배틀|||Brain Battle
 두뇌싸움|||Brain Battle
 두뇌전|||Mind Battle
+두뇌추리극|||Cerebral Mystery
 두뇌캐|||Brain Char
 두뇌파|||Brain Faction
 두뇌파주인공|||Brain Protagonist
@@ -17402,6 +17410,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 비밀여주|||Secret Female Lead
 비밀연애|||Secret Dating
 비밀연애였던것|||Secret Romance
+비밀요원|||Secret Agent
 비밀의술집|||Secret Bar
 비밀정체|||Secret Identity
 비밀조직|||Secret Organization
@@ -18217,6 +18226,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 생명은소중이|||Life Precious
 생물|||Creature
 생물병기|||Bio Weapon
+생산|||Production
 생산계|||Production Class
 생산계능력자|||Production Ability
 생산직|||Production Job
@@ -19631,6 +19641,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 스피드런|||Speedrun
 스피드로이드|||Speedroid
 스피드스터|||Speedster
+스피릿|||Spirit
 스핀오프|||Spin-off
 스핀짓주|||Spinjitzu
 스핏|||Spit
@@ -22697,6 +22708,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 완결까지|||To Completion
 완결까지힘내자아아아|||Finish Cheer
 완결보장|||Completion Guaranteed
+완결예정|||Completion Planned
 완결지향|||Completion Aim
 완구|||Toys
 완몰가|||Totally Unknown
@@ -23449,6 +23461,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 유사스핀오프|||Pseudo Spin-Off
 유사시한부|||Pseudo Terminal
 유사아카데미|||Pseudo Academy
+유사아카데미포함|||Pseudo-Academy Included
 유사암타|||Pseudo Fuck
 유사연애|||Pseudo Romance
 유사연애확대재상산|||Pseudo Romance Expansion
@@ -24176,6 +24189,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 인대살|||Tough Meat
 인도|||India
 인듯|||Seems Like
+인디게임시나리오|||Indie Game Scenario
 인디크로스|||Indie Cross
 인류|||Mankind
 인류기원|||Human Origin
@@ -24993,6 +25007,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 저스티라이저|||Lost Tyrant
 저스티스|||Low Justice
 저승|||Afterlife
+저승라이브|||Underworld Live Stream
 저승사자|||Grim Reaper
 저승차사|||Low Win Reaper
 저여자와|||That Woman And
@@ -25538,6 +25553,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 제발써주세요|||Please Read
 제뱌찌|||Jebya Ji
 제복|||Uniform
+제빵|||Baking
 제빵사|||Baker
 제사|||Ritual
 제사마|||Jesama
@@ -26441,6 +26457,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 짭성경|||Fake Bible
 짭성녀|||Fake Saint
 짭중세|||Fake Medieval
+짭켓몬|||Fake Pokemon
 짱구|||Ziggu
 짱구는못말려|||Crayon Shin-chan
 짱구루트|||Crayon Shin-chan Route
@@ -26598,6 +26615,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 창작환상체|||Original Fantasy Creature
 창잡이|||Spear User
 창조|||Creation
+창조능력|||Creation Ability
 창조마법|||Creation Magic
 창조신|||Creator God
 창조자|||Creator
@@ -26607,6 +26625,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 창피|||Embarrassing
 찾아|||Find
 찾아서|||Finding
+채권추심|||Debt Collection
 채무|||Debt
 채식|||Vegetarian
 채온자|||Heat Slave
@@ -26973,6 +26992,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 초불가사의던전|||Super Mysterious Dungeon
 초비정기연재|||Irregular Updates
 초상여명기부터|||From Dawn Portrait
+초상현상|||Portrait Phenomenon
 초선|||First Time
 초성신|||Super God
 초속변형|||Super Speed Transform
@@ -27529,6 +27549,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 커맨더|||Commander
 커뮤|||Community
 커뮤니티|||Community
+커뮤니티조금|||Some Community
 커뮤물|||Community
 커뮤약간|||Community Light
 커뮤장애|||Comm Disorder
@@ -28273,6 +28294,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 투신전생기|||War God Rebirth
 투영|||Projection
 투자|||Investment
+투자자|||Investor
 투쟁|||Struggle
 투쟁은계속된다|||Struggle Continues
 투표용|||Voting
@@ -28780,6 +28802,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 평행세계이론|||Parallel World Theory
 평행우주|||Parallel Universe
 평행이론|||Parallel Theory
+평행지구|||Parallel Earth
 평행차원|||Parallel Dimension
 평화|||Peace
 평화로운|||Peaceful
@@ -29421,6 +29444,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 하이쿠|||Haiku
 하이큐|||Haikyuu
 하이테크|||High Tech
+하이테크고대|||High-Tech Ancient
 하이테크노로지|||High Tech
 하이틴|||High Teen
 하이틴러브코메디|||High Teen Comedy
@@ -30008,6 +30032,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 혈계전선|||Blood Blockade
 혈공|||Blood Gong
 혈교|||Blood Cult
+혈교주|||Blood Cult Leader
 혈귀|||Blood Demon
 혈류술사|||Blood Mage
 혈마|||Blood Demon
