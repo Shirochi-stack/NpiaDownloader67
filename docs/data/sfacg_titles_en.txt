@@ -224427,7 +224427,7 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人||||Time Disaster: I Cannot Kill Anyone
+60208|||时祸：我不能杀任何人|||||Time Disaster: I Cannot Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -273466,6 +273466,9 @@
 393402|||折耳猫娘的生存之道|||The Survival Strategy of a Fold-Eared Catgirl
 617834|||我在笨测的日常不日常|||My Not-So-Daily Life in Baka and Test
 612992|||重生病弱御姐不想遇到绝美校花|||Reborn as a Sickly Onee-san, I Want to Avoid the Stunning School Belle
+778495|||别给我异能，我只想当个普通人啊|||Don't Give Me Superpowers; I Just Want to Be Normal!
+738000|||瑞天宝由|||Rui Tian Baoyou
+778588|||林洛夏雨|||Lin Luoxiayu
 778616|||都做普通人了，谁还当大魔法师啊|||Why Be a Grand Mage When You Can Be Ordinary?
 687378|||渊虹|||Abyssal Rainbow
 758468|||当过狐妖吗？就瞎教病娇谈恋爱|||Ever Been a Fox Demon? Don't Teach Yanderes How to Love
@@ -273507,10 +273510,6 @@
 259386|||柯南之流氓律师|||Conan: The Rogue Attorney
 262167|||鬼知道我到底是人是鬼|||God Knows If I'm Man or Ghost
 530156|||拜托，我就是想摸个鱼！|||Come On, I Just Want to Goof Off!
-662104|||ToBeContinued|||ToBeContinued
-778495|||别给我异能，我只想当个普通人啊|||Don't Give Me Superpowers; I Just Want to Be Normal!
-738000|||瑞天宝由|||Rui Tian Baoyou
-778588|||林洛夏雨|||Lin Luoxiayu
 369856|||我织田信长怎么会是女孩子哪|||How Could I, Oda Nobunaga, Possibly Be a Girl?!
 597885|||我的妹妹太冷了|||My Little Sister Is Too Cold
 752317|||伪妹物语|||Pseudo-Little Sister Story
@@ -273520,6 +273519,7 @@
 738737|||诡夜将明|||The Eerie Night, Nearly Dawn
 697131|||我在兽娘世界里做厨圣|||Cooking Saint in a World of Beast Girls
 670591|||橘子还没熟呢，好酸|||The Orange's Not Ripe, It's So Sour
+662104|||ToBeContinued|||ToBeContinued
 620098|||变成姐姐之后与妹妹的生活|||Becoming the Big Sister: Life with My Little Sister
 596990|||电锯人：愉悦至上|||Chainsaw Man: Pleasure Above All
 175726|||身为杀手的我转世成了贵族千金|||I Was an Assassin, Now I'm a Noble's Daughter
