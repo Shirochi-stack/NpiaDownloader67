@@ -224427,7 +224427,6 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人||||||Time Disaster: I Cannot Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -273565,6 +273564,65 @@
 710340|||穿成庸医后我和仇家HE了|||Transmigrated into a Quack Doctor and Got a Happy Ending with My Enemy
 778940|||无妄之城|||City of Sudden Calamity
 778591|||我，打死大象的拳击手|||I, the Boxer Who Beat an Elephant to Death
+519973|||死后还要当神使是要闹哪样啊!|||What Do You Mean I Still Have to Be a God's Envoy After Death?!
+512792|||别瞎说，我才没有无敌呢！|||Stop Spreading Rumors, I'm Not Invincible!
+548524|||被刀后我来到末世被人透|||After Being Stabbed, I Ended Up in the Apocalypse and Got Screwed Over
+588694|||穿越到了打牌的世界|||Transmigrated into a World of Card Games
+557431|||一不小心就邂逅天选之女的我|||I Accidentally Encountered the Chosen Heroine
+700798|||变成骷髅，怎样在异世界获得幸福|||How Can a Skeleton Find Happiness in Another World?
+657691|||转生血姬的末日佣兵|||Reincarnated as a Blood Princess's Doomsday Mercenary
+689781|||叶罗丽精灵里的道士|||A Daoist in the Fairy World of Ye Luoli
+719199|||她是未来最强，我是她的最强|||She's the Future's Strongest, and I'm Her Strongest
+736811|||白姬与姬月|||Shirahime and Jiyue
+643350|||小狐狸只想抱个大腿她有什么错！|||A Little Fox Just Wants to Hitch a Ride on a Powerful Leg, What's Wrong With That!
+512218|||地狱公主也要约会吗|||Does the Princess of Hell Also Go on Dates?
+595596|||穿越到异世界了捏|||I Transmigrated to Another World, Ya Know~
+102741|||关于我转生成天翼族那件事|||Regarding the Fact That I Reincarnated as a Heavenwing
+576227|||身为公主的复制体的我懒到极致|||As the Princess's Clone, I'm Laziness Incarnate
+566698|||转生成少女人偶开局给魔王拐走|||Reincarnated as a Girl Doll and Kidnapped by the Demon King at the Start
+391880|||成为蛆娘在勇者身边做卧底这件事|||About Becoming a Maggot Girl Spy Beside the Hero
+71710|||卡萨布兰卡之语|||Words of Casablanca
+698048|||没人告诉我撩完女主后要被清算啊|||No One Told Me That After Flirting With the Heroine, I'd Have to Pay the Price!
+428967|||被抓去改变结局的咱变成了血族|||I Was Captured to Change the Ending and Turned into a Vampire
+327108|||转生已经攻略的游戏世界然后无敌|||Reincarnated into the Game World I Already Conquered, and Became Invincible
+193318|||当神枪重生穿越另一个世界后|||When the Divine Spear Reborn and Transmigrated to Another World
+142595|||身为不良在异世界开起了后宫|||As a Delinquent, I Built a Harem in Another World
+96916|||灰白格调|||Monochrome Tone
+186262|||关于我转生成为星尘这档事|||About That Time I Reincarnated as Stardust
+51173|||时间领域|||Realm of Time
+72988|||我的逗比人生|||My Funny Dumb Life
+233438|||我并不完美|||I'm Not Perfect
+222570|||很符合混分巨兽|||Fits the Points-Farming Behemoth Perfectly
+282834|||圣女大人请自重啊|||Please Behave Yourself, Holy Maiden!
+368006|||从永恩开始的穿越次元|||Crossing Dimensions Starting from Yone
+399534|||穹翼之下|||Under the Dome of Wings
+503854|||穿越后被狐娘逮住了|||Transmigrated and Then Caught by a Fox Girl
+437936|||转生成魔王的我要用鲜花拯救世界|||I Reincarnated as the Demon King and Want to Save the World With Flowers
+546666|||紫苑小姐今天吃饭了吗？|||Has Miss Shion Eaten Today?
+42319|||浪漫少年传说|||Legend of the Romantic Boy
+58888|||若野草成花|||If Wild Grass Becomes Flowers
+62113|||冥王大大的宠妃啊|||The Beloved Consort of Lord Hades
+191061|||艾尔莉雅大陆传|||Tale of the Eirlya Continent
+224792|||jojo的奇妙同人|||JoJo's Bizarre Fanfic
+284657|||无敌的我开局不能无敌|||I'm Invincible, but I Can't Be Invincible at the Start
+419427|||南极的神在迦勒底和自己谈恋爱|||The God of Antarctica Dates Himself in Chaldea
+542944|||转生异世界的我变成个可爱女孩子|||I Reincarnated into Another World and Became a Cute Girl
+512687|||我叫赵纸聋|||My Name is Zhao Zhilong
+92219|||我在异世界的妹妹是天才|||My Little Sister in Another World is a Genius
+93097|||所罗门的乌托邦|||Solomon's Utopia
+100002|||异世军|||Otherworldly Army
+143018|||来到异世的我所遇到的人|||The People I Met After Coming to Another World
+113445|||契约精灵|||Contract Spirit
+119204|||鸿蒙逆推系统|||Hongmeng Reverse-Conquest System
+152876|||迷茫剑神与御剑少女|||The Lost Sword God and the Sword-Riding Girl
+171976|||活在古文中的少女前线|||Girls' Frontline Living in Classical Chinese
+322315|||精灵小姐的奇妙冒险|||The Bizarre Adventure of Miss Elf
+190380|||忍者异世界的我|||Ninja Me in Another World
+207922|||月礼墨行|||Moon Rites, Ink Steps
+251208|||歡迎來到異世界暗殺者|||Welcome to the Otherworld Assassin
+279483|||倚剑听雪|||Leaning on a Sword, Listening to Snow
+659388|||某探灵者的记事本|||A Spirit Detective's Notebook
+778859|||臀部之下|||Under the Booty
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
@@ -273617,6 +273675,7 @@
 84798|||384400000|||
 75493|||15101051|||
 81668|||2026|||
+60208|||时祸：我不能杀任何人|||
 49350|||-.-|||
 40538|||100000|||
 34143|||14|||
@@ -273797,64 +273856,6 @@
 471759|||千秋与山海|||
 459014|||魔王大人降临|||
 495069|||穿越原神变为真|||
-519973|||死后还要当神使是要闹哪样啊!|||
-512792|||别瞎说，我才没有无敌呢！|||
-548524|||被刀后我来到末世被人透|||
-588694|||穿越到了打牌的世界|||
-557431|||一不小心就邂逅天选之女的我|||
-700798|||变成骷髅，怎样在异世界获得幸福|||
-657691|||转生血姬的末日佣兵|||
-689781|||叶罗丽精灵里的道士|||
-719199|||她是未来最强，我是她的最强|||
-736811|||白姬与姬月|||
-643350|||小狐狸只想抱个大腿她有什么错！|||
-512218|||地狱公主也要约会吗|||
-595596|||穿越到异世界了捏|||
-102741|||关于我转生成天翼族那件事|||
-576227|||身为公主的复制体的我懒到极致|||
-566698|||转生成少女人偶开局给魔王拐走|||
-391880|||成为蛆娘在勇者身边做卧底这件事|||
-71710|||卡萨布兰卡之语|||
-698048|||没人告诉我撩完女主后要被清算啊|||
-428967|||被抓去改变结局的咱变成了血族|||
-327108|||转生已经攻略的游戏世界然后无敌|||
-193318|||当神枪重生穿越另一个世界后|||
-142595|||身为不良在异世界开起了后宫|||
-96916|||灰白格调|||
-186262|||关于我转生成为星尘这档事|||
-51173|||时间领域|||
-72988|||我的逗比人生|||
-233438|||我并不完美|||
-222570|||很符合混分巨兽|||
-282834|||圣女大人请自重啊|||
-368006|||从永恩开始的穿越次元|||
-399534|||穹翼之下|||
-503854|||穿越后被狐娘逮住了|||
-437936|||转生成魔王的我要用鲜花拯救世界|||
-546666|||紫苑小姐今天吃饭了吗？|||
-42319|||浪漫少年传说|||
-58888|||若野草成花|||
-62113|||冥王大大的宠妃啊|||
-191061|||艾尔莉雅大陆传|||
-224792|||jojo的奇妙同人|||
-284657|||无敌的我开局不能无敌|||
-419427|||南极的神在迦勒底和自己谈恋爱|||
-542944|||转生异世界的我变成个可爱女孩子|||
-512687|||我叫赵纸聋|||
-92219|||我在异世界的妹妹是天才|||
-93097|||所罗门的乌托邦|||
-100002|||异世军|||
-143018|||来到异世的我所遇到的人|||
-113445|||契约精灵|||
-119204|||鸿蒙逆推系统|||
-152876|||迷茫剑神与御剑少女|||
-171976|||活在古文中的少女前线|||
-322315|||精灵小姐的奇妙冒险|||
-190380|||忍者异世界的我|||
-207922|||月礼墨行|||
-251208|||歡迎來到異世界暗殺者|||
-279483|||倚剑听雪|||
-659388|||某探灵者的记事本|||
 716637|||我的短文文章|||
 340338|||芙兰朵露次元穿梭|||
 531101|||明日方舟之大审判领袖|||
@@ -274008,4 +274009,3 @@
 778896|||女子监禁室|||
 778654|||无敌之后，我被过去的自己买了|||
 778987|||平凡不能在平凡的少年|||
-778859|||臀部之下|||
