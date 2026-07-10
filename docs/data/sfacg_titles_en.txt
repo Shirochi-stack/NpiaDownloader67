@@ -274007,6 +274007,7 @@
 779165|||抱歉苦主，她们是真心喜欢我的|||Sorry, Poor Guy, They Truly Like Me
 779142|||自愿为奴后，怎么成了她们的团宠|||After Voluntarily Becoming a Slave, How Did I Become Their Group Darling?
 779509|||沥青呼吸|||Asphalt
+779134|||养成的魔女学员怎么都想监禁爱|||Why Do All of My Witch Apprentices Want to Lock Me Up
 779209|||我的妹妹不可能是AI女总裁|||My Little Sister Can't Be an AI Female CEO
 779260|||异能觉醒之我觉醒了刀盾狗|||Ability Awakening: I Awakened a Blade-and-Shield Hound
 779257|||骨织|||Boneweave
@@ -274169,6 +274170,47 @@
 306867|||重生碧蓝的异色瞳舰娘|||Reborn in Azur Lane as a Ship Girl with Heterochromia
 755845|||穿越橘味黄油只好攻略软弱小女主|||Transported Into a Yuri Eroge, I Must Conquer the Weak Little Heroine
 241655|||意外变成血族兼龙族少女的生活|||The Life of a Girl Who Accidentally Became Both Vampire and
+725751|||是猫娘魔女，不是猫啊！|||I'm a Catgirl Witch, Not a Cat!
+496810|||社恐被卡车撞成了猫耳天使|||Social Anxiety Hit by a Truck Becomes a Cat-Eared Angel
+492163|||提瓦特的不正经魔神|||The Mischievous Demon God of Teyvat
+626331|||转生魔女二周目莫名变成团宠体质|||Reincarnated Witch: Second Playthrough, Unexpectedly Became the Group's Darling
+734768|||灾厄巫女与诅咒神子的镇魂契约|||The Calamity Miko and the Cursed Divine Child's Requiem Contract
+160952|||贤者大人也要变可爱|||The Great Sage Wants to Be Cute Too
+677022|||灭世魔女，竟然向反派勇者赎罪了|||The World-Destroying Witch Is Repenting to the Villainous Hero?!
+679559|||盾之勇者成名录救赎之狐|||The Rising of the Shield Hero: The Fox of Redemption
+750099|||怀抱人偶的我怎会和堕落的你重逢|||Holding a Doll, I Somehow Reunited with the Fallen You
+692025|||救命，我被一群诡异少女盯上了|||Help! I'm Being Targeted by a Bunch of Eerie Girls
+746782|||邪神酱今天也想做点好事|||Evil God-chan Wants to Do a Good Deed Today
+38965|||风之王国.幻梦的旅程|||Wind Kingdom: A Dreamlike Journey
+353347|||一分为二的我获得了强力少女|||Split in Two, I Gained a Powerful Girl
+329315|||这个珈百璃明明超强却过于慎重|||This Gabriel Is Clearly Super Strong but Overly Cautious
+707543|||杂鱼姬也敢逃离大姐姐的笼中爱？|||The Small-Fry Princess Dares to Escape the Big Sister's Cage of Love?
+629582|||魔女，你能解除对青梅的附身吗？|||Witch, Can You Remove the Possession on My Childhood Friend?
+18187|||反叛的鲁路修之王的归来|||Code Geass: Return of the King
+119952|||穿越到异世界的我变成血族|||I Transmigrated to Another World and Became a Vampire
+326999|||神圣帝国的不洁叛教者|||The Unholy Heretic of the Holy Empire
+25475|||这个少年不是人类|||This Boy Is Not Human
+121973|||我竟然是天上魔星|||I Turned Out to Be the Celestial Demon Star
+181295|||是魔王的同时也是圣女|||I'm Both the Demon King and the Saint
+230235|||斩赤红之瞳之绝命之刃|||Akame ga Kill: The Fatal Blade
+356826|||憾树蜉蝣的宣战|||The Mayfly's War Declaration Against the Tree
+110242|||无比治愈的法芙娜微笑|||Fafnir's Incredibly Healing Smile
+548526|||穿越了以后，才不要成为剑姬|||After Transmigrating, I Absolutely Don't Want to Be a Sword Princess
+779537|||夜钓不得|||Night Fishing Is Forbidden
+779344|||龙雪柔之万古英雄重生|||Long Xuerou's Rebirth as the Eternal Hero
+779539|||异世界的剑冒险|||Sword Adventures in Another World
+779464|||变成魔女的我只会卖萌|||I Turned Into a Witch and All I Can Do Is Act Cute
+779463|||幻想时，你闭嘴|||Shut Up While You're Fantasizing
+779302|||狐狸小姐是无敌的|||Miss Fox Is Invincible
+779187|||变成猫耳少年后大家都想摸我耳朵|||After Turning Into a Cat-Eared Boy, Everyone Wants to Touch My Ears
+779486|||異世界冰箱領主|||The Fridge Lord of Another World
+779471|||重新来过的我绝不放弃|||Starting Over, I'll Never Give Up
+779251|||重生成魔王遗产的我只想活下去|||Reincarnated as the Demon King's Legacy, I Just Want to Live
+779381|||爱上邻家阿戈尔不是我的错|||It's Not My Fault I Fell for the Aegir Next Door
+779213|||躺平之王|||The King of Lying Flat
+779010|||不再由神明书写众生的命运|||No Longer Will the Gods Write the Fate of All
+779243|||投资人先生不想被凤傲天女主清算|||Mr. Investor Doesn't Want to Be Liquidated by the OP Heroine
+776943|||從哪來的不死小姐？|||Where Did That Immortal Miss Come From?
 779052|||唐家小姐|||Miss Tang
 769621|||打怪兽不应该变成怪兽吗|||Shouldn't Fighting Monsters Turn You Into One?
 779497|||天幕骑士团|||Sky Curtain Knight Order
@@ -274389,48 +274431,13 @@
 717032|||伊娜的见闻录|||Ina's Travelogue
 336468|||写那么多角色其实都是女君主手下|||All Those Characters I Wrote Are Under the Female Monarch's Command
 548629|||天合镇怪谈|||Mysteries of Tianhe Town
-779134|||养成的魔女学员怎么都想监禁爱|||Why Do All of My Witch Apprentices Want to Lock Me Up
-725751|||是猫娘魔女，不是猫啊！|||I'm a Catgirl Witch, Not a Cat!
-496810|||社恐被卡车撞成了猫耳天使|||Social Anxiety Hit by a Truck Becomes a Cat-Eared Angel
-492163|||提瓦特的不正经魔神|||The Mischievous Demon God of Teyvat
-626331|||转生魔女二周目莫名变成团宠体质|||Reincarnated Witch: Second Playthrough, Unexpectedly Became the Group's Darling
-734768|||灾厄巫女与诅咒神子的镇魂契约|||The Calamity Miko and the Cursed Divine Child's Requiem Contract
-160952|||贤者大人也要变可爱|||The Great Sage Wants to Be Cute Too
-677022|||灭世魔女，竟然向反派勇者赎罪了|||The World-Destroying Witch Is Repenting to the Villainous Hero?!
-679559|||盾之勇者成名录救赎之狐|||The Rising of the Shield Hero: The Fox of Redemption
-750099|||怀抱人偶的我怎会和堕落的你重逢|||Holding a Doll, I Somehow Reunited with the Fallen You
-692025|||救命，我被一群诡异少女盯上了|||Help! I'm Being Targeted by a Bunch of Eerie Girls
-746782|||邪神酱今天也想做点好事|||Evil God-chan Wants to Do a Good Deed Today
-38965|||风之王国.幻梦的旅程|||Wind Kingdom: A Dreamlike Journey
-353347|||一分为二的我获得了强力少女|||Split in Two, I Gained a Powerful Girl
-329315|||这个珈百璃明明超强却过于慎重|||This Gabriel Is Clearly Super Strong but Overly Cautious
-707543|||杂鱼姬也敢逃离大姐姐的笼中爱？|||The Small-Fry Princess Dares to Escape the Big Sister's Cage of Love?
-629582|||魔女，你能解除对青梅的附身吗？|||Witch, Can You Remove the Possession on My Childhood Friend?
-18187|||反叛的鲁路修之王的归来|||Code Geass: Return of the King
-119952|||穿越到异世界的我变成血族|||I Transmigrated to Another World and Became a Vampire
-326999|||神圣帝国的不洁叛教者|||The Unholy Heretic of the Holy Empire
-25475|||这个少年不是人类|||This Boy Is Not Human
-121973|||我竟然是天上魔星|||I Turned Out to Be the Celestial Demon Star
-181295|||是魔王的同时也是圣女|||I'm Both the Demon King and the Saint
-230235|||斩赤红之瞳之绝命之刃|||Akame ga Kill: The Fatal Blade
-356826|||憾树蜉蝣的宣战|||The Mayfly's War Declaration Against the Tree
-110242|||无比治愈的法芙娜微笑|||Fafnir's Incredibly Healing Smile
-548526|||穿越了以后，才不要成为剑姬|||After Transmigrating, I Absolutely Don't Want to Be a Sword Princess
-779537|||夜钓不得|||Night Fishing Is Forbidden
-779344|||龙雪柔之万古英雄重生|||Long Xuerou's Rebirth as the Eternal Hero
-779539|||异世界的剑冒险|||Sword Adventures in Another World
-779464|||变成魔女的我只会卖萌|||I Turned Into a Witch and All I Can Do Is Act Cute
-779463|||幻想时，你闭嘴|||Shut Up While You're Fantasizing
-779302|||狐狸小姐是无敌的|||Miss Fox Is Invincible
-779187|||变成猫耳少年后大家都想摸我耳朵|||After Turning Into a Cat-Eared Boy, Everyone Wants to Touch My Ears
-779486|||異世界冰箱領主|||The Fridge Lord of Another World
-779471|||重新来过的我绝不放弃|||Starting Over, I'll Never Give Up
-779251|||重生成魔王遗产的我只想活下去|||Reincarnated as the Demon King's Legacy, I Just Want to Live
-779381|||爱上邻家阿戈尔不是我的错|||It's Not My Fault I Fell for the Aegir Next Door
-779213|||躺平之王|||The King of Lying Flat
-779010|||不再由神明书写众生的命运|||No Longer Will the Gods Write the Fate of All
-779243|||投资人先生不想被凤傲天女主清算|||Mr. Investor Doesn't Want to Be Liquidated by the OP Heroine
-776943|||從哪來的不死小姐？|||Where Did That Immortal Miss Come From?
+60208|||时祸：我不能杀任何人|||Time Calamity: I Can't Kill Anyone
+779338|||醒来后，和宿敌杀手小姐成了邻居|||After Waking Up, I Became Neighbors with My Arch-Enemy, the Lady Killer
+779508|||时间也不在|||Time Is Also Gone
+779240|||墙内少女墙外星|||Girl Inside the Wall, Star Outside the Wall
+779505|||三个小时|||Three Hours
+779139|||刚逃离偏执女友，重女青梅坏掉了|||Just Escaped My Paranoid Girlfriend, My Possessive Childhood Friend Broke Down
+778681|||新婚当天，老婆差点把我拧成麻花|||On My Wedding Day, My Wife Almost Twisted
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
@@ -274483,7 +274490,6 @@
 84798|||384400000|||
 75493|||15101051|||
 81668|||2026|||
-60208|||时祸：我不能杀任何人|||
 49350|||-.-|||
 40538|||100000|||
 34143|||14|||
@@ -274537,12 +274543,6 @@
 704418|||91|||
 218423|||200|||
 771725|||098|||
-779338|||醒来后，和宿敌杀手小姐成了邻居|||
-779508|||时间也不在|||
-779240|||墙内少女墙外星|||
-779505|||三个小时|||
-779139|||刚逃离偏执女友，重女青梅坏掉了|||
-778681|||新婚当天，老婆差点把我拧成麻花|||
 779503|||三枪拍案惊奇|||
 779502|||灰之渡|||
 778951|||我家天才大小姐总想带我飞|||
