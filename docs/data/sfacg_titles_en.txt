@@ -224427,6 +224427,7 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
+60208|||时祸：我不能杀任何人||||Time Calamity: I Can't Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -274007,6 +274008,12 @@
 779165|||抱歉苦主，她们是真心喜欢我的|||Sorry, Poor Guy, They Truly Like Me
 779142|||自愿为奴后，怎么成了她们的团宠|||After Voluntarily Becoming a Slave, How Did I Become Their Group Darling?
 779509|||沥青呼吸|||Asphalt
+779338|||醒来后，和宿敌杀手小姐成了邻居|||After Waking Up, I Became Neighbors with My Arch-Enemy, the Lady Killer
+779508|||时间也不在|||Time Is Also Gone
+779240|||墙内少女墙外星|||Girl Inside the Wall, Star Outside the Wall
+779505|||三个小时|||Three Hours
+779139|||刚逃离偏执女友，重女青梅坏掉了|||Just Escaped My Paranoid Girlfriend, My Possessive Childhood Friend Broke Down
+778681|||新婚当天，老婆差点把我拧成麻花|||On My Wedding Day, My Wife Almost Twisted
 779134|||养成的魔女学员怎么都想监禁爱|||Why Do All of My Witch Apprentices Want to Lock Me Up
 779209|||我的妹妹不可能是AI女总裁|||My Little Sister Can't Be an AI Female CEO
 779260|||异能觉醒之我觉醒了刀盾狗|||Ability Awakening: I Awakened a Blade-and-Shield Hound
@@ -274431,13 +274438,6 @@
 717032|||伊娜的见闻录|||Ina's Travelogue
 336468|||写那么多角色其实都是女君主手下|||All Those Characters I Wrote Are Under the Female Monarch's Command
 548629|||天合镇怪谈|||Mysteries of Tianhe Town
-60208|||时祸：我不能杀任何人|||Time Calamity: I Can't Kill Anyone
-779338|||醒来后，和宿敌杀手小姐成了邻居|||After Waking Up, I Became Neighbors with My Arch-Enemy, the Lady Killer
-779508|||时间也不在|||Time Is Also Gone
-779240|||墙内少女墙外星|||Girl Inside the Wall, Star Outside the Wall
-779505|||三个小时|||Three Hours
-779139|||刚逃离偏执女友，重女青梅坏掉了|||Just Escaped My Paranoid Girlfriend, My Possessive Childhood Friend Broke Down
-778681|||新婚当天，老婆差点把我拧成麻花|||On My Wedding Day, My Wife Almost Twisted
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
