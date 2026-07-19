@@ -224427,7 +224427,7 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人||||Time Misfortune: I Can't Kill Anyone
+60208|||时祸：我不能杀任何人|||||Time Misfortune: I Can't Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -275580,6 +275580,61 @@
 352576|||和唐三一起来到斗罗|||I Came to Douluo With Tang San
 377210|||变成米瑞斯穿越崩坏|||Transformed Into Miris and Traveled Through Honkai
 738753|||女尊：穿越被龙女皇抓住要改造我|||Matriarchy: Captured by the Dragon Empress Who Wants to Reform Me
+721926|||异世界转生！妹妹依旧不肯放过我|||Reincarnated in Another World! My Sister Still Won't Let Me Go
+759071|||神女软禁开局，小号是猫娘|||Under House Arrest as a Goddess, My Alt Is a Catgirl
+392868|||称霸修仙世界的狐妖才不会嫁人呢|||The Fox Demon Ruling the Cultivation World Will Never Marry
+297452|||身为学霸的我竟穿越到了女权世界|||The Top Student Me Actually Traveled to a Matriarchal World
+620821|||师姐想和我再续前缘|||Senior Sister Wants to Renew Our Bond
+629253|||意外成为美少女神明之后|||After Accidentally Becoming a Beautiful Goddess
+607222|||修仙要靠仙子好感晋升，不是吧|||Advancing in Cultivation Requires Fairy Affection, Right?
+581558|||心机仙子们总想抓我修炼|||Scheming Fairies Always Want to Capture Me for Training
+384200|||转生美少女的勇者生活|||Life of a Reincarnated Beautiful Girl Hero
+780507|||明明只想摸鱼，我却被当成了圣女|||I Just Wanted to Slack Off, But They Made Me a Saintess
+780300|||苦练文学是否搞错了什么？|||Is It Wrong to Grind Literature?
+780084|||女尊身份暴露后女帝陛下虎视眈眈|||After My Female Supremacy Identity Was Exposed, the Empress Covets Me
+334944|||忘羡之重生|||Rebirth of WangXian
+735935|||仙君，您的道侣性别不对啊！|||Immortal Lord, Your Dao Companion's Gender Is Wrong!
+711132|||吹梦到西洲|||Blowing Dreams to West Island
+521053|||龙盘魔传|||Dragon Coil Demon Legend
+431586|||说我是冲师逆徒你看仙子同不同意|||Call Me a Disobedient Disciple? See If the Fairy Agrees
+429110|||清水涟漪|||Clear Water Ripples
+406675|||一睁眼就在洞房花烛怎么解|||Waking Up in the Wedding Chamber, How to Handle This?
+684092|||二周目重开，遭遇清冷师姐纠缠|||Second Playthrough: Pestered by a Cold Senior Sister
+181467|||从满级开始的女权世界生活|||Life in a Matriarchal World Starting from Max Level
+91767|||萌娘三国传|||Moe Girl Three Kingdoms Legend
+418416|||被正道仙子柴刀后重生成了麒麟姬|||After Being Axed by a Righteous Fairy, I Reincarnated as a Kirin Princess
+341135|||魔主今天也在艰难地从良|||The Demon Lord Struggles to Reform Again Today
+472189|||非要都黑化了才满意|||They Won't Be Satisfied Until Everyone Turns Dark
+201162|||我的徒弟有些奇怪|||My Disciple Is a Bit Strange
+780520|||记忆侦探|||Memory Detective
+780478|||重生荒野废土，我也要改造吗？|||Reborn in the Wasteland, Do I Have to Reform Too?
+780080|||我们所在的世界很精彩|||The World We Live In Is Wonderful
+780172|||关于我转生前往新世界这件事|||Concerning My Reincarnation to a New World
+780173|||空幻霓虹的世间|||The World of Illusory Neon
+780406|||它，来自未来|||It Comes from the Future
+753058|||崩铁：星火萤光|||Honkai: Star Rail – Starlight Firefly
+692143|||噬星者基多拉|||Star-Eater Ghidorah
+143728|||无敌太寂寞我要攻略女武神|||Invincible Is Too Lonely, I'll Conquer the Valkyries
+683330|||心之诗|||Poem of the Heart
+733228|||星海，未来|||Starry Sea, Future
+543940|||英雄再临之我真不是神|||The Hero Returns: I'm Really Not a God
+377946|||互动末世|||Interactive Apocalypse
+751455|||全民荒岛求生，废柴不想努力了|||National Island Survival: The Loser Doesn't Want to Try
+177380|||Kiss兵娘纪元|||Kiss the Weapon Girl Era
+247457|||冲突世界|||World in Conflict
+355745|||死亡Dudouchang|||Death Dudouchang
+386366|||灵笼之路|||Ling Long's Path
+680873|||阿尔法零编年史|||Alpha Zero Chronicles
+723539|||生还：莱恩事变|||Survival: The Ryan Incident
+173655|||某傻汁的异世界生活|||A Certain Fool's Life in Another World
+308891|||穿越崩三变成大姐兽的我不想丢人|||I Transmigrated into Honkai Impact 3rd as a Big Sister Beast and Refuse to Be a Disgrace
+337874|||琪亚娜于Fgo|||Kiana in FGO
+178180|||崩坏3舰长篇|||Honkai Impact 3rd: Captain's Arc
+780410|||暗黑向短篇集|||Dark Short Story Collection
+780387|||莫格街宿舍凶杀案|||Morgue Street Dorm Murders
+780165|||为了不被撕卡选择成为侦探|||I Became a Detective So My Card Wouldn’t Get Torn
+780096|||末世遇到水煮鱼是否搞错了什么|||Is It Wrong to Encounter Boiled Fish in the Apocalypse?
+780081|||规则怪谈之黑桦古堡七日幽囚|||Rule of Horror: Seven Days Captive in Heihua Castle
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
@@ -275685,53 +275740,6 @@
 704418|||91|||
 218423|||200|||
 771725|||098|||
-721926|||异世界转生！妹妹依旧不肯放过我|||
-759071|||神女软禁开局，小号是猫娘|||
-392868|||称霸修仙世界的狐妖才不会嫁人呢|||
-297452|||身为学霸的我竟穿越到了女权世界|||
-620821|||师姐想和我再续前缘|||
-629253|||意外成为美少女神明之后|||
-607222|||修仙要靠仙子好感晋升，不是吧|||
-581558|||心机仙子们总想抓我修炼|||
-384200|||转生美少女的勇者生活|||
-780507|||明明只想摸鱼，我却被当成了圣女|||
-780300|||苦练文学是否搞错了什么？|||
-780084|||女尊身份暴露后女帝陛下虎视眈眈|||
-334944|||忘羡之重生|||
-735935|||仙君，您的道侣性别不对啊！|||
-711132|||吹梦到西洲|||
-521053|||龙盘魔传|||
-431586|||说我是冲师逆徒你看仙子同不同意|||
-429110|||清水涟漪|||
-406675|||一睁眼就在洞房花烛怎么解|||
-684092|||二周目重开，遭遇清冷师姐纠缠|||
-181467|||从满级开始的女权世界生活|||
-91767|||萌娘三国传|||
-418416|||被正道仙子柴刀后重生成了麒麟姬|||
-341135|||魔主今天也在艰难地从良|||
-472189|||非要都黑化了才满意|||
-201162|||我的徒弟有些奇怪|||
-780520|||记忆侦探|||
-780478|||重生荒野废土，我也要改造吗？|||
-780080|||我们所在的世界很精彩|||
-780172|||关于我转生前往新世界这件事|||
-780173|||空幻霓虹的世间|||
-780406|||它，来自未来|||
-753058|||崩铁：星火萤光|||
-692143|||噬星者基多拉|||
-143728|||无敌太寂寞我要攻略女武神|||
-683330|||心之诗|||
-733228|||星海，未来|||
-543940|||英雄再临之我真不是神|||
-377946|||互动末世|||
-751455|||全民荒岛求生，废柴不想努力了|||
-177380|||Kiss兵娘纪元|||
-247457|||冲突世界|||
-355745|||死亡Dudouchang|||
-386366|||灵笼之路|||
-680873|||阿尔法零编年史|||
-723539|||生还：莱恩事变|||
-173655|||某傻汁的异世界生活|||
 354293|||Arknights败亡黄昏|||
 483897|||为什么只有我颜值能当实力|||
 721233|||末世萌主：虫族女皇|||
@@ -275822,11 +275830,3 @@
 554347|||我，碧蓝航线唯一的指挥官|||
 463492|||带着火影在明日方舟|||
 663649|||狼牙特别行动指挥部与舰娘的路途|||
-308891|||穿越崩三变成大姐兽的我不想丢人|||
-337874|||琪亚娜于Fgo|||
-178180|||崩坏3舰长篇|||
-780410|||暗黑向短篇集|||
-780387|||莫格街宿舍凶杀案|||
-780165|||为了不被撕卡选择成为侦探|||
-780096|||末世遇到水煮鱼是否搞错了什么|||
-780081|||规则怪谈之黑桦古堡七日幽囚|||
