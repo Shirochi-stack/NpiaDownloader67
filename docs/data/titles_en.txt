@@ -84385,6 +84385,7 @@
 439325|||A-3|||A-3
 439428|||Memory time|||Memory time
 438966|||[호리미야] Young and Dangerous!!|||[호리미야] Young and Dangerous!!
+439391|||[블아X포탈] 포탈을 만드는 학생|||[Blue Archive X Portal] The Student Who Creates Portals
 439503|||러브라이브|||Love Live!
 439760|||[독참소] 페레스 지방 모험기|||[Dokchamso] Adventures in Peres
 439752|||[블루 아카이브] 내 신비와 무기는 피다.|||[Blue Archive] My Mystic and Weapon Bloom
@@ -84447,7 +84448,6 @@
 439230|||아픈 애들 둘이 만나면|||When Two Broken People Meet
 440050|||환생 미소녀의 선계 시스템 수선록|||A Reincarnated Beautiful Girl's Celestial System Repair Log
 439722|||우주전함 소환 수선자가 되었다|||I Became a Spaceship-Summoning Repairer
-439391|||[블아X포탈] 포탈을 만드는 학생|||[Blue Archive X Portal] The Student Who Creates Portals
 439781|||말랑선협으로 착각함|||Mistaken for a Fluffy Xianxia
 439637|||키보토스 속 지식의 선지자|||The Prophet of Knowledge in Kivotos
 439299|||임진왜란~ 7년 간의 전쟁 실화 이야기|||Imjin War: A True Story of the Seven-Year War
@@ -84469,7 +84469,37 @@
 425292|||개인 메모장입니다 읽는거 아니에요|||Private Notebook: Do Not Read
 439420|||(삼국지) 황건적으로 천하통일|||(Three Kingdoms) Conquering the World as a Yellow Turban
 440331|||괴이 관찰기록|||Record of Observing Anomalies
-227044|||세드릭 디고리에게 씀 |해리포터|||
+227044|||세드릭 디고리에게 씀 |해리포터||||
+439578|||나를 너무 사랑하는 외신이 떠나질않는다|||The Outer God Who Loves Me Too Much Won't Leave
+439275|||[블루아카이브]데카그라마톤의 막내.|||[Blue Archive] The Youngest of Decagrammaton
+440227|||흑길동전|||The Tale of Black Gil-dong
+440173|||지옥에서 혼자 이지모드|||Solo Easy Mode in Hell
+439119|||갤질하는 천재 탑등반자|||The Tower Climber Who Trolled His Way to the Top
+437206|||월령|||Moon Spirit
+439324|||한입충 슬라임을 얻었다|||I Got a Nibble-Sized Slime
+439502|||시한부인데 내 기연이 누군지 모르겠다|||I'm Terminally Ill, but I Don't Know Who My Fated Encounter Is
+440095|||오른손의 흑염룡 [단편 실험작]|||The Black Flame Dragon in My Right Hand [Short Experimental Work]
+439213|||선협에서 살아남기|||Surviving in a Xianxia World
+439956|||드래곤의 인간 사육용 키트|||A Dragon's Human Rearing Kit
+439271|||내가 키웠던 동물들이 세계관 최강자가 되어 집착한다|||The Animals I Raised Became the World's Strongest and Are Obsessed with Me
+439465|||조국을 위해 군부독재 하겠습니다.|||I Will Enforce a Military Dictatorship for My Country
+440214|||백색은 경계를 넘어서|||White Crosses the Boundary
+439505|||45억살 먹은 정령이 되었다|||I Became a 4.5 Billion-Year-Old Spirit
+439653|||다크판타지 속 주인공 파티를 뺏어버렸다|||I Stole the Hero's Party in a Dark Fantasy
+439656|||마왕님의 환생체가 허접해서 키워내기로함|||The Demon King's Reincarnation Is So Pathetic, I Decided to Raise Him
+440059|||전 그냥 용병이에요.|||I'm Just a Mercenary.
+439361|||100일 동안 주파수를 들었더니 각성했다|||After Listening to a Frequency for 100 Days, I Awakened
+439457|||귀환자가 대한 마법 제국을 세웠다|||The Returnee Built the Great Korean Magical Empire
+440068|||붕괴×아이언맨×워머신 : 강철의 강림|||Honkai × Iron Man × War Machine: Descent of Steel
+439863|||마족 스파이는 인간 스파이를 키운다|||The Demon Spy Raises a Human Spy
+438304|||마족고아들이 집착하는 고아원장이 되었다|||I Became the Orphanage Director That Demon Orphans Are Obsessed With
+440052|||상식개변 이세계인들의 상식 훈련사가 되었다|||I Became the Common Sense Trainer for Otherworlders with Altered Common Sense
+439401|||인간혐오 스트리머 이성하|||The Misanthropic Streamer Lee Sung-ha
+439679|||아카데미 X맨이 되었다.|||I Became the Academy X-Man
+439267|||만 번 죽은 엑스트라 황자가 되었다|||I Became the Extra Prince Who Died Ten Thousand Times
+439169|||귀환했더니 관리국부터 만들게 생겼다|||After Returning, I Ended Up Creating the Management Bureau First
+440079|||수(獸)상한 파티 속 청일점|||The Only Sane One in a Party Full of Beasts
+438483|||서브히로인을 지키는 엑스트라가 되었다|||I Became the Extra Who Protects the Sub-H
 430792|||ruzjwjcj먀너ㅓㅊ|||
 435267|||여자친구 엄마와 먼저 자버렸다.|||
 437116|||럽코 속 서브 남주가 되었다.|||
@@ -85144,36 +85174,6 @@
 440013|||격투기 경기 중에 이세계 소환|||
 439644|||『도쿄 영점의 조율사』|||
 440241|||2회차 아이돌이 전생을 숨김|||
-439578|||나를 너무 사랑하는 외신이 떠나질않는다|||
-439275|||[블루아카이브]데카그라마톤의 막내.|||
-440227|||흑길동전|||
-440173|||지옥에서 혼자 이지모드|||
-439119|||갤질하는 천재 탑등반자|||
-437206|||월령|||
-439324|||한입충 슬라임을 얻었다|||
-439502|||시한부인데 내 기연이 누군지 모르겠다|||
-440095|||오른손의 흑염룡 [단편 실험작]|||
-439213|||선협에서 살아남기|||
-439956|||드래곤의 인간 사육용 키트|||
-439271|||내가 키웠던 동물들이 세계관 최강자가 되어 집착한다|||
-439465|||조국을 위해 군부독재 하겠습니다.|||
-440214|||백색은 경계를 넘어서|||
-439505|||45억살 먹은 정령이 되었다|||
-439653|||다크판타지 속 주인공 파티를 뺏어버렸다|||
-439656|||마왕님의 환생체가 허접해서 키워내기로함|||
-440059|||전 그냥 용병이에요.|||
-439361|||100일 동안 주파수를 들었더니 각성했다|||
-439457|||귀환자가 대한 마법 제국을 세웠다|||
-440068|||붕괴×아이언맨×워머신 : 강철의 강림|||
-439863|||마족 스파이는 인간 스파이를 키운다|||
-438304|||마족고아들이 집착하는 고아원장이 되었다|||
-440052|||상식개변 이세계인들의 상식 훈련사가 되었다|||
-439401|||인간혐오 스트리머 이성하|||
-439679|||아카데미 X맨이 되었다.|||
-439267|||만 번 죽은 엑스트라 황자가 되었다|||
-439169|||귀환했더니 관리국부터 만들게 생겼다|||
-440079|||수(獸)상한 파티 속 청일점|||
-438483|||서브히로인을 지키는 엑스트라가 되었다|||
 434411|||인간박이는 기계박이의 꿈을 꾸는가|||
 439870|||로판의 바바리안 차르는 참지 않는다|||
 439949|||방구석 대마법사|||
