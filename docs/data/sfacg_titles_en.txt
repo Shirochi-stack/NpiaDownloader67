@@ -224427,7 +224427,6 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
-60208|||时祸：我不能杀任何人||||||Time Misfortune: I Can't Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -275627,6 +275626,13 @@
 680873|||阿尔法零编年史|||Alpha Zero Chronicles
 723539|||生还：莱恩事变|||Survival: The Ryan Incident
 173655|||某傻汁的异世界生活|||A Certain Fool's Life in Another World
+354293|||Arknights败亡黄昏|||Arknights: Twilight of Defeat
+483897|||为什么只有我颜值能当实力|||Why Does My Looks Count as Power?
+721233|||末世萌主：虫族女皇|||Cute Lord of the Apocalypse: The Zerg Empress
+200850|||时空诡异线|||The Strange Spacetime Line
+690251|||收养女儿，然后疯狂宠她|||Adopted a Daughter and Then Spoil Her Like Crazy
+14867|||IS同人—IAI|||IS Doujin: IAI
+780497|||我重生了这一次我要当校花的舔狗|||Reborn to Be the Campus Belle’s Doormat
 308891|||穿越崩三变成大姐兽的我不想丢人|||I Transmigrated into Honkai Impact 3rd as a Big Sister Beast and Refuse to Be a Disgrace
 337874|||琪亚娜于Fgo|||Kiana in FGO
 178180|||崩坏3舰长篇|||Honkai Impact 3rd: Captain's Arc
@@ -275635,13 +275641,90 @@
 780165|||为了不被撕卡选择成为侦探|||I Became a Detective So My Card Wouldn’t Get Torn
 780096|||末世遇到水煮鱼是否搞错了什么|||Is It Wrong to Encounter Boiled Fish in the Apocalypse?
 780081|||规则怪谈之黑桦古堡七日幽囚|||Rule of Horror: Seven Days Captive in Heihua Castle
-354293|||Arknights败亡黄昏|||Arknights: Twilight of Defeat
-483897|||为什么只有我颜值能当实力|||Why Does My Looks Count as Power?
-721233|||末世萌主：虫族女皇|||Cute Lord of the Apocalypse: The Zerg Empress
-200850|||时空诡异线|||The Strange Spacetime Line
-690251|||收养女儿，然后疯狂宠她|||Adopted a Daughter and Then Spoil Her Like Crazy
-14867|||IS同人—IAI|||IS Doujin: IAI
-780497|||我重生了这一次我要当校花的舔狗|||Reborn to Be the Campus Belle’s Doormat
+60208|||时祸：我不能杀任何人|||Temporal Calamity: I Cannot Kill Anyone
+780476|||我和妈妈互换了身体|||I Swapped Bodies with My Mom
+780415|||少年的初次心动|||A Boy's First Love
+780320|||在高中的日常|||Daily Life in High School
+780314|||冬日的雪夏日的风|||Winter's Snow, Summer's Wind
+780126|||我只是想活下去！有这么难吗？|||I Just Want to Survive! Is That So Hard?
+780190|||我的日常崩坏了|||My Daily Life Has Crumbled
+780433|||关于明日雪的一切Ver2,0|||Everything About Tomorrow's Snow Ver2.0
+780253|||女高的悠闲日常|||A High School Girl's Laid-Back Daily Life
+750984|||少女的王朝|||A Maiden's Dynasty
+738942|||学妹表白青梅，修罗场却冲我来了|||My Junior Confessed to My Childhood Friend, but the Love Battle Came for Me
+581142|||重生后我的恋爱自嫁日常|||After Rebirth, My Daily Life of Self-Marriage Romance
+737083|||苍天可鉴，我真没想攻略她们啊！|||Heaven Knows, I Really Didn't Mean to Capture Their Hearts!
+537503|||扮成美少女被大小姐拐回家这件事|||The Incident of Disguising as a Beautiful Girl and Getting Kidnapped Home by a Young Lady
+684568|||病爱女友已出院|||My Sick-Love Girlfriend Has Been Discharged
+606925|||作为少女的悲惨生活|||The Miserable Life of Being a Girl
+559873|||魔王的萌物养成计划|||The Demon King's Plan to Raise a Moe Creature
+233401|||变成女孩的我是钢铁直男|||I Became a Girl, but I'm a Diehard Straight Guy
+552520|||变身后能与你和好吗|||After I Transform, Can We Make Up?
+221989|||女攻男受很好笑吗|||Is a Dominant Girl and Submissive Guy That Funny?
+134397|||神格學院|||Divine Rank Academy
+11118|||少年派|||Youth Pi
+697773|||我绝对不要谈恋爱|||I Absolutely Do Not Want to Fall in Love
+563806|||玉雪|||Jade Snow
+652825|||伪装甜妹的我成了最强代舔师|||Posing as a Sweet Girl, I Became the Ultimate Substitute Flirt
+309867|||我不想只是她的青梅|||I Don't Want to Just Be Her Childhood Friend
+38926|||“媒人朴”也有春天|||"Matchmaker Park" Also Has Its Spring
+160197|||我长得帅也是错呀|||Is It a Crime to Be Handsome?
+668116|||柠檬味汽水|||Lemon-Flavored Soda
+100969|||不帮助别人就会变成女生|||If You Don't Help Others, You'll Turn into a Girl
+185253|||想成为死宅的我有什么错|||What's Wrong with Wanting to Be a Shut-in Otaku?
+205121|||长梦曲|||Song of a Long Dream
+170586|||我有一些奇怪的追求者|||I Have Some Strange Suitors
+627562|||我的青梅女仆太过纯情|||My Childhood Friend Maid Is Too Purehearted
+780522|||三司大岁|||The Three Departments' Grand Year
+780205|||白化病女孩的狂想曲|||Rhapsody of an Albino Girl
+779992|||怎么办？女主们好像起杀心了！|||What to Do? The Heroines Seem to Have Murderous Intent!
+780506|||甩飞人机系统爱上大姐头|||Tossing the Fly-Humanoid System and Falling for the Big Sis
+780218|||女尊的知心大哥哥|||The Caring Big Brother in a Matriarchal World
+780133|||重生一次，掰弯青梅横夺女租客|||Reborn Once, I Bent My Childhood Friend and Snatched the Female Tenant
+779462|||别再当丧女了|||Stop Being a Loser Girl
+780302|||最外层核外电子七颗也能稳定存在|||Seven Electrons in the Outermost Shell Can Also Be Stable
+780270|||第二人格也要摆了|||Even My Second Personality Is Giving Up
+780110|||TK世界|||TK World
+780099|||滇南王|||King of Diannan
+780025|||极渊：杀人狂模拟器|||Extreme Abyss: Serial Killer Simulator
+780298|||这傲娇魔了，是个病娇魔法少女|||This Tsundere Has Broken, She's a Yandere Magical Girl
+780070|||不时用中文说真心话的魔女小姐|||The Witch Who Occasionally Speaks Her True Feelings in Chinese
+780073|||我的本命卡必须穿女装|||My Destiny Card Requires Me to Wear Women's Clothes
+780147|||我在京都除灵那些年|||Those Years I Spent Exorcising in Kyoto
+780316|||法之血|||Blood of the Law
+720185|||觉醒后拒绝追夫火葬场|||After Awakening, I Refused the Husband-Chasing Crematorium
+176379|||当幻想入侵现实世界设定集|||When Fantasy Invades Reality: A World Setting Compilation
+247665|||为什么总有美少女向我表白|||Why Do Beautiful Girls Always Confess to Me?
+65426|||耽美短篇|||Danmei Short Story
+163153|||女装都市|||Crossdressing Metropolis
+638353|||光，彼岸与共生|||Light, the Far Shore, and Symbiosis
+582789|||名侦探柯南之绯色哀悼|||Detective Conan: Scarlet Mourning
+732248|||姐姐我不要被囚i禁呀|||Sis, I Don't Want to Be Imprisoned!
+399708|||神豪少女今天很想低调生活|||The Rich Young Lady Really Wants to Live Low-Key Today
+758126|||爱在重逢时|||Love at Reunion
+316468|||请不要这样|||Please Don't Do This
+501273|||叫JoJo的屑反派|||A Scumbag Villain Named JoJo
+635128|||不当魔法少女了！|||I Quit Being a Magical Girl!
+763261|||每个我都被坏女人骚扰|||Every Version of Me Is Harassed by Bad Women
+515722|||我在外来媳妇本地郎生活|||Living in "The Foreign Wife, Local Husband"
+692928|||笔下女主攻陷我，雌小鬼怎么急了|||The Heroine I Wrote Conquered Me; Why Is the Cheeky Brat So Flustered?
+575365|||就算给大小姐当狗也不要你们的爱|||Even If I Become the Young Lady's Dog, I Don't Want Your Love
+258539|||把我忘记|||Forget Me
+716095|||雨中幽魂|||Wraith in the Rain
+518890|||姑娘我被暗恋的真千金扑倒了|||I Was Pounced On by the Real Heiress I Secretly Admired
+530025|||病娇女友拯救计划|||Yandere Girlfriend Rescue Plan
+542324|||渣男在人间|||Scumbag in the Mortal World
+460437|||我居然是轩辕剑鞘|||I'm Actually the Scabbard of Xuan-Yuan Sword
+324348|||决战之路|||The Road to the Final Battle
+595692|||原神：转生冰天雪女|||Genshin Impact: Reincarnated as the Ice Snow Maiden
+664712|||星穹铁道：旅人殊途|||Honkai: Star Rail — Travelers on Different Paths
+570631|||丽塔，你也不想比安卡上不了学吧|||Rita, You Don't Want Bianka to Miss School, Right?
+713199|||宝可梦心之行|||Pokémon Journey of the Heart
+147778|||就算变成boss也要认真活下去|||Even if I Become the Boss, I'll Live Seriously
+648444|||狼群部队战锤的冒险|||The Adventure of Wolf Pack Squad Warhammer
+554347|||我，碧蓝航线唯一的指挥官|||I, the Only Commander of Azur Lane
+463492|||带着火影在明日方舟|||Bringing Naruto to Arknights
+663649|||狼牙特别行动指挥部与舰娘的路途|||Wolf Fang Special Operations Command and the Ship Girls' Journey
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
@@ -275747,86 +275830,3 @@
 704418|||91|||
 218423|||200|||
 771725|||098|||
-780476|||我和妈妈互换了身体|||
-780415|||少年的初次心动|||
-780320|||在高中的日常|||
-780314|||冬日的雪夏日的风|||
-780126|||我只是想活下去！有这么难吗？|||
-780190|||我的日常崩坏了|||
-780433|||关于明日雪的一切Ver2,0|||
-780253|||女高的悠闲日常|||
-750984|||少女的王朝|||
-738942|||学妹表白青梅，修罗场却冲我来了|||
-581142|||重生后我的恋爱自嫁日常|||
-737083|||苍天可鉴，我真没想攻略她们啊！|||
-537503|||扮成美少女被大小姐拐回家这件事|||
-684568|||病爱女友已出院|||
-606925|||作为少女的悲惨生活|||
-559873|||魔王的萌物养成计划|||
-233401|||变成女孩的我是钢铁直男|||
-552520|||变身后能与你和好吗|||
-221989|||女攻男受很好笑吗|||
-134397|||神格學院|||
-11118|||少年派|||
-697773|||我绝对不要谈恋爱|||
-563806|||玉雪|||
-652825|||伪装甜妹的我成了最强代舔师|||
-309867|||我不想只是她的青梅|||
-38926|||“媒人朴”也有春天|||
-160197|||我长得帅也是错呀|||
-668116|||柠檬味汽水|||
-100969|||不帮助别人就会变成女生|||
-185253|||想成为死宅的我有什么错|||
-205121|||长梦曲|||
-170586|||我有一些奇怪的追求者|||
-627562|||我的青梅女仆太过纯情|||
-780522|||三司大岁|||
-780205|||白化病女孩的狂想曲|||
-779992|||怎么办？女主们好像起杀心了！|||
-780506|||甩飞人机系统爱上大姐头|||
-780218|||女尊的知心大哥哥|||
-780133|||重生一次，掰弯青梅横夺女租客|||
-779462|||别再当丧女了|||
-780302|||最外层核外电子七颗也能稳定存在|||
-780270|||第二人格也要摆了|||
-780110|||TK世界|||
-780099|||滇南王|||
-780025|||极渊：杀人狂模拟器|||
-780298|||这傲娇魔了，是个病娇魔法少女|||
-780070|||不时用中文说真心话的魔女小姐|||
-780073|||我的本命卡必须穿女装|||
-780147|||我在京都除灵那些年|||
-780316|||法之血|||
-720185|||觉醒后拒绝追夫火葬场|||
-176379|||当幻想入侵现实世界设定集|||
-247665|||为什么总有美少女向我表白|||
-65426|||耽美短篇|||
-163153|||女装都市|||
-638353|||光，彼岸与共生|||
-582789|||名侦探柯南之绯色哀悼|||
-732248|||姐姐我不要被囚i禁呀|||
-399708|||神豪少女今天很想低调生活|||
-758126|||爱在重逢时|||
-316468|||请不要这样|||
-501273|||叫JoJo的屑反派|||
-635128|||不当魔法少女了！|||
-763261|||每个我都被坏女人骚扰|||
-515722|||我在外来媳妇本地郎生活|||
-692928|||笔下女主攻陷我，雌小鬼怎么急了|||
-575365|||就算给大小姐当狗也不要你们的爱|||
-258539|||把我忘记|||
-716095|||雨中幽魂|||
-518890|||姑娘我被暗恋的真千金扑倒了|||
-530025|||病娇女友拯救计划|||
-542324|||渣男在人间|||
-460437|||我居然是轩辕剑鞘|||
-324348|||决战之路|||
-595692|||原神：转生冰天雪女|||
-664712|||星穹铁道：旅人殊途|||
-570631|||丽塔，你也不想比安卡上不了学吧|||
-713199|||宝可梦心之行|||
-147778|||就算变成boss也要认真活下去|||
-648444|||狼群部队战锤的冒险|||
-554347|||我，碧蓝航线唯一的指挥官|||
-463492|||带着火影在明日方舟|||
-663649|||狼牙特别行动指挥部与舰娘的路途|||
