@@ -224427,6 +224427,7 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
+60208|||时祸：我不能杀任何人||||Temporal Calamity: I Cannot Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -275633,15 +275634,6 @@
 690251|||收养女儿，然后疯狂宠她|||Adopted a Daughter and Then Spoil Her Like Crazy
 14867|||IS同人—IAI|||IS Doujin: IAI
 780497|||我重生了这一次我要当校花的舔狗|||Reborn to Be the Campus Belle’s Doormat
-308891|||穿越崩三变成大姐兽的我不想丢人|||I Transmigrated into Honkai Impact 3rd as a Big Sister Beast and Refuse to Be a Disgrace
-337874|||琪亚娜于Fgo|||Kiana in FGO
-178180|||崩坏3舰长篇|||Honkai Impact 3rd: Captain's Arc
-780410|||暗黑向短篇集|||Dark Short Story Collection
-780387|||莫格街宿舍凶杀案|||Morgue Street Dorm Murders
-780165|||为了不被撕卡选择成为侦探|||I Became a Detective So My Card Wouldn’t Get Torn
-780096|||末世遇到水煮鱼是否搞错了什么|||Is It Wrong to Encounter Boiled Fish in the Apocalypse?
-780081|||规则怪谈之黑桦古堡七日幽囚|||Rule of Horror: Seven Days Captive in Heihua Castle
-60208|||时祸：我不能杀任何人|||Temporal Calamity: I Cannot Kill Anyone
 780476|||我和妈妈互换了身体|||I Swapped Bodies with My Mom
 780415|||少年的初次心动|||A Boy's First Love
 780320|||在高中的日常|||Daily Life in High School
@@ -275725,6 +275717,14 @@
 554347|||我，碧蓝航线唯一的指挥官|||I, the Only Commander of Azur Lane
 463492|||带着火影在明日方舟|||Bringing Naruto to Arknights
 663649|||狼牙特别行动指挥部与舰娘的路途|||Wolf Fang Special Operations Command and the Ship Girls' Journey
+308891|||穿越崩三变成大姐兽的我不想丢人|||I Transmigrated into Honkai Impact 3rd as a Big Sister Beast and Refuse to Be a Disgrace
+337874|||琪亚娜于Fgo|||Kiana in FGO
+178180|||崩坏3舰长篇|||Honkai Impact 3rd: Captain's Arc
+780410|||暗黑向短篇集|||Dark Short Story Collection
+780387|||莫格街宿舍凶杀案|||Morgue Street Dorm Murders
+780165|||为了不被撕卡选择成为侦探|||I Became a Detective So My Card Wouldn’t Get Torn
+780096|||末世遇到水煮鱼是否搞错了什么|||Is It Wrong to Encounter Boiled Fish in the Apocalypse?
+780081|||规则怪谈之黑桦古堡七日幽囚|||Rule of Horror: Seven Days Captive in Heihua Castle
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
