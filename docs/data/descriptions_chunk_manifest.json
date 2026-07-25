@@ -1,10 +1,13 @@
 {
-  "chunks": 3,
-  "totalRows": 84795,
+  "shards": 3,
+  "totalRows": 86520,
+  "descriptions": 86516,
+  "algorithm": "numeric-modulo-v1",
+  "format": "id-to-synopsis-json",
   "files": [
-    "descriptions_chunk_0.txt.gz",
-    "descriptions_chunk_1.txt.gz",
-    "descriptions_chunk_2.txt.gz"
+    "descriptions_chunk_000.json.gz",
+    "descriptions_chunk_001.json.gz",
+    "descriptions_chunk_002.json.gz"
   ],
-  "source": "docs/data/descriptions.txt"
+  "source": "docs/data/descriptions.txt.gz"
 }
