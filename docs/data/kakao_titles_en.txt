@@ -3635,7 +3635,7 @@
 68171990|||상제의 딸|||Daughter of the Emperor
 64190808|||열락의 계절|||Season of Pleasure
 68116241|||구환귀|||Nine Ring Return
-68097831|||팔 거면 내게 팔아|||If You're Going to Sell It, Sell It to Me
+68097831|||팔 거면, 내게 팔아|||If You're Going to Sell It, Sell It to Me
 68082171|||망한 세상에서 최애를 지키겠습니다|||I Will Protect My Bias in a Ruined World
 68043596|||흙수저가 회귀하면|||When a Dirt Spoon Regresses
 68084158|||그 기사, 황후가 되다 [단행본]|||That Knight Becomes Empress [Volume Edition]
@@ -9665,7 +9665,7 @@
 66211824|||빌보드 1위로 시작하는 작곡생활[단행본]|||Composer Life Starting with a Billboard #1 [Book]
 66211801|||귀농했는데 아포칼립스 터졌다[단행본]|||I Returned to Farming, But the Apocalypse Broke Out [Volume]
 66211766|||은퇴한 헌터의 아포칼립스[단행본]|||Retired Hunter's Apocalypse [Book]
-66281918|||인투 더 액트 [BL] [개정판]|||Into the Act [BL] [Revised Edition]
+66281918|||인투 더 액트 [개정판]|||Into the Act [BL] [Revised Edition]
 66282382|||트랙 업(Track Up) [19세 완전판]|||Track Up [Uncensored 19+ Edition]
 66298297|||낭만의 경계선|||The Boundary of Romance
 66209548|||그녀가 떠나려 했던 이유 [단행본]|||The Reason She Tried to Leave [Volume Edition]
@@ -10730,7 +10730,7 @@
 65968407|||불순 계약 [단행본]|||Impure Contract [Single Volume]
 65967601|||불순 계약|||Impure Contract
 65967258|||공작님의 마나 포션이 되어드릴게요!|||I'll Be the Duke's Mana Potion!
-65945119|||[BL] 별일 없는 동네 (외전) [19세 완전판][단행본]|||[BL] An Ordinary Neighborhood (Side Story) [19+ Complete Edition] [Single Volume]
+65945119|||별일 없는 동네 (외전) [19세 완전판][단행본]|||[BL] An Ordinary Neighborhood (Side Story) [19+ Complete Edition] [Single Volume]
 65918789|||대막리지 연개소문[단행본]|||Great Moji Yeon Gaesomun [Single Volume]
 65917901|||전남편과 여동생이 결혼했다 [단행본]|||My Ex-Husband Married My Younger Sister [Volume Edition]
 65901354|||다시 사는 하오문도 [단행본]|||The Haomun Disciple Living Anew [Volume]
@@ -10744,8 +10744,8 @@
 65868080|||무협지 최강 흑막 아빠가 심신미약임|||The Strongest Dark Master Dad in a Martial Arts Novel is Mentally Weak
 65670310|||옆집에 광년이가 산다|||A Crazy Woman Lives Next Door
 65016895|||미친개의 첫사랑이 돌아왔다|||The Mad Dog's First Love Has Returned
-65911929|||[BL] 용과 연금술사 (외전 2) [19세 완전판][단행본]|||[BL] Dragon and Alchemist (Side Story 2) [19+ Uncut] [Book]
-65911670|||[BL] 길드에서 강퇴당하는 방법 (외전 2) [19세 완전판][단행본]|||[BL] How to Get Kicked Out of a Guild (Side Story 2) [19+ Uncut] [Book]
+65911929|||용과 연금술사 (외전 2) [19세 완전판][단행본]|||[BL] Dragon and Alchemist (Side Story 2) [19+ Uncut] [Book]
+65911670|||길드에서 강퇴당하는 방법 (외전 2) [19세 완전판][단행본]|||[BL] How to Get Kicked Out of a Guild (Side Story 2) [19+ Uncut] [Book]
 65899961|||죽지 않는 VR 헌터|||The Undying VR Hunter
 65899601|||전생에 회장님의 아들이었다|||I Was the Chairman's Son in My Past Life
 65893053|||구원 말고 구혼 [단행본]|||Proposal, Not Salvation [Book]
@@ -11852,7 +11852,7 @@
 65524809|||국가권력급 귀환자의 현대생활 [단행본]|||The Modern Life of a National Power-Class Returnee [Volume Edition]
 65524729|||나 혼자 초월급 네크로맨서 [단행본]|||I Alone Am a Transcendent-Rank Necromancer [Volume Edition]
 65625671|||끝도 없이 널|||Endlessly You
-65632791|||[BL] 기만의 밤 (외전) [19세 완전판][단행본]|||[BL] Night of Deception (Side Story) [19+ Complete Edition] [Single Volume]
+65632791|||기만의 밤 (외전) [19세 완전판][단행본]|||[BL] Night of Deception (Side Story) [19+ Complete Edition] [Single Volume]
 65627630|||푸른 달은 두 번 떠오른다 [단행본]|||The Blue Moon Rises Twice [Volume]
 65626739|||홀로 남은 용이 몸을 숨김|||The Lone Dragon Hides Its Body
 65626241|||다시 사는 하오문도|||The Haomun Disciple Living Again
@@ -12721,7 +12721,7 @@
 65444429|||기레기 탈출기 : 저널리스트|||Escape From Being a Hack Journalist: Journalist
 65388189|||아케인펑크의 공간술사[단행본]|||Arcane Punk Space Mage [Book]
 65388114|||로마를 정복해야 내가 산다.[단행본]|||I Must Conquer Rome to Live [Book]
-65431947|||[BL] 민트사탕러브 (외전) [19세 완전판][단행본]|||[BL] Mint Candy Love (Side Story) [19+ Uncut] [Book]
+65431947|||민트사탕러브 (외전) [19세 완전판][단행본]|||[BL] Mint Candy Love (Side Story) [19+ Uncut] [Book]
 65427722|||광공들이 미쳤는데 로그아웃이 안 된다니요 (외전 2) [19세 완전판][단행본]|||[BL] The Obsessive Tops Are Crazy and I Can't Log Out (Side Story 2) [19+ Uncut Version] [Volume]
 65410624|||악연, 결코 놓지 못하는[단행본]|||Ill-Fated Relationship, Never Able to Let Go [Book]
 65398781|||후회는 없어[단행본]|||No Regrets [Single Volume]
@@ -13105,7 +13105,7 @@
 65309593|||소설 속 엑스트라 [단행본]|||The Extra in the Novel [Volume Edition]
 65310071|||남궁세가 막내공자 [단행본]|||The Namgung Clan's Youngest Young Master [Volume Edition]
 65285567|||강호양조 무림에 술을 풀었다 [단행본]|||Gangho Brewery, I Released Alcohol into the Martial Arts World [Volume]
-65330418|||[BL] 집착광공의 아빠가 꼬심 당하는 중 (외전 2) [19세 완전판][단행본]|||[BL] The Obsessive Maniac's Dad Is Being Seduced (Side Story 2) [19+ Edition][Book]
+65330418|||집착광공의 아빠가 꼬심 당하는 중 (외전 2) [19세 완전판][단행본]|||[BL] The Obsessive Maniac's Dad Is Being Seduced (Side Story 2) [19+ Edition][Book]
 65251745|||마지막 소드마스터의 사생아[단행본]|||The Last Sword Master's Bastard [Volume]
 65276261|||나 혼자 아포칼립스를 준비한다[단행본]|||I Alone Prepare for the Apocalypse [Volume Edition]
 65153415|||대공가의 사생아가 검술을 훔침[단행본]|||The Grand Duchy's Illegitimate Son Steals Swordsmanship [Volume]
@@ -14286,7 +14286,7 @@
 64984668|||주연으로 살겠다|||I Will Live as a Lead Role
 64979255|||천마는 아직 살아있다 [단행본]|||The Heavenly Demon Is Still Alive [Volume]
 64979221|||우화등선은 이세계로 [단행본]|||Ascending To Immortality In Another World
-64975640|||[BL] 103578951 (외전) [19세 완전판][단행본]|||[BL] 103578951
+64975640|||103578951 (외전) [19세 완전판][단행본]|||[BL] 103578951
 64962222|||맵핵 들고 게임 속으로|||Entering The Game With Map Hack
 64947456|||장마철|||Rainy Season
 64919972|||사상 최강의 사냥꾼|||The Strongest Hunter in History
@@ -16076,7 +16076,7 @@
 64266496|||고결한 흠|||Noble Flaw
 64409109|||괴담학교에서 살아남기|||Surviving in Ghost Story School
 64434035|||유정강호|||Righteous Gangho
-64443405|||슬기로운 국서 생활[19세 완전판]|||Wise National Son-in-Law Life [19+ Uncensored]
+64443405|||슬기로운 국서 생활 [19세 완전판]|||Wise National Son-in-Law Life [19+ Uncensored]
 64443404|||슬기로운 국서 생활|||Wise National Son-in-Law Life
 64419241|||환생자의 스트리밍|||Reincarnator's Streaming
 64423468|||낫 배드|||Not Bad
@@ -16219,7 +16219,7 @@
 64380305|||망나니 투자자가 힐링캠프를 한다|||The Scoundrel Investor Holds a Healing Camp
 64377201|||해를 세다|||Counting the Years
 64117381|||돌아온 풍운아 리창수 레알 가겠습니다|||The Returned Prodigal Son Lee Chang-soo, I'm Really Going
-64462014|||룬의 아이들 - 블러디드 [단행본]|||Children of the Rune - Blooded [Book Edition]
+64462014|||(이용권)룬의 아이들 - 블러디드 [단행본]|||Children of the Rune - Blooded [Book Edition]
 64395383|||새벽이 머문 자리|||The Place Where Dawn Stayed
 64379516|||대표님의 목줄|||CEO's Leash
 64431082|||데모닉 [단행본]|||Demonic [Print Edition]
@@ -16336,7 +16336,7 @@
 64408033|||씨에스타|||Siesta
 64382010|||망겜 고인물의 히든 엔딩 공략법|||Hidden Ending Guide for a Failed Game Veteran
 64368707|||한의사, 무림에서 돌아왔습니다|||Oriental Doctor, Returned from Murim
-64393020|||[BL] 너냐? 내 최애를 죽인 게|||[BL] Was It You? The One Who Killed My Bias
+64393020|||너냐? 내 최애를 죽인 게|||[BL] Was It You? The One Who Killed My Bias
 64352452|||아카데미의 두 번 사는 네크로맨서|||The Necromancer Who Lives Twice in the Academy
 64180233|||그 밤의 습도|||The Humidity of That Night
 63426320|||살구가 맺힌 계절에 [단행본]|||In the Season When Apricots Bear Fruit [Volume Edition]
@@ -17949,10 +17949,10 @@
 62444145|||광공들이 미쳤는데 로그아웃이 안 된다니요 (외전) [19세 완전판]|||[BL] The Maniacs Are Crazy and I Can't Log Out (Side Story) [19+ Full Version]
 62431547|||[BL] 틸 던 (Till dawn) 2권 (완결) [19세 완전판][단행본]|||[BL] Till Dawn Volume 2 (Complete) [19+ Complete Edition][Single Volume]
 62798677|||[BL] 무당집 아들, 실전뜁니다 (외전) [19세 완전판][단행본]|||[BL] The Shaman's Son, Goes Into Action (Side Story) [19+ Uncut Version] [Volume]
-62805021|||[BL] 오늘은 치킨먹방 w (외전) [19세 완전판][단행본]|||[BL] Today’s Chicken Mukbang w (Side Story) [19+ Complete Edition][Single Volume]
-62804839|||[BL] 오늘은 치킨먹방 w (외전) [19세 완전판]|||[BL] Today’s Chicken Mukbang w (Side Story) [19+ Complete Edition]
-62806567|||[BL] 아이돌 불행 시뮬레이션 (외전) [19세 완전판][단행본]|||[BL] Idol Misfortune Simulation (Side Story) [19+ Uncut Edition] [Book]
-62806413|||[BL] 아이돌 불행 시뮬레이션 (외전) [19세 완전판]|||[BL] Idol Misfortune Simulation (Side Story) [19+ Uncut Edition]
+62805021|||오늘은 치킨먹방 w (외전) [19세 완전판][단행본]|||[BL] Today’s Chicken Mukbang w (Side Story) [19+ Complete Edition][Single Volume]
+62804839|||오늘은 치킨먹방 w (외전) [19세 완전판]|||[BL] Today’s Chicken Mukbang w (Side Story) [19+ Complete Edition]
+62806567|||아이돌 불행 시뮬레이션 (외전) [19세 완전판][단행본]|||[BL] Idol Misfortune Simulation (Side Story) [19+ Uncut Edition] [Book]
+62806413|||아이돌 불행 시뮬레이션 (외전) [19세 완전판]|||[BL] Idol Misfortune Simulation (Side Story) [19+ Uncut Edition]
 63867280|||같은 자리|||The Same Place
 63865208|||어프록시말 가이드 [외전] [19세 완전판]|||Proximal Guide [Side Story] [19+ Full Version]
 63864202|||어프록시말 가이드 [외전]|||Proximal Guide [Side Story]
@@ -18205,7 +18205,7 @@
 63592778|||오디션[개정판]|||Audition [Revised Edition]
 63588866|||누스[개정판]|||Nus [Revised Edition]
 63834683|||핏빛 로맨스|||Bloodstained Romance
-63785866|||[BL] 이웃집 길드원 (외전 2) [단행본]|||[BL] Neighbor Guild Member (Side Story 2) [Single Volume]
+63785866|||이웃집 길드원 (외전 2) [단행본]|||[BL] Neighbor Guild Member (Side Story 2) [Single Volume]
 63816754|||20년만에 괴물 배우로 복귀했습니다|||I Returned as a Monster Actor After 20 Years
 63815492|||이혼한 재벌 사위는 역대급 재벌|||Divorced Chaebol Son-in-Law is the Greatest Chaebol
 63815071|||천재 신입사원 버거왕이 되다|||Genius New Employee Becomes the Burger King
@@ -18490,7 +18490,7 @@
 63695461|||내 눈에만 승리가 보임|||Only I Can See Victory
 63690178|||차갑고 뜨거운 밤|||Cold and Hot Night
 63716554|||재벌가 빌런이 되었다|||I Became a Chaebol Family Villain
-62806732|||[BL] 수어사이드 킹 (Suicide King) [19세 완전판][단행본]|||[BL] Suicide King [19+ Uncut] [Book]
+62806732|||수어사이드 킹 (Suicide King) [19세 완전판][단행본]|||[BL] Suicide King [19+ Uncut] [Book]
 63335349|||독어택 외전 2: 미드나잇슬립 [19세 완전판][단행본]|||Poison Attack Side Story 2: Midnight Sleep [19+ Uncut Edition][Volume Edition]
 63571038|||소설 속 비련의 여주는 사절이야|||I Refuse to Be the Tragic Heroine in a Novel
 63658534|||빙의했지만, 내 인생 살게요 [단행본]|||Possessed, But I'm Living My Life [Book Edition]
@@ -19004,8 +19004,8 @@
 63500383|||풀케어로 빌런 갱생시키기 [단행본]|||Rehabilitating the Villain with Full Care [Book]
 63258033|||애타는 밤[개정판]|||Anxious Night [Revised Edition]
 63561851|||삼국지 : 공손속이 누구야?[단행본]|||Romance of the Three Kingdoms: Who Is Gongsun Su? [Single Volume]
-63214790|||[BL] 호구조사 외전: 고등학교 AU [19세 완전판][단행본]|||[BL] Background Check Side Story: High School AU [19+ Uncut] [Book]
-63214699|||[BL] 호구조사 외전: 후일담 [19세 완전판][단행본]|||[BL] Background Check Side Story: Aftermath [19+ Uncut] [Book]
+63214790|||호구조사 외전: 고등학교 AU [19세 완전판][단행본]|||[BL] Background Check Side Story: High School AU [19+ Uncut] [Book]
+63214699|||호구조사 외전: 후일담 [19세 완전판][단행본]|||[BL] Background Check Side Story: Aftermath [19+ Uncut] [Book]
 63549058|||비향무|||Fragrant Dance of the Rain
 63519387|||맹독 주의보|||Warning: Deadly Poison
 63561891|||기계신과 함께[단행본]|||Together With the Machine God [Single Volume]
@@ -19720,8 +19720,8 @@
 63293496|||흘러넘치는|||Overflowing
 63228913|||임신한 오메가를 믿지 마세요|||Don't Trust a Pregnant Omega
 63296578|||조선에서 인간병기로 살아가는 법|||How to Live as a Human Weapon in Joseon
-62806519|||[BL] 아이돌 불행 시뮬레이션 [단행본]|||[BL] Idol Misfortune Simulation [Book]
-62805424|||[BL] 아이돌 불행 시뮬레이션|||[BL] Idol Misfortune Simulation
+62806519|||아이돌 불행 시뮬레이션 [단행본]|||[BL] Idol Misfortune Simulation [Book]
+62805424|||아이돌 불행 시뮬레이션|||[BL] Idol Misfortune Simulation
 62784555|||[BL] 얼빠의 최후 [단행본]|||[BL] The End of a Face-Obsessed [Book]
 62784328|||[BL] 얼빠의 최후|||[BL] The End of a Face-Obsessed
 62781955|||[BL] 에사 프로메사 (Esa Promesa) [단행본]|||[BL] Esa Promesa [Volume]
@@ -19745,9 +19745,9 @@
 62466396|||센차 레플리카 [19세 완전판]|||Sencha Replica [19+ Uncut Edition]
 62450353|||[BL] 조연으로 살겠다 (외전) [19세 완전판]|||[BL] I Will Live as a Supporting Character (Side Story) [19+ Uncut Version]
 62443452|||후회공을 피하는 시한부의 삶이란 (외전) [19세 완전판]|||Life as a Terminally Ill Person Avoiding the Regretful Top (Side Story) [19+ Uncut]
-62804996|||[BL] 오늘은 치킨먹방 w 5권 (완결) [단행본]|||[BL] Chicken Mukbang Today w Vol. 5 (Complete) [Single Volume]
-62804969|||[BL] 오늘은 치킨먹방 w 1~4권 [단행본]|||[BL] Chicken Mukbang Today w Vols. 1–4 [Single Volume]
-62804429|||[BL] 오늘은 치킨먹방 w|||[BL] Chicken Mukbang Today w
+62804996|||오늘은 치킨먹방 w 5권 (완결) [단행본]|||[BL] Chicken Mukbang Today w Vol. 5 (Complete) [Single Volume]
+62804969|||오늘은 치킨먹방 w 1~4권 [단행본]|||[BL] Chicken Mukbang Today w Vols. 1–4 [Single Volume]
+62804429|||오늘은 치킨먹방 w|||[BL] Chicken Mukbang Today w
 62408266|||사기결혼도 환불이 되나요? [19세 완전판][단행본]|||Can a Fraudulent Marriage Be Refunded? [19+ Uncut Edition][Volume Edition]
 62407860|||사기결혼도 환불이 되나요? [19세 완전판]|||Can Fraudulent Marriages Be Refunded? [19+ Uncut]
 63363133|||은퇴한 대장군의 육아일기|||Retired Grand General's Parenting Diary
@@ -20564,8 +20564,8 @@
 63117805|||단죄받은 악역 영애는 회귀하여 완벽한 악녀를 노린다|||The Condemned Villainess Regresses and Aims to Be the Perfect Villainess
 62482414|||길드에서 강퇴당하는 방법 (외전) [19세 완전판]|||How to Get Kicked Out of a Guild (Side Story) [19+ Uncut]
 62482103|||길드에서 강퇴당하는 방법|||How to Get Kicked Out of a Guild
-62409111|||[BL] 길드에서 강퇴당하는 방법 (외전) [19세 완전판][단행본]|||[BL] How to Get Kicked Out of a Guild (Side Story) [19+ Uncut] [Book]
-62409027|||[BL] 길드에서 강퇴당하는 방법 [단행본]|||[BL] How to Get Kicked Out of a Guild [Book]
+62409111|||길드에서 강퇴당하는 방법 (외전) [19세 완전판][단행본]|||[BL] How to Get Kicked Out of a Guild (Side Story) [19+ Uncut] [Book]
+62409027|||길드에서 강퇴당하는 방법 [단행본]|||[BL] How to Get Kicked Out of a Guild [Book]
 62346050|||[BL] 사사게 뉴비 스타 (외전) [19세 완전판]|||[BL] Sasage Newbie Star (Side Story) [19+ Uncut Edition]
 62346038|||[BL] 사사게 뉴비 스타 (외전) [19세 완전판][단행본]|||[BL] Sasage Newbie Star (Side Story) [19+ Uncut Edition] [Volume]
 62342420|||헤비 레인 (Heavy Rain) [19세 완전판]|||Heavy Rain [19+ Uncensored Edition]
@@ -21083,7 +21083,7 @@
 62868684|||둘만 모르는 연애 외전 [19세 완전판][단행본]|||A Love Only We Don't Know Side Story [Complete 19+ Edition][Book]
 62868653|||둘만 모르는 연애 [19세 완전판][단행본]|||A Love Only We Don't Know [Complete 19+ Edition][Book]
 62868561|||둘만 모르는 연애 [19세 완전판]|||A Love Only We Don't Know [Complete 19+ Edition]
-62471576|||대쉬(DASH)[19세 완전판]|||DASH [Complete 19+ Edition]
+62471576|||(이용권) 대쉬(DASH)[19세 완전판]|||DASH [Complete 19+ Edition]
 62936985|||이번 생도 검뿐이다|||This Life is Also Just About the Sword
 62915336|||대인 허인회|||Great Man Heo In-hoe
 62914831|||내가 주인공이 아니었다|||I Was Not the Protagonist
@@ -33215,11 +33215,11 @@
 58748389|||내 악역 남편을 위하여|||For My Villain Husband
 58644741|||켠 김에 신까지 [단행본]|||While at It, Become a God [Single Volume]
 58795822|||천재 아이돌인데 패시브가 개복치|||I'm a Genius Idol, But My Passive is a Sunfish
-58760236|||[BL] 뮨의 그늘 4권 (완결) [단행본]|||[BL] Moon's Shadow Vol. 4 (Complete) [Single Volume]
-58760215|||[BL] 뮨의 그늘 3권 [단행본]|||[BL] Moon's Shadow Vol. 3 [Single Volume]
-58760209|||[BL] 뮨의 그늘 2권 [단행본]|||[BL] Moon's Shadow Vol. 2 [Single Volume]
-58760199|||[BL] 뮨의 그늘 1권 [단행본]|||[BL] Moon's Shadow Vol. 1 [Single Volume]
-58760015|||[BL] 뮨의 그늘|||[BL] Moon's Shadow
+58760236|||뮨의 그늘 4권 (완결) [단행본]|||[BL] Moon's Shadow Vol. 4 (Complete) [Single Volume]
+58760215|||뮨의 그늘 3권 [단행본]|||[BL] Moon's Shadow Vol. 3 [Single Volume]
+58760209|||뮨의 그늘 2권 [단행본]|||[BL] Moon's Shadow Vol. 2 [Single Volume]
+58760199|||뮨의 그늘 1권 [단행본]|||[BL] Moon's Shadow Vol. 1 [Single Volume]
+58760015|||뮨의 그늘|||[BL] Moon's Shadow
 58839711|||역사 속 무기상이 되었다|||I Became an Arms Dealer in History
 58796696|||소년만화에서 살아남기 [단행본]|||Surviving in a Shonen Manga [Book Edition]
 58804458|||원티드: 아이돌의 아이돌이 되었다|||Wanted: I Became the Idol of Idols
@@ -33941,11 +33941,11 @@
 58512932|||마왕 딸이 밥을 잘한다|||The Demon King's Daughter Cooks Well
 58542217|||무결점 미드필더|||Flawless Midfielder
 58515198|||개수작|||Petty Tricks
-58509959|||[BL] 무당집 아들, 실전뜁니다 외전 (완결) [단행본]|||[BL] The Shaman's Son, Goes Into Action Side Story (Complete) [Volume]
-58509952|||[BL] 무당집 아들, 실전뜁니다 3권 [단행본]|||[BL] The Shaman's Son, Goes Into Action 3 [Volume]
-58509776|||[BL] 무당집 아들, 실전뜁니다 2권 [단행본]|||[BL] The Shaman's Son, Goes Into Action 2 [Volume]
-58509718|||[BL] 무당집 아들, 실전뜁니다 1권 [단행본]|||[BL] Shaman's Son, Goes into Action Vol. 1 [Book]
-58500046|||[BL] 무당집 아들, 실전뜁니다|||[BL] The Shaman's Son Goes Into Action
+58509959|||무당집 아들, 실전뜁니다 외전 (완결) [단행본]|||[BL] The Shaman's Son, Goes Into Action Side Story (Complete) [Volume]
+58509952|||무당집 아들, 실전뜁니다 3권 [단행본]|||[BL] The Shaman's Son, Goes Into Action 3 [Volume]
+58509776|||무당집 아들, 실전뜁니다 2권 [단행본]|||[BL] The Shaman's Son, Goes Into Action 2 [Volume]
+58509718|||무당집 아들, 실전뜁니다 1권 [단행본]|||[BL] Shaman's Son, Goes into Action Vol. 1 [Book]
+58500046|||무당집 아들, 실전뜁니다|||[BL] The Shaman's Son Goes Into Action
 58489299|||이계 황자는 세상을 구하고 싶다|||The Other World Prince Wants to Save the World
 58404005|||아이돌 매니저지만 데뷔하겠습니다|||I'm an Idol Manager, but I'll Debut
 58509684|||팀장님 애가 아니라니까요|||I Said It's Not the Team Leader's Baby
@@ -39175,7 +39175,7 @@
 56516207|||축구 천재로 태어난 교황님|||The Pope Born as a Soccer Genius
 56615420|||피폐물 주인공의 부인이 되었습니다 [단행본]|||I Became the Wife of a Depressing Novel Protagonist [Volume]
 56562022|||이스케이프 쉽 랜드|||Escape Sheep Land
-56545416|||싸우는 빵집 주인과 기계장치 종업원[단행본]|||Fighting Bakery Owner and Mechanical Employee [Single Volume]
+56545416|||싸우는 빵집 주인과 기계장치 종업원 [단행본]|||Fighting Bakery Owner and Mechanical Employee [Single Volume]
 56545321|||싸우는 빵집 주인과 기계장치 종업원|||Fighting Bakery Owner and Mechanical Employee
 56543729|||탐정은 이미 죽었다 [단행본]|||The Detective Is Already Dead [Volume Edition]
 56543659|||탐정은 이미 죽었다|||The Detective is Already Dead
@@ -49144,7 +49144,7 @@
 52610403|||너를 만났다|||I Met You
 52633809|||저는 집사입니다 [완결]|||I Am a Butler [Completed]
 52616424|||아빠, 나 이 결혼 안 할래요!|||Dad, I Don't Want This Marriage!
-52582016|||던전 브레이커[완결]|||Dungeon Breaker [Completed]
+52582016|||던전브레이커[완결]|||Dungeon Breaker [Completed]
 52619532|||순정적 욕망|||Pure Romantic Desire
 52628802|||칼의 목소리가 보여|||I Can See the Voice of the Sword
 52592742|||악녀는 악녀를 알아본다|||A Villainess Recognizes Another Villainess
@@ -64802,62 +64802,13 @@
 63987012|||두 개의 태양 [단행본]|||Two Suns
 63756571|||2098 고스트 스쿼드 [단행본]|||2098 Ghost Squad
 69780404|||시가렛 듀엣(Cigarette duet) [19세 완전판]|||시가렛 듀엣(Cigarette duet) [19세 완전판]
-69782573|||인 더 사나토리움(In the Sanatorium) [19세 완전판]|||인 더 사나토리움(In the Sanatorium) [19세 완전판]
-69774202|||배틀 이혼!(BATTLE DIVORCE!) [19세 완전판]|||배틀 이혼!(BATTLE DIVORCE!) [19세 완전판]
-69762632|||뎀뎀(Damn! Damn!) [19세 완전판]|||뎀뎀(Damn! Damn!) [19세 완전판]
-69714136|||뷰티풀 크리처(Beautiful Creature) [19세 완전판]|||뷰티풀 크리처(Beautiful Creature) [19세 완전판]
-69739406|||풀 블룸(Full bloom) [19세 완전판]|||풀 블룸(Full bloom) [19세 완전판]
-69687565|||앙뜨레 누(Entre nous) [19세 완전판]|||앙뜨레 누(Entre nous) [19세 완전판]
-69731735|||포코 아 포코 (POCO A POCO) [19세 완전판]|||포코 아 포코 (POCO A POCO) [19세 완전판]
-69676040|||쏘옥쏙쏙(Soak, soak soak) [19세 완전판]|||쏘옥쏙쏙(Soak, soak soak) [19세 완전판]
-69705988|||두 낫 디스터브(Do Not Disturb) [19세 완전판]|||두 낫 디스터브(Do Not Disturb) [19세 완전판]
-69534212|||S.K.T. 2부 [단행본]|||S.K.T. 2부 [단행본]
-69659888|||S.K.T 1부 [단행본]|||S.K.T 1부 [단행본]
-69667941|||러디 칙스(Ruddy Cheeks) [19세 완전판]|||러디 칙스(Ruddy Cheeks) [19세 완전판]
-69664097|||망한 빙의지만 남편이 존잘입니다 [단행본]|||My Possession Went Wrong, but My Husband Is Insanely Hot [Print Edition]
-69547061|||왕따가 탑 공략을 너무 잘함[단행본]|||The Outcast Is Too Good at Clearing the Tower [Print Edition]
-69506959|||쇼윈도 연애|||Show Window Romance
-69411557|||부작용 [클린버전]|||Side Effects [Clean Version]
-69675389|||젊은 하지 [19세 완전판]|||Young Summer Solstice [19+ Complete Edition]
-69675178|||젊은 하지 [단행본][19세 완전판]|||Young Summer Solstice [Print Edition][19+ Complete Edition]
-69674027|||보더라인 피치 [19세 완전판]|||Borderline Peach [19+ Complete Edition]
-69673981|||보더라인 피치 [단행본][19세 완전판]|||Borderline Peach [Print Edition][19+ Complete Edition]
-69671912|||비공개 채널 [19세 완전판]|||Private Channel [19+ Complete Edition]
-69671439|||비공개 채널 [단행본][19세 완전판]|||Private Channel [Print Edition][19+ Complete Edition]
-69669234|||비터 스톰(Bitter Storm) [19세 완전판]|||Bitter Storm [19+ Complete Edition]
-69668861|||비터 스톰(Bitter Storm) [단행본][19세 완전판]|||Bitter Storm [Print Edition][19+ Complete Edition]
-69644063|||나의 파멸을 당신에게 [19세 완전판]|||I Give You My Ruin [19+ Complete Edition]
-69643430|||얼음성의 가이드 [19세 완전판]|||The Ice Castle's Guide [19+ Complete Edition]
-69643015|||클라우스 가의 애첩 [19세 완전판]|||The Concubine of House Klaus [19+ Complete Edition]
-69616673|||무당 귀환 [단행본]|||Return of the Shaman [Print Edition]
-69597487|||경영 천재 재벌 3세는 파이어족이 되고 싶다|||The Management Genius Chaebol Heir Wants to Be FIRE
-69596628|||작전명 라이어즈 로맨스 [19세 완전판]|||Operation: Liars' Romance [19+ Complete Edition]
-69593651|||카지노 마법사|||Casino Mage
-69578263|||서초동 새디스틱 [19세 완전판]|||Seocho-dong Sadistic [19+ Complete Edition]
-69578243|||서초동 새디스틱 [단행본][19세 완전판]|||Seocho-dong Sadistic [Print Edition][19+ Complete Edition]
-69557097|||여돌 덕후는 미래를 본다|||The K-pop Fangirl Sees the Future
-69556639|||아포칼립스 속 영주님|||The Lord in the Apocalypse
-69523754|||죽음뿐인 주인공은 그만두겠습니다[단행본]|||I'm Quitting as the Protagonist Who Only Dies [Print Edition]
-69523743|||죽음뿐인 주인공은 그만두겠습니다|||I'm Quitting as the Protagonist Who Only Dies
-56079980|||천재의 게임방송 [단행본]|||The Genius Game Stream [Print Edition]
-55129640|||황궁마존 [단행본]|||The Demon Lord of the Imperial Palace [Print Edition]
-53460749|||천재의 게임방송 [완결]|||The Genius Game Stream [Completed]
-52954058|||이번 생은 사랑받을 수 있을까요?|||Will I Be Loved in This Life?
-51354321|||황제여, 날 키워 삐약|||Emperor, Raise Me, Cheep Cheep
-48932403|||동해|||The East Sea
-48214411|||황궁마존|||The Demon Lord of the Imperial Palace
-47769199|||레드 트라이엄프|||Red Triumph
-47578780|||두 개의 태양|||Two Suns
-47567601|||간도대란|||The Gando Panic
-47316473|||2098 고스트 스쿼드|||2098 Ghost Squad
-47301971|||야수|||Beast
 69669823|||도깨비와 용사의 2회차 구원 플랜 [단행본]|||The Goblin and the Hero's Second-Run Salvation Plan [Print]
 69669724|||작가가 돌아왔다 [단행본]|||The Author Has Returned [Print]
 69657792|||당신이 구한 이세계[단행본]|||The Other World You Saved [Print]
 69657773|||워리어스[단행본]|||Warriors [Print]
 69657754|||아일론의 영주[단행본]|||Lord of Ailon [Print]
 69657737|||베이컨트[단행본]|||Vacant [Print]
-69656880|||뱀파이어 생존 투쟁기[단행본]|||A Vampire's Struggle for Survival [Print]
+69656880|||뱀파이어 생존 투쟁기 [단행본]|||A Vampire's Struggle for Survival [Print]
 69612863|||히트곡 보는 아이돌|||The Idol Who Sees Hit Songs
 69566860|||파검가 [단행본]|||The Swordbreaker Family [Print]
 69748201|||초월급 성검이 너무 강함|||The Transcendent Holy Sword Is Too Powerful
@@ -64877,6 +64828,7 @@
 69787890|||러브 어페어 [19세 완전판][단행본]|||Love Affair [19+ Complete Edition][Print]
 69783907|||인 더 사나토리움(In the Sanatorium) [19세 완전판][단행본]|||In the Sanatorium [19+ Complete Edition][Print]
 69788102|||퍼스널 쇼퍼 [19세 완전판][단행본]|||Personal Shopper [19+ Complete Edition][Print]
+69782573|||인 더 사나토리움(In the Sanatorium) [19세 완전판]|||인 더 사나토리움(In the Sanatorium) [19세 완전판]
 69788306|||시도 때도 없이 [19세 완전판][단행본]|||At Any Time [19+ Complete Edition][Print]
 69788693|||이중첩자 [19세 완전판][단행본]|||Double Agent [19+ Complete Edition][Print]
 69788861|||광시곡 [19세 완전판][단행본]|||Rhapsody [19+ Complete Edition][Print]
@@ -64893,6 +64845,7 @@
 69779139|||가이드버스에서 태어나면 [19세 완전판]|||If You're Born a Guideverse [19+ Complete Edition]
 69778931|||질 나쁜 스폰서 [19세 완전판]|||A Nasty Sponsor [19+ Complete Edition]
 69776437|||안개를 삼킨 나비 [19세 완전판]|||The Butterfly That Swallowed the Fog [19+ Complete Edition]
+69774202|||배틀 이혼!(BATTLE DIVORCE!) [19세 완전판]|||배틀 이혼!(BATTLE DIVORCE!) [19세 완전판]
 69770356|||나를 혐오하는 남주들과 갇혀버렸다 [19세 완전판]|||Trapped with Male Leads Who Despise Me [19+ Complete Edition]
 69774659|||윈터 캐슬 [19세 완전판][단행본]|||Winter Castle [19+ Complete Edition][Print]
 69773573|||가이드의 조건 [19세 완전판]|||Conditions of a Guide [19+ Complete Edition]
@@ -64919,6 +64872,11 @@
 69774720|||비밀일기 [19세 완전판][단행본]|||Secret Diary [19+ Complete Edition][Print]
 69773579|||비밀일기 [19세 완전판]|||Secret Diary [19+ Complete Edition]
 69772342|||파트너 동창 [19세 완전판][단행본]|||Partner Alumni [19+ Complete Edition][Print]
+69762632|||뎀뎀(Damn! Damn!) [19세 완전판]|||뎀뎀(Damn! Damn!) [19세 완전판]
+69714136|||뷰티풀 크리처(Beautiful Creature) [19세 완전판]|||뷰티풀 크리처(Beautiful Creature) [19세 완전판]
+69739406|||풀 블룸(Full bloom) [19세 완전판]|||풀 블룸(Full bloom) [19세 완전판]
+69687565|||앙뜨레 누(Entre nous) [19세 완전판]|||앙뜨레 누(Entre nous) [19세 완전판]
+69731735|||포코 아 포코 (POCO A POCO) [19세 완전판]|||포코 아 포코 (POCO A POCO) [19세 완전판]
 69598451|||사랑으로 돌아오다 [단행본]|||Return to Love [Print Edition]
 69577730|||비밀 젤라또 [단행본]|||Secret Gelato [Print Edition]
 69575081|||보편적 연애 2012 [단행본]|||Universal Love 2012 [Print Edition]
@@ -64962,6 +64920,48 @@
 69676456|||사소한 인사 [단행본][19세 완전판]|||A Simple Greeting [Print Edition][19+ Complete Edition]
 69676443|||퍼펙션 [19세 완전판]|||Perfection [19+ Complete Edition]
 69676432|||퍼펙션 [단행본][19세 완전판]|||Perfection [Print Edition][19+ Complete Edition]
+69676040|||쏘옥쏙쏙(Soak, soak soak) [19세 완전판]|||쏘옥쏙쏙(Soak, soak soak) [19세 완전판]
+69705988|||두 낫 디스터브(Do Not Disturb) [19세 완전판]|||두 낫 디스터브(Do Not Disturb) [19세 완전판]
+69534212|||S.K.T. 2부 [단행본]|||S.K.T. 2부 [단행본]
+69659888|||S.K.T 1부 [단행본]|||S.K.T 1부 [단행본]
+69667941|||러디 칙스(Ruddy Cheeks) [19세 완전판]|||러디 칙스(Ruddy Cheeks) [19세 완전판]
+69664097|||망한 빙의지만 남편이 존잘입니다 [단행본]|||My Possession Went Wrong, but My Husband Is Insanely Hot [Print Edition]
+69547061|||왕따가 탑 공략을 너무 잘함[단행본]|||The Outcast Is Too Good at Clearing the Tower [Print Edition]
+69506959|||쇼윈도 연애|||Show Window Romance
+69411557|||부작용 [클린버전]|||Side Effects [Clean Version]
+69675389|||젊은 하지 [19세 완전판]|||Young Summer Solstice [19+ Complete Edition]
+69675178|||젊은 하지 [단행본][19세 완전판]|||Young Summer Solstice [Print Edition][19+ Complete Edition]
+69674027|||보더라인 피치 [19세 완전판]|||Borderline Peach [19+ Complete Edition]
+69673981|||보더라인 피치 [단행본][19세 완전판]|||Borderline Peach [Print Edition][19+ Complete Edition]
+69671912|||비공개 채널 [19세 완전판]|||Private Channel [19+ Complete Edition]
+69671439|||비공개 채널 [단행본][19세 완전판]|||Private Channel [Print Edition][19+ Complete Edition]
+69669234|||비터 스톰(Bitter Storm) [19세 완전판]|||Bitter Storm [19+ Complete Edition]
+69668861|||비터 스톰(Bitter Storm) [단행본][19세 완전판]|||Bitter Storm [Print Edition][19+ Complete Edition]
+69644063|||나의 파멸을 당신에게 [19세 완전판]|||I Give You My Ruin [19+ Complete Edition]
+69643430|||얼음성의 가이드 [19세 완전판]|||The Ice Castle's Guide [19+ Complete Edition]
+69643015|||클라우스 가의 애첩 [19세 완전판]|||The Concubine of House Klaus [19+ Complete Edition]
+69616673|||무당 귀환 [단행본]|||Return of the Shaman [Print Edition]
+69597487|||경영 천재 재벌 3세는 파이어족이 되고 싶다|||The Management Genius Chaebol Heir Wants to Be FIRE
+69596628|||작전명 라이어즈 로맨스 [19세 완전판]|||Operation: Liars' Romance [19+ Complete Edition]
+69593651|||카지노 마법사|||Casino Mage
+69578263|||서초동 새디스틱 [19세 완전판]|||Seocho-dong Sadistic [19+ Complete Edition]
+69578243|||서초동 새디스틱 [단행본][19세 완전판]|||Seocho-dong Sadistic [Print Edition][19+ Complete Edition]
+69557097|||여돌 덕후는 미래를 본다|||The K-pop Fangirl Sees the Future
+69556639|||아포칼립스 속 영주님|||The Lord in the Apocalypse
+69523754|||죽음뿐인 주인공은 그만두겠습니다[단행본]|||I'm Quitting as the Protagonist Who Only Dies [Print Edition]
+69523743|||죽음뿐인 주인공은 그만두겠습니다|||I'm Quitting as the Protagonist Who Only Dies
+56079980|||천재의 게임방송 [단행본]|||The Genius Game Stream [Print Edition]
+55129640|||황궁마존 [단행본]|||The Demon Lord of the Imperial Palace [Print Edition]
+53460749|||천재의 게임방송 [완결]|||The Genius Game Stream [Completed]
+52954058|||이번 생은 사랑받을 수 있을까요?|||Will I Be Loved in This Life?
+51354321|||황제여, 날 키워 삐약|||Emperor, Raise Me, Cheep Cheep
+48932403|||동해|||The East Sea
+48214411|||황궁마존|||The Demon Lord of the Imperial Palace
+47769199|||레드 트라이엄프|||Red Triumph
+47578780|||두 개의 태양|||Two Suns
+47567601|||간도대란|||The Gando Panic
+47316473|||2098 고스트 스쿼드|||2098 Ghost Squad
+47301971|||야수|||Beast
 69835854|||배틀 이혼!(BATTLE DIVORCE!) [19세 완전판][단행본]|||배틀 이혼!(BATTLE DIVORCE!) [19세 완전판][단행본]
 69873849|||비기닝(beginning) [19세 완전판]|||비기닝(beginning) [19세 완전판]
 69780711|||슬립 어택(Sleep Attack) [19세 완전판]|||슬립 어택(Sleep Attack) [19세 완전판]
@@ -66100,7 +66100,7 @@
 69512710|||가면에 매혹되지 말 것|||
 69724721|||대리만족 [19세 완전판]|||
 69793579|||괴물 공작과 계약 결혼 [19세 완전판] [단행본]|||
-69793521|||[BL] 준범아, 말 좀 들어 [19세 완전판] [단행본]|||
+69793521|||준범아, 말 좀 들어 [19세 완전판] [단행본]|||
 69724282|||밤의 탐닉 [19세 완전판]|||
 69879792|||측간 취향 소음 [19세 완전판]|||
 69871764|||퇴사하고 인생을 즐김|||
@@ -66212,7 +66212,7 @@
 69722983|||소유 한도 [19세 완전판]|||
 69606720|||오빠 친구와 노예 계약|||
 69743983|||천재는 돈으로 말한다|||
-69792261|||[BL] 준범아, 말 좀 들어 [19세 완전판]|||
+69792261|||준범아, 말 좀 들어 [19세 완전판]|||
 69722696|||체리, 피버, 블룸 [19세 완전판]|||
 69843776|||악의적 유기 [19세 완전판][단행본]|||
 69841728|||폭야(暴夜) [19세 완전판]|||
@@ -66485,3 +66485,738 @@
 69726317|||그 백작가 도련님의 일과 [단행본][19세 완전판]|||
 69725478|||내가 사랑한 그것은: 프로젝트 40 [19세 완전판]|||
 69725223|||내가 사랑한 그것은: 프로젝트 40 [단행본][19세 완전판]|||
+69949753|||선을 넘다 [19세 완전판][단행본]|||
+69817024|||Savage Castle(새비지 캐슬) [19세 완전판][단행본]|||
+69928284|||이롭고 해로운 [19세 완전판][단행본]|||
+69737333|||파렴치한 금홍이 [19세 완전판]|||
+69981796|||음란한 아이를 위한 완벽한 세상 [19세 완전판]|||
+69956076|||봄의 여담 [19세 완전판]|||
+69949834|||모시는 아가씨가 이상해졌다 [19세 완전판]|||
+69927770|||꽃이 시들기 전에 [19세 완전판][단행본]|||
+69887670|||미래의 광공을 덕질 중입니다 [19세 완전판]|||
+69887643|||미래의 광공을 덕질 중입니다|||
+69764253|||유배지의 일곱 살 촌장님|||
+69737161|||침실 하인과의 계약 결혼 [19세 완전판]|||
+69736895|||영주는 농노를 개처럼 다룬다 [19세 완전판]|||
+69927540|||불순한 남사친과의 동거 [단행본]|||
+69816994|||우리 지금 만나 [19세 완전판][단행본]|||
+69927413|||노을은 지지 않아 [19세 완전판][단행본]|||
+69775683|||망국의 꽃[19세 완전판]|||
+69974284|||혐오하는 알파 남사친과 [19세 완전판][단행본]|||
+69965924|||남친이 잠든 사이 [19세 완전판]|||
+69963476|||아내 대행 서비스[19세 완전판]|||
+69927250|||불건전한 오해 [19세 완전판][단행본]|||
+69835370|||입술이 너무해 [19세 완전판]|||
+69816872|||빼앗다 (외전증보판) [19세 완전판][단행본]|||
+69927096|||악역을 포기하니 집착이 시작되었다 [19세 완전판][단행본]|||
+69736184|||XX 많은 아저씨 [19세 완전판]|||
+69957071|||장르가 너무 다른데요? [19세 완전판]|||
+69956325|||원래 가이드가 다 이런가요? [19세 완전판]|||
+69926604|||착각, 아니야 [19세 완전판][단행본]|||
+69873121|||내 침대로 오는 남자들  [19세 완전판]|||
+69736096|||낯선 아저씨 [19세 개정판]|||
+69735929|||완벽한 구원자 [19세 개정판]|||
+69925621|||인간사육(人間飼育) [19세 완전판][단행본]|||
+69925115|||상냥한 쓰레기 [19세 완전판][단행본]|||
+69944672|||늦지 않았기를|||
+69943872|||뮤즈 (MUSE)|||
+69888456|||우연과 오해의 미학 [19세 완전판][단행본]|||
+69888404|||나를 울게 하소서 [19세 완전판][단행본]|||
+69888278|||옆집 동생이 미쳤다 [19세 완전판]|||
+69888142|||옆집 동생이 미쳤다 [19세 완전판][단행본]|||
+69888092|||부라보 청춘 맥주 [19세 완전판][단행본]|||
+69888013|||여름의 정원 [19세 완전판][단행본]|||
+69856742|||팀장님, 왜 저한테만 그러세요? [19세 완전판]|||
+69856392||| 팀장님, 왜 저한테만 그러세요? [19세 완전판][단행본]|||
+69512229|||불멸자들[개정판]|||
+69512228|||불멸자들 [19세 완전판][개정판]|||
+69435238|||그림자에도 꽃 피는 사월 [단행본]|||
+69995077|||짐승 대공의 집착을 받게 된 사연 [19세완전판][단행본]|||
+69991861|||평민 기사가 알고보니 황녀였다 [19세 완전판]|||
+69966518|||금요일의 남자 [19세 완전판]|||
+69958644|||사랑을 모르고 [19세완전판][단행본]|||
+69924761|||결혼 약속 [19세 완전판][단행본]|||
+70003525|||공작부인은 아슬아슬하게 도망쳤다 [19세 완전판][단행본]|||
+70003260|||공작부인은 아슬아슬하게 도망쳤다 [19세 완전판]|||
+70003186|||멜로할까요? [19세 완전판][단행본]|||
+70003033|||멜로할까요? [19세 완전판]|||
+69987781|||오블리비아테(Obliviate) [19세 완전판][단행본]|||
+70003000|||붉은 잉어 우는 밤 [19세 완전판][단행본]|||
+70002969|||실전! 매칭 테스트 [19세 완전판][단행본]|||
+69987582|||오블리비아테(Obliviate) [19세 완전판]|||
+70002721|||실전! 매칭 테스트 [19세 완전판]|||
+70002289|||배드 럭 참(Bad Luck Charm) [19세 완전판][단행본]|||
+70002137|||배드 럭 참(Bad Luck Charm) [19세 완전판]|||
+70001992|||흑색소음 [19세 완전판][단행본]|||
+70001530|||흑색소음 [19세 완전판]|||
+69984328|||사랑방 아기손님 [19세 완전판]|||
+69983765|||스위트 박스-do not disturb- [19세 완전판]|||
+69982428|||붉은 바다 푸른 노을 [19세 완전판]|||
+69979258|||알리페르 [19세 완전판]|||
+69980783|||전남편이 갑질한다 [19세 완전판]|||
+69979775|||애염 [19세 완전판]|||
+69955697|||나의 최애가 죽던 날에 [19세 완전판]|||
+69978863|||대쉬(DASH) 외전 3[19세 완전판] [단행본]|||
+69997125|||드리운 안개가 걷히던 날 [19세 완전판]|||
+69943427|||치명적 유혹|||
+69999288|||갤러리 비(Gallery B) [19세 완전판]|||
+69997105|||물만 마실게요 [19세 완전판]|||
+69996023|||헤더꿀(Heather Honey) [19세 완전판]|||
+69995534|||메리블루 [19세 완전판]|||
+70001058|||탐닉의 조건 [19세 완전판][단행본]|||
+69793077|||청성에는 천마가 산다[단행본]|||
+69354927|||뇌각성 후 인생 역전|||
+69680235|||압도적 축구 천재로 귀환|||
+69661501|||피스트 위의 검술 천재|||
+69660964|||전생한 인챈터, 미국이 추방했습니다|||
+69640866|||지옥다녀왔더니 재능복사로 인생역전|||
+69733240|||게이트 연구소 천재 과학자[단행본]|||
+69733213|||신창의 재림[단행본]|||
+69730153|||나 혼자만 레벨업 : 라그나로크[단행본]|||
+69680757|||방송천재 막내작가[단행본]|||
+69680703|||창룡군림[단행본]|||
+69680644|||중년최강 서천웅[단행본]|||
+69675792|||기연수선전[단행본]|||
+69666373|||배신당한 축구천재가 협회에 복수함[단행본]|||
+69666200|||검귀회귀[단행본]|||
+69666161|||북천무신[단행본]|||
+69923893|||닿지 못한 사이 [19세 완전판][단행본]|||
+69017885|||웰컴 투 NBA[단행본]|||
+68844682|||열정지로 [단행본]|||
+69887671|||SSS급 회귀자는 양심도 없습니다 [단행본]|||
+69865164|||다크엘프는 주사위 사기꾼|||
+69863821|||회사원이 천재 마법사임|||
+69863379|||필드 위 정답 보는 스트라이커|||
+69862056|||귀환한 약사가 대체불가 천재였음|||
+69861489|||검신전劍神傳|||
+69861261|||1949, 김구 선생을 살렸더니 매국노가 사라짐|||
+69861062|||1718 검은머리 해적왕으로 착각당했다|||
+69860755|||회귀 후 부모 집을 담보로 시작했다|||
+69958686|||결혼 후애 [19세완전판][단행본]|||
+69954589|||최애의 최애가 되었다 [19세 완전판]|||
+69953593|||사랑하지 않을 이유 [19세 완전판]|||
+69921958|||상사와 그런 사이 [19세 완전판][단행본]|||
+69908271|||금강재림(金江再臨)|||
+69799700|||자고 보니 오빠 친구 [19세 완전판]|||
+69799577|||자고 보니 오빠 친구 [19세 완전판][단행본]|||
+69735255|||아저씨 무서운 줄 모르고 [19세 완전판]|||
+69722492|||힐링 농사 게임인 줄 알았는데요|||
+69679912|||그날.그밤 그리고|||
+69990479|||엄마 친구 딸, 엄마 친구 아들 [19세 완전판]|||
+69990044|||신은 악을 필요로 한다 [19세 완전판]|||
+69981795|||백옥주렴 [19세 완전판]|||
+69970983|||슬립워커(Sleepwalker) [19세 완전판]|||
+69927159|||전방에 나타난 남자주의보[19세 완전판]|||
+69963670|||모범생과 방탕아 [19세 완전판] [단행본]|||
+69933194|||쌍피 [19세 완전판]|||
+69932526|||질 나쁜 삼촌 [19세 완전판] [단행본]|||
+69932359|||질 나쁜 삼촌 [19세 완전판]|||
+69932322|||메데인(Medellín) [19세 완전판] [단행본]|||
+69932237|||메데인(Medellín) [19세 완전판]|||
+69919496|||소꿉친구 공략기 [19세 완전판] [단행본]|||
+69919318|||소꿉친구 공략기 [19세 완전판]|||
+69689217|||끝낼 수 없는 결혼 [19세 완전판][단행본]|||
+69615905|||남편이 첫사랑을 데려왔다|||
+69534293|||헤레이스가의 올가미에 걸린 꽃 [단행본]|||
+69533973|||헤레이스가의 올가미에 걸린 꽃|||
+69953602|||클리셰로부터 살아남는 법|||
+69960270|||동태는 뱉고 데뷔는 삼켜라 [19세 완전판][단행본]|||
+69923738|||낭만의 끝 [19세 완전판]|||
+69679720|||사기꾼 아내|||
+69969876|||불가촉 [19세 완전판][단행본]|||
+69935712|||향항색정 [19세 완전판]|||
+69929788|||친구끼리 개수작 금지 [19세 완전판]|||
+69929767|||친구끼리 개수작 금지 [단행본][19세 완전판]|||
+69927261|||결전의 날 [19세 완전판]|||
+69927239|||결전의 날 [단행본][19세 완전판]|||
+69924955|||불가촉 [19세 완전판]|||
+69921573|||상식개변의 세계 : 홈, 스위트 홈 [19세 완전판]|||
+69921370|||상식개변의 세계 : 홈, 스위트 홈 [단행본][19세 완전판]|||
+69921278|||못 받은 돈 뺏어드려요! [19세 완전판]|||
+69920814|||못 받은 돈 뺏어드려요! [단행본][19세 완전판]|||
+69918911|||아빠는 필요 없어요 [19세 완전판]|||
+69918900|||아빠는 필요 없어요 [단행본][19세 완전판]|||
+69918571|||D컵 가이드 [19세 완전판]|||
+69918445|||D컵 가이드 [단행본][19세 완전판]|||
+69916345|||요원 김용내 [19세 완전판]|||
+69916188|||요원 김용내 [단행본][19세 완전판]|||
+69916180|||정상에 서서 우는 개(慨) [19세 완전판]|||
+69916047|||정상에 서서 우는 개(慨) [단행본][19세 완전판]|||
+69910983|||20XX's Love [19세 완전판][단행본]|||
+69908465|||향항색정 [단행본][19세 완전판]|||
+69901234|||가정교사 N [19세 완전판]|||
+69901021|||가정교사 N [단행본][19세 완전판]|||
+69898509|||나의 장례식에 초대되었다 [19세 완전판]|||
+69897707|||애인 공유 [19세 완전판]|||
+69896841|||2황자는 연애 소설이 읽고 싶어! [19세 완전판]|||
+69880787|||1950부터 시작하는 재벌생활|||
+69872273|||사랑하는 내 딸을 위하여 [19세 완전판][단행본]|||
+69872199|||내 남편이 나의 불행을 원한다 [19세 완전판][단행본]|||
+69871548|||친구 실격 [개정판] [삽화본] [19세 완전판]|||
+69871376|||처음부터 치명적인 [19세 완전판][단행본]|||
+69868594|||오피스트랩 [개정판] [삽화본] [19세 완전판]|||
+69859491|||암흑가의 마녀가 회귀했다 [19세 완전판]|||
+69858313|||루멘 프로젝트 [19세 완전판]|||
+69857615|||오빠 짓 [삽화본] [19세 완전판]|||
+69836520|||달아나 봐, 내게서 [19세 완전판][단행본]|||
+69834699|||라티오 대륙의 마탑주들 [19세 완전판]|||
+69834449|||무심한 마법사의 보름밤 [19세 완전판][단행본]|||
+69834135|||순결한 마법사의 달뜬 밤 [19세 완전판][단행본]|||
+69832616|||냉정한 마법사의 첫사랑 [19세 완전판][단행본]|||
+69831777|||불감증 마법사와의 거래 [19세 완전판][단행본]|||
+69793514|||해고 후 대박난 깡촌 식당|||
+69763604|||이종족 번식 협력의 기록: 고블린 편 [19세 완전판]|||
+69763277|||이종족 번식 협력의 기록: 고블린 편 [19세 완전판][단행본]|||
+69758192|||여름 별장의 주인 [개정판][단행본]|||
+69757740|||자강두천 플레이북 [19세 완전판][단행본]|||
+69753915|||늑대는 길들이기 나름 [19세 완전판][단행본]|||
+69753883|||세실에게 장미를 [단행본]|||
+69751607|||손에 잡힐 듯 잡히지 않는 [19세 완전판][단행본]|||
+69749357|||북부 남자를 조심하세요! [19세 완전판][단행본]|||
+69722501|||약탈당한 대공비의 밤 [19세 완전판][단행본]|||
+69712693|||덕질하는 천재 작곡가|||
+69710193|||부처천월과거양와일상 [단행본]|||
+69685345|||미치게 홀려서|||
+69673364|||암흑가의 마녀가 회귀했다|||
+69637325|||폴란드 여왕 키우기|||
+69632960|||우유맛 후배님 [19세 완전판][단행본]|||
+69628586|||황금 토템으로 살아가는 방법 [단행본]|||
+69457084|||별종 [단행본]|||
+69821499|||죽은 첫사랑과 귀접하다 [19세 완전판]|||
+69820895|||죽은 첫사랑과 귀접하다 [19세 완전판][단행본]|||
+69760747|||천마출몰|||
+69978734|||내가 구한 악마가 나를 노린다 [19세 완전판]|||
+61933181|||연착(戀着) [19세 완전판]|||
+69941652||| 폭군의 미친개들이 눈 맞으면 [19세 완전판]|||
+69941448|||폭군의 미친개들이 눈 맞으면 [19세 완전판][단행본]|||
+69940509|||키스의 유효기간 [19세 완전판][단행본]|||
+69937567|||기린의 관 [19세 완전판]|||
+69937343|||기린의 관 [19세 완전판][단행본]|||
+69818732|||불건전한 약속 [19세 완전판]|||
+69963624|||소원을 들어주세요[19세 완전판]|||
+69773578|||아르델의 부부 사기단 [개정판][단행본]|||
+69772081|||나를 죽일 남주를 길들여버렸다 [단행본]|||
+69703446|||호주 깡촌에서 워홀 중 인세가 쏟아짐|||
+69958711|||괴물 공작의 꽃  [19세완전판][단행본]|||
+69958669|||디어 브라더 [BL][19세완전판][단행본]|||
+69964354|||금서고의 전직 사서|||
+69958724|||너와 맞닿은 채로 [19세완전판][단행본]|||
+69963937|||모범생과 방탕아 [19세 완전판]|||
+69921279|||미스틱 시티 [19세 완전판][단행본]|||
+69872632|||평생소원이 누룽지 [19세 완전판]|||
+69872300|||상사와 몰래 하는 짓 [19세 완전판]|||
+68249342|||신성력 각성 후 국가권력급 재벌 교주|||
+69980306|||원 모어 퍼킹 타임! 2부 [19세 완전판]|||
+69978895|||원 모어 퍼킹 타임! 1부 [개정판][19세 완전판]|||
+69978431|||느린 봄 기대어 [19세 완전판]|||
+69970327|||내 친구의 결혼식에 관하여 [19세 완전판]|||
+69972632|||헌원고담(獻元苦談) [19세 완전판]|||
+69974371|||다 카포(Da capo) [19세 완전판]|||
+69977961|||오더 메이드(Order Made) [19세 완전판]|||
+69976444|||사적인 관계 [19세 완전판]|||
+69976234|||마이 리틀 베타(My little Betta) [19세 완전판]|||
+69976212|||백합은 검게 물들고 [19세 완전판]|||
+69974926|||고양이는 밤마다 운다 [19세 완전판]|||
+69973298|||피폐물 속 하렘의 주인이 되었다 [19세 완전판]|||
+69954085|||7일의 밤 [19세 완전판]|||
+69955818|||주효록 [19세 완전판]|||
+69955491|||언포기버블 [19세 완전판]|||
+69707922|||전생자에게 보너스 능력이 생김 [단행본]|||
+69920083|||미치도록 너를 [19세 완전판][단행본]|||
+69923687|||호구의 순정 [19세 완전판]|||
+69946974|||소꿉친구 강제 개발♥ [19세 완전판][단행본]|||
+69922397|||호구의 순정 [19세 완전판][단행본]|||
+69962151|||극한직업 던전상인 [19세 완전판]|||
+69919395|||살 떨리는 동거 [19세 완전판][단행본]|||
+69849066|||밤의 팀장님|||
+69734576|||전 남친을 호텔에서 마주쳤다 [19세 완전판]|||
+69723868|||오빠 친구와의 맞선|||
+69604842|||오빠가 너무해 [19세 완전판]|||
+69604814|||오빠가 너무해 [15세 개정판]|||
+69589881|||동하의 사정 [19세 완전판]|||
+69145454|||동하의 사정|||
+69943854|||탕녀 [삽화본][19세 완전판][단행본]|||
+69940338|||성녀 [삽화본][19세 완전판][단행본]|||
+69909484|||고양이 테라피 [19세 완전판] [단행본]|||
+69934102|||미친 에스퍼들의 전담 가이드가 되었다 [19세 완전판]|||
+69932715|||더티 워크 [19세 완전판]|||
+69733371|||킥 백(KICK-BACK) [19세 완전판]|||
+69942265|||크리티컬 스테이지(Critical Stage) [19세 완전판]|||
+69941847|||나쁜, 더 나쁜 [19세 완전판]|||
+69855119|||안전한 오빠 [단행본]|||
+69923289|||환승 약혼 [19세 완전판]|||
+69938719|||미련 없이 이혼해줄게요. [19세 완전판][단행본]|||
+69937130|||[GL] 카모플라주 [19세 완전판][단행본]|||
+69937119|||미련 없이 이혼해줄게요. [19세 완전판]|||
+69923146|||[GL] 소나기 정도는 우산 없이 맞아도 괜찮잖아. [19세 완전판][단행본]|||
+69918885|||[GL] 스무 살의 연애 [19세 완전판][단행본]|||
+69908935|||티레움의 태양 [19세 완전판][단행본]|||
+69908692|||소꿉친구, 참여 관찰 일기 [19세 완전판]|||
+69908682|||소꿉친구, 참여 관찰 일기 [단행본][19세 완전판]|||
+69908451|||너티 피치 홀릭(Naughty peach holic) [19세 완전판]|||
+69908434|||너티 피치 홀릭(Naughty peach holic) [단행본][19세 완전판]|||
+69908407|||나락 [19세 완전판]|||
+69908398|||나락 [단행본][19세 완전판]|||
+69906624|||티레움의 태양 [19세 완전판]|||
+69903839|||사소한 사이 [19세 완전판]|||
+69903783|||사소한 사이 [단행본][19세 완전판]|||
+69903769|||황제에게 문제가 있습니다 [19세 완전판]|||
+69903692|||황제에게 문제가 있습니다 [단행본][19세 완전판]|||
+69901436|||안식과 기만 사이 [19세 완전판]|||
+69901423|||안식과 기만 사이 [단행본][19세 완전판]|||
+69900605|||인 게임-리얼월드 싱크! [19세 완전판]|||
+69900586|||인 게임-리얼월드 싱크! [단행본][19세 완전판]|||
+69899887|||상춘연사 [19세 완전판]|||
+69899852|||상춘연사 [단행본][19세 완전판]|||
+69898890|||소꿉친구는 오늘도 용사의 명령을 따른다 [19세 완전판]|||
+69898846|||소꿉친구는 오늘도 용사의 명령을 따른다 [단행본][19세 완전판]|||
+69898493|||사이코패스 후배님 상담일지 [19세 완전판]|||
+69895908|||사이코패스 후배님 상담일지 [단행본][19세 완전판]|||
+69888022|||경험치 저축으로 느긋하게 힐링 여행|||
+69879080|||밤낮없이 [19세 완전판][단행본]|||
+69878987|||밤낮없이|||
+69875015|||[GL] 사장님의 비서로 잠복근무 [19세 완전판][단행본]|||
+69869543|||공작님의 마나 포션이 되어드릴게요! [19세 완전판][단행본]|||
+69868595|||처음이라서 위험한 [19세 완전판][단행본]|||
+69856867|||천생연분입니다만 [19세 완전판]|||
+69813515|||나의 완벽한 쿼터백 남자친구 [단행본]|||
+69702309|||세 남자의 노예 (개정판) [19세 완전판][단행본]|||
+69702139|||세 남자의 노예 (개정판) [19세 완전판]|||
+69666101|||재벌집 망나니 7대 독자 [단행본]|||
+69499342|||TRPG 룰 브레이커|||
+69948548|||복수의 굴레 [19세 완전판][단행본]|||
+69947673|||마지막 키스는 나와 함께 [19세 완전판]|||
+69947014|||마지막 키스는 나와 함께  [19세 완전판][단행본]|||
+69944763|||태풍이 지나간 자리에 [19세 완전판]|||
+69943806|||태풍이 지나간 자리에 [19세 완전판][단행본]|||
+69943430|||인 블룸(in bloom)  [19세 완전판]|||
+69943396|||인 블룸(in bloom) [19세 완전판][단행본]|||
+69941464|||딥 컷(Deep Cut) [19세 완전판]|||
+69940988|||딥 컷(Deep Cut) [19세 완전판][단행본]|||
+69939800|||망나니의 사랑법  [19세 완전판][단행본]|||
+69818529|||아카데미 절대 교수|||
+69944125|||손님과의 밤 (개정증보판) [19세 완전판][단행본]|||
+69943883|||손님과의 밤 (개정증보판) [19세 완전판]|||
+69923772|||비단길 끝에 달은 기울고 [19세 완전판]|||
+69922056|||비단길 끝에 달은 기울고 [19세 완전판][단행본]|||
+69921277|||요정이라서 죄송합니다 [19세 완전판]|||
+69919815|||이제는 우리가 [19세 완전판]|||
+69934756|||사냥개 길들이기 [19세 완전판]|||
+69934901|||가르쳐주세요, XX박사님! [19세 완전판]|||
+69916046|||마장동 스캔들[19세 완전판]|||
+69917553|||재벌집 막내아들과 XX 플레이[19세 완전판]|||
+69350604|||장공주연애록: 물고기들이 어장을 안 나감|||
+69940563|||꽃 찾으러 왔단다 [19세 완전판]|||
+69940023|||욕망이난망 [19세 완전판]|||
+69954183|||꽃모아 [19세 완전판]|||
+69939135|||전남편과 밤마다|||
+69939431|||거짓 서약|||
+69943190|||블러디 데이(Bloody Day) [GL][19세 완전판]|||
+69943167|||랜덤 채팅으로 환승 연애 [19세 완전판]|||
+69943139|||망국비애담 [19세 완전판]|||
+69918954|||7일의 사정 [19세 완전판][단행본]|||
+69917644|||뱀 먹고 알 낳고[단행본] [19세 완전판]|||
+69888730|||제국채권자|||
+69952832|||록로즈 [19세 완전판]|||
+69934545||| 비첩 [19세 완전판]|||
+69947015|||안락한 감금을 위하여 [19세 완전판]|||
+69946634|||딸랑딸랑 [19세 완전판]|||
+69946248|||먼치킨은 모르지만 치킨은 아는 남자 [19세 완전판]|||
+69944676|||길 잃은 솜사탕 [19세 완전판]|||
+69943871|||사랑에 빠지다 [19세 완전판]|||
+69940534|||별의 비 [19세 완전판]|||
+69939643|||고양이는 아홉 번을 산다 [19세 완전판]|||
+69938367|||도피안 [19세 완전판]|||
+69947834|||후작님과 풋맨 [19세 완전판]|||
+69946727|||고결한 공작가에서 달아나겠습니다 [19세 완전판]|||
+69944645|||후궁은 황제를 사랑하지 않는다 [19세 완전판]|||
+69926633|||버려진 성녀의 하룻밤[19세 완전판][단행본]|||
+69926595|||준비된 인형[단행본]|||
+69887829|||나쁜 구원자 [19세 완전판][단행본]|||
+69937370|||악녀인데 다들 성녀라 오해함|||
+69911751|||좀비 아포칼립스 악역들과 살아남기 [19세 완전판][단행본]|||
+69935052|||하룻밤만 묶어줘 [19세 완전판]|||
+69794614|||장공주연애록: 물고기들이 어장을 안 나감[단행본]|||
+69890019|||후궁 고씨는 밤마다|||
+69887698|||스폰 [19세 완전판][단행본]|||
+69732908|||원나잇인데 매일 밤 [19세 완전판]|||
+69577541|||이제 짝사랑 안 한다고|||
+69516223|||사장님 돌봄일지|||
+69627091|||악녀인데 다들 성녀라 오해함 [단행본]|||
+69910577|||그 섬에는 신이 갇혀있었다 [19세 완전판]|||
+69909479|||너에게서 벗어나고 싶어 [19세 완전판]|||
+69613286|||이가-두 번째 혼인 [단행본]|||
+69907927|||여친 삼고 싶은 여자 1등의 옆에서 발견한 아마리 [단행본]|||
+69928040|||타임 호라이즌(TIME HORIZON) [19세 완전판][단행본]|||
+69927804|||타임 호라이즌(TIME HORIZON) [19세 완전판]|||
+69927620|||해방의 늪 [19세 완전판][단행본]|||
+69927558|||해방의 늪 [19세 완전판]|||
+69914288|||액트 클루리스(Act clueless) [19세 완전판][단행본]|||
+69910425|||액트 클루리스(Act clueless) [19세 완전판]|||
+69732589|||소꿉친구 사용 설명서 [19세 완전판]|||
+69924828|||부부가 되기 전에 [19세 완전판]|||
+69912764|||전당포 영이 [19세 완전판]|||
+69912723|||전당포 영이 [19세 완전판][단행본]|||
+69912480|||은퇴했는데 게이트에 들어가라니요 [19세 완전판]|||
+69912471|||은퇴했는데 게이트에 들어가라니요 [19세 완전판][단행본]|||
+69911762|||좀비 아포칼립스 악역들과 살아남기 [19세 완전판]|||
+69904684|||할아버지에게 받은 논에서 석유가 터졌다|||
+69900877|||엑스트라의 SS급 헌터 구원일지 [19세 완전판]|||
+69894794|||질량 보존의 법칙 [19세 완전판]|||
+69894792|||질량 보존의 법칙 [단행본][19세 완전판]|||
+69894599|||남편 죽이기 좋은 밤 [19세 완전판]|||
+69894585|||남편 죽이기 좋은 밤 [단행본][19세 완전판]|||
+69888672|||변호사 윤리강령 [19세 완전판]|||
+69888599|||변호사 윤리강령 [단행본][19세 완전판]|||
+69888582|||배고픈 다람쥐는 왜 이쑤시개를 훔쳤나 [19세 완전판]|||
+69888543|||배고픈 다람쥐는 왜 이쑤시개를 훔쳤나 [단행본][19세 완전판]|||
+69888451|||( ) 우유 빙수 [19세 완전판]|||
+69888442|||( ) 우유 빙수 [단행본][19세 완전판]|||
+69888363|||소꿉 부부 [19세 완전판]|||
+69888211|||소꿉 부부 [단행본][19세 완전판]|||
+69888186|||페로몬 블렌딩 [19세 완전판]|||
+69888183|||페로몬 블렌딩 [단행본][19세 완전판]|||
+69888107|||네임 생긴 오메가 [19세 완전판]|||
+69888029|||네임 생긴 오메가 [단행본][19세 완전판]|||
+69883326|||더 웨이 홈(The Way Home) [19세 완전판]|||
+69883022|||더 웨이 홈(The Way Home) [단행본][19세 완전판]|||
+69877323|||소드마스터 플레이어 [단행본]|||
+69877223|||마법천재 마술방송 [단행본]|||
+69876697|||회귀한 북부의 전투사령관 [단행본]|||
+69876646|||비제이가 너무 강함 [단행본]|||
+69876240|||앞으로 10m, 남편 발견! [19세 완전판]|||
+69876230|||앞으로 10m, 남편 발견! [단행본][19세 완전판]|||
+69865045|||안락한 신혼 연애|||
+69862715|||오후의 죽음|||
+69686309|||2회차 셰프의 파인다이닝 [단행본]|||
+69684759|||회귀 101회차, 무능력자의 구원일지 [단행본]|||
+69684686|||나의 두 번째 아포칼립스 [단행본]|||
+69523767|||가짜 여동생[단행본]|||
+69908984|||고양이 테라피 [19세 완전판]|||
+69903658|||공략 대상이 아카데미에 있습니다 [단행본]|||
+69902200||| 모르는 에스퍼와 각인했다 [19세 완전판]|||
+69901778|||모르는 에스퍼와 각인했다 [19세 완전판][단행본]|||
+69901500||| 하이프레싱 딜 [19세 완전판]|||
+69901484|||하이프레싱 딜 [19세 완전판][단행본]|||
+69918217|||세컨드(Second) [19세 완전판]|||
+69857082|||사랑을 글로 배운 북부 대공 [19세 완전판]|||
+69916517|||원했던 감금[19세 완전판]|||
+69821640|||향귀|||
+69923119|||저승꽃감관[19세 완전판][단행본]|||
+69922839|||세계가 무너지기 일주일 전 [19세 완전판]|||
+69922288|||눈가리기 [19세 완전판]|||
+69925139|||성녀님은 오늘도 잠 못 이루고 [19세 완전판]|||
+69920873|||딜라잇 [19세 완전판]|||
+69918734|||묘묘 [19세 완전판]|||
+69916898|||연영가 [19세 완전판]|||
+69916648|||드라이 플라워 [19세 완전판]|||
+69910184|||핑거 온 더 트리거 [19세 완전판]|||
+69926450|||몸을 공유하는 사이 [단행본]|||
+69925104|||달콤한 건 싫어 [19세 완전판][단행본]|||
+69923888|||달콤한 건 싫어 [19세 완전판]|||
+69923293|||팀장님이 딱딱해 [19세 완전판][단행본]|||
+69923149|||팀장님이 딱딱해 [19세 완전판]|||
+69922371|||팀장님, 반려를 멈춰주세요! [19세 완전판][단행본]|||
+69922189|||팀장님, 반려를 멈춰주세요! [19세 완전판]|||
+69637453|||아카데미 교사는 신화급 총술사|||
+69918976|||저 오메가 아닌데요? [19세 완전판]|||
+69917468|||성공적인 계약 결혼을 위한 보도 지침 [19세 완전판]|||
+69549183|||재능 강탈로 인생이 핵쉬움[단행본]|||
+69549118|||암흑가 보스가 너무 강함[단행본]|||
+69883015|||죽은 척 도망쳤는데 남주가 이상해졌다|||
+69895429|||상사화 시절애 [19세 완전판]|||
+69885438|||서브남주 갱생 사태 [BL][19세 완전판]|||
+69880308|||온에어(ON-AIR) [BL][19세완전판]|||
+69867390|||순결한 집주인 [19세 완전판]|||
+69858676|||다정하고 야한 결혼 [19세 완전판]|||
+69790170|||상속된 남자 [BL][19세 완전판]|||
+69789082|||우리 사이에 사랑은(외전증보판) [BL][19세 완전판]|||
+69788357|||사이드킥도 사람입니다  [BL][19세 완전판]|||
+69788117|||힐링하러 접속했는데요 [BL][19세 완전판]|||
+69907940|||고블린들의 타락 암컷[19세 완전판][단행본]|||
+69888949|||붉은 밀실[19세 완전판][단행본]|||
+69902147|||섬에서 탈출하려다 사기 계약 당했다[단행본]|||
+69901751|||슬기로운 국서 생활 [19세 완전판][단행본]|||
+69901716|||황실 어린이집 선생님이 되었습니다[단행본]|||
+69901707|||백작 부인의 은밀한 [19세 완전판][단행본]|||
+69901232|||팔 거면, 내게 팔아 [19세 완전판][단행본]|||
+69900960|||나는 구원자가 아니다[단행본]|||
+69895888|||당신을 사랑하는 윈프린턴[단행본]|||
+69895610|||요단강 건너기 싫으니까 키스해[단행본]|||
+69895384|||붉은 달이 피는 밤 [19세 완전판][단행본]|||
+69895335|||연하 흑막의 발칙한 구애[단행본]|||
+69895104|||니어 미스 [19세 완전판]|||
+69895093|||니어 미스 [19세 완전판][단행본]|||
+69910167|||파랑 각시 [19세 완전판]|||
+69894588|||날 버리겠다 하신다면[단행본]|||
+69894366|||칡 아닌데요! [19세 완전판][단행본]|||
+69894137|||여죄 [19세 완전판][단행본]|||
+69893844|||독점욕 [19세 완전판]|||
+69893643|||독점욕 [19세 완전판][단행본]|||
+69893630|||체이스 앤 체이스 [19세 완전판][단행본]|||
+69893281|||페이크 미스테이크(Fake mistake) [19세 완전판]|||
+69893268|||페이크 미스테이크(Fake mistake) [19세 완전판][단행본]|||
+69892978|||마녀의 남편 [19세 완전판]|||
+69892812|||마녀의 남편 [19세 완전판][단행본]|||
+69892801|||아버지가 세 명이라는 것 같습니다[단행본]|||
+69885669|||당신이 죽는 꿈을 꿨어 [19세 완전판]|||
+69885442|||당신이 죽는 꿈을 꿨어 [19세 완전판][단행본]|||
+69885396|||시한부 악녀의 저주받은 여동생[단행본]|||
+69606725|||콜드 하드 팩트  [19세 완전판][단행본]|||
+69732050|||키스로 봉인 해제 [19세 완전판]|||
+69706902|||남편과 남사친 사이|||
+69639700|||영웅 헌터는 육아 휴직 중! [19세 완전판][단행본]|||
+69637937|||내가 사랑한 보스 몬스터 (외전) [19세 완전판]|||
+69637896|||내가 사랑한 보스 몬스터 (외전) [19세 개정판][단행본]|||
+69525718|||내가 사랑한 보스 몬스터|||
+69525715|||내가 사랑한 보스 몬스터 [단행본]|||
+69512123|||캐롤린 어거스트를 위한 일인극|||
+69507336|||영웅 헌터는 육아 휴직 중! [19세 완전판]|||
+69507067|||영웅 헌터는 육아 휴직 중!|||
+69911030|||다정한 온도 [19세 완전판]|||
+69908053|||황혼처럼 붉게 물든 [19세 완전판]|||
+69908464|||여우잡이 [19세 완전판]|||
+69909880|||에덴의 낙원 [19세 완전판][단행본]|||
+69909557|||에덴의 낙원 [19세 완전판]|||
+69884769|||소환술사는 맞는데, 이상한 걸 소환합니다 [19세 완전판]|||
+69884704|||소환술사는 맞는데, 이상한 걸 소환합니다 [19세 완전판][단행본]|||
+69884549|||첫사랑에 실패한 마녀는 화친혼을 원한다[단행본]|||
+69884303|||그래서 농노는 영주를 [19세 완전판]|||
+69884289|||그래서 농노는 영주를 [19세 완전판][단행본]|||
+69884028|||짐승의 입술을 깨물 때[단행본]|||
+69883399|||폭군 황제에게 복수를 해볼까 합니다[단행본]|||
+69882781|||재회의 늪 [19세 완전판]|||
+69882700|||재회의 늪 [19세 완전판][단행본]|||
+69881993|||네 아이만 원해 [19세 완전판]|||
+69881613|||네 아이만 원해 [19세 완전판][단행본]|||
+69878634|||공작 전하의 은밀한 [19세 완전판]|||
+69878610|||공작 전하의 은밀한 [19세 완전판][단행본]|||
+69878501|||여러분의 청혼을 거절합니다[단행본]|||
+69878178|||첫사랑과 사내결혼[단행본]|||
+69877350|||지나친 유혹은 전부 사양합니다[단행본]|||
+69876694|||옆집 쓰레기 [19세 완전판]|||
+69876663|||옆집 쓰레기 [19세 완전판][단행본]|||
+69876607|||계약 결혼인데 가족들에게 너무 사랑받는 것 같습니다[단행본]|||
+69876580|||올해 안에 남편감을 찾습니다[단행본]|||
+69876560|||자기야, 꼬리랑 XX 좀 넣어줄래 [19세 완전판][단행본]|||
+69876301|||황태자의 첫사랑은 가짜였다 [19세 완전판]|||
+69876288|||황태자의 첫사랑은 가짜였다 [19세 완전판][단행본]|||
+69876231|||네가 상처받길 원해[단행본]|||
+69886541|||흑막이 너무 다정하다 [19세 완전판][단행본]|||
+69886525|||납화살 [19세 완전판][단행본]|||
+69877397|||너무 잘 아는 게임에 소환됐다|||
+69873120|||메리 리몬첼로 마스! (Merry Limoncello-MAS!) [19세 완전판]|||
+69873105|||메리 리몬첼로 마스! (Merry Limoncello-MAS!) [단행본][19세 완전판]|||
+69872258|||옥상으로 따라 나와! [19세 완전판]|||
+69871763|||옥상으로 따라 나와! [단행본][19세 완전판]|||
+69871628|||어둠으로부터 [19세 완전판]|||
+69871515|||어둠으로부터 [단행본][19세 완전판]|||
+69853904|||사회봉사 100시간 [19세 완전판]|||
+69853903|||사회봉사 100시간 [단행본][19세 완전판]|||
+69853902|||파렴치한 지하철 [19세 완전판]|||
+69853901|||파렴치한 지하철 [단행본][19세 완전판]|||
+69853877|||알파 교도소 [19세 완전판]|||
+69853871|||알파 교도소 [단행본][19세 완전판]|||
+69853870|||마 논 트로포 [19세 완전판]|||
+69853661|||마 논 트로포 [단행본][19세 완전판]|||
+69852868|||개와 늑대 사이의 시간 [19세 완전판]|||
+69852219|||개와 늑대 사이의 시간 [단행본][19세 완전판]|||
+69851922|||마족의 애기 신부 [19세 완전판]|||
+69851859|||마족의 애기 신부 [단행본][19세 완전판]|||
+69851855|||백치 오메가 [19세 완전판]|||
+69851851|||백치 오메가 [단행본][19세 완전판]|||
+69849055|||나긋한 유린 [19세 완전판]|||
+69848897|||나긋한 유린 [단행본][19세 완전판]|||
+69848598|||유일의 향 [19세 완전판]|||
+69848591|||유일의 향 [단행본][19세 완전판]|||
+69798820|||페어리 트랩(Fairy Trap) [19세 완전판]|||
+69780529|||소원성취 [19세 완전판]|||
+69581572|||뱀 신부 [19세 완전판]|||
+69581563|||뱀 신부 [단행본][19세 완전판]|||
+69580402|||형아 몰래 숨기자 [19세 완전판]|||
+69580389|||형아 몰래 숨기자 [단행본][19세 완전판]|||
+69907057|||매리 [19세 완전판]|||
+69906902|||매리 [19세 완전판][단행본]|||
+69905528|||프리텐드(Pretend)  [19세 완전판]|||
+69905294|||프리텐드(Pretend) [19세 완전판][단행본]|||
+69904902|||배덕한 오빠 친구 [19세 완전판]|||
+69904544|||배덕한 오빠 친구 [19세 완전판][단행본]|||
+69901233|||비공식 루틴 [19세 완전판]|||
+69900945|||비공식 루틴 [19세 완전판][단행본]|||
+69880587|||짝사랑 비상사태 [19세 완전판]|||
+69880541|||짝사랑 비상사태 [19세 완전판][단행본]|||
+69879768|||깨진 잔은 붙지 않는다 [19세 완전판][단행본]|||
+69878629|||나를 증오하는 남자의 집 [19세 완전판]|||
+69878494|||나를 증오하는 남자의 집 [19세 완전판][단행본]|||
+69817391|||크러쉬(CRUSH) [19세 완전판]|||
+69856407|||우정의 역할[19세 완전판]|||
+69908210|||언로맨틱 페로몬 테라피 [19세 완전판][단행본]|||
+69907158|||언로맨틱 페로몬 테라피 [19세 완전판]|||
+69740392|||해골병사는 성기사가 되고 싶다|||
+69876227|||달동네 1004호 [19세 완전판][단행본]|||
+69876055|||마지막 패션쇼는 침대 위에서 [19세 완전판]|||
+69888895|||고블린들의 암컷 사육장[19세 완전판][단행본]|||
+69876000|||마지막 패션쇼는 침대 위에서 [19세 완전판][단행본]|||
+69875783|||이 사랑에서 빠지겠습니다[단행본]|||
+69875492|||클리닉 원장에게 사기당한 것 같습니다 [19세 완전판]|||
+69875483|||클리닉 원장에게 사기당한 것 같습니다 [19세 완전판][단행본]|||
+69875036|||이혼 후 愛 [19세 완전판]|||
+69906125|||봄의 제전 [19세 완전판]|||
+69875026|||이혼 후 愛 [19세 완전판][단행본]|||
+69870006|||시간을 되돌려서 [19세 완전판]|||
+69869544|||시간을 되돌려서 [19세 완전판][단행본]|||
+69868637|||키스 온 유어 셔츠(Kiss on your shirt) [19세 완전판]|||
+69868568|||키스 온 유어 셔츠(Kiss on your shirt) [19세 완전판][단행본]|||
+69868465|||계약 남편이 내게 끼부린다[단행본]|||
+69868164|||부디 저를 죽여 주소서 [19세 완전판][단행본]|||
+69867575|||포춘리스(Fortuneless) [19세 완전판][단행본]|||
+69867037|||길티 플러팅 [19세 완전판][단행본]|||
+69865019|||질식예찬 [19세 완전판][단행본]|||
+69864573|||고객님, 물지 않아요 [19세 완전판][단행본]|||
+69864032|||마인드 [19세 완전판][단행본]|||
+69901783|||네가 울었던 날 [19세 완전판]|||
+69863755|||착각하지 마세요 [19세 완전판][단행본]|||
+69903098|||베타 보러 올래요? [19세 완전판]|||
+69904405|||뱁새의 둥지 [19세 완전판]|||
+69863309|||마물신부 [19세 완전판][단행본]|||
+69905216|||잡아먹으려다, 잡아먹혔다 [19세 완전판]|||
+69863295|||러시 대시 외전 [19세 완전판][단행본]|||
+69863124|||러시 대시[단행본]|||
+69863110|||너라는 습관 [19세 완전판][단행본]|||
+69862880|||깡패 비서실무론 [19세 완전판][단행본]|||
+69862658|||희락의 군주 [19세 완전판][단행본]|||
+69862577|||나락의 끝자락에서 [19세 완전판][단행본]|||
+69862569|||나린의 바다 [19세 완전판][단행본]|||
+69862539|||오컬트 영애님의 악당 조련[단행본]|||
+69858302|||봄이 나를 집어삼켰다 [19세 완전판][단행본]|||
+69858249|||떠나보내는 자들 [19세 완전판][단행본]|||
+69857938|||취수혼 [19세 완전판][단행본]|||
+69857915|||그래, 그렇게 [19세 완전판][단행본]|||
+69857742|||영원한 여름 [19세 완전판][단행본]|||
+69857622|||선수의 여자 [19세 완전판][단행본]|||
+69857606|||묘령의 남자들 [19세 완전판][단행본]|||
+69857075|||운명적 짝사랑 [19세 완전판][단행본]|||
+69856379|||태오의 여자[단행본]|||
+69903673|||선배 탐(구)하기 [19세 완전판]|||
+69903974|||탁란지대 [19세 완전판]|||
+69886597|||대기업 화장실에서는 [19세 완전판]|||
+69898873|||더 블루 아워(The Blue Hour) [19세 완전판]|||
+69856086|||기간트 명가의 역대급 막내로 환생했다[단행본]|||
+69855179|||거짓 유산 [19세 완전판][단행본]|||
+69855046|||본능의 파도 [19세 완전판][단행본]|||
+69854782|||육성 실패? 치트급 딸들이 날 돕는다[단행본]|||
+69853905|||비자금 사냥꾼[단행본]|||
+69853878|||스팀펑크 대한[단행본]|||
+69853872|||그대, 은드랑게타 [19세 완전판][단행본]|||
+69851858|||She Is Not [19세 완전판][단행본]|||
+69851549|||적국의 소드마스터로 살아가는 법|||
+69851535|||적국의 소드마스터로 살아가는 법[단행본]|||
+69851526|||최애로 바꾸겠습니다![단행본]|||
+69851507|||시한부 공자는 대학원을 두 번 간다[단행본]|||
+69851478|||박아요, 성검님 [19세 완전판][단행본]|||
+69846291|||언니가 순정만화 여주인공이다[단행본]|||
+69846151|||임신 강요 [19세 완전판][단행본]|||
+69843833|||천재 공학자는 투자가 너무 쉽다[단행본]|||
+69842628|||화산파엔 변태가 산다[단행본]|||
+69840753|||틀어져도[단행본]|||
+69840559|||모어 딥 [19세 완전판][단행본]|||
+69836669|||난장 [19세 완전판][단행본]|||
+69836442|||이혼했더니 발롱도르를 수상했다[단행본]|||
+69836103|||화경동 제비꽃 맨숀 [19세 완전판][단행본]|||
+69834694|||란테는 뒤돌아보지 않는다 [19세 완전판][단행본]|||
+69832564|||매 맞는 팀장님 [19세 완전판][단행본]|||
+69831732|||공녀님은 너무 사랑받아서 곤란합니다[개정판][단행본]|||
+69831137|||다정한 남편을 유혹합니다[단행본]|||
+69887987|||그 사제의 은밀한 사생활 [19세 완전판][단행본]|||
+69887886|||그 사제의 은밀한 사생활 [19세 완전판]|||
+69830126|||뮤즈에게 나의 처음을 [19세 완전판][단행본]|||
+69885411|||킬 유어 달링(Kill your Darling) [19세 완전판][단행본]|||
+69885276|||킬 유어 달링(Kill your Darling) [19세 완전판]|||
+69830024|||안녕하세요, 아저씨[[19세 완전판][단행본]|||
+69829444|||더 론리스트 로드 [19세 완전판][단행본]|||
+69827810|||금단 위에 순정 [19세 완전판]|||
+69827762|||금단 위에 순정 [19세 완전판][단행본]|||
+69827004|||섬섬옥수전[단행본]|||
+69826646|||정말 사랑해? [19세 완전판][단행본]|||
+69826237|||황태자는 내 소꿉친구[단행본]|||
+69820589|||비도덕적이고 로맨틱한 [19세 완전판][단행본]|||
+69819323|||몽우: 꿈속에 내리는 비 [19세 완전판]|||
+69818530|||몽우: 꿈속에 내리는 비 [19세 완전판][단행본]|||
+69818373|||친절한 사이코에게 살해당할 악역입니다[단행본]|||
+69818141|||메소드(Method) [19세 완전판][단행본]|||
+69818026|||성 주임의 고단한 일주일 [19세 완전판]|||
+69818019|||성 주임의 고단한 일주일 [19세 완전판][단행본]|||
+69817904|||XX 추진 위원회 [19세 완전판][단행본]|||
+69817550|||진락동 파라다이스 [19세 완전판]|||
+69817462|||진락동 파라다이스 [19세 완전판][단행본]|||
+69817245|||청년 리마르 [19세 완전판]|||
+69817235|||청년 리마르 [19세 완전판][단행본]|||
+69816558|||XX는 싫어! [19세 완전판][단행본]|||
+69816849|||XX는 싫어! [19세 완전판]|||
+69817879|||K-유교 어린이가 악당 가족을 구함 [단행본]|||
+69774988|||초격차 문명 관리자가 되었다|||
+69830624|||중생지독비|||
+69790781|||1년 뒤 죽는 다이묘로 살아남기|||
+69896826|||룸메이트러블: 룸메이트 기숙학원 사용 설명서 [19세 완전판]|||
+69731635|||감금 로맨스는 처음이라 [19세 완전판]|||
+69515172|||시한부 블랙 요원이 귀촌하면 생기는 일|||
+69793636|||크툴루 세계관에 광기를 숨김[단행본]|||
+69793592|||퀘스트로 장사천재[단행본]|||
+69793350|||죽지 않는 왕 - 무왕 단종[단행본]|||
+69870900|||각별한 우정 [19세 완전판]|||
+69887110|||타락낙원 [19세 완전판]|||
+69895372|||착한 언니 노릇이 지겨워져서 [단행본]|||
+69891634|||토끼야? 늑대야! [19세 완전판]|||
+69514346|||음침한 옆집 색기 [19세 완전판][단행본]|||
+69514005|||음침한 옆집 색기 [19세 완전판]|||
+69888902|||파흔 [19세 완전판]|||
+69870762|||회장님 심부름으로 미국 갔다가 슈퍼볼에 당첨됐다! [단행본]|||
+69870548|||축구천재가 전생을 숨김 [단행본]|||
+69848621|||빙의한 가이드는 평범한 집착이 받고 싶다 [19세 완전판]|||
+69848551|||하우 인센시티브(How Insensitive) [19세 완전판]|||
+69848386|||하우 인센시티브(How Insensitive) [단행본][19세 완전판]|||
+69848311|||1년, 1일 [19세 완전판]|||
+69833029|||1937, 경성 최고의 현금왕|||
+69831770|||동물원 수의사가 이세계 몬스터도 잘 봄|||
+69831189|||마법소녀들의 선생님이 되었다|||
+69830166|||우주 망나니 보스의 천재 입양아|||
+69827773|||빌런인데 히어로의 아이가 생겨 버렸다 [19세 완전판][단행본]|||
+69826535|||빌런인데 히어로의 아이가 생겨 버렸다 [19세 완전판]|||
+69825884|||꿈인 줄 알고 참새 수인이랑 [19세 완전판]|||
+69825879|||꿈인 줄 알고 참새 수인이랑 [단행본][19세 완전판]|||
+69825874|||시한부인 줄 알고 퇴사했는데|||
+69825865|||빙의했더니 짝을 맺으랍니다?! [19세 완전판]|||
+69825862|||빙의했더니 짝을 맺으랍니다?! [단행본][19세 완전판]|||
+69825467|||너와 사랑이 되는 날 [19세 완전판]|||
+69825466|||시한부인 줄 알고 퇴사했는데 [19세 완전판]|||
+69825277|||너와 사랑이 되는 날 [단행본][19세 완전판]|||
+69825259|||시한부인 줄 알고 퇴사했는데 [19세 완전판][단행본]|||
+69824536|||김삼복을 수호하라! [19세 완전판]|||
+69824507|||김삼복을 수호하라! [단행본][19세 완전판]|||
+69824217|||밤에만 피는 꽃 [19세 완전판]|||
+69824212|||밤에만 피는 꽃 [단행본][19세 완전판]|||
+69817390|||깨물어버려! [19세 완전판]|||
+69817385|||깨물어버려! [단행본][19세 완전판]|||
+69817322|||메인공이 엑스트라에게 깔려 버렸다 [19세 완전판]|||
+69817242|||메인공이 엑스트라에게 깔려 버렸다 [단행본][19세 완전판]|||
+69816993|||거미와 개미 [19세 완전판]|||
+69816905|||거미와 개미 [단행본][19세 완전판]|||
+69803090|||저승상점|||
+69790916|||백치 가이드 [19세 완전판]|||
+69790913|||백치 가이드 [단행본][19세 완전판]|||
+69782550|||굴림수 보호 협회에서 나왔습니다 [19세 완전판]|||
+69738942|||첫사랑인데 두 번째 아내입니다|||
+69710192|||평범한 아카데미 복학생입니다만|||
+69696717|||일처다부제 왕국의 공주|||
+69687973|||귀환한 삼촌은 천마였다|||
+69581455|||페티쉬(해결할 방법) 찾아드립니다 [19세 완전판]|||
+69581436|||페티쉬(해결할 방법) 찾아드립니다 [단행본][19세 완전판]|||
+69579006|||19 방탈출 카페에 갇혀 버리면 [19세 완전판]|||
+69578954|||19 방탈출 카페에 갇혀 버리면 [단행본][19세 완전판]|||
+69550043|||완전무결한 웨딩 [단행본]|||
+69452345|||무당파 제자가 천마를 꼬심 |||
+69452328|||마법 시대에 환생한 소드마스터|||
+69452305|||귀환자가 참교육을 잘함|||
+69121062|||게임 속 최종 보스로 살아남기 [단행본]|||
+68637638|||놈편이 돌아왔다|||
+67374168|||당신이 모르는 아이|||
