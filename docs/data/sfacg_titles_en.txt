@@ -224427,6 +224427,7 @@
 51668|||我的师尊是个惹祸精|||My Master Is a Troublemaker
 60145|||遗族迷梦|||Lost Clan Dream
 58490|||神见异闻录|||God-Seeing Strange Tales
+60208|||时祸：我不能杀任何人||||Time Calamity: I Cannot Kill Anyone
 59942|||精灵的律动|||Rhythm of the Elf
 58319|||五界|||Five Worlds
 46528|||你的微笑明日依见|||I'll See Your Smile Again Tomorrow
@@ -275724,6 +275725,121 @@
 780165|||为了不被撕卡选择成为侦探|||I Became a Detective So My Card Wouldn’t Get Torn
 780096|||末世遇到水煮鱼是否搞错了什么|||Is It Wrong to Encounter Boiled Fish in the Apocalypse?
 780081|||规则怪谈之黑桦古堡七日幽囚|||Rule of Horror: Seven Days Captive in Heihua Castle
+780561|||我家的玉佩通明末|||My Family’s Jade Pendant Connects to the Late Ming
+780558|||顾问小姐与毒舌猫|||Miss Consultant and the Sharp-Tongued Cat
+780981|||转生成为异世界魔法少女|||Reincarnated as a Magical Girl in Another World
+780985|||逆鳞四魂悖章|||Reverse Scale: The Contradictory Chapter of Four Souls
+780730|||咦？男大也能成为女团偶像吗？|||Huh? A College Guy Can Become a Girl Group Idol?
+780868|||轮回千次，她们却囚我于床|||After a Thousand Reincarnations, They Locked Me in Bed
+780974|||迷途不返|||Lost and Unreturning
+780609|||把男主培养成救世主后|||After Raising the Male Lead into a Savior
+780791|||转生恶役大小姐？我才不会被攻略|||Reincarnated as a Villainess? No One Will Win My Heart
+780710|||狐族公主的我才不要被打包送人！|||I’m a Fox Clan Princess, I Won’t Be Packaged and Gifted Away!
+781002|||废柴大魔女的旅行指南|||The Useless Great Witch’s Travel Guide
+780936|||薄明|||Twilight
+779895|||穿越成为萝拉却踏上亡命征途|||Transmigrated as Lola but Embarks on a Desperate Journey
+781037|||Re:成为归环白毛不死于异世界|||Re: Becoming a Return-Spiral White-Hair Who Doesn’t Die in Another World
+781038|||重生之我在英格兰当圣人|||Rebirth: Me, a Saint in England
+780768|||s级英雄小姐请不要继续哈气了|||Miss S-Class Hero, Please Stop Haa-ing
+780639|||我很慌但大家都以为我是个狠角色|||I’m Panicking but Everyone Thinks I’m a Tough Character
+780537|||绯天原数异闻录|||Scarlet Sky Prime Numbers Strange Accounts
+780975|||帷幕之下：夜云七号|||Under the Curtain: Night Cloud No. 7
+780911|||仁爱皇子与精神病们的王选头脑战|||The Benevolent Prince and the Mental Patients’ Royal Selection Battle of Wits
+780384|||三百年的红莲：我的神明转世了|||Three Hundred Years of Crimson Lotus: My Deity Has Reincarnated
+780502|||人在崩坏，口袋里揣着赛文眼镜|||I’m in Honkai with an Ultraseven Spectacles in My Pocket
+780994|||转生王女与天才千金|||Reincarnated Princess and the Genius Young Lady
+780738|||猫娘相伴的一年时光|||A Year with the Catgirl
+780778|||变成女生后，她们都想睡我|||After Becoming a Girl, They All Want to Sleep with Me
+780665|||重生成妹妹开始复仇|||Reborn as My Little Sister to Start Revenge
+780774|||先闻其声|||First Hear Its Voice
+780718|||转生骷髅怎么会是大小姐的使魔|||How Can a Reincarnated Skeleton Be the Noble Lady’s Familiar
+781034|||荒村祀狐|||Desolate Village Fox Sacrifice
+780855|||阴角的我与樱花色的青春|||The Gloomy Me and the Sakura-Colored Youth
+781021|||笨侦探和呆军医|||The Dumb Detective and the Silly Army Doctor
+780820|||邪恶公主的女仆不可能是骑士长|||The Evil Princess’s Maid Can’t Possibly Be the Knight Commander
+780986|||血姬与骑士：魔铠|||Blood Princess and the Knight: Demon Armor
+780996|||异世之少女的乱世求生录|||The Otherworld Girl’s Survival Record in Chaotic Times
+781032|||锈蚀末世的猎手|||Hunter of the Rusted Apocalypse
+780883|||浊世星途|||Murky World Star Path
+780655|||小男娘想当男主|||The Little Feminine Boy Wants to Be the Male Lead
+780967|||你御的是什么兽，怪兽？|||What Kind of Beast Are You Raising, Kaiju?
+780598|||成为垃圾游戏的三流反派|||Becoming a Third-Rate Villain in a Trash Game
+781024|||动物毛发的球类日记|||Diary of a Ball Made of Animal Fur
+780758|||巡游魔女伊莉雅的旅行日记|||The Travel Diary of the Wandering Witch Illya
+781029|||如果死亡只是起點|||If Death Is Only the Starting Point
+781028|||负债三万，被迫和毒舌鬼新娘同居|||30,000 in Debt, Forced to Live with the Sharp-Tongued Ghost Bride
+780966|||约战：这约会真的没问题吗？|||Date A Live: Is This Date Really Okay?
+781026|||失格少女不死于玩乐|||The Disqualified Girl Won’t Die from Play
+780799|||校园赏金猎人|||Campus Bounty Hunter
+780876|||不好，兵器娘想御主人啦！|||Oh No, the Weapon Girl Wants to Be the Master!
+780056|||不想努力的圣女殿下|||The Saintess Who Doesn’t Want to Try Hard
+780242|||冷落七年离婚后，渣父子哭红眼|||After Seven Years of Neglect and Divorce, the Scumbag Father and Son Cried Their Eyes Red
+780925|||男孩子怎么了？我也要当魔法少女|||What’s Wrong with Being a Boy? I Want to Be a Magical Girl Too
+780563|||谁说女主就不能长生？|||Who Says the Female Lead Can’t Live Forever?
+780550|||魔法少女？最起码得是个女的吧！|||Magical Girl? At Least Be a Girl First!
+780667|||重女修罗场前我选择直面校园怪谈|||Before the Heavy Girl Harem War, I Chose to Confront the School Ghost Stories
+780607|||重生巫女小姐，今天也在节操营业|||Reborn Miko, Today I’m Also Selling My Dignity
+779757|||穿成雌小鬼的我绝不会败北！|||I Transmigrated as a Bratty Girl and I Absolutely Won’t Lose!
+780666|||玩家也不一定是拯救世界的勇者|||The Player Isn’t Necessarily the Hero Who Saves the World
+780611|||开局好女孩？狗男主你认错人了|||Starting as a Good Girl? You’ve Got the Wrong Person, Trashy Male Lead
+780954|||三千二百八十八次的温柔重生|||3288 Gentle Rebirths
+780632|||成为病弱血姬后也想被关爱|||After Becoming a Sickly Blood Princess, I Still Want to Be Loved
+780906|||变成了勇者队伍里的隐藏Boss|||I Became the Hidden Boss in the Hero’s Party
+780575|||半精灵的薇安莉亚小姐不想当英雄|||Half-Elf Miss Vianlia Doesn’t Want to Be a Hero
+781008|||我家公主很无敌，那我负责当嘴替|||My Princess Is Invincible, So I’ll Be Her Mouthpiece
+780663|||魔王大人才不会被女仆们冒犯呢|||The Demon King Will Not Be Offended by the Maids
+780894|||镜中重生后我变成了女生|||After Rebirth in the Mirror, I Became a Girl
+780822|||变成狐妖才不要被魔子管呢！|||Became a Fox Spirit, No Way I’m Being Ruled by a Demon Child!
+780970|||闻声，鬼至|||Hear the Sound, the Ghost Arrives
+781001|||格雷尔与希尔薇的日常重制版|||Grell and Sylvie’s Daily Life Remake
+781005|||在群星的见证下|||Under the Witness of the Stars
+780961|||高冷校草不可能是软萌小血姬|||The Cool Campus Prince Can’t Be a Soft and Cute Little Blood Princess
+780631|||变成龙姬的我，不想被她们圈养|||Became a Dragon Princess, I Don’t Want to Be Kept by Them
+780727|||网恋的赛博女儿是魔法少女上司|||My Online Dating Cyber Daughter Is My Magical Girl Boss
+780797|||我的情绪很稳定|||My Emotions Are Very Stable
+780922|||尊重下怪人啊，我不会收养你的|||Show Some Respect to the Monster, I Won’t Adopt You
+780704|||还请异端的你赦免我这负罪的圣女|||Please, Heretic, Absolve Me, This Sinful Saintess
+780851|||穿越宋朝帝姬，跟辛弃疾开始北伐|||Transmigrated as a Song Dynasty Princess, Starting the Northern Expedition with Xin Qiji
+780998|||她的光，她的笼|||Her Light, Her Cage
+780715|||身为摩根王妃的士郎弟弟|||Shirou’s Younger Brother as Morgan’s Princess Consort
+780914|||小小教师今天也在治愈问题班级|||The Tiny Teacher Is Still Healing the Problem Class Today
+780711|||我是说如果，我真的是女武神呢？|||I Mean, What If I Really Am a Valkyrie?
+780752|||摆烂修女，今晚也在放弃挣扎|||The Slacking Nun Is Giving Up the Struggle Again Tonight
+780636|||被魔女收养后，病爱的她们追来了|||After Being Adopted by a Witch, the Yandere Girls Chased After Me
+780622|||少女不迷失于诡秘之夜|||The Maiden Will Not Lose Her Way on the Mysterious Night
+780748|||魔王与勇者的婚礼，宾客是全世界|||The Demon King and Hero’s Wedding, Guests Are the Whole World
+737562|||我才不要和病娇谈恋爱|||I Don’t Want to Date a Yandere
+780616|||天宫静流同学才不是坏女人！|||Amamiya Shizuru Is Not a Bad Woman!
+780871|||屠龙失败变龙娘，战友全员想娶我|||Failed to Slay the Dragon and Became a Dragon Girl, All My Comrades Want to Marry Me
+780714|||男高被迫变魔法少女，遭学姐围堵|||High School Boy Forced to Become a Magical Girl, Cornered by Senpais
+771876|||我被邪恶吉祥物拐去当神了|||I Was Kidnapped by an Evil Mascot to Become a God
+780560|||误入诡迹，各位boss追着宠|||Stumbled into a Strange Trail, All the Bosses Chase and Dote on Me
+780480|||我一学徒，哪来的七个龙娘妹妹？|||I’m Just an Apprentice, How Do I Have Seven Dragon Girl Sisters?
+754878|||代理人战争之蔚阑|||Proxy War: Azure Late
+780749|||废宅少年的我被五河士道娶走了|||The Useless Otaku Me Was Taken as a Bride by Itsuka Shido
+780915|||魔道妖女洗白被拒，仙子你哭什么|||The Demon Sect Seductress’s Whitewash Was Rejected, Fairy, Why Are You Crying?
+780916|||病弱女配的我只好去抱凤傲天大腿|||As a Sickly Side Character, I Have No Choice but to Cling to the Phoenix Ao Tian’s Thigh
+780958|||在异世界干物流|||Doing Logistics in Another World
+780762|||死神大人才不会这么可爱！|||The Death God Can’t Be This Cute!
+780700|||人在女尊，修仙也要上大学？|||In a Matriarchal World, Cultivating Immortality Requires College Too?
+780997|||想退休的精灵培养出一个充师逆徒|||The Elf Who Wanted to Retire Raised a Rebellious Apprentice
+775021|||穿到约战，身为伪神才不要恋爱！|||Transmigrated into Date A Live, As a False God, I Don’t Want Romance!
+780995|||重生异世界成血族|||Reborn in Another World as a Vampire
+780046|||背刺勇者后魔王成为了魔女|||After Backstabbing the Hero, the Demon King Became a Witch
+780834|||回到过去做自己的白月光|||Back to the Past to Be My Own White Moonlight
+780726|||成为少女后，勇者夫人狗都不当|||After Becoming a Maiden, I’d Rather Be a Dog Than the Hero’s Wife
+780593|||生如茫崖|||Life Like a Vast Cliff
+780984|||清零之后，才知为何留下|||After Resetting to Zero, I Finally Knew Why I Stayed
+780934|||穿成魔教妖女，但武侠套路是假的|||Transmigrated as a Demon Cult Seductress, but the Wuxia Tropes Are Fake
+780927|||公主殿下！这姿势不对吧？|||Your Highness! Isn’t This Posture Wrong?
+779224|||伪装天使的人渣小姐才不会玩脱|||The Scumbag Miss Pretending to Be an Angel Won’t Slip Up
+780638|||隐者：混战|||Hermit: Melee
+780978|||碎土东方|||Shattered Earth East
+780427|||存于星渊的我，也幻想着自由|||Existing in the Star Abyss, I Too Dream of Freedom
+780924|||明末：朕不要在煤山树上荡秋千|||Late Ming: I, the Emperor, Don’t Want to Swing on Coal Hill
+780944|||魔女瑪麗|||Witch Mary
+780845|||逆熵的诺提斯|||Anti-Entropy’s Nottis
+780755|||魔法少女人与生物质|||Magical Girl and Biomass
 780979|||被魔女女友变成魔女了|||Turned Into a Witch by My Witch Girlfriend
 780971|||被病娇包围的我，决定自救|||Surrounded by Yanderes, I Choose to Save Myself
 780644|||说好抢冰灵识，你们却牵我手？|||We Agreed to Steal the Ice Spirit, But You Hold My Hand?
@@ -276242,122 +276358,6 @@
 486852|||转生月下初拥但是要毁灭世界|||Reincarnated as Luna Kindred, but I Must Destroy the World
 597661|||与深海猎人的邂逅|||Encounter with the Deep-Sea Hunter
 510751|||年代记樱花抄|||Chronicle of Sakura Notes
-60208|||时祸：我不能杀任何人|||Time Calamity: I Cannot Kill Anyone
-780561|||我家的玉佩通明末|||My Family’s Jade Pendant Connects to the Late Ming
-780558|||顾问小姐与毒舌猫|||Miss Consultant and the Sharp-Tongued Cat
-780981|||转生成为异世界魔法少女|||Reincarnated as a Magical Girl in Another World
-780985|||逆鳞四魂悖章|||Reverse Scale: The Contradictory Chapter of Four Souls
-780730|||咦？男大也能成为女团偶像吗？|||Huh? A College Guy Can Become a Girl Group Idol?
-780868|||轮回千次，她们却囚我于床|||After a Thousand Reincarnations, They Locked Me in Bed
-780974|||迷途不返|||Lost and Unreturning
-780609|||把男主培养成救世主后|||After Raising the Male Lead into a Savior
-780791|||转生恶役大小姐？我才不会被攻略|||Reincarnated as a Villainess? No One Will Win My Heart
-780710|||狐族公主的我才不要被打包送人！|||I’m a Fox Clan Princess, I Won’t Be Packaged and Gifted Away!
-781002|||废柴大魔女的旅行指南|||The Useless Great Witch’s Travel Guide
-780936|||薄明|||Twilight
-779895|||穿越成为萝拉却踏上亡命征途|||Transmigrated as Lola but Embarks on a Desperate Journey
-781037|||Re:成为归环白毛不死于异世界|||Re: Becoming a Return-Spiral White-Hair Who Doesn’t Die in Another World
-781038|||重生之我在英格兰当圣人|||Rebirth: Me, a Saint in England
-780768|||s级英雄小姐请不要继续哈气了|||Miss S-Class Hero, Please Stop Haa-ing
-780639|||我很慌但大家都以为我是个狠角色|||I’m Panicking but Everyone Thinks I’m a Tough Character
-780537|||绯天原数异闻录|||Scarlet Sky Prime Numbers Strange Accounts
-780975|||帷幕之下：夜云七号|||Under the Curtain: Night Cloud No. 7
-780911|||仁爱皇子与精神病们的王选头脑战|||The Benevolent Prince and the Mental Patients’ Royal Selection Battle of Wits
-780384|||三百年的红莲：我的神明转世了|||Three Hundred Years of Crimson Lotus: My Deity Has Reincarnated
-780502|||人在崩坏，口袋里揣着赛文眼镜|||I’m in Honkai with an Ultraseven Spectacles in My Pocket
-780994|||转生王女与天才千金|||Reincarnated Princess and the Genius Young Lady
-780738|||猫娘相伴的一年时光|||A Year with the Catgirl
-780778|||变成女生后，她们都想睡我|||After Becoming a Girl, They All Want to Sleep with Me
-780665|||重生成妹妹开始复仇|||Reborn as My Little Sister to Start Revenge
-780774|||先闻其声|||First Hear Its Voice
-780718|||转生骷髅怎么会是大小姐的使魔|||How Can a Reincarnated Skeleton Be the Noble Lady’s Familiar
-781034|||荒村祀狐|||Desolate Village Fox Sacrifice
-780855|||阴角的我与樱花色的青春|||The Gloomy Me and the Sakura-Colored Youth
-781021|||笨侦探和呆军医|||The Dumb Detective and the Silly Army Doctor
-780820|||邪恶公主的女仆不可能是骑士长|||The Evil Princess’s Maid Can’t Possibly Be the Knight Commander
-780986|||血姬与骑士：魔铠|||Blood Princess and the Knight: Demon Armor
-780996|||异世之少女的乱世求生录|||The Otherworld Girl’s Survival Record in Chaotic Times
-781032|||锈蚀末世的猎手|||Hunter of the Rusted Apocalypse
-780883|||浊世星途|||Murky World Star Path
-780655|||小男娘想当男主|||The Little Feminine Boy Wants to Be the Male Lead
-780967|||你御的是什么兽，怪兽？|||What Kind of Beast Are You Raising, Kaiju?
-780598|||成为垃圾游戏的三流反派|||Becoming a Third-Rate Villain in a Trash Game
-781024|||动物毛发的球类日记|||Diary of a Ball Made of Animal Fur
-780758|||巡游魔女伊莉雅的旅行日记|||The Travel Diary of the Wandering Witch Illya
-781029|||如果死亡只是起點|||If Death Is Only the Starting Point
-781028|||负债三万，被迫和毒舌鬼新娘同居|||30,000 in Debt, Forced to Live with the Sharp-Tongued Ghost Bride
-780966|||约战：这约会真的没问题吗？|||Date A Live: Is This Date Really Okay?
-781026|||失格少女不死于玩乐|||The Disqualified Girl Won’t Die from Play
-780799|||校园赏金猎人|||Campus Bounty Hunter
-780876|||不好，兵器娘想御主人啦！|||Oh No, the Weapon Girl Wants to Be the Master!
-780056|||不想努力的圣女殿下|||The Saintess Who Doesn’t Want to Try Hard
-780242|||冷落七年离婚后，渣父子哭红眼|||After Seven Years of Neglect and Divorce, the Scumbag Father and Son Cried Their Eyes Red
-780925|||男孩子怎么了？我也要当魔法少女|||What’s Wrong with Being a Boy? I Want to Be a Magical Girl Too
-780563|||谁说女主就不能长生？|||Who Says the Female Lead Can’t Live Forever?
-780550|||魔法少女？最起码得是个女的吧！|||Magical Girl? At Least Be a Girl First!
-780667|||重女修罗场前我选择直面校园怪谈|||Before the Heavy Girl Harem War, I Chose to Confront the School Ghost Stories
-780607|||重生巫女小姐，今天也在节操营业|||Reborn Miko, Today I’m Also Selling My Dignity
-779757|||穿成雌小鬼的我绝不会败北！|||I Transmigrated as a Bratty Girl and I Absolutely Won’t Lose!
-780666|||玩家也不一定是拯救世界的勇者|||The Player Isn’t Necessarily the Hero Who Saves the World
-780611|||开局好女孩？狗男主你认错人了|||Starting as a Good Girl? You’ve Got the Wrong Person, Trashy Male Lead
-780954|||三千二百八十八次的温柔重生|||3288 Gentle Rebirths
-780632|||成为病弱血姬后也想被关爱|||After Becoming a Sickly Blood Princess, I Still Want to Be Loved
-780906|||变成了勇者队伍里的隐藏Boss|||I Became the Hidden Boss in the Hero’s Party
-780575|||半精灵的薇安莉亚小姐不想当英雄|||Half-Elf Miss Vianlia Doesn’t Want to Be a Hero
-781008|||我家公主很无敌，那我负责当嘴替|||My Princess Is Invincible, So I’ll Be Her Mouthpiece
-780663|||魔王大人才不会被女仆们冒犯呢|||The Demon King Will Not Be Offended by the Maids
-780894|||镜中重生后我变成了女生|||After Rebirth in the Mirror, I Became a Girl
-780822|||变成狐妖才不要被魔子管呢！|||Became a Fox Spirit, No Way I’m Being Ruled by a Demon Child!
-780970|||闻声，鬼至|||Hear the Sound, the Ghost Arrives
-781001|||格雷尔与希尔薇的日常重制版|||Grell and Sylvie’s Daily Life Remake
-781005|||在群星的见证下|||Under the Witness of the Stars
-780961|||高冷校草不可能是软萌小血姬|||The Cool Campus Prince Can’t Be a Soft and Cute Little Blood Princess
-780631|||变成龙姬的我，不想被她们圈养|||Became a Dragon Princess, I Don’t Want to Be Kept by Them
-780727|||网恋的赛博女儿是魔法少女上司|||My Online Dating Cyber Daughter Is My Magical Girl Boss
-780797|||我的情绪很稳定|||My Emotions Are Very Stable
-780922|||尊重下怪人啊，我不会收养你的|||Show Some Respect to the Monster, I Won’t Adopt You
-780704|||还请异端的你赦免我这负罪的圣女|||Please, Heretic, Absolve Me, This Sinful Saintess
-780851|||穿越宋朝帝姬，跟辛弃疾开始北伐|||Transmigrated as a Song Dynasty Princess, Starting the Northern Expedition with Xin Qiji
-780998|||她的光，她的笼|||Her Light, Her Cage
-780715|||身为摩根王妃的士郎弟弟|||Shirou’s Younger Brother as Morgan’s Princess Consort
-780914|||小小教师今天也在治愈问题班级|||The Tiny Teacher Is Still Healing the Problem Class Today
-780711|||我是说如果，我真的是女武神呢？|||I Mean, What If I Really Am a Valkyrie?
-780752|||摆烂修女，今晚也在放弃挣扎|||The Slacking Nun Is Giving Up the Struggle Again Tonight
-780636|||被魔女收养后，病爱的她们追来了|||After Being Adopted by a Witch, the Yandere Girls Chased After Me
-780622|||少女不迷失于诡秘之夜|||The Maiden Will Not Lose Her Way on the Mysterious Night
-780748|||魔王与勇者的婚礼，宾客是全世界|||The Demon King and Hero’s Wedding, Guests Are the Whole World
-737562|||我才不要和病娇谈恋爱|||I Don’t Want to Date a Yandere
-780616|||天宫静流同学才不是坏女人！|||Amamiya Shizuru Is Not a Bad Woman!
-780871|||屠龙失败变龙娘，战友全员想娶我|||Failed to Slay the Dragon and Became a Dragon Girl, All My Comrades Want to Marry Me
-780714|||男高被迫变魔法少女，遭学姐围堵|||High School Boy Forced to Become a Magical Girl, Cornered by Senpais
-771876|||我被邪恶吉祥物拐去当神了|||I Was Kidnapped by an Evil Mascot to Become a God
-780560|||误入诡迹，各位boss追着宠|||Stumbled into a Strange Trail, All the Bosses Chase and Dote on Me
-780480|||我一学徒，哪来的七个龙娘妹妹？|||I’m Just an Apprentice, How Do I Have Seven Dragon Girl Sisters?
-754878|||代理人战争之蔚阑|||Proxy War: Azure Late
-780749|||废宅少年的我被五河士道娶走了|||The Useless Otaku Me Was Taken as a Bride by Itsuka Shido
-780915|||魔道妖女洗白被拒，仙子你哭什么|||The Demon Sect Seductress’s Whitewash Was Rejected, Fairy, Why Are You Crying?
-780916|||病弱女配的我只好去抱凤傲天大腿|||As a Sickly Side Character, I Have No Choice but to Cling to the Phoenix Ao Tian’s Thigh
-780958|||在异世界干物流|||Doing Logistics in Another World
-780762|||死神大人才不会这么可爱！|||The Death God Can’t Be This Cute!
-780700|||人在女尊，修仙也要上大学？|||In a Matriarchal World, Cultivating Immortality Requires College Too?
-780997|||想退休的精灵培养出一个充师逆徒|||The Elf Who Wanted to Retire Raised a Rebellious Apprentice
-775021|||穿到约战，身为伪神才不要恋爱！|||Transmigrated into Date A Live, As a False God, I Don’t Want Romance!
-780995|||重生异世界成血族|||Reborn in Another World as a Vampire
-780046|||背刺勇者后魔王成为了魔女|||After Backstabbing the Hero, the Demon King Became a Witch
-780834|||回到过去做自己的白月光|||Back to the Past to Be My Own White Moonlight
-780726|||成为少女后，勇者夫人狗都不当|||After Becoming a Maiden, I’d Rather Be a Dog Than the Hero’s Wife
-780593|||生如茫崖|||Life Like a Vast Cliff
-780984|||清零之后，才知为何留下|||After Resetting to Zero, I Finally Knew Why I Stayed
-780934|||穿成魔教妖女，但武侠套路是假的|||Transmigrated as a Demon Cult Seductress, but the Wuxia Tropes Are Fake
-780927|||公主殿下！这姿势不对吧？|||Your Highness! Isn’t This Posture Wrong?
-779224|||伪装天使的人渣小姐才不会玩脱|||The Scumbag Miss Pretending to Be an Angel Won’t Slip Up
-780638|||隐者：混战|||Hermit: Melee
-780978|||碎土东方|||Shattered Earth East
-780427|||存于星渊的我，也幻想着自由|||Existing in the Star Abyss, I Too Dream of Freedom
-780924|||明末：朕不要在煤山树上荡秋千|||Late Ming: I, the Emperor, Don’t Want to Swing on Coal Hill
-780944|||魔女瑪麗|||Witch Mary
-780845|||逆熵的诺提斯|||Anti-Entropy’s Nottis
-780755|||魔法少女人与生物质|||Magical Girl and Biomass
 747626|||111644646|||
 743906|||13948284|||
 724846|||123114514|||
