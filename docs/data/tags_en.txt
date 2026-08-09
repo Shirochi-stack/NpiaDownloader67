@@ -9,6 +9,7 @@
 100일생존|||100-Day Survival
 100자|||100 Characters
 100층학교|||100 Floor School
+100화에맺는이야기|||Story Wrapping Up in 100 Chapters
 100화에죽는이야기|||Dies in 100 Chapters
 100회차|||100th Round
 10分水平|||10/10 Level
@@ -280,6 +281,7 @@
 5등급|||5th Grade
 5등분의신부|||Quintuplets
 5명|||5 People
+5부|||Part 5
 5부작|||5-Part Series
 5세대|||5th Generation
 5세대아이돌|||5th Gen Idol
@@ -354,6 +356,7 @@ AI99|||AI99
 AI가쓴|||AI-Written
 AI굴려서|||AI Generated
 AI그림|||AI Art
+AI도움받는중|||AI Assisted
 AI로만든일러스트|||AI Illustrations
 AI로봇|||AI Robot
 AI보조|||AI Assistant
@@ -756,6 +759,7 @@ LRS|||LRS
 LTR없음|||No LTR
 LV1最强|||LV1 Strongest
 L드라고|||L Dragao
+L사|||L Corp
 L일상|||L Daily
 M|||M
 M20세계|||M20 World
@@ -849,6 +853,7 @@ NTR냄새안나는순애|||No NTR Scent Pure Love
 NTR만없음|||No NTR Only
 NTR복수|||NTR Revenge
 NTR순한맛|||Mild NTR
+NTR시점|||NTR Point of View
 NTR시점나옴|||NTR POV Appears
 NTR아님|||No NTR
 NTR아주약간|||Very Light NTR
@@ -975,6 +980,7 @@ S4小天使|||S4 Little Angel
 SAO|||Sword Art Online
 SCAT|||Scat
 SCP|||SCP Foundation
+SCP186|||SCP-186
 SCP4999|||SCP-4999
 SCPSL|||SCPSL
 SCP基金会|||SCP Foundation
@@ -9885,6 +9891,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 가디언|||Guardian
 가디언즈|||Guardians
 가디언테일즈|||Guardian Tales
+가라데|||Karate
 가라르|||Galar
 가라르지방|||Galar Region
 가라앉는사랑|||Sinking Love
@@ -10081,6 +10088,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 가학적임|||Sadistic
 가해자처벌물|||Perp Punishment
 가호|||Blessing
+가호상실|||Lost Blessing
 가히리|||Gahiri
 각|||Each
 각나오면떡타지|||Each Sex Heavy
@@ -10425,11 +10433,13 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 갤러리|||Gallery/Forum
 갤러리물|||Gallery
 갤러리살짝|||Gallery Hint
+갤러리악간|||Gallery Akgan
 갤러리향|||Gallery Style
 갤러리향첨가|||Gallery Elements
 갤러리후반|||Gallery Second Half
 갤러해드|||Gallahad
 갤럭시단|||Galaxy Team
+갤럭시이후스토리|||Post-Galaxy Story
 갤럭시포스|||Galaxy Force
 갤럭타|||Galacta
 갤주|||Galju
@@ -10490,6 +10500,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 거유|||Big Breasts
 거유녀|||Big Breasts Girl
 거유둔부|||Big Breasts Fat Ass
+거유키보토스|||Big Breasts Kibotos
 거유톰보이는진리다|||Big-Breasted Tomboy Is Justice
 거의|||Almost
 거의먼치킨|||Almost Munchkin
@@ -10640,6 +10651,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 것도|||That Too
 겉멋|||Flashy
 겉은절세미녀|||Outer Peerless Beauty
+게게중간에스토리진짜|||Gege Mid-Story Real
 게그|||Gag
 게다리춤|||Crab Walk Dance
 게로박사|||Gero Doctor
@@ -10784,6 +10796,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 결국은백합|||Ultimately Yuri
 결단|||Decisive
 결단코BL아님|||Definitely Not BL
+결론|||Conclusion
 결말|||Ending
 결말교체|||Ending Swap
 결박|||Bondage
@@ -10893,6 +10906,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 고결|||Noble
 고결오만|||Noble Arrogant
 고결함|||Nobility
+고고핑|||Gogo Ping
 고고학|||Archaeology
 고교|||High School
 고교야구|||High School Baseball
@@ -11769,6 +11783,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 규볼|||Gyubol
 규칙|||Rules
 규칙괴담|||Rules Horror
+규칙물|||Rule System
 규칙서|||Rulebook
 귝|||Gyuk
 균사체|||Mycelium
@@ -11995,6 +12010,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 글자수|||Word Count
 글쟁이S|||Writer S
 글처음써봐요|||First Writing
+글카스|||Geulcasse
 금강불괴|||Indestructible
 금고|||Vault
 금기|||Taboo
@@ -12105,6 +12121,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 기물요괴器物妖怪|||Tool Yokai
 기반|||Based On
 기반느낌|||Foundation Vibe
+기반아님|||Not a Die-hard
 기반형|||Base Type
 기병|||Cavalry
 기본개그|||Basic Comedy
@@ -12392,6 +12409,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 나노펑크|||Nano Punk
 나노하|||Nanoha
 나누크|||Nanook
+나눔핑|||Nanum Ping
 나는신이다|||I Am God
 나데|||Nade
 나데나네|||Pet Pet
@@ -12423,7 +12441,9 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 나르|||Nar
 나르시스트|||Narcissist
 나르시스트남|||Narcissist Male
+나르핑|||Naru Ping
 나름대로순애|||Somewhat Pure Love
+나름로우파워|||Low Power
 나름먼치킨|||Somewhat Munchkin
 나름블랙코메디|||Sorta Black Comedy
 나름순애|||Sorta Pure Love
@@ -12513,6 +12533,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 나키리아야메|||Nakiri Ayame
 나키리쿠보|||Nakiri Kubo
 나키메|||Nakime
+나타|||Nata
 나탈매강|||Natal Rape
 나태|||Sloth
 나태남|||Lazy Man
@@ -12603,6 +12624,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 남녀공학|||Coed School
 남녀다먹음|||Eats Both Genders
 남녀비|||Male-Female Ratio
+남녀비1대69|||Male-to-Female Ratio 1:69
 남녀비역전|||M:F Ratio Reversal
 남녀성비|||Male Female Ratio
 남녀성비3대7|||M:F 3:7 Ratio
@@ -12853,6 +12875,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 너무심한RPG2|||Too Harsh RPG2
 너은퇴못함|||You Can't Retire
 너클즈|||Knuckles
+너튜브|||YouTube
 너프|||Nerf
 너프건|||Nerf Gun
 너희들이왜나와|||Why You Guys Here
@@ -12887,6 +12910,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 네오지온|||Neo Zeon
 네온|||Neon
 네온시티|||Neon City
+네이버왭툰|||Naver Webtoon
 네이버웹툰|||Naver Webtoon
 네임버스|||Nameverse
 네즈코|||Nezuko
@@ -12975,6 +12999,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 노블피아|||Nobelpia
 노비|||Slave
 노빠꾸|||No Makeup
+노사세|||No Sex
 노산|||Childless
 노상태창|||No Status Window
 노수위|||No Lewd
@@ -13041,6 +13066,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 논리싸움|||Logic Battle
 논문|||Thesis
 논의|||Discussion
+논증|||Arguing
 논평|||Commentary
 논픽션|||Non-Fiction
 놀|||Play
@@ -13306,6 +13332,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 다람쥐아가씨|||Squirrel Girl
 다량의콜라보|||Heavy Collab
 다롱다크|||Dalong Dark
+다롱핑|||Darong Ping
 다르코|||Darko
 다르킨|||Darkin
 다른AU없음|||No Other AU
@@ -13691,6 +13718,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 대본소설|||Script Novel
 대부분|||Most
 대부분일상|||Mostly Daily
+대부업|||Loan Sharks
 대부호|||Tycoon
 대상혁|||Dae Sanghyuk
 대서사|||Grand Epic
@@ -14202,6 +14230,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 동료애|||Comradeship
 동료와적|||Allies and Foes
 동료키우기|||Companion Raising
+동맹|||Alliance
 동면|||Hibernation
 동명이인|||Namesake
 동물|||Animal
@@ -14426,6 +14455,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 드레스사장여주|||Dress Shop Owner FL
 드레이코|||Draco
 드레이크|||Drake
+드레인|||Drain
 드레헤르|||Dreher
 드론|||Drone
 드루이드|||Druid
@@ -14565,6 +14595,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 딸친구|||Daughter's Friend
 딸키우기|||Raising Daughter
 땅|||Land
+땅기계|||Earth Machine
 땅따먹기|||Territory Game
 땅콩|||Peanut
 땅크|||Tank
@@ -14891,6 +14922,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 레제단|||Reze Group
 레제의과거|||Reze Past
 레즈|||Lesbian
+레즈NTL|||Lesbian Netori
 레즈NTR요소|||Lesbian NTR Elements
 레즈난입|||Yuri Intrusion
 레즈도나옴|||Lesbian Domination
@@ -15592,6 +15624,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 마조남|||Masochist Male
 마조녀|||Maso Girl
 마조노예|||Masochist Slave
+마조드래곤|||Masochistic Dragon
 마조암컷|||Mazo Bitch
 마조암타|||Mazo Bitch Hit
 마조주인공|||Mazo MC
@@ -15626,6 +15659,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 마탄전기|||Gun Story
 마탑|||Mage Tower
 마탑만들기|||Magic Tower Building
+마탑의문제아들|||Problem Children of the Magic Tower
 마탑주|||Magic Tower Lord
 마태수|||Ma Tae-soo
 마토|||Mato
@@ -15800,6 +15834,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 매드아티스트|||Mad Artist
 매력|||Charm
 매력남|||Charming Man
+매력만렙|||Max Level Charm
 매료|||Charm
 매료해방|||Charm Release
 매모라이즈|||Memorize
@@ -15818,6 +15853,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 매지컬파티|||Magical Party
 매직미러|||Magic Mirror
 매직서바이벌|||Magic Survival
+매직크래프트|||Magicraft
 매직펑크|||Magic Punk
 매직펑크퓨처리즘|||Magic Punk Future
 매직포스|||Magic Force
@@ -15837,6 +15873,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 매화검수|||Plum Sword Count
 매화삽화야함|||Plum Blossom Illustrations
 매화섹스|||Frequent Sex
+매화완결|||Completed by Episode
 매회차야스|||Weekly Tease
 매회차태그다름|||Tags Change Per Episode
 맥아더|||MacArthur
@@ -15973,6 +16010,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 메르시|||Mercy
 메르헨|||Märchen
 메르헨판타지|||Märchen Fantasy
+메리배드엔딩|||Merry Bad Ending
 메리수|||Mary Sue
 메리해피엔딩|||Merry Happy Ending
 메멘토|||Memento
@@ -16088,6 +16126,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 멘헤라호소인|||Menhera Charmer
 멜돔|||Maledom
 멜로|||Melodrama
+멜로핑|||Melo Ping
 멜루진|||Melusine
 멜뤼진|||Melrujin
 멜리오다스|||Meliodas
@@ -16105,6 +16144,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 멸룡|||Dragon Slayer
 멸룡마법|||Dragon Slay Magic
 멸망|||Destruction/Ruin
+멸망관리회사|||Apocalypse Management Company
 멸망이후|||Post-Apocalypse
 멸망이후의세계|||Post-Apocalyptic World
 멸망전세계|||World Before Destruction
@@ -16291,6 +16331,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 모험담|||Adventure Tale
 모험드라마|||Adventure Drama
 모험록|||Adventure Log
+모험의탑|||Tower of Adventure
 모험자|||Adventurer
 모험자물|||Adventurer Story
 모혐|||Mother Hate
@@ -16360,6 +16401,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 몸매|||Figure
 몸바꾸기|||Body Swap
 몸바뀜|||Body Swap
+몸부림|||Struggle
 몸뺏김|||Body Theft
 몸으로하는스포츠|||Physical Sports
 몸으로하는운동|||Physical Exercise
@@ -16372,6 +16414,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 못과망치|||Hammer and Nail
 못씀|||Can't Write
 못자요|||Can't Sleep
+못참으면야한벌칙|||Lewd Forfeit
 못하는|||Can't Do
 못할수도있음|||Might Not Happen
 못함|||Can't Do It
@@ -16615,6 +16658,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 무한환생|||Infinite Reincarnation
 무한회귀|||Infinite Regression
 무한회귀자|||Infinite Regressor
+무한회기|||Infinite Regression
 무햡|||No Happy
 무협|||Martial Arts
 무협격투|||Wuxia Combat
@@ -17016,6 +17060,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 밀프녀|||Milf Lead
 밀프텨|||MILF Top
 밀해단|||Mil Hae Dan
+밀회|||Secret Rendezvous
 밈|||Meme
 밈다수포함|||Panties Included
 밑바닥|||Rock Bottom
@@ -17040,6 +17085,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 바디스내처|||Body Snatcher
 바디스위치|||Body Swap
 바디체인지|||Body Swap
+바디호러|||Body Horror
 바라간|||Baragan
 바람|||Cheating
 바람둥이|||Playboy
@@ -17275,6 +17321,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 방송부|||Broadcasting Club
 방송인들|||Streamers
 방어|||Defense
+방어기제|||Defense Mechanism
 방어력몰빵|||Defense Build
 방어올인|||Defense All-In
 방울뱀|||Rattlesnake
@@ -17465,6 +17512,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 버리고왔다|||Abandoned
 버림|||Abandonment
 버림받은주인공|||Abandoned MC
+버림받은헌터|||Abandoned Hunter
 버미육|||Bermy Meat
 버블|||Bubble
 버사장|||Vice President
@@ -17497,6 +17545,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 번개의호흡|||Thunder Breathing
 번견|||Beongyeon
 번식|||Breeding
+번식운명의길|||Breeding Fate Path
 번아웃|||Burnout
 번안|||Adaptation
 번역|||Translation
@@ -17578,6 +17627,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 베이블레이드|||Beyblade
 베이블레이드G|||Beyblade G
 베이블레이드X|||Beyblade X
+베이비시터|||Babysitter
 베이스|||Base
 베이커리|||Bakery
 베이크|||Bake
@@ -18533,6 +18583,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 뽕|||High
 뽕빨|||Power Trip
 뾰이|||Spiky
+뿌뿌핑|||Ppu-Ppu Ping
 뿌쵸핑|||Ppyochoping
 뿔|||Horns
 뿔잡펠|||Horn Grab Fell
@@ -18840,6 +18891,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 사패|||Four Evils
 사펑|||Safeng
 사펑2077|||Cyberpunk 2077
+사형수|||Death Row
 사형집행|||Execution
 사형집행자|||Executioner
 사회|||Society
@@ -18858,6 +18910,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 사회주의|||Socialism
 사회파|||Social Drama
 사회풍자|||Social Satire
+사회학|||Sociology
 사회현상|||Social Phenomenon
 사회화덜됨|||Poor Socialization
 사후|||Afterlife
@@ -18894,6 +18947,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 산티아고|||Santiago
 산해경|||Classic of Mountains Seas
 살구나무|||Apricot Tree
+살기위한|||Survival
 살떨림|||Chilling
 살려줘|||Save Me
 살벌한여주|||Brutal Female Lead
@@ -19004,6 +19058,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 상상력|||Imagination
 상상임신|||Imaginary Pregnancy
 상상전개|||Imagination Plot
+상상친구|||Imaginary Friend
 상속|||Inheritance
 상속녀|||Heiress
 상식|||Common Sense
@@ -19019,6 +19074,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 상아|||Ivory
 상어|||Shark
 상업|||Commercial
+상여자|||Sangyeoja
 상원의원|||Senator
 상인|||Merchant
 상점|||Shop/Store
@@ -19035,6 +19091,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 상처녀|||Trauma Girl
 상처수|||Wound Water
 상처여주|||Traumatized Female Lead
+상처치유|||Healing
 상처치유로맨스|||Wound Healing Romance
 상처회복물|||Wound Healing
 상쾌|||Refreshing
@@ -19163,6 +19220,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 생활|||Daily Life
 생활개그|||Slice-of-Life Comedy
 생활관리|||Life Management
+생활스킬|||Life Skills
 생활지식|||Life Knowledge
 생활직|||Lifestyle Job
 샤니마스|||Shanimas
@@ -19414,6 +19472,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 성간모험|||Interstellar Adventure
 성간여행|||Sex Travel
 성감대|||Sex Spots
+성감참기|||Edging
 성검|||Holy Sword
 성검금주|||Holy Sword Ban
 성검사|||Holy Sword User
@@ -19815,6 +19874,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 셀프NTL|||Self Netori
 셀프NTR|||Self NTR
 셀프조교|||Self Train
+셍존|||Sengjon
 셔블나이트|||Shovel Knight
 셔틀|||Shuttle
 셜로키언|||Sherlockian
@@ -19965,6 +20025,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 소울펑크|||Soul Punk
 소원|||Wish
 소원능력|||Wish Ability
+소원핑|||Wish Ping
 소유|||Possession
 소유욕|||Possessiveness
 소이폰|||Soifon
@@ -20219,6 +20280,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 순수녀|||Pure Girl
 순수문학|||Pure Literature
 순수백합|||Pure Yuri
+순수성장물|||Pure Growth
 순수순애|||Pure Pure Love
 순수악|||Pure Evil
 순수재미|||Pure Fun
@@ -20687,6 +20749,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 시각장애|||Visual Impairment
 시각장애인|||Blind
 시간|||Time
+시간능력|||Time Powers
 시간능력위주|||Time Ability Focus
 시간마법|||Time Magic
 시간얽힘|||Time Tangle
@@ -20781,6 +20844,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 시사풍자|||Topical Satire
 시선|||Gaze
 시설관리|||Facility Management
+시숙|||Father-in-law
 시스|||Siscon
 시스이|||Shisui
 시스콘|||Siscon
@@ -21002,6 +21066,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 신유니버스|||New Universe
 신유승|||Shin Yu-seung
 신은|||God Is
+신을선택한인간|||Human Who Chose a God
 신음|||Moan
 신음소리|||Moan
 신의금기|||God's Taboo
@@ -21009,6 +21074,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 신의대행자|||God's Proxy
 신의무기|||God's Weapon
 신의선물|||God's Gift
+신의손|||Hand of God
 신의아들|||God's Son
 신의아이|||God's Child
 신의존재|||God Exists
@@ -21058,6 +21124,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 신캐|||New Character
 신켄쟈|||Shinkenja
 신켄저|||Shinkenger
+신탁|||Oracle
 신탁대행자|||Oracle Agent
 신토불이|||Shinto Native
 신투|||New Throw
@@ -21160,6 +21227,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 심부름|||Errand
 심부름센터|||Errand Center
 심비오트|||Symbiote
+심사|||Screening
 심상세계|||Mental World
 심시티|||SimCity
 심심풀이|||Boredom Relief
@@ -21242,6 +21310,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 쌍방구원|||Mutual Salvation
 쌍방구원물|||Mutual Salvation
 쌍방구원스토리|||Mutual Salvation Story
+쌍방구원해피엔딩|||Mutual Salvation Happy Ending
 쌍방얀데레|||Mutual Yandere
 쌍방오해|||Mutual Misunderstanding
 쌍방조교|||Mutual Training
@@ -21383,6 +21452,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 아로|||Aro
 아로나|||Arona
 아로나야믿는다|||Believe in Arona
+아롱핑|||Arong Ping
 아루|||Aru
 아류작|||Derivative Work
 아르바이트|||Arbeit
@@ -21731,6 +21801,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 아포칼립스|||Apocalypse
 아포칼립스로드무비|||Apocalypse Road Movie
 아포칼립스스럽지않음|||Not Apocalyptic
+아포칼립스이후|||After the Apocalypse
 아포칼립스진행중|||Apocalypse Ongoing
 아포칼립스첨가|||Apocalypse Elements
 아포칼립스판타지|||Apocalypse Fantasy
@@ -21751,6 +21822,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 악귀|||Evil Ghost
 악기|||Instrument
 악녀|||Villainess
+악녀갱생|||Villainess Redemption
 악녀물|||Villainess
 악녀빙의|||Villainess Possession
 악녀수집|||Villainess Collection
@@ -21816,6 +21888,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 악의조직|||Evil Organization
 악인|||Villain
 악인주인공|||Villain Protagonist
+악인척살|||Villain Slaying
 악질|||Scum/Wicked
 악플|||Hate Comments
 악플러|||Hater
@@ -21875,6 +21948,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 안티헤이트|||Anti-Hate
 안티히어로|||Anti-Hero
 안틸리네|||Antilyne
+안하무인|||Arrogant
 안함|||Not Doing
 않는|||Not
 알|||Egg
@@ -21959,6 +22033,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 암컷만족|||Female Satisfaction
 암컷무빙|||Female Rut
 암컷순응|||Female Submission
+암컷전투원|||Female Combatant
 암컷천재|||Female Genius
 암컷타락|||Female Corruption
 암컷타락일까|||Female Fall?
@@ -22011,6 +22086,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 애교만점여주|||Cute Female Lead
 애널|||Anal
 애널섹스|||Anal Sex
+애널포커싱|||Anal Focusing
 애널확장|||Anal Expansion
 애니|||Anime
 애니감성|||Anime Vibe
@@ -22071,6 +22147,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 액셀러레이터|||Accelerator
 액셀월드|||Accel World
 액션|||Action
+액션로맨스|||Action Romance
 액션물|||Action
 액션판타지|||Action Fantasy
 액션판티지|||Action Fantasy
@@ -22189,6 +22266,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 야한썰|||Lewd Tale
 야한얘기|||Lewd Talk
 야한여자|||Lewd Woman
+야한장난|||Lewd Pranks
 야함|||Lewd
 야함주의|||Lewd Warning
 야호|||Yahoo!
@@ -22305,6 +22383,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 약근친|||Soft Pseudo-Incest
 약나데나데|||Weak Petting
 약남녀역전|||Light M/F Swap
+약뇌절주의|||Mild Brain Rot
 약능욕|||Weak Abuse
 약다중|||Soft Multi
 약다크|||Mild Dark
@@ -22471,6 +22550,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 얀데레포함|||Yandere Included
 얀데레하렘|||Yandere Harem
 얀데레화|||Yandere Transformation
+얀데례|||Yandere
 얀비스모크|||Yanbi Smoke
 얀시뮬|||Yan Sim
 얀테의법칙|||Yandere Rule
@@ -22612,6 +22692,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 어찌보면쩌리|||Seemingly OP
 어찌보면최강|||Seemingly Strongest
 어커커커컼|||Ack Ack Ack
+어케알아|||How Would I Know
 어탐|||Eotam
 어플|||App
 억까|||Forced Hate
@@ -22903,6 +22984,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 엣지오브투모로우|||Edge of Tomorrow
 엣치|||Ecchi
 여간부|||Female Executive
+여검객|||Swordswoman
 여검사|||Female Swordsman
 여겜스|||Yeogemseu
 여경|||Female Cop
@@ -22937,6 +23019,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 여동생|||Little Sister
 여동생근친주의|||Sister Incest
 여동생물|||Lil Sis Story
+여동생의친구|||Younger Sister's Friend
 여동생이자누나|||Sister and Big Sis
 여동생친구|||Sis Friend
 여러가지|||Various
@@ -23026,6 +23109,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 여우수인|||Foxkin
 여우신|||Fox God
 여우의악마|||Fox Demon
+여우핑|||Fox Ping
 여운|||Lingering Feelings
 여운소설|||Aftertaste Novel
 여운있는|||Lingering Aftertaste
@@ -23372,6 +23456,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 연중가능성|||Hiatus Possible
 연중가능성높음|||Hiatus Likely
 연중날수있음|||Possible Hiatus
+연중미책임|||Possible Hiatus
 연중성녀|||Hiatus Saintess
 연중역전|||Hiatus Reversal
 연중튀|||Drop Mid
@@ -23425,6 +23510,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 염라|||Yeomna
 염력|||Telekinesis
 염세적인|||Pessimistic
+염세주의자|||Pessimist
 염신전대|||Salt God Squad
 염왕채|||Flame King Village
 엽기|||Bizarre/Grotesque
@@ -23706,6 +23792,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 오브젝트위스퍼|||Object Whisper
 오브젝트헤드|||Object Head
 오븐브레이크|||OvenBreak
+오븐스매시|||Oven Smash
 오비탈프레임|||Orbital Frame
 오비토|||Orbito
 오빠|||Oppa
@@ -24200,6 +24287,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 우주전|||Space War
 우주전쟁|||Space War
 우주전함|||Battleship
+우주전함야마토|||Space Battleship Yamato
 우주정복|||Space Conquest
 우주제국|||Space Empire
 우주창조|||Universe Creation
@@ -24247,6 +24335,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 운없음|||Unlucky
 운영|||Management
 운영물|||Management
+운영자|||Administrator
 울|||Cry
 울라리|||Ullari
 울버린|||Wolverine
@@ -24427,6 +24516,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 원작중심|||Canon Centered
 원작증발|||Canon Evaporates
 원작지식|||Canon Knowledge
+원작지식없어도됨|||No Prior Knowledge Needed
 원작지식없음|||No Original Knowledge
 원작진입|||Canon Entry
 원작진입조금걸려요|||Slow Canon Entry
@@ -24457,6 +24547,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 원피스향|||One Piece Vibe
 원한|||Grudge
 원함|||Want
+원혼|||Vengeful Spirit
 원효대사|||Wonhyo Master
 원효대사팬클럽|||Wonhyo Fan Club
 월1회연재|||Monthly Update
@@ -24763,6 +24854,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 유희생활|||Pleasure Life
 유희생활류|||Yu-Gi-Oh Style
 유희생활인척|||Pretending to Live a Gaming Life
+유희설정|||Game Setting
 유희속으로|||Into the Game
 유희아님|||Not Yu-Gi-Oh
 유희왕|||Yu-Gi-Oh!
@@ -24856,6 +24948,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 은퇴라이프|||Hermit Life
 은퇴마법소녀|||Silver Exorcist Girl
 은퇴못함|||No Silver Retreat
+은퇴무사|||Retired Warrior
 은퇴선언|||Retirement Declaration
 은퇴희망|||Retirement Hope
 은평구|||Eunpyeong District
@@ -25104,6 +25197,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 이래도읽어줍니까|||Still Read?
 이런영웅은싫어|||Hate Such Heroes
 이레귤러|||Irregular
+이렘|||Irem
 이로하|||Iroha
 이론가|||Theorist
 이론마법학|||Theory Magic
@@ -25485,6 +25579,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 인생의한조각|||Slice of Life
 인생존망|||Life Fail
 인성|||Personality
+인성교정|||Attitude Adjustment
 인성쓰레기|||Personality Trash
 인성터진주인공|||Personality Broken MC
 인성터짐|||Personality Break
@@ -25990,6 +26085,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 작곡|||Composition
 작곡가|||Composer
 작두|||Chopping Block
+작명소|||Naming Shop
 작별이다|||Farewell
 작붕|||Author Collapse
 작붕주의|||Art Collapse Warning
@@ -26438,6 +26534,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 전이자|||Lender
 전이자들|||Old Debtors
 전자|||Electronic
+전자기학|||Electromagnetism
 전자불쏘시개|||Electric Lighter
 전자유령|||Digital Ghost
 전자음악|||Electronic Music
@@ -26568,6 +26665,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 점진적TS|||Gradual TS
 점진적암컷타락|||Gradual Female Corruption
 점진적타락|||Gradual Corruption
+점창|||Point Window
 점창파|||Jeomchang Sect
 점토|||Clay
 접대|||Escort
@@ -26728,6 +26826,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 정체성의혼란|||Identity Confusion
 정체성혼란|||Identity Crisis
 정체숨김|||Hidden Identity
+정체은폐|||Identity Concealment
 정치|||Politics
 정치군상극|||Political Ensemble
 정치권력|||Political Power
@@ -26759,6 +26858,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 정통무협이고싶은|||Wants Pure Wuxia
 정통무협일까|||True Wuxia?
 정통무협판타지|||Orthodox Wuxia Fantasy
+정통무협향|||Classic Wuxia
 정통볼문학|||Orthodox Ball Lit
 정통서사|||Orthodox Narrative
 정통선협|||Traditional Xianxia
@@ -26984,6 +27084,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 조선풍|||Joseon Style
 조선혁명의시대|||Joseon Revolution
 조수|||Tide
+조숙녀|||Precocious Girl
 조슈아|||Joshua
 조신남|||Prim Boy
 조언환영|||Advice Welcome
@@ -27076,6 +27177,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 좀비생포|||Zombie Hunt
 좀비소녀|||Zombie Girl
 좀비아님|||Not Zombie
+좀비아일랜드|||Zombie Island
 좀비아포칼립스|||Zombie Apocalypse
 좀비없음|||No Zombies
 좀비유니버스|||Zombie Universe
@@ -27153,6 +27255,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 죠죠챤|||JoJo-chan
 죠죠첨가|||JoJo Added
 죠죠향첨가|||JoJo Flavor
+죠타로|||Jotaro
 주|||Lord
 주고받는대화|||Dialogue Exchange
 주군|||Lord
@@ -27261,6 +27364,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 주인공은헌터아님|||Protagonist Not Hunter
 주인공이교관임|||MC Instructor
 주인공이나쁨|||Bad Protagonist
+주인공이네토라레함|||MC NTR
 주인공이많다|||Many Protagonists
 주인공이멍청하다|||Stupid Protagonist
 주인공이몬스터|||Protagonist Monster
@@ -27282,6 +27386,8 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 주인공일행아님|||Not Protagonist Party
 주인공임신함|||MC Pregnancy
 주인공쟁탈전|||MC争夺 War
+주인공제외TS|||Everyone TS Except MC
+주인공제외암타|||Female Cast Except MC
 주인공중먼치킨있음|||Munchkin Protagonist
 주인공짱셈|||MC Best
 주인공짱쎄|||OP Protagonist
@@ -27359,6 +27465,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 중국혐오X|||No China Hate
 중근대|||Mid-Modern
 중근세|||Mid Early Modern
+중꺽마|||Joongkkeukma
 중꺾마|||Mid Break Koma
 중년|||Middle-Aged
 중년남성|||Middle-Aged Man
@@ -27439,6 +27546,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 줘팸순애|||Give Pam Pure Love
 쥐|||Rat
 쥐는자|||Rat Holder
+쥐수인|||Ratfolk
 쥔공안전함|||MC Safety
 쥔공허접|||Jun Void Connect
 쥬다이|||Judai
@@ -27563,6 +27671,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 지우개|||Eraser
 지우학|||Jiu Hak
 지원|||Support
+지원가|||Supporter
 지원금|||Subsidy
 지인|||Acquaintance
 지인짜할일없을때씀|||Bored Friend Writing
@@ -27613,6 +27722,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 직장여상사|||Office Lady Boss
 직장여성|||Office Woman
 직장인|||Office Worker
+직장인모임|||Office Workers' Gathering
 직장인물|||Office Worker
 직장인소설|||Office Novel
 직진남|||Straight Male
@@ -27675,6 +27785,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 진행느림|||Slow Progress
 진행속도고구마|||Slow Pace Sweet Potato
 진혁TS|||Jinhyuk TS
+진혼|||Requiem
 진화|||Evolution
 진화물|||Evolution
 진화심리학|||Evolutionary Psychology
@@ -27779,6 +27890,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 짧은글|||Short Post
 짧은소설|||Short Story
 짧은연재|||Short Serialization
+짧은일상|||Short Slice-of-Life
 짧은장편|||Short Epic
 짧은회차|||Short Chapters
 짧음|||Short
@@ -28035,6 +28147,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 천계|||Heavenly Realm
 천계침공|||Heaven Invasion
 천공룡|||Sky Dragon
+천공섬|||Sky Island
 천공학원|||Sky Academy
 천국|||Heaven
 천국과지옥|||Heaven Hell
@@ -28202,6 +28315,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 청춘로맨스|||Youth Romance
 청춘물|||Youth
 청혼|||Proposal
+체격차이|||Size Difference
 체력1|||Low Stamina
 체리|||Cherry
 체리노|||Cherino
@@ -28280,6 +28394,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 초반TS|||Early TS
 초반가변형|||Early Variable
 초반강피폐|||Early Strong Yandere
+초반개그|||Early Gags
 초반고구마|||Early Bitter
 초반고생후반성공|||Early Hard Late Success
 초반고수위|||Early High Heat
@@ -28413,6 +28528,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 촉수물|||Tentacle
 촉수슈트|||Tentacle Suit
 촉수외신주인공|||Tentacle Outer God MC
+촌구석|||Backwater
 총|||Gun
 총격전|||Gunfight
 총공|||Total Attack
@@ -28461,6 +28577,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 최면세뇌|||Hypno Brainwash
 최면세뇌한스푼|||Hypno Brainwash Spoon
 최면순애|||Hypno Pure Love
+최면순한맛|||Mild Hypnosis
 최면술|||Hypnosis
 최면술사|||Hypnotist
 최면시스템|||Hypnosis System
@@ -28494,6 +28611,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 최초의모험가|||First Adventurer
 최후|||Final
 최후생존자|||Last Survivor
+최후의만찬|||The Last Supper
 최후의전장|||Final Battlefield
 쵸소우|||Choso
 추가설정다수존재|||Many Added Settings
@@ -28737,6 +28855,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 카넬리안|||Carnelian
 카니발|||Carnival
 카니발리즘|||Cannibalism
+카니발헌트|||Carnival Hunt
 카니지|||Carnage
 카독|||Ka Dog
 카드|||Card
@@ -29030,6 +29149,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 코딩|||Coding
 코로나|||Corona
 코르마드|||Kormad
+코르셋|||Corset
 코른|||Korn
 코리아|||Korea
 코리안마피아|||Korean Mafia
@@ -29088,6 +29208,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 코이시|||Koishi
 코인|||Coin/Crypto
 코인무한|||Infinite Coin
+코자핑|||Koja Ping
 코즈믹|||Cosmic Horror
 코즈믹호러|||Cosmic Horror
 코즈믹호러풍|||Cosmic Horror
@@ -29123,6 +29244,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 콩트|||Sketch
 콴시|||Quincy
 쾌감|||Pleasure
+쾌검|||Swift Sword
 쾌녀|||Lewd Woman
 쾌도전대루팡레인저|||Lupinranger vs Patoranger
 쾌락|||Pleasure
@@ -29305,6 +29427,8 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 키잡|||Catching/Collecting
 키잡물|||Key Holder
 키잡아님|||Not Keyholder
+키차이|||Height Difference
+키큰여자|||Tall Woman
 키큼|||Big Key
 키타등등|||Kita Etc
 키타산블랙|||Kitayama Black
@@ -29347,6 +29471,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 타락서사|||Corruption Narrative
 타락아마도|||Corruption Maybe
 타락용사|||Fallen Hero
+타락조교|||Corruption Training
 타락천사|||Fallen Angel
 타락한영웅|||Fallen Hero
 타로|||Tarot
@@ -29600,6 +29725,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 토끼수인|||Rabbit Beastman
 토끼팀|||Rabbit Team
 토너먼트|||Tournament
+토노마치TS|||Tonomachi TS
 토니스타크|||Tony Stark
 토도로키|||Todoroki
 토도로키TS|||Todoroki TS
@@ -29653,6 +29779,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 톱니바퀴탑|||Gear Tower
 톱스타|||Top Star
 통금남|||Curfew Male
+통속의뇌|||Brain in a Vat
 통수|||Backstab
 통역|||Interpretation
 통일영웅|||Unification Hero
@@ -29850,6 +29977,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 티파티|||Tea Party
 틴|||Teen
 팀|||Team
+팀물|||Team-Based
 팀빌딩|||Team Building
 팀포|||Team Four
 팀포2|||TF2
@@ -29935,6 +30063,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 파티원이미친놈들|||Crazy Party Members
 파티추방|||Party Expulsion
 파티플레이|||Party Play
+파티핑|||Party Ping
 파파카츠|||Paparazzi
 파판|||Final Fantasy
 파판14|||FFXIV
@@ -30342,6 +30471,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 포탈이동|||Portal Travel
 포털|||Portal
 포함|||Includes
+포획|||Capture
 폭격기|||Bomber
 폭군|||Tyrant
 폭군남|||Tyrant Male
@@ -30503,6 +30633,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 프레이야|||Freya
 프레이야로리|||Freya Loli
 프레이야패밀리|||Freya Familia
+프렌다|||Frenda
 프렌즈|||Friends
 프렌즈스토리|||Friends Story
 프렌즈월드|||Friends World
@@ -30804,6 +30935,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 하드SF|||Hard SF
 하드SF지향|||Hard SF Aim
 하드모드|||Hard Mode
+하드백합|||Hardcore Yuri
 하드보일드|||Hard-boiled
 하드보일드액션|||Hardboiled Action
 하드보일러|||Hard-boiled
@@ -30814,6 +30946,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 하드코어서사|||Hardcore Narrative
 하드코어순애|||Hardcore Pure Love
 하드코어얀데레|||Hardcore Yandere
+하드코어할지도|||Possibly Hardcore
 하드코어헨리|||Hardcore Henry
 하드판타지|||Hard Fantasy
 하드펨돔|||Hard Femdom
@@ -31362,6 +31495,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 헤릭|||Herrick
 헤번레|||Hebanre
 헤븐번즈레드|||Heaven Burns Red
+헤븐즈필|||Heaven's Feel
 헤비노벨|||Heavy Novel
 헤비메탈|||Heavy Metal
 헤으응|||Heeung
@@ -31479,8 +31613,10 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 현대풍|||Modern Style
 현대풍자|||Modern Satire
 현대퓨전|||Modern Fusion
+현대퓨전판타지|||Modern Fusion Fantasy
 현대해군|||Modern Navy
 현대화기|||Modern Firearms
+현대환타지|||Modern Fantasy
 현댜판타지|||Modern Fantasy (Typo)
 현로판|||Modern Romantasy
 현모양처|||Wise Wife
@@ -31591,6 +31727,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 협회직원|||Association Staff
 형|||Brother
 형벌|||Punishment
+형부|||Brother-in-law
 형사|||Detective
 형사물|||Cop Story
 형수|||Sister-in-Law
@@ -31911,6 +32048,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 회옥|||Jade Palace
 회옥옥절|||Hwoi Ok Absolute
 회장|||Chairman
+회차물|||Episodic
 회차업데이트느림|||Slow Updates
 회차플레이|||Round Play
 회천무창|||Hwae Cheon Mu Chang
@@ -32065,6 +32203,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 휘케바인|||Whikebine
 휠체어|||Wheelchair
 휴게소|||Rest Area
+휴머네이션|||Humane Nation
 휴머노이드|||Humanoid
 휴머니스트|||Humanist
 휴먼|||Human
@@ -32224,6 +32363,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 히로인있음|||Has Heroine
 히로인쟁탈전|||Heroine Battle
 히로인전부세탁|||All Heroines Washed
+히로인전부처녀|||All Heroines Virgins
 히로인전원처녀|||All Virgins
 히로인조교타락|||Heroine Train Fall
 히로인주인공|||Heroine Lead
