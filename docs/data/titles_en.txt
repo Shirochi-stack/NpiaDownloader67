@@ -211,7 +211,7 @@
 431357|||[유희생활X 록맨X] 로봇은 유희를 즐기는 가.|||[Game Life × Mega Man X] Do Robots Enjoy Playing Games?
 445986|||[남녀역전] 유희생활|||[Genderbent] A Life of Play
 444146|||폭군의 딸을 납치했다고 착각했다|||I Mistakenly Thought I Kidnapped the Tyrant's Daughter
-442126|||로판 속 최종보스는 더이상 참지 않는다|||I Killed the Romance Fantasy Heroine Who Betrayed Me
+442126|||메인 히로인을 죽이고보니 장르가 로판이었다|||I Killed the Romance Fantasy Heroine Who Betrayed Me
 443478|||복수를 바라는 모험가와 융합해가는 메탈슬라임|||A Metal Slime Fusing with an Adventurer Seeking Revenge
 441160|||용사 아니고 도플갱어니까 집착 좀 그만해라|||I'm Not the Hero, I'm a Doppelganger
 375095|||외신이 쓴 마도서를 주웠다.|||I Picked Up a Grimoire Written by an Outer God.
@@ -75212,6 +75212,7 @@
 24172|||그냥 백합 이야기|||Just a Yuri Story
 226120|||다른 학교의 여학생을 도왔더니 친구부터 시작하게 되었습니다|||I Helped a Female Student from Another School and We Started as Friends
 224455|||전속 집사를 그만두니 모셨던 아가씨가 유난히 가까운데|||I Quit Being a Personal Butler and the Young Lady I Served is Unusually Close
+227044|||세드릭 디고리에게 씀 |해리포터|||||
 169165|||초능력 고등학교|||Superpower High School
 212173|||여사친 진|||Female Friend Jin
 155802|||(전) 무림맹주 (현) 미소녀|||(Former) Murim Alliance Leader (Current) Beautiful Girl
@@ -89105,4 +89106,3 @@
 445315|||付いてきた女神がうるさすぎる|||The Goddess Who Followed Me Is Too Noisy
 445813|||에로 쇼크:중3데뷔작인데 가독성 ㅈ창나있음 좀 다를거다|||Ero Shock: A Middle School Debut with Terrible Readability, But It'll Be Different
 445826|||무식검(無識劍)|||The Ignorant Sword
-227044|||세드릭 디고리에게 씀 |해리포터||||
