@@ -506,6 +506,7 @@ CYOA|||CYOA
 CYOA원작|||CYOA Canon
 CYTUS2|||Cytus 2
 CㅡMOON|||C-Moon
+C药流鼻祖|||C Drug Originator
 C급조아|||C Rank Good
 C반|||Class C
 D|||D
@@ -1600,6 +1601,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 不错哦|||Not Bad
 不错啊进入游戏世界|||Not Bad, Entering Game World
 不错啦|||Not Bad
+不错希望速更|||Wants Faster Updates
 不错很赞|||Not Bad, Very Good
 不错有前途呵呵|||Not Bad, Has Potential Hehe
 不错的作品|||Good Work
@@ -3631,6 +3633,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 喜欢自己写的|||Likes What He Writes
 喜欢足以|||Liking Is Enough
 喜欢蹲墙角|||Likes Squatting in Corner
+喜欢这样的文风|||Likes This Writing Style
 喜欢这种男主|||Like This Kind Of Male Lead
 喜欢非木三无最爱|||Likes Non-Wood Three-Nothing Favorite
 喜歡|||Like
@@ -3957,6 +3960,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 天天玩梗|||Daily Memes
 天才|||Genius
 天才就是这样|||Genius Behavior
+天才的逆袭|||Genius Counterattack
 天朝GATE|||Chinese GATE
 天朝元素|||Celestial Empire Elements
 天朝的现实与超现实|||Empire's Reality and Surreality
@@ -4548,6 +4552,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 宏大叙事|||Grand Narrative
 宏大的世界观|||Grand Worldview
 宏大设定|||Grand Setting
+宏达的世界观|||Grand Worldview
 宗教旋涡|||Religious Vortex
 宝妹石子收集|||Treasure Girl Stone Collection
 宝藏|||Treasure
@@ -4914,6 +4919,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 幽默有趣|||Humorous and Interesting
 序章倒置|||Prologue Inverted
 序章大结局|||Prologue Is The Grand Finale
+序章女主男身|||Prologue: Female Lead in Male Body
 序言较长|||Long Prologue
 应该不算坑|||Probably Not a Pit
 应该是无敌流|||Should Be Invincible Genre
@@ -5082,6 +5088,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 影子生物圈|||Shadow Biosphere
 影帝|||Best Actor
 影舞者|||Shadow Dancer
+彼地加油|||Cheer for That Place
 征战天下|||Conquering the World
 征文中篇|||Mid-Length Submission
 征文铜奖|||Essay Contest Bronze Award
@@ -5586,6 +5593,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 房东|||Landlord
 所以给1分|||So Gave 1 Point
 所以说灵魂到底什么鬼|||So What the Heck Is a Soul
+扁鹊三连|||Bian Que Triple Combo
 手撕整合运动|||Rip Reunion
 手撕高达|||Hand-Tearing Gundam
 手游|||Mobile Game
@@ -5756,6 +5764,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 插画不要钱|||Illustrations Are Free
 插画好看满分|||Illustrations are Perfectly Beautiful
 插画好评|||Great Art
+插画很好看|||Nice Illustrations
 揪心|||Heart-Wrenching
 揭秘|||Reveal
 援交风|||Compensated Dating Style
@@ -5942,6 +5951,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 新式百合|||New Style Yuri
 新意|||Freshness
 新感覺|||New Feeling
+新手|||Newbie
 新手作|||Beginner Work
 新流派出现了|||New Genre Appeared
 新现代主义|||New Modernism
@@ -6147,6 +6157,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 智障作者|||Retarded Author
 智障作者的床|||Idiot Author's Bed
 智障男主|||Retarded Male Lead
+暂时伪娘|||Temporary Crossdresser
 暂时木有|||None For Now
 暂时转换角色|||Temporary Role Swap
 暂请勿入本坑作者拜托|||Please Don't Enter This Pit, Author Begs
@@ -6368,6 +6379,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 末纪|||Apocalypse
 本书不嫁人|||This Book Doesn't Marry
 本书高甜|||This Book Is High Sugar
+本人终于记得来捧场啦|||Finally Came to Support
 本作者是基佬|||This Author Is Gay
 本命企业|||Life's Enterprise
 本子画家|||Doujin Artist
@@ -6574,6 +6586,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 正派冒险|||Righteous Adventure
 正版插画|||Official Illustrations
 正直男主|||Upright Male Lead
+正篇坚定百合|||Main Story Yuri
 正经|||Serious
 正经不玩梗|||Serious, No Jokes
 正经作者|||Serious Author
@@ -6677,6 +6690,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 求包养|||Seeking Patronage
 求单身|||Seeking Single Life
 求后宫|||Begging for Harem
+求吐槽|||Seeking Roasts
 求嫁|||Begging to Marry
 求完整版不要初稿|||No Drafts, Full Version Please
 求收藏|||Please Bookmark
@@ -6913,6 +6927,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 潜意识什么鬼|||What the Heck Subconscious
 潜藏的修罗场|||Hidden Harem Rivalry
 激情作品|||Passionate Work
+激战|||Intense Battle
 激萌萝莉|||Super Cute Loli
 火不了的题材|||Unpopular Theme
 火与剑|||Fire and Sword
@@ -7261,6 +7276,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 男主|||Male MC
 男主666|||MC 666
 男主NB|||Awesome MC
+男主v587|||Male Lead V587
 男主不废柴|||Male Lead Is Not Trash
 男主不是人|||Male Lead Is Not Human
 男主不给力开挂吧|||Male Lead Is Weak, Open Cheat
@@ -7439,9 +7455,11 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 異界|||Otherworld
 異能|||Supernatural Powers
 疑似gay|||Suspected Gay
+疑似后宫|||Pseudo Harem
 疑似无敌|||Suspected Invincible
 疑似无限流|||Possibly Infinite Flow
 疑似是纯爱|||Suspected Pure Love
+疯子真多|||So Many Lunatics
 疯狂|||Crazy
 疯狂填坑|||Frenzied Pit Filling
 疯狂拖跟|||Crazy At Dragging Updates
@@ -7700,6 +7718,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 码字姬|||Typing Princess
 砍人狂魔|||Madman Who Slashes People
 破产行善记|||Bankrupt Philanthropy Chronicles
+破次元壁|||Breaking Dimensional Wall
 破鞋貌似|||Loose Girl
 硬核|||Hardcore
 硬核作品|||Hardcore Work
@@ -8046,6 +8065,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 糟糕性格同学|||Awful Classmate
 系統虐主|||System Abuses Protagonist
 系统|||System
+系统x男主|||System x Male Lead
 系统修仙|||System Cultivation
 系统小姐姐|||System Miss
 系统无敌|||System Is Invincible
@@ -8069,6 +8089,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 红A线|||Archer Route
 红娘|||Matchmaker
 红色头发|||Red Hair
+红色警戒|||Red Alert
 红警|||Red Alert
 约会|||Dating
 约会大作战|||Date A Live
@@ -8518,6 +8539,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 萌萌達|||Super Cute
 萌萝夫君|||Cute Loli Husband
 萌萝莉|||Cute Loli
+萌蘿莉|||Cute Loli
 萌虎|||Cute Tiger
 萌虎钉宫控傲|||Cute Tiger Tsundere Control
 萌龙|||Cute Dragon
@@ -8579,6 +8601,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 萝莉毁天灭地|||Loli Destroys The World
 萝莉画师|||Loli Artist
 萝莉癌晚期|||Terminal Loli Syndrome
+萝莉的保姆|||Loli's Babysitter
 萝莉童养媳|||Loli Child Bride
 萝莉老婆|||Loli Wife
 萝莉老婆养成|||Loli Wife Training
@@ -8736,6 +8759,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 要后宫不要悲剧|||Want Harem Not Tragedy
 要喂玻璃渣了|||About to Feed Glass Shards
 要嫁人|||Wants to Marry
+要有耐心|||Requires Patience
 要来杯凉水吗|||Want A Glass Of Cold Water?
 要死要活|||Life and Death
 要留在心里|||Keep It in Your Heart
@@ -9294,6 +9318,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 都比女主|||All Better Than The Heroine
 配图丰富|||Rich Accompanying Images
 配角|||Side Character
+配角才是主角|||Supporting Character MC
 配角是gay|||Supporting Character Is Gay
 配角比主角强|||Supporting Cast Stronger Than MC
 酱油女主|||Side Character Female Lead
@@ -9312,6 +9337,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 重制加油|||Remake, Good Luck
 重口味|||Heavy Taste
 重启文|||Restart Story
+重幻想|||Heavy Fantasy
 重度傲娇患者|||Severe Tsundere Patient
 重度兄控|||Severe Brother Complex
 重新做人|||Reborn as a New Person
