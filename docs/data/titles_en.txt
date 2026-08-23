@@ -202,7 +202,7 @@
 445059|||세계관 최강자가 바보로 살아가는 이유|||The Idiot Child Who Rules the World
 444249|||나만 지구의 신들을 알고있다|||Only I Know the Gods of Earth
 443733|||무조건 죽는 히로인이 되어버렸다|||Became the Heroine Who Always Dies
-443717|||모든 차원을 후리고 다니는 대장장이가 되었다|||I Became the Blacksmith Who Charms Every Dimension
+443717|||모든 세계가 집착하는 대장장이가 되었다|||I Became the Blacksmith Who Charms Every Dimension
 442984|||[유희생활 기원]|||[Origin of a Playful Life]
 442889|||천마는 첫사랑만 원한다|||The Heavenly Demon Only Wants His First Love
 442869|||아포칼립스에서 무력 치트를 얻다|||The Apocalypse Newbie Is Way Too Competent
@@ -75372,7 +75372,6 @@
 24172|||그냥 백합 이야기|||Just a Yuri Story
 226120|||다른 학교의 여학생을 도왔더니 친구부터 시작하게 되었습니다|||I Helped a Female Student from Another School and We Started as Friends
 224455|||전속 집사를 그만두니 모셨던 아가씨가 유난히 가까운데|||I Quit Being a Personal Butler and the Young Lady I Served is Unusually Close
-227044|||세드릭 디고리에게 씀 |해리포터|||||
 169165|||초능력 고등학교|||Superpower High School
 212173|||여사친 진|||Female Friend Jin
 155802|||(전) 무림맹주 (현) 미소녀|||(Former) Murim Alliance Leader (Current) Beautiful Girl
@@ -89955,6 +89954,7 @@
 447511|||별을 노래하는 아카데미의 초신성|||The Supernova of the Star-Singing Academy
 443905|||자취방에 험한게 들어왔다.|||Something Nasty Moved into My Apartment
 446869|||고블린 주술사|||Goblin Shaman
+227044|||세드릭 디고리에게 씀 |해리포터|||
 446883|||전쟁 영웅들의 흑막 상담가로 착각 당했다|||
 447526|||운세 보고 가세요|||
 447220|||랭커님들. 집착해주세요.|||
