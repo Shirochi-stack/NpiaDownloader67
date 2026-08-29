@@ -298,6 +298,7 @@
 6성가챠|||6-Star Gacha
 6세대|||6th Generation
 70년대|||1970s
+72악마|||72 Demons
 7ㅅ8|||7s8
 7개의세계|||Seven Worlds
 7대죄악|||Seven Deadly Sins
@@ -1320,6 +1321,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 ㅁㄹㅇㅁㄴ|||MLGMN
 ㅁㅁㅁ|||MMM
 ㅁㅁ세계|||MM World
+ㅁㅁ회귀|||XX Regression
 ㅅㄱ|||Shit Game
 ㅆㅂ|||Shit
 ㅇ|||Yes
@@ -10634,6 +10636,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 검성|||Sword Saint
 검수|||Sword Test
 검술|||Swordsmanship
+검술사여주|||Swordswoman FL
 검술의달인|||Swordsmanship Master
 검술천재|||Sword Genius
 검술천재여주|||Sword Genius Heroine
@@ -11589,6 +11592,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 구천|||Guchon
 구타|||Beating
 구토|||Vomit
+구파일방|||Nine Schools One Gang
 구한말|||Late Joseon
 구해주세요|||Save Me
 구호기사단|||Relief Knights
@@ -11753,6 +11757,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 귀가부|||Going Home Club
 귀곡의문|||Ghost Valley Gate
 귀공자|||Noble Young Master
+귀관생|||Ghost Student
 귀귀살전|||Ghost Ghost Kill War
 귀농|||Farm Return
 귀도|||Ghost Path
@@ -11803,6 +11808,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 귀환마법|||Return Magic
 귀환물|||Returner
 귀환자|||Returnee
+귀환자아빠|||Returner Dad
 귀환포기|||Return Abandoned
 귀환후의이야기|||Post-Return Story
 귀환후의이야기IF|||Post-Return IF
@@ -12479,6 +12485,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 나만강해|||Only I Strong
 나만빼고먼치킨|||Munchkin Except Me
 나만빼고피폐|||All But Me Ruined
+나만상태창없음|||No Status Window for Me
 나만아니면돼|||Anyone But Me
 나만의|||My Own
 나머지태그는추후공개|||Tags Later
@@ -12995,6 +13002,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 노래방|||Karaoke
 노력|||Effort/Hard Work
 노력가|||Hard Worker
+노력물|||Hard Work
 노력천재|||Effort Genius
 노력충|||Effort Addict
 노력캐|||Hard Worker
@@ -14462,6 +14470,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 드래곤|||Dragon
 드래곤길들이기|||Dragon Train
 드래곤깽판|||Dragon Rampage
+드래곤딸|||Dragon Daughter
 드래곤라이더|||Dragon Rider
 드래곤마스터|||Dragon Master
 드래곤볼|||Dragon Ball
@@ -16212,6 +16221,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 명조|||Wuthering Waves
 명탐정|||Great Detective
 명탐정코난|||Detective Conan
+명품|||Masterpiece
 명품수간|||Luxury Bestiality
 명품족|||Luxury Clan
 명픽던|||Famous Pick Then
@@ -18822,6 +18832,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 사이버매춘|||Cyber Prostitution
 사이버사이코시스|||Cyber Psychosis
 사이버스|||Cybers
+사이버웨어|||Cyberware
 사이버펑크|||Cyberpunk
 사이버펑크2077|||Cyberpunk 2077
 사이버펑크무협|||Cyberpunk Wuxia
@@ -19701,6 +19712,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 세계관만|||World Only
 세계관망치기|||Worldbuilding Fail
 세계관물|||World Building
+세계관미스터리|||World Mystery
 세계관붕괴|||Worldview Collapse
 세계관이동|||World Shift
 세계관작성|||Worldbuilding
@@ -20379,6 +20391,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 순찰|||Patrol
 순한맛|||Mild
 순한맛버전|||Mild Version
+순한맛사이버펑크|||Mild Cyberpunk
 순한맛선협|||Mild Xianxia
 순혈|||Pureblood
 순호|||Soonho
@@ -20759,6 +20772,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 습관|||Habit
 습작|||Practice Work
 습작주의|||Practice Warning
+승격|||Promotion
 승급|||Promotion
 승리의|||Victory
 승리의여산|||Victory's Yeosan
@@ -22099,6 +22113,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 압도적먼치킨남주|||Overpowered ML
 압도적부정적|||Overwhelmingly Negative
 압도적전개|||Overwhelming Plot
+앙대핑|||Angdaeping
 앙마|||Angma
 앙스타|||Angst
 앙크|||Ankh
@@ -23692,6 +23707,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 오늘의공포|||Today's Horror
 오니|||Oni
 오다노부나가|||Oda Nobunaga
+오대세가|||Five Great Families
 오덕희X|||No Otaku Joy
 오도기합|||Wrong Discipline
 오도기합짜세해병|||Wrong Marine Discipline
@@ -23884,6 +23900,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 오페라의유령|||Phantom Opera
 오페라하우스|||Opera House
 오펜스|||Offense
+오푸스5|||Opus 5
 오프로드|||Off-Road
 오프파코|||Offline Fuck
 오픈우타오|||Open Utao
@@ -23925,6 +23942,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 온천개발부|||Hot Spring Club
 올가마리|||Olga Marie
 올드월드|||Old World
+올드테일즈|||Old Tales
 올려용|||Uploading
 올리면|||If Posted
 올리버|||Oliver
@@ -24236,6 +24254,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 용종|||Dragon Species
 용철의마르푸샤|||Yongcheol's Marpusha
 용파|||Dragon Wave
+용팔이|||Yongpali
 용품|||Supplies
 용하야믿는다|||Believe Dragon
 용호의권|||Fist of the North Star
@@ -26446,6 +26465,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 전개느림|||Slow Development
 전개속도중간|||Medium Pace
 전검|||All Swords
+전격|||Electric Shock
 전경|||Jeon Kyung
 전공능력|||Major Ability
 전관예우|||Ex-Judge Favoritism
@@ -27547,6 +27567,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 중세풍|||Medieval Style
 중소기업|||SME
 중수위|||Medium Spice
+중식|||Chinese Food
 중앙정보부|||KCIA
 중운|||Heavy Luck
 중원|||Central Plains
@@ -28732,6 +28753,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 충돌|||Collision
 충만한개연성|||Full Plausibility
 충무공|||Chungmugong
+충성|||Loyalty
 충신|||Loyal Retainer
 충인|||Loyal Retainer
 충치|||Cavity
@@ -29476,6 +29498,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 킹기장|||King Flag
 킹덤|||Kingdom
 킹덤컴|||Kingdom Come
+킹덤하츠|||Kingdom Hearts
 킹메이커|||Kingmaker
 킹받는|||Annoying
 킹오브파이터즈|||King of Fighters
@@ -30116,6 +30139,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 판아지|||Fantasy Ajumma
 판처|||Panzer
 판체스터|||Pan Chester
+판초법사|||Poncho Mage
 판초우의마법사|||Poncho Wizard
 판초우의의마법사|||Poncho Wizard
 판타|||Fantasy
@@ -31242,6 +31266,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 한약|||Herbal Medicine
 한유진|||Han Yu-jin
 한의사|||Herbal Doctor
+한일|||Korea-Japan
 한일로맨스|||Korea-Japan Romance
 한일백합|||Korea-Japan Yuri
 한자|||Kanji
@@ -31795,6 +31820,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 호러순애|||Horror Pure Love
 호러액션|||Horror Action
 호러일까|||"Horror?"
+호러코미디|||Horror Comedy
 호로|||Horo
 호로로|||Hororo
 호르몬|||Hormones
@@ -31848,6 +31874,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 혼성그룹|||Mixed Group
 혼성대결|||Mixed Battle
 혼성부대|||Mixed Unit
+혼성하렘|||Mixed Harem
 혼세|||Chaotic Era
 혼음난교|||Group Sex
 혼자|||Solo
