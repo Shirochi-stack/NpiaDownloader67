@@ -1,71 +1,29 @@
-0|||作者专注伪娘一百年|||Femboy Author
-1|||直接娘化|||Instant Genderbend
-2|||菠萝是萌妹子|||Pineapple Is a Cute Girl
-3|||真它娘的能鸽|||Pigeon Author
-4|||文笔还不错|||Decent Writing
-5|||柠檬精没母亲|||Jealous Haters
-6|||好看不夠火|||Underrated
-7|||放閃|||Fluff
-8|||超強男主|||Overpowered MC
-9|||刻苦耐勞|||Hardworking MC
-10|||文风很棒|||Great Writing
-11|||转生魔王|||Reincarnated Demon King
-12|||作者萌妹|||Cute Girl Author
-13|||把吻给我|||Give Me a Kiss
-14|||魔王女儿|||Demon King's Daughter
-15|||满满骚操作|||Smooth Moves
-16|||看了不亏系列|||Worth Reading
-17|||别没收我的烟|||Don't Take My Cigarettes
-18|||啤酒最能解渴|||Beer Quenches Thirst
-19|||乾杯|||Cheers
-20|||啟明星|||Morning Star
-21|||兽铠|||Beast Armor
-22|||兽铠面瘫|||Stoic Beast Armor
-23|||血族真祖|||Vampire Progenitor
-24|||万年处男|||Eternal Virgin
-25|||更新狂魔|||Update Fiend
-26|||中二病发，药不能停……|||Chuuni Can't Stop Meds
-27|||许元永朽不垂|||Xu Yuan Immortal
-28|||史前巨坑|||Ancient Unfinished Pit
-29|||脑洞略大|||Wild Imagination
-30|||超帅的和尚|||Handsome Monk
-31|||穿越古代|||Ancient Time Travel
-32|||宅女|||Otaku Girl
-33|||病娇萌|||Yandere
-34|||作者跑去写玄幻了|||Author Writes Fantasy
-35|||新时代的武侠么|||New Age Wuxia
-36|||作者是腹黑萝莉|||Scheming Loli Author
-37|||简直不忍直视|||Hard to Watch
-38|||音乐不错|||Good Music
-39|||很好看呦|||Very Good
-40|||治愈QAQ|||Healing QAQ
-41|||古风啥的最喜欢了|||Historical Style
-42|||妖怪呀嘤嘤婴|||Youkai
-43|||五斗米教|||Five Pecks of Rice Sect
-44|||令人感伤|||Melancholy
-45|||主角是秀王|||Show-Off MC
-46|||人妻|||Married Woman
-47|||日常搞笑|||Slice-of-Life Comedy
-48|||短文|||Short Story
-49|||为了爱与和平|||For Love and Peace
-50|||印法流牛逼啊|||Awesome Mudra Style
-51|||王级不良|||King-Class Delinquent
-52|||环保|||Environmental
-53|||略带黑暗|||Slightly Dark
-54|||通知比正文多|||More Notices Than Chapters
-55|||丐帮杂役|||Beggar Sect Servant
-56|||主角厚颜无耻|||Shameless MC
-57|||作者帅比|||Author Is Handsome
-58|||书评好看系列|||Great Reviews
-59|||看主角被调戏|||MC Gets Teased
-60|||压寨夫人有毒|||Toxic Bandit Wife
-61|||不如写日常|||Just Write Slice of Life
-62|||封面真美|||Beautiful Cover
-63|||有节操的书|||Principled Story
-64|||欢快|||Cheerful
-65|||生化战场|||Biohazard Battlefield
-66|||武装校园|||Armed Campus
-67|||妹纸|||Girls
-68|||作者有点闲|||Idle Author
-69|||先死一百次|||Die a Hundred Times
-70|||加个buff|||Add a Buff
+0|||蝴蝶|||Butterfly
+1|||魔兽|||Magical Beasts
+2|||异世界开挂|||Isekai Cheat
+3|||原主做的孽|||Original Owner's Sins
+4|||作者还是萝莉|||Author Is a Loli
+5|||男主x有能|||Competent Male Lead
+6|||人鬼恋|||Human-Ghost Romance
+7|||阴间当差|||Underworld Job
+8|||范德萨发生|||Van der Sar Happens
+9|||世界观|||Worldbuilding
+10|||世界树|||World Tree
+11|||硬奇幻|||Hard Fantasy
+12|||反派男主万岁|||Villain Male Lead
+13|||报仇|||Revenge
+14|||猫耳萝莉|||Catgirl Loli
+15|||废材大叔|||Useless Uncle
+16|||虐中治愈|||Healing Amidst Angst
+17|||被霸占|||Forced Occupation
+18|||作者有病|||Author Is Sick
+19|||文笔精炼|||Refined Writing
+20|||千与千寻|||Spirited Away
+21|||正直的伪娘|||Honest Femboy
+22|||性转什么鬼啦|||Gender Bender WTF
+23|||其实是日常|||Actually Slice of Life
+24|||乱伦|||Incest
+25|||龙娘养成|||Dragon Girl Raising
+26|||突然搞笑|||Sudden Comedy
+27|||超有意思|||Super Interesting
+28|||多个病娇|||Multiple Yanderes
