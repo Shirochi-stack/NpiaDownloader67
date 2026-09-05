@@ -1388,7 +1388,7 @@
 447747|||짐꾼 그만뒀더니 아카데미가 너무 쉽다|||I Quit Being a Porter and the Academy Is Too Easy
 449216|||여동생이 마력 충전을 부탁해왔다.|||My Little Sister Asked Me to Recharge Her Mana
 427238|||천마 갤러리 천마들이 집착함|||"Heavenly Demon Gallery: Heavenly Demons Are Obsessed"
-446638|||헌터들이 집착하는 호텔 지배인이 되었다|||I Opened a Hotel in the Tower and Hunters Got Obsessed
+446638|||탑에 호텔을 열었더니 헌터들이 집착한다|||I Opened a Hotel in the Tower and Hunters Got Obsessed
 428869|||[던만추] 용이 싫다|||[Dungeon & Fighter] I Hate Dragons
 449001|||F급 구미호로 각성했다!|||I Awakened as an F-Rank Nine-Tailed Fox!
 447957|||가챠 중독 악녀의 슬기로운 갤러리 생활|||The Gacha-Addicted Villainess's Wise Gallery Life
@@ -91118,7 +91118,7 @@
 448705|||인공위성은 별이 되고싶다|||The Satellite Wants to Become a Star
 450006|||The Hogwarts: Arche|||The Hogwarts: Arche
 449938|||WAVE DIVER|||WAVE DIVER
-227044|||세드릭 디고리에게 씀 |해리포터|||
+227044|||세드릭 디고리에게 씀 |해리포터||||
 450129|||진조는 백수이니라!|||
 442942|||회귀한 몰락귀족은 멸망을 거부한다.|||
 450150|||12좌 : 음지를 지배하는 자들|||
