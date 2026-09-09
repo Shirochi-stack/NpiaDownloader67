@@ -38,7 +38,7 @@
 449480|||모험가들이 집착하는 성녀 용사가 되었다|||I Became the Breeding Hero Adventurers Obsess Over
 443069|||최약 기사는 던전 한정 소드마스터가 되었다|||The Weakest Knight Became a Dungeon-Only Sword Master
 444965|||[명일방주] 오리지늄을 먹는 형벌|||[Arknights] The Punishment of Eating Originium
-448630|||로판 속 방송국장이 되었다|||I Became a TV Station Director in a Romance Fantasy
+448630|||판타지에 방송국을 세웠다|||I Became a TV Station Director in a Romance Fantasy
 300623|||이세계 멸망 갤러리|||Otherworld Apocalypse Gallery
 449885|||하얀 밤하늘에 검은별이 뜨기를|||May a Black Star Rise in the White Night Sky
 449170|||문명혁명|||Civilization Revolution
@@ -75566,7 +75566,6 @@
 24172|||그냥 백합 이야기|||Just a Yuri Story
 226120|||다른 학교의 여학생을 도왔더니 친구부터 시작하게 되었습니다|||I Helped a Female Student from Another School and We Started as Friends
 224455|||전속 집사를 그만두니 모셨던 아가씨가 유난히 가까운데|||I Quit Being a Personal Butler and the Young Lady I Served is Unusually Close
-227044|||세드릭 디고리에게 씀 |해리포터|||||
 169165|||초능력 고등학교|||Superpower High School
 212173|||여사친 진|||Female Friend Jin
 155802|||(전) 무림맹주 (현) 미소녀|||(Former) Murim Alliance Leader (Current) Beautiful Girl
@@ -91130,6 +91129,7 @@
 445461|||[블아×니케] KIVOTOS IN NIKKE|||[블아×니케] KIVOTOS IN NIKKE
 450691|||삭제00001|||삭제00001
 450545|||비둘기 99먹자 99999999999999999999|||비둘기 99먹자 99999999999999999999
+227044|||세드릭 디고리에게 씀 |해리포터|||
 450129|||진조는 백수이니라!|||
 442942|||회귀한 몰락귀족은 멸망을 거부한다.|||
 450150|||12좌 : 음지를 지배하는 자들|||
