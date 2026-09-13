@@ -882,7 +882,7 @@
 363615|||악신은 주사위를 굴린다|||The Evil God Rolls the Dice
 247387|||영화관 알바생의 나날|||Days of a Movie Theater Part-Timer
 413308|||제패고의 수호자|||Jepae High
-446658|||메가코프가 집착하는 천재 약사가 되었다|||I Became a Genius Pharmacist in Cyberpunk
+446658|||기업이 집착하는 천재 약사가 되었다|||I Became a Genius Pharmacist in Cyberpunk
 449209|||나는 너희의 비극까지 사랑한다|||I Love Even Your Tragedy
 443832|||유일급 네크로맨서가 되었다|||I Became a Unique-Class Necromancer
 428869|||[던만추] 용이 싫다|||[Dungeon & Fighter] I Hate Dragons
@@ -92261,7 +92261,7 @@
 451017|||더 복싱|||The Boxing
 450847|||수선자가 강호를 주유함|||A Mender Tours the Martial World
 450404|||죽음의 게임에 채용되었다.|||Hired Into a Death Game
-227044|||세드릭 디고리에게 씀 |해리포터|||
+227044|||세드릭 디고리에게 씀 |해리포터||||
 439888|||ㅗㅕ요요|||
 451859|||[던만추] 백야검귀(白夜劍鬼)|||
 450588|||[동방] 매화록(賣花錄)|||
