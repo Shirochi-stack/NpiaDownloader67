@@ -662,6 +662,7 @@
 460169|||제로(ZERO : 문을 지키는 자)|||ZERO: The Gatekeeper
 460179|||쉴리크|||Shillic
 460441|||멸망한 세계에서 시작하는 아저씨|||An Old Man Starting Over in a Ruined World
+460563|||호텔리어의 이세계 공략|||The Hotelier’s Guide to Conquering Another World
 460613|||불사의 저주로 탑에 오른다|||I Climb the Tower with an Immortality Curse
 460815|||미래를 보는 정치인|||The Politician Who Sees the Future
 461185|||순간이동 배달로 월 3000만원 벌고 있습니다|||I Make 30 Million Won a Month Delivering by Teleportation
@@ -21281,7 +21282,6 @@
 9694|||바람과 별무리|||The Wind and the Swarm of Stars
 406468|||11112222|||
 435686|||20240925-13!|||
-460563|||호텔리어의 이세계 공략|||
 463014|||EX급 먼치킨 회귀자는 탑공략이 너무 쉽다|||
 507582|||1903|||
 519054|||4093|||
