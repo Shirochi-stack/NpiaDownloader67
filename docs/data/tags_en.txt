@@ -753,6 +753,7 @@ LITRPG|||LitRPG
 LIVE|||Live
 LIVE☆TWIN|||Live Twin
 LOL|||LoL
+LOLI后宫|||Loli Harem
 LOR|||Legends of Runeterra
 LORE|||Lore
 LOVE|||Love
@@ -1364,6 +1365,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 一劍一仙子|||One Sword One Fairy
 一卷结尾神作|||First Volume Ending Masterpiece
 一只鸽子|||One Pigeon
+一团乱麻|||A Complete Mess
 一场梦|||A Dream
 一场空|||All in Vain
 一堆宝物|||Pile of Treasures
@@ -1372,6 +1374,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 一天两更|||Two Updates a Day
 一定是嫁人|||Must Be Getting Married
 一家子伪娘|||Family of Traps
+一宿舍的后宫|||A Dorm Full of Harem Girls
 一帮坑逼|||Bunch of Trolls
 一心双体|||One Mind Two Bodies
 一念超人|||One-Thought Superman
@@ -1404,6 +1407,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 一起加油|||Let's Work Hard Together
 一路莽|||Rush Through
 一颗流星砸下来|||A Meteor Crashed Down
+一颗赛艇|||Sailing Ship
 一魂两身|||One Soul Two Bodies
 一魂双体|||One Soul Two Bodies
 一魂双身|||One Soul Two Bodies
@@ -1487,11 +1491,14 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 不做死不會死|||No Death If You Don't Court It
 不务正业|||Not Doing Proper Work
 不发便当|||No Death Flags
+不变的规矩|||Unchanging Rule
+不可多得的治愈神作|||Rare Healing Masterpiece
 不可爱|||Not Cute
 不可能恋爱|||Impossible Romance
 不可能这么弱|||Impossibly Weak
 不同背景短篇|||Short Stories With Different Backgrounds
 不喜勿喷|||No Hate Please
+不多说就烤小鸟|||Just Roast the Little Bird
 不够看|||Not Enough
 不够看啊|||Too Short
 不太|||Not Really
@@ -1558,6 +1565,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 不死|||Immortal
 不死之王|||Overlord
 不死者之王|||Overlord
+不污|||Not Lewd
 不浮誇好有感覺|||Not Exaggerated, Very Atmospheric
 不火不科学|||Not Popular Is Illogical
 不爽小可|||Not Happy With Xiao Ke
@@ -1597,6 +1605,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 不錯看|||Pretty Good
 不错|||Not Bad
 不错不错|||Not Bad Not Bad
+不错不错不错|||Good, Good, Good
 不错不错继续加油|||Not Bad, Keep It Up
 不错再接再厉|||Keep Going
 不错写的好|||Well Written
@@ -1705,10 +1714,12 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 中二病晚期|||Terminal Chuunibyou
 中二的世界|||Chuuni World
 中二的开始|||The Start of Chuunibyou
+中二的文风|||Chuunibyou Writing Style
 中二的说|||Chuunibyou Vibes
 中出|||Creampie
 中后期黑深残|||Mid-to-Late Dark Deep Cruel
 中国人写的慎入|||Chinese Author Warning
+中国文坛希望|||Hope of Chinese Literature
 中国語上手|||Good at Chinese
 中国风|||Chinese Style
 中期偏虐|||Mid-Story Abuse
@@ -1725,6 +1736,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 为了正义|||For Justice
 为了爱与和平|||For Love and Peace
 为什么不火|||Why Isn't It Popular
+为何有种莫名的既视感|||Why Does This Feel Familiar?
 为啥不性转|||Why No Gender Bender
 为土豆而疯狂|||Crazy for Potato
 为无敌文|||Invincible MC Story
@@ -1742,6 +1754,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 主播|||Streamer
 主播养成|||Streamer Raising
 主线妹妹|||Main Story Little Sister
+主线纯爱|||Mainline Pure Love
 主职业是画师|||Main Job Is Painter
 主要人物全碉堡了|||Main Characters Are All Awesome
 主角mmp|||MC: "WTF"
@@ -1807,6 +1820,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 主角是个受|||Protagonist Is A Bottom
 主角是个变态|||Protagonist Is A Pervert
 主角是伪娘|||Protagonist is Trap
+主角是作者|||Author Is the Protagonist
 主角是冰块|||Protagonist Is An Ice Block
 主角是受|||MC Is a Bottom
 主角是变态|||Perverted MC
@@ -1923,6 +1937,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 事务所|||Agency
 事实上甚好|||Actually Very Good
 事项污妖王|||Filthy Demon King
+二|||Dumb
 二刀流|||Dual Sword Style
 二刀流无敌|||Dual Wield Invincible
 二卷结尾高能|||Volume 2 Ending Is Intense
@@ -2015,6 +2030,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 人造人少女|||Artificial Human Girl
 人造天才|||Artificial Genius
 人间兵器|||Human Weapon
+人鬼|||Human and Ghost
 人鬼恋|||Human-Ghost Romance
 什么gui|||What the Gui
 什么垃圾玩意|||What Trash Thing
@@ -2028,6 +2044,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 仙人|||Immortal
 仙仙天下第一|||Xianxian Is Number One Under Heaven
 仙侠|||Xianxia
+仙侠冒险|||Xianxia Adventure
 仙侠魔幻|||Xianxia and Magic
 仙子是舔狗|||Fairy Is A Simp
 仙尊老婆|||Immortal Venerable's Wife
@@ -2085,6 +2102,8 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 伪|||Fake
 伪FGO|||Fake FGO
 伪伪娘|||Fake Trap
+伪冒险|||Pseudo-Adventure
+伪变嫁|||Pseudo Gender-Bender Romance
 伪后宫|||Pseudo-Harem
 伪型月|||Fake Type-Moon
 伪基风|||Fake BL Style
@@ -2100,6 +2119,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 伪娘君加油|||Go Trap-kun
 伪娘啊|||Trap
 伪娘复仇|||Trap Revenge
+伪娘大法好|||Femboys Are Great
 伪娘女上男|||Trap Girl On Top
 伪娘奴隶|||Trap Slave
 伪娘我舔爆|||I Lick Traps Like Crazy
@@ -2111,6 +2131,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 伪娘赛高|||Traps Are the Best
 伪娘黑化|||Dark Trap
 伪性转|||Pseudo Gender Bender
+伪战争|||Pseudo-War
 伪战斗|||Fake Battle
 伪推理|||Pseudo-Reasoning
 伪无敌|||Pseudo-Invincible
@@ -2131,6 +2152,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 伪维新风|||Pseudo-Meiji Style
 伪群像|||Pseudo-Ensemble
 伪萝莉好可爱|||Fake Loli is Cute
+伪装逼|||Fake Bragging
 伪郎|||Fake Groom
 伪青梅与天降|||Fake Childhood Friend and Sudden Arrival
 伪骨傲天|||Fake Bone Arrogant Sky
@@ -2349,6 +2371,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 作者是基佬|||Author Is Gay
 作者是大佬|||Author Is a Bigshot
 作者是大叔|||Uncle Author
+作者是大叔不是萝莉|||Author Is an Uncle, Not a Loli
 作者是大家的|||Author Belongs To Everyone
 作者是女孩吗|||Is the Author a Girl?
 作者是女孩子|||Author Is Girl
@@ -2468,9 +2491,11 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 作者纯洁|||Author Is Pure
 作者经常女装|||Author Frequently Crossdresses
 作者经常援交|||Author Often Prostitutes
+作者美少女|||Author Is a Pretty Girl
 作者老司姬|||Author Is an Old Driver
 作者老司机|||Author Is Veteran
 作者肾不好|||Author Has Weak Kidneys
+作者脑子有坑|||Author Is Crazy
 作者脑洞大|||Author Has Huge Imagination
 作者脑洞贼大|||Author Has Huge Imagination
 作者腹黑|||Author Is Black-Bellied
@@ -2568,6 +2593,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 修真|||Cultivation
 修真界|||Cultivation World
 修罗场|||Love Triangle Drama
+修罗场不用怕|||Don't Fear the Love Triangle
 修罗场预定|||Harem Conflict Incoming
 修羅|||Asura
 修羅場|||Carnage Field
@@ -2602,6 +2628,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 假面骑士|||Kamen Rider
 假面骑士RX|||Kamen Rider RX
 偉大的概念|||Great Concept
+偏不写性转|||Refuses to Write Gender-Bender
 偏严肃向|||Slightly Serious Tone
 偏剧情向|||Plot-Oriented
 偏故事|||Story-Focused
@@ -2661,6 +2688,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 兄妹赛高|||Brother-Sister Best
 兄嫁|||Brother’s Bride
 兄弟情|||Brotherly Bond
+兄弟情义|||Brotherly Bonds
 兄控|||Brother Complex
 兄控与妹控|||Brocon And Siscon
 兄控妹妹|||Brocon Sister
@@ -2748,6 +2776,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 兰斯|||Rance
 共系统|||Shared System
 兲哥写的就是垃圾|||Tian Ge Writes Trash
+关爱妹子作者|||Care for the Girl Author
 关系复杂|||Complicated Relationships
 关键雄起|||Key Moment Erection
 兴奋|||Exciting
@@ -2767,6 +2796,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 养成小丹妖|||Raising Little Dan Yao
 养成少女|||Raising A Girl
 养肥了再看系列|||Fatten Up Before Reading Series
+养肥了继续|||Let It Build Up
 养肥再看|||Read After Stockpiling
 兽人|||Beastmen
 兽娘|||Beast Girl
@@ -2829,6 +2859,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 写的很好|||Well-Written
 写的有意思|||Interesting Writing
 写的比第一本好|||Written Better Than the First Book
+写的漂亮|||Beautifully Written
 写的烂|||Badly Written
 写的真好|||Really Well Written
 写的超赞|||Extremely Well Written
@@ -2924,6 +2955,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 前期劝退向|||Slow Start
 前期微抄|||Slight Plagiarism in Early Chapters
 前期恋爱|||Early Romance
+前期看不懂|||Hard to Understand at First
 前期难受|||Painful Early Stages
 前期鬼剧情|||Early Ghost Plot
 前辈|||Senpai
@@ -3046,6 +3078,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 勇者成为魔王后开后宫|||Hero Becomes Demon King Then Builds Harem
 勇者新八唧|||Hero Shinpachi
 勇者是妹子|||Hero Is a Girl
+勇者渣男|||Scumbag Hero
 勇者的儿子|||Hero's Son
 勇者脑子有坑|||Hero Has A Hole In His Brain
 勇者萝莉控|||Hero is Loli Con
@@ -3066,6 +3099,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 医生|||Doctor
 医生加油|||Doctor, Keep Going
 十八禁|||18+ Restricted
+十分|||Ten Out of Ten
 十分你当之无愧|||You Fully Deserve It
 十分好看|||Very Good Looking
 十分强大|||Very Powerful
@@ -3094,6 +3128,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 半糖半虐|||Half Sweet Half Abuse
 半纯爱|||Semi-Pure Love
 华丽|||Gorgeous
+华丽文笔|||Gorgeous Prose
 华纳啊啊啊啊|||Warner Ahhhhh
 卑微男主|||Humble Male Lead
 单偏百|||Single Bias Yuri
@@ -3164,6 +3199,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 友情|||Friendship
 双主线|||Dual Main Plotlines
 双主角|||Dual Protagonists
+双主角模式|||Dual Protagonists
 双人格|||Dual Personality
 双修|||Dual Cultivation
 双刀流|||Dual Blades
@@ -3256,6 +3292,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 变态作者|||Perverted Author
 变态前女友|||Perverted Ex-Girlfriend
 变态娜娜|||Perverted Nana
+变态少年和少女|||Perverted Boy and Girl
 变态就是正义|||Perverted Is Justice
 变态男主|||Perverted Male Lead
 变态神使|||Perverted God Emissary
@@ -3370,6 +3407,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 可能有点重口|||Maybe Heavy Content
 可能黑化|||Might Go Dark
 史上最多穿越|||Most Transmigrations in History
+史上最强|||Strongest in History
 史前巨坑|||Ancient Unfinished Pit
 史莱姆|||Slime
 史萊姆|||Slime
@@ -3385,6 +3423,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 叶子新书|||Yezi's New Book
 叶怀仙NB|||Ye Huaixian NB
 叶江南与姬灵在一起|||Ye Jiangnan and Ji Ling Together
+司机从不刹车|||The Driver Never Brakes
 司机安全驾驶|||Driver Drives Safely
 司马嫁基佬|||Sima Marries a Gay Guy
 吃我大蹦啦|||Take My Big Bounce
@@ -3436,11 +3475,13 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 名字取得怪了|||Weird Name Choice
 名字可以|||Name Is Okay
 名将遍地走|||Famous Generals Everywhere
+名模歌手|||Model Singer
 名门老婆|||Famous Clan Wife
 后劲型作品|||Slow-Burn Type Work
 后劲型作者|||Slow-Burn Author
 后台极石更|||Extremely Hardworking Behind the Scenes
 后宫|||Harem
+后宫v|||Harem V
 后宫一员|||Member of the Harem
 后宫万岁|||Harem Forever
 后宫三千|||Harem of Three Thousand
@@ -3459,6 +3500,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 后宫向|||Harem-Oriented
 后宫向吧|||Harem-Oriented
 后宫吗|||Is It Harem?
+后宫团长|||Harem Leader
 后宫塞高|||Harem is the Best
 后宫女王控|||Harem Queen Lover
 后宫妹妹|||Harem Little Sisters
@@ -3522,6 +3564,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 吐槽役废柴男主|||Snarky Loser MC
 吐槽很犀利|||Roasts Are Very Sharp
 吐槽文|||Roast Novel
+吐槽无底线|||No-Limits Commentary
 吐槽杀手|||Roast Killer
 吐槽核心科技|||Core Roasting
 吐槽流|||Snarky Style
@@ -3567,6 +3610,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 吾等心之所向|||Where Our Hearts Belong
 呆毛|||Ahoge
 呆毛是本体|||Ahoge Is the Main Body
+呆萌|||Adorkable
 呆萌女主|||Clumsy Cute Female Lead
 呆萌易推倒|||Dumb Cute Easy to Push Down
 告白|||Confession
@@ -3657,6 +3701,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 啪啪休止符|||Pa Pa Rest Note
 啪啪啪|||Sex
 啪啪啪啪啪啪|||Pa Pa Pa Pa Pa Pa
+喂有警察吗|||Hello, Is There a Police Officer?
 喂糖|||Feeding Sugar
 喂糖不喂刀|||Feeds Sugar Not Knives
 喂警察吗|||Calling the Police?
@@ -3726,6 +3771,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 因果律鬼才|||Causality Genius
 因错而起|||Starts With a Mistake
 团宠男主|||Group-Favorite Male Lead
+团队|||Team
 困于心城|||Trapped in Heart City
 国旗娘|||Flag Girl
 国欠姐|||National Debt Sister
@@ -3810,6 +3856,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 基佬标嫁人|||Gay Guy Marries Someone
 基友互坑|||Bros Screwing Each Other
 基友可推倒|||Bros Can Be Pushed Down
+基友的后宫|||Best Friend's Harem
 基友站主场|||Bro Takes Over
 基友篡位|||Best Friend Usurps Throne
 基就够了|||Being Gay Is Enough
@@ -4016,6 +4063,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 天然呆剑圣|||Natural Airhead Sword Saint
 天然女友|||Natural Girlfriend
 天狗面具的正确用法|||Correct Use of Tengu Mask
+天猪|||Heavenly Pig
 天真|||Innocent
 天选之子|||Chosen One
 天际既视感|||Skyrim Deja Vu
@@ -4049,6 +4097,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 太短結尾濫作|||Rushed Ending Trash
 太空|||Space
 太空歌剧|||Space Opera
+太赞了|||Awesome
 太过日常|||Too Slice-of-Life
 夫妻|||Husband and Wife
 夫妻办案|||Husband and Wife Solve Cases
@@ -4075,9 +4124,11 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 奇妙变身|||Wonderful Transformation
 奇妙的文风|||Quirky Style
 奇妙的节奏感|||Fantastic Rhythm
+奇妙的逼格|||Wonderful Style
 奇幻|||Fantasy
 奇幻元素|||Fantasy Elements
 奇幻冒险|||Fantasy Adventure
+奇幻故事|||Fantasy Story
 奇幻游戏|||Fantasy Game
 奇思妙想|||Whimsical Ideas
 奇怪|||Strange
@@ -4135,6 +4186,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 女主智商在线|||Female Lead Has Working Brain
 女主智商爪机|||Female Lead's IQ Is a Claw Machine
 女主有点皮|||Female Lead is a Bit Naughty
+女主每日一皮|||Heroine Trolls Daily
 女主流|||Female Lead Is The Protagonist
 女主狠可爱|||Female Lead Is Super Cute
 女主疯子|||Female Lead Is Crazy
@@ -4179,6 +4231,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 女儿赛高|||Daughter Is The Best
 女剑仙|||Female Sword Immortal
 女剑仙魏皮皮|||Female Sword Immortal Wei Pipi
+女友|||Girlfriend
 女变态|||Female Pervert
 女多男少|||More Females Than Males
 女女|||Girl x Girl
@@ -4275,8 +4328,10 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 好像有点意思|||Seems A Bit Interesting
 好像看以后的|||Want to See the Future
 好兄弟变伪娘|||Bro Becomes Trap
+好兄弟必须赞|||Must Like for a Good Brother
 好厉害的印象对比|||Amazing Impression Contrast
 好吃不过饺子|||Nothing Tastes Better Than Dumplings
+好吧|||Okay
 好啊|||Good
 好喜欢|||Really Like It
 好基友|||Good Bros
@@ -4376,6 +4431,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 妮可妮可妮|||Nico Nico Ni
 妮露莎是女主更好|||Nirusha as Female Lead Is Better
 妹妹|||Little Sister
+妹妹X2|||Two Younger Sisters
 妹妹万岁|||Little Sister Forever
 妹妹不如机甲|||Little Sister Inferior to Mechs
 妹妹不是女的|||Little Sister Isn’t Female
@@ -4413,6 +4469,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 妹控|||Sister Complex
 妹控万岁|||Long Live Sister Complex
 妹控不存在的|||No Siscons Here
+妹控作者|||Siscon Author
 妹控党大胜利|||Siscon Victory
 妹控君的文哦|||Sis-con Author's Work
 妹控和兄控|||Siscon and Brocon
@@ -4578,6 +4635,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 宅男|||Otaku
 宇宙|||Space
 宇宙生存|||Cosmic Survival
+守护挚爱|||Protecting My Beloved
 守护甜心|||Shugo Chara!
 守望先锋|||Overwatch
 安全又炫酷|||Safe and Cool
@@ -4603,6 +4661,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 宗教旋涡|||Religious Vortex
 宝妹石子收集|||Treasure Girl Stone Collection
 宝藏|||Treasure
+实力和头有关|||Strength Depends on the Head
 实力拖剧情|||Strength Drags The Plot
 实力派|||Skilled
 实验室|||Laboratory
@@ -4628,6 +4687,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 宿命|||Fate
 宿命血统论|||Fate Bloodline Theory
 宿敌|||Rival
+宿管员|||Dorm Supervisor
 寄刀片系列|||Razor Blade Mailing Series
 寄生獸|||Parasyte
 富婆调教|||Sugar Mommy
@@ -4749,11 +4809,14 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 小说家|||Novelist
 小谢后妈|||Xiao Xie Stepmom
 小迷糊新萌|||Newbie Cute And Clumsy
+小雪|||Xiaoxue
 小鬼当家|||Home Alone
 小鬼推荐必是精品|||Kid Recs Are Always Gems
 小魔女|||Little Witch
 小鱼是傻瓜|||Little Fish Is an Idiot
 小鲜肉男主|||Pretty Boy MC
+小鸟2333333|||Little Bird LOL
+小鸟烤烤|||Roast the Little Bird
 小黄文|||Erotic Short Story
 小黄毛受挫记|||Little Yellow Hair's Setback Record
 小黑小黑|||Little Black Little Black
@@ -4817,11 +4880,13 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 屑狐狸|||Scummy Fox
 展开有意思|||Interesting Development
 属性爆炸|||Attributes Explode
+屠幼|||Child Killer
 山海经新玩法|||New Ways to Play Classic of Mountains and Seas
 岳琳是无敌的|||Yue Lin Is Invincible
 峰迴路轉|||Twists and Turns
 崇尚能打不谈|||Only Fighting No Talking
 崛起中的大作|||Rising Masterpiece
+崛起的神作|||Rising Masterpiece
 崩三舰长|||Honkai 3 Captain
 崩坏|||Honkai
 崩坏3|||Honkai Impact 3
@@ -4853,6 +4918,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 左边是瞎说的|||Left Side Lies
 巨x御姐|||Huge-X Onee-san
 巨乳|||Big Breasts
+巨乳作者|||Big-Breasted Author
 巨乳女仆|||Big Breasted Maid
 巨乳少女|||Busty Girl
 巨乳控|||Big Breasts Fetish
@@ -4900,6 +4966,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 希望后宫|||Harem Wish
 希望快更|||Hope for Faster Updates
 希望有人来看|||Hoping Someone Reads It
+希望的传承|||Legacy of Hope
 希望能更新|||Hope It Updates
 帝国|||Empire
 帝骑哥|||Kamen Rider Emperor
@@ -5040,6 +5107,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 异世修真界|||Otherworld Cultivation Realm
 异世女神|||Otherworld Goddess
 异世界|||Isekai
+异世界之物|||Otherworldly Being
 异世界冒险|||Isekai Adventure
 异世界十三香|||Thirteen Spices from Another World
 异世界开挂|||Isekai Cheat
@@ -5071,6 +5139,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 异能社会|||Supernatural Society
 异能者的游戏|||Game of Espers
 异虫|||Alien Bug
+弃坑就对了嘛|||Abandoning It Is the Right Choice
 弑神灭魔|||Slaying Gods and Demons
 弑神者|||God Slayer
 弓手|||Archer
@@ -5157,9 +5226,11 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 很严肃的一本小说|||Very Serious Novel
 很人性化|||Very Humanized
 很努力|||Very Hardworking
+很可爱|||Very Cute
 很吸引人|||Captivating
 很喜欢|||Like It Very Much
 很喜欢超棒的|||Like It Very Much, Super Awesome
+很多类型女主|||Many Types of Heroines
 很大一盘棋|||Grand Scheme
 很失败的一个文章|||A Very Failed Story
 很好|||Very Good
@@ -5350,6 +5421,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 性转吗|||Gender Bender?
 性转在二卷|||Gender Bender in Volume 2
 性转在哪里|||Where is the Gender Bender
+性转大佬|||Gender-Bent Big Shot
 性转嫁人|||Gender Bender Marriage
 性转换|||Sex Swap
 性转换卖肉|||Gender Bender Fanservice
@@ -5394,7 +5466,9 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 恐怖|||Horror
 恐怖分子|||Terrorist
 恐怖刺激|||Horror Thrill
+恐怖如斯|||Terrifyingly Powerful
 恢弘世界|||Grand World
+恩很不错|||Yeah, Pretty Good
 恩恩挺好的|||Yeah, Pretty Good
 恩问题儿童|||Yeah, Problem Children
 恶女洗白|||Villainess Redemption
@@ -5547,6 +5621,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 成人向|||Adult
 成吨律师函|||Tons of Lawyer Letters
 成哥|||Brother Cheng
+成神|||Ascension to Godhood
 成绩全S|||All S-Rank Grades
 成长|||Character Growth
 我不信后宫只有两个人|||I Don't Believe the Harem Has Only Two People
@@ -5565,11 +5640,13 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 我只想要姐姐|||I Only Want A Sister
 我只是想开个坑|||I Just Want to Start a Story
 我喜欢|||I Like It
+我喜欢的类型|||My Type
 我喜欢黑色|||I Like Black
 我太喜欢了|||I Like It Too Much
 我好喜欢这样的风格|||I Really Like This Style
 我就不女装|||I Refuse to Crossdress
 我就打酱油|||I'm Just Passing By
+我很喜欢|||I Like It a Lot
 我怎能不妹控|||How Can I Not Be a Siscon
 我愛SAO|||I Love SAO
 我愛後宮|||I Love Harem
@@ -5580,7 +5657,9 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 我把你当哥哥|||I Treat You as a Brother
 我是不是|||Am I
 我是个作者|||I Am an Author
+我是劍者當有鋒芒|||As a Swordsman, I Should Have an Edge
 我是来顶的|||I'm Here to Upvote
+我是滑稽|||I Am Hilarious
 我是面瘫我骄傲|||I'm Expressionless and Proud
 我来了|||Here I Come
 我来组成大怒|||I'm Forming Great Anger
@@ -5753,17 +5832,20 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 持剑主角路过|||Sword-Wielding MC Passing By
 挂男主|||Cheat Male Lead
 挂逼|||Cheater
+指尖奶茶|||Fingertip Milk Tea
 指挥官|||Commander
 指挥官更可爱|||Commander Is Even Cuter
 挖坑|||Digging Pit
 挣扎|||Struggling
 振作点修女大人|||Cheer Up, Sister
 挺不錯的|||Quite Good
+挺不错|||Pretty Good
 挺喜欢的|||Quite Like It
 挺好|||Pretty Good
 挺好的|||Quite Good
 挺好的小说赞|||Pretty Good Novel, Like
 挺好看的|||Pretty Good
+挺好看的不要坑|||Pretty Good, Don't Abandon It
 挺有意思|||Quite Interesting
 挺有意思但更新好慢|||Quite Interesting But Updates Are Slow
 挺有趣|||Quite Interesting
@@ -5779,6 +5861,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 换装PL|||Crossdressing Play
 换身|||Body Swap
 掉书袋|||Showing Off Knowledge
+掉节操|||No Morals
 掌控雷电|||Master of Lightning
 掌握核心科技|||Mastering Core Technology
 排枪射击|||Shotgun Fire
@@ -6055,6 +6138,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 无敌丧尸|||Invincible Zombie
 无敌主角|||Invincible Protagonist
 无敌伪娘大佬|||Invincible Trap Big Shot
+无敌刺客|||Invincible Assassin
 无敌外挂|||Invincible Cheat
 无敌大佬|||Invincible Big Shot
 无敌妹妹|||Invincible Little Sister
@@ -6194,10 +6278,12 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 是乐园|||It Is Paradise
 是作者本人|||Author's Self-Insert
 是和可爱的随便有一腿|||Has Something With Cute Casual
+是喜欢的类型|||My Preferred Type
 是喜欢的那种|||The Kind I Like
 是替身使者哒|||Stand User
 是欢快日常吗|||Is This Cheerful Daily Life
 是欢快日常吧|||It's Cheerful Daily Life Right
+是父还是兄理解不能|||Can't Tell If Father or Brother
 是萌新呢|||It's a Newbie
 是說|||By the Way
 晨诺X叶辰|||Chen Nuo x Ye Chen
@@ -6280,6 +6366,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 最弱|||Weakest
 最弱无败|||Weakest Undefeated
 最弱最强|||Weakest Strongest
+最強零等玩家|||Strongest Level-Zero Player
 最強魔帝|||Strongest Demon Emperor
 最强|||Strongest
 最强之龙|||Strongest Dragon
@@ -6328,6 +6415,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 有大灰机|||Has Big Planes
 有妖气|||Has Demonic Aura
 有封面就好了|||Would Be Better With a Cover
+有形装逼|||Tangible Bragging
 有待加强|||Needs Improvement
 有想法|||Has Ideas
 有意义的装逼|||Meaningful Showing Off
@@ -6386,6 +6474,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 有趣且耐读|||Interesting and Enduring
 有趣到极致|||Extremely Entertaining
 有趣的剧情|||Interesting Plot
+有趣的性转|||Interesting Gender-Bender
 有趣的日常|||Interesting Daily Life
 有趣的设定|||Interesting Setting
 有进步|||Improving
@@ -6396,6 +6485,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 有问题的恋爱|||Problematic Romance
 有鸡之谈|||Chicken Talk
 朋友说他好了|||Friend Approved
+朋友赞一个|||A Like for a Friend
 朋友都是敵人|||Friends Are All Enemies
 服尔魔丝|||Fumolse
 期待|||Looking Forward
@@ -6452,6 +6542,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 朴素|||Simple
 机关少女|||Mechanical Girl
 机动战队|||Mobile Squadron
+机器人|||Robot
 机器人啪啪啪|||Robot Sex
 机娘|||Robot Girl
 机娘女主|||Robot Girl Female Lead
@@ -6479,6 +6570,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 杀手哥哥|||Assassin Older Brother
 杀手少女|||Assassin Girl
 杀手高中生的日常|||Daily Life of a Killer High Schooler
+杂烩|||Hodgepodge
 杂糅风|||Mixed Style
 权力的游戏|||Game of Thrones
 权谋|||Political Intrigue
@@ -6525,10 +6617,12 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 架空世界|||Alternate World
 架空军事|||Alternate History Military
 架空历史|||Alternate History
+架空历史宏大|||Epic Alternate History
 某人的中二|||Someone's Chuunibyou
 某白毛|||White-Haired One
 某神|||Certain God
 某种意义上的乐园|||Paradise in a Sense
+某种意义神作|||A Masterpiece in a Sense
 染血和平|||Bloody Peace
 柜柜是萝莉|||Closet is Loli
 柠檬妹汁|||Lemon Sister Juice
@@ -6541,6 +6635,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 标准日轻|||Standard Light Novel
 标准的后宫闹剧|||Standard Harem Farce
 标点符号|||Punctuation
+标签乱选|||Random Tags
 标签出了问题|||Tags Have A Problem
 标签没说纯爱|||Tags Didn't Say Pure Love
 标签被呢|||Where Are the Tags?
@@ -6584,6 +6679,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 梗百科|||Meme Encyclopedia
 梦幻|||Dreamy
 梦空才是王道|||Meng Kong Is Supreme
+梦魔软妹|||Soft Succubus Girl
 梧桐这个变态|||Wutong This Pervert
 棍棒教育|||Stick Education
 棒|||Awesome
@@ -6697,6 +6793,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 歼魔师|||Demon Exterminator
 残念|||Regrettable
 残念少年|||Pitiful Boy
+残念的变态|||Disappointing Pervert
 残暴|||Brutal
 残酷|||Cruel
 殺人|||Murder
@@ -6725,6 +6822,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 毒舌妹妹|||Sharp-Tongued Little Sister
 毒舌男|||Sharp-Tongued Male
 毒舌腹黑女友|||Sharp-Tongued Cunning Girlfriend
+比武招亲|||Martial Arts Marriage Contest
 比较爽|||Satisfying
 毕竟同人|||It's Fanfiction After All
 毕竟林总|||Boss Lin
@@ -6747,6 +6845,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 永不吃瘪|||Never Gets Defeated
 永恒萝莉|||Eternal Loli
 永远haki|||Forever Haki
+永远组|||Eternal Group
 求Happy|||Begging for Happy Ending
 求不断更|||Please No Hiatus
 求作者速度更新|||Beg Author to Update Faster
@@ -6779,6 +6878,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 污|||Lewd
 污之七群|||Lewd Group Seven
 污妖王|||Lewd Demon King
+污得不行|||Extremely Lewd
 污污污|||Lewd Lewd Lewd
 污污污污污污|||Lewd Lewd Lewd Lewd Lewd Lewd
 污百合|||Lewd Yuri
@@ -6807,6 +6907,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 沙雕网友|||Silly Netizen
 沙雕萌文|||Silly Cute Story
 沙雕警告|||Silly Warning
+沙雕逻辑怪|||Absurd Logic
 没一个正常人|||No Normal People
 没一个正常的|||None Are Normal
 没事搞事|||Causing Trouble for No Reason
@@ -6822,6 +6923,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 没时间解释了|||No Time to Explain
 没有喜洋洋暴力|||No Pleasant Goat Violence
 没有固定剧情|||No Fixed Plot
+没有女友|||No Girlfriend
 没有妄想|||No Delusions
 没有抄袭啊!|||No Plagiarism!
 没有无节操标题封面|||Decent Cover
@@ -6913,6 +7015,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 清新|||Fresh
 清新日常风|||Refreshing Daily Life Style
 清新脱俗|||Fresh and Refined
+清水致郁|||Pure and Depressing
 清流|||Fresh Style
 清甜软萌|||Pure Sweet Soft & Cute
 清纯向|||Pure And Innocent
@@ -6924,6 +7027,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 渣女养成|||Scum Girl Raising
 渣渣|||Scum
 渣男|||Scum Male
+渣男让人性奋|||Scumbag Gets You Excited
 温情|||Heartwarming
 温情感人|||Heartwarming
 温暖|||Heartwarming
@@ -6972,6 +7076,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 满级大佬重生|||Max-Level Boss Reborn
 满级神装|||Max Level God Gear
 满级穿越|||Max Level Transmigration
+满级铁头功|||Max-Level Iron Head
 满脑子骚操作|||Devious Schemes
 滥交|||Promiscuity
 滿分|||Full Marks
@@ -7055,6 +7160,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 烂大街玩意|||Common Trash Thing
 烂好人|||Goody Two-Shoes
 烈焰酱|||Flame-chan
+烤小鳥|||Roast Little Bird
 烧脑|||Mind-Bending
 烧脑向|||Brain Burning
 烧脑奇幻|||Mind-Bending Fantasy
@@ -7096,6 +7202,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 爆发|||Explosive Updates
 爆发流|||Burst Genre
 爆好看|||Extremely Good Looking
+爆更才是王道|||Mass Updates Are King
 爆更狂魔|||Fast Updater
 爆炸吧|||Explode
 爆炸吧现充|||Explode Normies
@@ -7348,6 +7455,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 男主|||Male MC
 男主666|||MC 666
 男主NB|||Awesome MC
+男主RBQ|||Male Lead Is a Toy
 男主v587|||Male Lead V587
 男主x有能|||Competent Male Lead
 男主不废柴|||Male Lead Is Not Trash
@@ -7366,6 +7474,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 男主双收|||Male Protagonist Takes Both
 男主可怀孕|||MC Can Get Pregnant
 男主可怜|||Male Lead Is Pitiful
+男主各种YY|||Male Lead's Wild Fantasies
 男主后期无敌|||MC Becomes Invincible Later
 男主呆萌|||MC Is Dumb and Cute
 男主啥都会|||MC Can Do Everything
@@ -7407,6 +7516,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 男主情商负数|||MC Has Negative EQ
 男主情商高|||Male Lead Has High EQ
 男主或许无敌|||MC Might Be Invincible
+男主战五渣|||Weak Male Lead
 男主技能无解|||Unstoppable Skill
 男主护妻狂魔|||Male Lead Wife-Protecting Maniac
 男主推姐流|||Male Lead Pushes Sister Style
@@ -7489,6 +7599,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 男女主分不清|||Can't Tell Male and Female Leads Apart
 男女通吃|||Bisexual
 男弟子|||Male Disciple
+男性向|||Male-Oriented
 男性慎入|||Men Beware
 男性魅魔|||Male Succubus
 男扮女装|||Male Dressed as Female
@@ -7844,6 +7955,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 神TM进展|||Goddamn Progress
 神tm奥特曼|||Goddamn Ultraman
 神tm最弱|||Goddamn Weakest
+神一样的吐槽|||God-Tier Commentary
 神一样的简介|||Godly Synopsis
 神之一击|||Godly Strike
 神之描写|||Godly Description
@@ -8002,6 +8114,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 秒杀战斗|||One-Shot Battles
 积极的作者|||Positive Author
 秽翼|||Hane no Tsubasa
+稍带治愈|||Slightly Healing
 稍稍有点无趣呢|||A Bit Boring
 稳中带皮|||Stable But Cheeky
 稳定更新|||Stable Updates
@@ -8058,6 +8171,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 笑屎我了|||Laughed My Ass Off
 笑死人不偿命|||Laugh Until You Die
 笑死咱了|||Laughed To Death
+笑死我了|||I'm Dying of Laughter
 笑点堆积|||Pile of Jokes
 笑点满满|||Full Of Laughs
 笔刀文冰|||Pen Blade Wen Bing
@@ -8117,6 +8231,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 类型大雾|||Genre in Thick Fog
 类绯弹轻小说|||Like Baka-Tsuki Light Novel
 粉切黑|||Cute but Dark
+粉毛萝莉|||Pink-Haired Loli
 粪作|||Shit Work
 精分|||Split Personality
 精分妹妹|||Split‑Personality Sister
@@ -8175,6 +8290,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 红色头发|||Red Hair
 红色警戒|||Red Alert
 红警|||Red Alert
+红警3|||Red Alert 3
 约会|||Dating
 约会大作战|||Date A Live
 约战|||Date A Live
@@ -8289,6 +8405,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 美女皆我老婆|||All Beauties Are My Wives
 美好|||Beautiful
 美好异世界|||Beautiful Otherworld
+美妙的文风|||Wonderful Writing Style
 美少女|||Beautiful Girl
 美少女养成|||Beautiful Girl Raising
 美少女教师|||Beautiful Girl Teacher
@@ -8334,6 +8451,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 老司机飙车|||Veteran Driver
 老哥萌|||Bro Is Cute
 老套路|||Old Routines
+老妈是怪物|||Mom Is a Monster
 老婆|||Wife
 老婆傲娇|||Tsundere Wife
 老婆养成|||Wife Raising
@@ -8425,6 +8543,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 脑洞破天|||Imagination Breaks the Heavens
 脑洞超大|||Huge Imagination
 脑洞逆天|||Insane Imagination
+脑洞颇大|||Wild Imagination
 脑补冠军|||King Of Overthinking
 脑袋打开|||Mind-Blowing
 脑袋无线|||Wireless Brain
@@ -8454,6 +8573,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 自以为是的正义|||Self-Righteous Justice
 自传|||Autobiography
 自传体小说|||Autobiographical Novel
+自古枪兵幸运E|||Lancers Have Always Been Unlucky
 自娶神作|||Self-Marrying Masterpiece
 自娶系列|||Self-Marrying Series
 自嫁|||Self-Marriage
@@ -8486,6 +8606,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 自闭主角|||Hikikomori Protagonist
 自闭少女逆袭|||Shut-in Girl's Counterattack
 自顶|||Self Upvote
+自顶还行|||Self-Bump, Not Bad
 臭屁|||Smug
 至强者|||Strongest
 至郁系|||Extremely Depressing Genre
@@ -8586,6 +8707,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 莓办法|||No Way (Berry)
 莓良心|||No Conscience
 莫反|||No Reversal
+莫名压抑|||Unaccountably Oppressive
 莫名反差萌|||Bizarre Gap Moe
 莫名喜感|||inexplicably Funny
 莫名带感|||Mysteriously Appealing
@@ -8607,6 +8729,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 萌妹子极多|||Extremely Many Cute Girls
 萌妹日记|||Cute Girl Diary
 萌妹魔王|||Cute Demon King
+萌妹黑化|||Cute Girl Turns Dark
 萌宠|||Cute Pets
 萌宠邪龙|||Cute Evil Dragon Pet
 萌感|||Cuteness Factor
@@ -8701,6 +8824,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 萬年不更新|||Eternal Hiatus
 萬歲|||Banzai
 蒸朋|||Steampunk
+蒸汽与魔法|||Steam and Magic
 蒸汽朋克|||Steampunk
 蓝马尾是真爱|||Blue Ponytail True Love
 薛定谔|||Schrödinger
@@ -8850,6 +8974,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 要后宫不要悲剧|||Want Harem Not Tragedy
 要喂玻璃渣了|||About to Feed Glass Shards
 要嫁人|||Wants to Marry
+要搞基|||Bromance
 要有耐心|||Requires Patience
 要来杯凉水吗|||Want A Glass Of Cold Water?
 要死要活|||Life and Death
@@ -8959,6 +9084,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 诡计流|||Scheming Flow
 语无伦次|||Rambling
 语言好美|||Beautiful Language
+诱受|||Seductive Bottom
 诱拐萝莉|||Loli Kidnapping
 说你爱我|||Say You Love Me
 说好的10分|||The Promised 10 Points
@@ -8972,12 +9098,14 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 请注意排版|||Please Pay Attention to Formatting
 请细细品尝|||Please Savor Slowly
 请问|||May I Ask
+诸神都是妹子系列|||All the Gods Are Girls Series
 诸神黄昏|||Twilight of the Gods
 读来略显沉重|||Slightly Heavy to Read
 读的很爽|||Very Satisfying To Read
 读着很舒服|||Very Comfortable to Read
 读着舒服|||Comfortable to Read
 读者有想象的空间|||Readers Have Room to Imagine
+读者都是天使|||Readers Are All Angels
 谁是女主系列|||Who Is the Heroine Series
 谁给我整个|||Who Can Give Me One
 谁说天朝文差|||Who Says Chinese Writing Is Bad
@@ -9054,6 +9182,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 超强女主|||Super Strong Heroine
 超强萝莉|||Super Strong Loli
 超感人|||Super Touching
+超慢日常|||Ultra-Slow Daily Life
 超慢热|||Super Slow Burn
 超暖|||Heartwarming
 超有代入感|||Highly Immersive
@@ -9184,6 +9313,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 轻虐|||Light Angst
 轻音体弱|||Light Music Weak Body
 轻音少女|||K-On
+较为正常|||Relatively Normal
 辛勤耕耘的好人|||Diligent Good Guy
 辛苦你们了|||You've Worked Hard
 辣舌头|||Spicy Tongue
@@ -9216,6 +9346,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 还可以这样玩|||Can Play It This Way
 还好|||Okay
 还好吧|||It's Okay
+还好是直的|||Luckily He's Straight
 还好看|||Still Good Looking
 还我七萝|||Give Me Back My Seven Luo
 还我小惠|||Give Me Back Xiao Hui
@@ -9230,6 +9361,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 还真是面瘫|||She Really Is Expressionless
 还算不错|||Decent
 还算不错吧|||Not Bad
+还算好|||Not Bad
 还能一看|||Worth a Read
 还蛮不错的|||Quite Good
 还蛮有趣的|||Quite Interesting
@@ -9404,6 +9536,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 都市异能|||Urban Supernatural
 都市异能乱斗|||Urban Supernatural Brawl
 都市战斗|||Urban Battle
+都市超规格魔幻|||Supernatural Urban Fantasy
 都市魔幻|||Urban Fantasy
 都市魔法|||Urban Magic
 都是作者加的|||All Added by the Author
@@ -9566,9 +9699,11 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 难道坑了|||Did It Get Dropped
 雁梨大法好|||Yanli's Method Is Great
 雅夜前传|||Yaye Prequel
+雅蠛蝶|||Yamete
 集体穿越|||Group Transmigration
 雇佣兵|||Mercenary
 雪瑶|||Xue Yao
+雪雪快更|||Xuexue, Update Faster
 零之使魔|||Zero No Tsukaima
 零小白|||Zero Xiaobai
 雷|||Thunder
@@ -9726,6 +9861,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 高甜度|||High Sugar Content
 高甜轻虐|||High Sweet Light Abuse
 高甜高虐|||High Sugar High Abuse
+高科技|||High-Tech
 高端向装逼|||High-End Showing Off
 高考帝|||Gaokao Emperor
 高能预警|||High Energy Warning
