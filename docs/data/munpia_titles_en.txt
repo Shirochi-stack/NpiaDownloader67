@@ -2859,6 +2859,7 @@
 524683|||단국기|||The Chronicles of Danguk
 524687|||태허진무공|||Taehuh Jinmugong
 524689|||던전 아저씨|||Dungeon Uncle
+524705|||00시 00분 00.34초|||00 Hours, 00 Minutes, 00.34 Seconds
 524724|||아포칼립스 코인의 고래가 되었다|||I Became a Whale in Apocalypse Coin
 524736|||폐기된 자의 패시브 리퍼|||The Discarded One’s Passive Reaper
 524746|||십전제|||The Ten Palaces Emperor
@@ -21286,7 +21287,6 @@
 507582|||1903|||
 519054|||4093|||
 524345|||1973|||
-524705|||00시 00분 00.34초|||
 526677|||절대영도의 탑 공략 방송|||
 531977|||나에 대한 공략법은 없습니다.|||
 532478|||연옥이나 지옥에 가봤어?: 사신의 공략집|||
