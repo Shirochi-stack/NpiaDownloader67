@@ -4811,6 +4811,7 @@
 537036|||확인하고싶어|||I Want to Know for Sure
 537037|||무감정 천재는 마법을 씹어먹음|||The Emotionless Genius Devours Magic
 537039|||이 잠에서 깨어나지 못하면|||If I Can't Wake Up from This Dream
+537049|||클라우드의 대행자|||Cloud’s Agent
 537051|||최강의 퇴마사는 도깨비를 위해 목숨을 건다|||The Strongest Exorcist Risks His Life for a Dokkaebi
 537057|||장의사|||The Undertaker
 537061|||비도-열쇠의소녀|||Bido—The Key Girl
@@ -5060,6 +5061,7 @@
 538478|||농사하다 갤러리를 주웠다 [D]|||I Found a Gallery While Farming [D]
 538479|||좀비 아포칼립스에서 던전으로 꿀 빠는 방법! [D]|||How to Make Easy Money with Dungeons During the Zombie Apocalypse! [D]
 538480|||삼생표사 [D]|||The Three-Life Escort [D]
+538483|||낭인은 무림에 산다|||The Wanderer Lives in Murim
 538489|||인재|||Talent
 538522|||노답 하남자 체대생의 노량진 생존기|||A Hopeless Gym Major’s Survival in Noryangjin
 538530|||개고기 게임의 신이 되었다|||I Became the God of a Dog-Eat-Dog Game
@@ -9874,6 +9876,7 @@
 565659|||진짜 이자경 찾기|||Finding the Real Lee Ja-gyeong
 565662|||마왕의 용역 깡패가 됨.|||I Became the Demon King's Hired Thug
 565664|||아버지의 죽음이 팔렸다|||My Father's Death Was Sold
+565666|||星軌: 별의 궤도|||Xinggui: The Orbit of the Stars
 565668|||잘생긴 수습 사제에게 비밀이 생겼습니다.|||The Handsome Novice Priest Has a Secret
 565669|||이능력 형제는 천하대협객이 된다|||The Superpowered Brothers Become Heroes of the Martial World
 565671|||대목수|||The Master Carpenter
@@ -11541,6 +11544,7 @@
 571152|||이세계 힐링 여행기|||A Healing Journey in Another World
 571158|||맨홀다이스|||Manhole Dice
 571159|||호귀난(狐鬼亂)|||The Fox Ghost Uprising
+571161|||빛과 어둠 (Light and Darkness)|||Light and Darkness
 571162|||검은산|||Black Mountain
 571170|||시간범죄수사대 : 미래를 세탁하는 사람들|||Time Crime Investigation Unit: The People Who Launder the Future
 571172|||각성했는데 사람들이 내 화분에 집착함|||I Awakened, and Everyone Became Obsessed with My Potted Plant
@@ -17153,6 +17157,7 @@
 592385|||마녀가 된 그녀들이 돌아왔다|||The Women Who Became Witches Have Returned
 592398|||나의 유럽 원정기 [D]|||My European Expedition [D]
 592401|||이혼 후 엄마와 산다|||I Live with My Mother After Divorce
+592402|||퓨전펑크 무당은 외신을 모신다|||The Fusionpunk Shaman Worships Outer Gods
 592405|||50만명이 사라졌다|||Five Hundred Thousand People Disappeared
 592408|||둘레길 공보의|||The Public Health Doctor on the Trail
 592410|||북부 대공의 자식이 되었다|||I Became the Child of the Grand Duke of the North
@@ -17606,6 +17611,7 @@
 594161|||리본Reborn 주막|||Reborn Tavern
 594166|||싱글 대디 선생님은 뜨개인형으로 괴이를 잡습니다.|||The Single-Dad Teacher Hunts Anomalies with Knitted Dolls
 594169|||운 좋게 금강불괴를 얻었으나|||I Was Lucky Enough to Gain an Indestructible Body, But…
+594177|||은퇴 당한 각성자가 탑 속에서 힐링함|||A Forced-Retired Awakened One Heals in the Tower
 594187|||은퇴한 F급 헌터, EX급 던전을 주워버림|||A Retired F-Rank Hunter Picked Up an EX-Rank Dungeon
 594189|||낙오자가 팔찌 주웠을 뿐인데 신을 압도함|||The Straggler Picked Up a Bracelet and Overwhelmed the Gods
 594190|||그림자 대통령|||The Shadow President
@@ -18970,6 +18976,7 @@
 598644|||학폭 피해자였던 내가 행성급 AI를 주웠다|||I, a School-Bullying Victim, Found a Planet-Class AI
 598645|||가상현실 게임인줄 알았는데 현실?|||I Thought It Was a VR Game, but It’s Reality?
 598646|||내 오픈톡에 생명공학의 신이 산다|||The God of Biotechnology Lives in My Open Chat
+598647|||거물들이 집착하는 정비병이 되었다|||I Became the Mechanic the Big Shots Obsess Over
 598650|||나팔꽃|||Morning Glory
 598651|||퓨전펑크 마피아의 말단 마법사|||The Fusionpunk Mafia’s Lowly Mage
 598655|||초월급 우주선 상속받고 천재 과학자|||I Inherited a Transcendent Starship and Became a Genius Scientist
@@ -19007,6 +19014,7 @@
 598710|||스페이스 마린은 무한회귀한다.|||The Space Marine Regresses Infinitely
 598711|||콤플렉스 니콜: 2050년 대전, ASI가 깨어나다|||Complex Nicole: The Great War of 2050, ASI Awakens
 598712|||살아남으려다 외계 문명의 시조가 되었다|||I Tried to Survive and Became the Founder of an Alien Civilization
+598715|||야동을 숨기려다 해커가 되었다 - 해커탐정 김강력|||I Became a Hacker While Hiding Porn - Hacker Detective Kim Gangryeok
 598716|||레인저가 되었다.|||I Became a Ranger
 598721|||오늘도 마력 재난을 해결하는 중입니다.|||Solving Magical Disasters Again Today
 598722|||퓨전 펑크 세계에서 외신을 다운로드 받음|||I Downloaded an Outer God in a Fusionpunk World
@@ -19042,6 +19050,7 @@
 598776|||비어버린 자리 : 제9행성|||The Vacant Seat: Planet Nine
 598777|||국가권력급 집행관은 히어로가 된다|||A National-Power-Class Enforcer Becomes a Hero
 598780|||겜판을 리부트 정상화하는 디렉터가 됐다|||I Became the Director Who Rebooted and Fixed the Game World
+598782|||귀환한 독립군, 성간전쟁의 신이 되다|||The Returned Independence Fighter Became the God of the Interstellar War
 598784|||신데렐라 전기|||The Cinderella Chronicle
 598787|||BANAN : 바난|||BANAN: Banan
 598788|||플루토 공략 대작전 - 유로파 행성 개발 프로젝트|||Operation Conquer Pluto: The Europa Development Project
@@ -19188,6 +19197,7 @@
 599037|||AI 이미지 편집으로 세계 최고 재벌|||I Became the World's Greatest Tycoon with AI Image Editing
 599039|||워프 드라이브 우주선을 만드는 방법|||How to Build a Warp-Drive Spaceship
 599040|||물에 잠긴 세상에서 내 배만 레벨업|||In a Flooded World, Only My Ship Levels Up
+599043|||역대급 스페이스 마린은 환생한 소드마스터|||The Greatest Space Marine Ever Is a Reincarnated Swordmaster
 599044|||회귀헌터는 랭킹을 조작한다|||The Regressed Hunter Manipulates the Rankings
 599045|||사채 빚 갚으려다 우주를 구하게 생겼다|||I Tried to Pay Off a Loan Shark's Debt and Ended Up Saving the Universe
 599047|||목숨 걸고 취직|||Getting a Job at the Risk of My Life
@@ -19525,6 +19535,7 @@
 599655|||청계천 만물상, 임진왜란에 떨어지다|||The Cheonggyecheon Curio Shop Falls into the Imjin War
 599656|||UFO 수선전|||The UFO Repair Chronicles
 599661|||날씨를 독점하는 천재|||The Genius Who Monopolizes the Weather
+599662|||외신에게 총애받는 헌터로 착각당했다|||I Was Mistaken for a Hunter Favored by Outer Gods
 599663|||사이버펑크 세계의 실험체가 되었다|||I Became a Test Subject in a Cyberpunk World
 599664|||나는 누구|||Who Am I?
 599665|||은퇴한 빌런은 히어로를 꿈꾼다|||A Retired Villain Dreams of Becoming a Hero
@@ -19558,6 +19569,7 @@
 599725|||멸망의 요람에서 내 딸을 만났다|||I Met My Daughter in the Cradle of Ruin
 599727|||AI작가가 문화예술계 씹어먹음|||An AI Writer Takes Over the Arts and Culture Scene
 599728|||불멸자가 되고 싶어서|||Because I Want to Become Immortal
+599732|||나노머신 영창대군|||Prince Yeongchang with Nanomachines
 599736|||로그아웃 불가 초능력자|||The Superpowered Man Who Can’t Log Out
 599738|||사이버펑크 서울의 몰락한 재벌 2세|||The Fallen Chaebol Heir of Cyberpunk Seoul
 599739|||명왕성 키우기|||Raising Pluto
@@ -19775,6 +19787,7 @@
 600208|||당신의 기억 속에 내가 있었다.|||I Was in Your Memories
 600209|||말단 병사는 회귀한다.|||The Lowest-Ranking Soldier Regresses
 600213|||[리부트] 사실 내가 거북선을 만들었다|||[Reboot] Actually, I Built the Turtle Ship
+600214|||충무함, 1941년 전쟁 한복판에 회귀하다.|||The Chungmugong Returns to the Heart of the War in 1941
 600217|||무한굴레 속에 빠져버렸다|||I Fell into an Infinite Cycle
 600218|||연봉 2억 퐁퐁남 탈출기|||Escape Diary of a $200,000 Salary Doormat Husband
 600220|||초월급 경비병은 우주 제패가 너무 쉽다|||The Transcendent Guard Finds Conquering Space Too Easy
@@ -19911,6 +19924,7 @@
 600509|||나노 머신으로 두번째 용병이 되었다|||I Became a Second Mercenary with Nanomachines
 600517|||전 전쟁병기 이세계에서 도련님 찾기|||A Former War Machine Searches for a Young Master in Another World
 600518|||사라진 귀환 모듈|||The Vanished Return Module
+600519|||초과학 문명으로 세계 정복|||Conquering the World with a Super-Scientific Civilization
 600520|||비가 오면, 당신을|||When It Rains, You
 600521|||로스트하임의 이방인|||The Stranger of Lostheim
 600525|||138억년의 번역자|||Translator of 13.8 Billion Years
@@ -19971,6 +19985,7 @@
 600666|||월면낙하, 지워진 궤도|||Lunar Descent: The Erased Orbit
 600670|||안녕하세요, 이스터 에그입니다.|||Hello, I’m an Easter Egg.
 600672|||실종된 전임자의 노트로 살아남기|||Surviving with the Missing Predecessor’s Notes
+600682|||장난감 우주선을 주웠는데 성능이 미쳤음|||I Picked Up a Toy Spaceship, and Its Performance Is Insane
 600685|||망할 아포칼립스에 빙의했는데 나 혼자만 총알 무한|||I Possessed Myself into a Damn Apocalypse, and Only I Have Infinite Ammo
 600686|||대체율 60퍼센트, 시스템의 오류가 되었다|||At 60% Replacement, I Became a System Error
 600687|||낮달이 뜨는 시간|||When the Day Moon Rises
@@ -20201,6 +20216,7 @@
 601183|||가짜 각성자 감별사인데 자꾸 강해짐|||I’m a Fake Awakener Examiner, but I Keep Getting Stronger
 601185|||게임 속 천문학자로 살아남기|||Surviving as an Astronomer in a Game
 601188|||천마가 광선검 만들었더니 정병헌터들이 집착함|||The Heavenly Demon Made a Lightsaber, and Psychotic Hunters Became Obsessed
+601189|||나 혼자 서버관리자인데 퇴사당함|||I Was Fired Even Though I’m the Only Server Administrator
 601192|||죽은 자는 말이 있다|||The Dead Have Something to Say
 601193|||헌원세가 차남, 제임스본드와 공조하다|||The Second Son of the Xuanyuan Clan Teams Up With James Bond
 601194|||제멋대로인 AGI를 만들었다|||I Created a Rogue AGI
@@ -21163,6 +21179,7 @@
 603186|||천재 성기사의 퓨전펑크 생존법|||The Genius Paladin’s Fusion-Punk Survival Guide
 603187|||100서클 초전도체 마법사|||The 100-Circle Superconductor Mage
 603190|||침수구역의 스캐빈저|||Scavenger of the Flooded Zone
+603191|||세종은 티본 스테이크를 뜯는다|||Sejong Tears into a T-Bone Steak
 603192|||폐기된 아이들의 생존 보고서 : 살아남은 5기|||Survival Report of the Discarded Children: Batch Five Survived
 603195|||은퇴하고 손대는 것마다 대박남|||After Retiring, Everything I Touch Becomes a Hit
 603196|||미래 세계 속 장례지도사|||Funeral Director in the Future World
@@ -21212,6 +21229,7 @@
 603274|||싸움 천재가 방송을 너무 잘함|||The Fighting Genius Is Too Good at Streaming
 603276|||가정교사 오데트|||Odette, the Private Tutor
 603283|||행운을 삼킨 플레이어|||The Player Who Swallowed Luck
+603286|||사이버펑크의 즉사기 해커가 되었다|||I Became a Cyberpunk Hacker with an Instant-Kill Hack
 603287|||내 옆자리 까칠한 그녀|||The Prickly Girl Beside Me
 603290|||일주일에 한 번, 만 원으로 인생 대박|||Change Your Life with Ten Dollars Once a Week
 603293|||비록 그럴지라도|||Even So
@@ -21219,10 +21237,12 @@
 603297|||부의 재분배 72시간후|||The Redistribution of Wealth: 72 Hours Later
 603299|||수양, 나는 네가 왕이 될 걸 막을 상이다!|||Suyang, I Will Stop You from Becoming King!
 603300|||2회차 인생 조작단|||The Second-Life Manipulation Squad
+603309|||미래 재벌들의 장기 이식 창고|||The Organ-Transplant Warehouse of Future Chaebols
 603314|||마왕님이 대한민국에 떨어지다|||The Demon King Lands in South Korea
 603316|||갤러리에서 신점 봐줬더니 헌터들이 집착한다|||I Read Fortunes on a Forum, and the Hunters Became Obsessed
 603325|||전장의 여우|||Fox of the Battlefield
 603331|||톱배우는 퇴근 후 대본을 쓴다|||The Top Actor Writes Scripts After Work
+603332|||괴수에 미친 놈이 EX급 괴수를 주움|||A Monster-Obsessed Madman Picks Up an EX-Rank Monster
 603333|||온 우주가 나에게 집착함|||The Entire Universe Is Obsessed with Me
 603334|||재벌가 현직 여고생인데, 전생의 기억이 범상치 않다|||I'm a High School Girl in a Chaebol Family, but My Past-Life Memories Are Extraordinary
 603337|||아니, 내가 최고가 아이라고?|||Wait, I'm the Best Child?
@@ -21236,6 +21256,10 @@
 603349|||이 소설을 안 보면 임신함|||You'll Get Pregnant If You Don't Read This Novel
 603350|||파라오가 북촌에서 빚쟁이로 사는 법|||How a Pharaoh Lives as a Debt Collector in Bukchon
 603355|||천 번 실패한 회귀자에 빙의했다|||I Possessed a Regressionist Who Failed a Thousand Times
+603389|||아포칼립스에서 나 혼자 상태창|||I’m the Only One with a Status Window in the Apocalypse
+603400|||무림에서 귀환했더니 퓨전펑크였다|||I Returned from Murim to a Fusionpunk World
+603468|||멸망한 세계의 레벨업하는 사냥꾼이 되었다|||I Became a Leveling Hunter in a Ruined World
+603484|||초파리로 환생했는데 뇌 신경망이 복제됨|||I Reincarnated as a Fruit Fly, but My Neural Network Was Duplicated
 60912|||위저드 스톤 [E]|||Wizard Stone [E]
 61393|||최초의 무공|||The First Martial Art
 61880|||일인군단(一人軍團)|||One-Man Army
@@ -21268,10 +21292,8 @@
 532478|||연옥이나 지옥에 가봤어?: 사신의 공략집|||
 535759|||고인물이 공략을 알려줌 [D]|||
 536276|||2007|||
-537049|||클라우드의 대행자|||
 537281|||귀족의 탑공략|||
 537597|||1979.04.09|||
-538483|||낭인은 무림에 산다|||
 540326|||ㄴㅇㄹㄴㅇㄹ|||
 542735|||2033|||
 546918|||Lu빛chy의 짧은글 모음집|||
@@ -21285,12 +21307,10 @@
 560522|||Still Behind You ( 스틸 비하인드 유 )|||
 564325|||.....3|||
 565615|||최면교배아저씨의 신화급 탑 공략|||
-565666|||星軌: 별의 궤도|||
 565765|||,,,,|||
 569530|||1592|||
 570024|||Daimonion(다이모니온)|||
 570221|||2083|||
-571161|||빛과 어둠 (Light and Darkness)|||
 571849|||상태창은 없지만 공략법은 압니다.|||
 574017|||354867|||
 575282|||Dream Raiders 드림레이더스|||
@@ -21306,32 +21326,12 @@
 588812|||7389|||
 592002|||10시26분|||
 592010|||4095|||
-592402|||퓨전펑크 무당은 외신을 모신다|||
-594177|||은퇴 당한 각성자가 탑 속에서 힐링함|||
 595765|||ㅌㅅㅌㅌㅌ|||
 597043|||전생 소드마스터의 탑 공략 [D]|||
 597495|||0번 공략구역의 타워 반장|||
-598647|||거물들이 집착하는 정비병이 되었다|||
-598715|||야동을 숨기려다 해커가 되었다 - 해커탐정 김강력|||
-598782|||귀환한 독립군, 성간전쟁의 신이 되다|||
-599043|||역대급 스페이스 마린은 환생한 소드마스터|||
 599518|||Dark Matter (암흑물질)|||
-599662|||외신에게 총애받는 헌터로 착각당했다|||
 599676|||Crown(크라운)|||
-599732|||나노머신 영창대군|||
-600214|||충무함, 1941년 전쟁 한복판에 회귀하다.|||
-600519|||초과학 문명으로 세계 정복|||
-600682|||장난감 우주선을 주웠는데 성능이 미쳤음|||
-601189|||나 혼자 서버관리자인데 퇴사당함|||
 602451|||뽑기 천재 대마도사의 탑공략|||
 603137|||1-1|||
 603148|||F급 포터는 공략법이 보인다|||
 603183|||13-017|||
-603191|||세종은 티본 스테이크를 뜯는다|||
-603286|||사이버펑크의 즉사기 해커가 되었다|||
-603309|||미래 재벌들의 장기 이식 창고|||
-603332|||괴수에 미친 놈이 EX급 괴수를 주움|||
-603389|||아포칼립스에서 나 혼자 상태창|||
-603400|||무림에서 귀환했더니 퓨전펑크였다|||
-603468|||멸망한 세계의 레벨업하는 사냥꾼이 되었다|||
-603484|||초파리로 환생했는데 뇌 신경망이 복제됨|||
