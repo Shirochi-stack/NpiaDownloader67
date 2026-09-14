@@ -4815,6 +4815,7 @@
 537057|||장의사|||The Undertaker
 537061|||비도-열쇠의소녀|||Bido—The Key Girl
 537067|||양가창법|||The Yang Family Spear Technique
+537068|||무술학당(巫術學堂)-한국에도 마법학교가 있다|||The Martial Arts Academy—There’s a Magic School in Korea
 537070|||그림자의 정부|||The Shadow Government
 537071|||물은 모든 것을 기억한다|||Water Remembers Everything
 537077|||저주받은신|||The Cursed God
@@ -5456,6 +5457,7 @@
 541096|||만화의 신, 일본을 정복하다 [D]|||The God of Manga Conquers Japan [D]
 541097|||백작가 대공자는 쉬고싶다. [D]|||The Count's Grand Heir Wants to Rest. [D]
 541131|||저물의 도시|||The City of Twilight
+541138|||조선민국(朝鮮民國) : 제국의 아침|||Joseonmin Kingdom: Morning of the Empire
 541151|||역전 성녀의 지옥 정복기|||The Reversed Saint's Conquest of Hell
 541152|||화공인 내가 부잣집 넷째와 지옥도를 그린 사연|||How I, a Painter, Drew a Map of Hell with a Rich Family's Fourth Son
 541153|||반려동물 장례지도사|||Pet Funeral Director
@@ -10804,6 +10806,7 @@
 568472|||바이스의 계약자|||The Contractor of Vice
 568478|||망한 인생을 즐겨보려 합니다|||I’m Going to Enjoy My Ruined Life
 568487|||망겜 몬스터 상인이 대영주로 출세함|||The Dead Game’s Monster Merchant Rises as a Grand Lord
+568489|||[흑망생필독] AI 보다 못쓰면 접어야지|||[Must-Read for Struggling Writers] If You Write Worse Than AI, Quit
 568491|||매화 꽃 필 무렵|||When the Plum Blossoms Bloom
 568492|||독을 마시는 무공 천재|||The Martial Arts Genius Who Drinks Poison
 568493|||이상 현상 상담소에 어서오세요!|||Welcome to the Abnormal Phenomena Counseling Office!
@@ -12558,6 +12561,7 @@
 574886|||마지막 무림맹주, 천마로 귀환하다|||The Last Murim Alliance Leader Returns as the Heavenly Demon
 574888|||마나흡수로 초월급 레벨업|||Transcendent-Leveling Through Mana Absorption
 574890|||회귀자가 회귀하지 않는 방법|||How a Regressor Doesn't Regress
+574897|||유니드콘(U Need Corn)|||U Need Corn
 574900|||이세계 마법이 스파게티 코드였다|||The Magic of Another World Was Spaghetti Code
 574902|||쉬고 싶은 공무원은 오늘도 숭배당한다|||The Civil Servant Who Wants to Rest Is Worshiped Again Today
 574909|||천재형사, 이세계 경찰학교 입학하다.|||A Genius Detective Enters an Otherworldly Police Academy
@@ -16379,6 +16383,7 @@
 589115|||대도본색 [D]|||The True Colors of the Great Thief [D]
 589116|||소일초전기 [D]|||The Story of So Ilcho [D]
 589117|||천황존신보 [D]|||The Heavenly Emperor's Divine Treasure [D]
+589118|||역천기 [D]|||Heaven-Defying Record [D]
 589119|||제왕인 [D]|||The Emperor's Seal [D]
 589120|||사자불루 [D]|||The Lion Never Grows Old [D]
 589131|||돈이 무한 복사됨 [D]|||Money Keeps Multiplying Infinitely [D]
@@ -17401,6 +17406,7 @@
 593322|||외계인이 우리 집만 공격함|||Aliens Only Attack My House
 593328|||현실로 돌아온 진소|||Jin So Returns to Reality
 593329|||실례지만, 제 밭에 심겨주실래요?|||Excuse Me, Would You Mind Planting Yourself in My Field?
+593340|||대륙백제의 패왕|||The Overlord of Continental Baekje
 593342|||노가다꾼이 사천당가 각성했더니 재벌들이 집착함|||A Construction Worker Awakens the Sichuan Tang Clan, and Chaebols Become Obsessed
 593345|||그리스 로마 실화|||True Stories from Greece and Rome
 593350|||귀문 객잔|||The Ghost Gate Inn
@@ -21263,11 +21269,9 @@
 535759|||고인물이 공략을 알려줌 [D]|||
 536276|||2007|||
 537049|||클라우드의 대행자|||
-537068|||무술학당(巫術學堂)-한국에도 마법학교가 있다|||
 537281|||귀족의 탑공략|||
 537597|||1979.04.09|||
 540326|||ㄴㅇㄹㄴㅇㄹ|||
-541138|||조선민국(朝鮮民國) : 제국의 아침|||
 542735|||2033|||
 546918|||Lu빛chy의 짧은글 모음집|||
 548517|||666|||
@@ -21282,14 +21286,12 @@
 565615|||최면교배아저씨의 신화급 탑 공략|||
 565666|||星軌: 별의 궤도|||
 565765|||,,,,|||
-568489|||[흑망생필독] AI 보다 못쓰면 접어야지|||
 569530|||1592|||
 570024|||Daimonion(다이모니온)|||
 570221|||2083|||
 571161|||빛과 어둠 (Light and Darkness)|||
 571849|||상태창은 없지만 공략법은 압니다.|||
 574017|||354867|||
-574897|||유니드콘(U Need Corn)|||
 575282|||Dream Raiders 드림레이더스|||
 575358|||재앙급 오브젝트의 탑 공략.|||
 575548|||0100101010000101010|||
@@ -21301,10 +21303,8 @@
 587755|||괴랄한 남자의 새콤한 탑공략|||
 588472|||공략은 죽은 사람만 안다|||
 588812|||7389|||
-589118|||역천기 [D]|||
 592002|||10시26분|||
 592010|||4095|||
-593340|||대륙백제의 패왕|||
 595765|||ㅌㅅㅌㅌㅌ|||
 597043|||전생 소드마스터의 탑 공략 [D]|||
 597495|||0번 공략구역의 타워 반장|||
