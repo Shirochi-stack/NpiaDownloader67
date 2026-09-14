@@ -10466,6 +10466,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 개굴닌자|||Frog Ninja
 개그들어갈수도있음|||Maybe Comedy
 개그말장난|||Gag Wordplay
+개그맨|||Comedian
 개그물|||Comedy
 개그물X|||No Gag
 개그물지향|||Gag Oriented
@@ -10700,6 +10701,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 건전함|||Wholesome
 건진욱|||Gun Jinuk
 건축|||Architecture
+건축가|||Architect
 건축모드|||Build Mode
 건카타|||Gun Kata
 건프라|||Gunpla
@@ -10736,6 +10738,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 검무|||Sword Dance
 검볼|||Geombol
 검사|||Swordsman/Prosecutor
+검사_법|||Prosecutor_Law
 검사물|||Swordsman
 검성|||Sword Saint
 검수|||Sword Test
@@ -11396,6 +11399,8 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 공캎연재본|||Public Beta
 공포|||Horror
 공포,미스테리|||Horror Mystery
+공포_미스터리|||Horror_Mystery
+공포·미스테리|||Horror·Mystery
 공포게임|||Horror Game
 공포게임,영화|||Horror Game Movie
 공포게임빙의|||Horror Game Possession
@@ -11606,6 +11611,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 교권|||Teacher Authority
 교내정치|||School Politics
 교단|||Cult
+교도관|||Prison Guard
 교도소|||Prison
 교류|||Exchange
 교미|||Copulation
@@ -12204,6 +12210,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 기가채드|||Giga Chad
 기간트|||Gigant
 기갑|||Armored/Mech
+기갑물|||Armored Warfare
 기갑슈트|||Mecha Suit
 기계|||Machine
 기계간|||Machine Sex
@@ -12363,6 +12370,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 기축통화|||Reserve Currency
 기츠|||Geats
 기타|||Other
+기타_전문직|||Other_Professions
 기타기타|||Misc
 기타노래|||Guitar Music
 기타등등|||Etc/Miscellaneous
@@ -17513,6 +17521,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 배다른여동생|||Half-Sis
 배달|||Delivery
 배달부|||Deliveryman
+배달원|||Delivery Worker
 배덕|||Immoral
 배덕감|||Immoral
 배덕감없음|||No Taboo Feel
@@ -17844,6 +17853,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 변기|||Toilet
 변기물내리기|||Flush Toilet
 변녀|||Perverse Girl
+변리사|||Patent Attorney
 변마금|||Byeon Mageum
 변방계|||Frontier World
 변변찮은|||Mediocre
@@ -18155,6 +18165,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 부산행|||Train to Busan
 부성애|||Paternal Love
 부스트버클|||Boost Buckle
+부여|||Buyeo
 부인|||Wife
 부인상납|||Wife Dedication
 부자|||Rich/Father-Son
@@ -18936,6 +18947,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 사위일체|||Son-in-Law Unity
 사유|||Reflection
 사육|||Breeding
+사육사|||Zookeeper
 사이|||Gap
 사이다|||Satisfying/Cathartic
 사이다녀|||Refreshing Girl
@@ -20918,6 +20930,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 승상싱|||Victory Sing
 승진|||Promotion
 시|||Poetry
+시·수필|||Poetry·Essays
 시가라키|||Shigaraki
 시각장애|||Visual Impairment
 시각장애인|||Blind
@@ -21614,6 +21627,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 아데|||Ade
 아델리|||Adeli
 아동|||Child
+아동소설·동화|||Children's Fiction·Fairy Tales
 아들|||Son
 아들의친구|||Son's Friend
 아들친구|||Son's Friend
@@ -23529,6 +23543,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 연구원|||Researcher
 연구일지|||Research Log
 연극|||Theater
+연극·시나리오|||Theater·Screenplay
 연극단|||Theater Troupe
 연금|||Pension
 연금개혁|||Pension Reform
@@ -23633,6 +23648,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 연재중지|||Stopped
 연적에서연인으로|||Rival to Lover
 연주|||Performance
+연주가|||Musician
 연준|||Fed
 연중|||Hiatus
 연중가능성|||Hiatus Possible
@@ -23734,6 +23750,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 영업직|||Sales Job
 영역|||Domain
 영역전개|||Domain Expansion
+영웅|||Hero
 영웅급|||Hero Tier
 영웅님은|||The Hero Is
 영웅담|||Heroic Tale
@@ -26744,6 +26761,8 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 전장|||Battlefield
 전장이후|||Post-War
 전쟁|||War
+전쟁_밀리터리|||War_Military
+전쟁·밀리터리|||War·Military
 전쟁로맨스|||War Romance
 전쟁명장|||War Genius
 전쟁밀리터리|||War/Military
@@ -27392,6 +27411,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 종교|||Religion
 종교간전쟁|||Religious War
 종교부흥|||Religion Revival
+종교인|||Religious Figure
 종교전쟁|||Religious War
 종교판타지|||Religious Fantasy
 종교학자|||Religion Scholar
@@ -27652,6 +27672,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 중2병말투|||Chuuni Speech
 중2병주의|||Chuuni Warning
 중3|||3rd Year Middle
+중·단편|||Novellas·Short Stories
 중간계|||Middle Earth
 중간맛|||Medium
 중간보스|||Mid Boss
@@ -30049,6 +30070,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 투신전생기|||War God Rebirth
 투영|||Projection
 투자|||Investment
+투자가|||Investor
 투자자|||Investor
 투쟁|||Struggle
 투쟁은계속된다|||Struggle Continues
@@ -30441,6 +30463,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 팬티|||Panties
 팬픽|||Fanfic
 팬픽(패러디)|||Fanfic (Parody)
+팬픽·패러디|||Fanfiction·Parody
 팬픽션|||Fanfic
 팰월드|||Palworld
 팸돔|||Famdom
@@ -31346,6 +31369,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 학대|||Abuse
 학모|||School Hat
 학문|||Academics
+학사|||Bachelor's Degree
 학살|||Massacre
 학생|||Student
 학생남주|||Student Male Lead
