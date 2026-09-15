@@ -1,7 +1,7 @@
 {
   "shards": 128,
-  "totalRows": 20663,
-  "descriptions": 20663,
+  "totalRows": 20813,
+  "descriptions": 20813,
   "algorithm": "numeric-modulo-v1",
   "format": "id-to-synopsis-json",
   "files": [
@@ -134,5 +134,5 @@
     "naver_descriptions_shard_126.json.gz",
     "naver_descriptions_shard_127.json.gz"
   ],
-  "source": "C:/Users/ADMIN/Projects/NpiaDownloader67/.cache/recovered-build/naver/naver_descriptions.txt.gz"
+  "source": "C:/Users/ADMIN/Projects/NpiaDownloader67/.cache/naver-synopsis-publication/naver_descriptions.txt.gz"
 }
