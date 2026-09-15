@@ -1,7 +1,7 @@
 {
   "shards": 128,
-  "totalRows": 20638,
-  "descriptions": 20638,
+  "totalRows": 20641,
+  "descriptions": 20641,
   "algorithm": "numeric-modulo-v1",
   "format": "id-to-synopsis-json",
   "files": [
@@ -134,5 +134,5 @@
     "munpia_descriptions_shard_126.json.gz",
     "munpia_descriptions_shard_127.json.gz"
   ],
-  "source": "/home/runner/work/NpiaDownloader67/NpiaDownloader67/.cache/metadata-build/munpia/munpia_descriptions.txt.gz"
+  "source": "C:/Users/ADMIN/Projects/NpiaDownloader67/.cache/recovered-build/munpia/munpia_descriptions.txt.gz"
 }
