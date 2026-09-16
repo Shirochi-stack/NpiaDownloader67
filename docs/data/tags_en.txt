@@ -441,6 +441,7 @@ BIGPENNIS|||Big Penis
 BIID|||Body Integrity Dysphoria
 BJ|||Broadcaster/BJ
 BL|||Boys' Love
+BL 웹소설|||BL Web Novel
 BLACK|||BLACK
 BLACKSOULS|||Black Souls
 BLACKSUN|||Black Sun
@@ -10256,6 +10257,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 가사|||Lyrics
 가사도우미|||Housekeeper
 가상|||Virtual
+가상 세계 로판|||Alternate World Romance Fantasy
 가상국가|||Virtual Nation
 가상군대|||Virtual Army
 가상미래|||Virtual Future
@@ -14692,6 +14694,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 동양철학|||Eastern Philosophy
 동양판타지|||Eastern Fantasy
 동양풍|||Eastern-style
+동양풍 로판|||Eastern-Style Romance Fantasy
 동양풍로맨스|||Eastern Romance
 동양풍로판|||Eastern Rofan
 동양풍판타지|||Eastern Fantasy
@@ -15420,6 +15423,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 로맨|||Roman
 로맨드판타지|||Romance Fantasy
 로맨스|||Romance
+로맨스 웹소설|||Romance Web Novel
 로맨스공포|||Romance Horror
 로맨스는몰라도하렘없|||"No Harem Romance"
 로맨스릴러|||Romance Thriller
@@ -15504,6 +15508,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 로킥|||Low Kick
 로톱|||Low Top
 로판|||Romance Fantasy
+로판 웹소설|||Romance Fantasy Web Novel
 로판X|||No Rotpan
 로판괴담|||Rotpan Ghost
 로판맛|||Rofan Flavor
@@ -17108,6 +17113,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 무한회기썰|||Infinite Regression Story
 무햡|||No Happy
 무협|||Martial Arts
+무협 소설|||Martial Arts Novel
 무협격투|||Wuxia Combat
 무협고수|||Martial Expert
 무협로판|||Wuxia Rofan
@@ -19819,6 +19825,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 서양오컬트|||Western Occult
 서양판타지|||Western Fantasy
 서양풍|||Western Style
+서양풍 로판|||Western-Style Romance Fantasy
 서열|||Hierarchy
 서열대응성|||Hierarchy Response
 서열싸움|||Hierarchy Battle
@@ -23889,6 +23896,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 역병의사|||Plague Doctor
 역뾰이|||Reverse Thorn
 역사|||History
+역사/시대물|||Historical/Period Drama
 역사/전쟁|||Historical/War
 역사개변|||History Change
 역사고증X|||No Historical Accuracy
@@ -27555,6 +27563,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 정치한스푼|||Spoon Politics
 정크엔지니어|||Junk Engineer
 정통|||Orthodox/Classic
+정통 판타지|||Traditional Fantasy
 정통네토|||Orthodox Netorare
 정통다크판타지|||Classic Dark Fantasy
 정통러브코미디|||Classic Rom-Com
@@ -30887,6 +30896,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 판타|||Fantasy
 판타스틱데이즈|||Fantastic Days
 판타지|||Fantasy
+판타지 웹소설|||Fantasy Web Novel
 판타지강조|||Fantasy Focus
 판타지게임|||Fantasy Game
 판타지대체역사|||Alt-History Fantasy
@@ -31399,6 +31409,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 퓨어바닐라|||Pure Vanilla
 퓨어판타지|||Pure Fantasy
 퓨전|||Fusion
+퓨전 판타지|||Fusion Fantasy
 퓨전무협|||Fusion Martial Arts
 퓨전물|||Fusion
 퓨전빙의|||Fusion Possession
@@ -32385,6 +32396,7 @@ z装逼遭雷劈|||Z Gets Struck by Lightning for Showing Off
 혁신|||Innovation
 현강인|||Modern Strongman
 현대|||Modern
+현대 판타지|||Modern Fantasy
 현대AU|||Modern AU
 현대과학|||Modern Science
 현대괴담|||Modern Ghost Story
