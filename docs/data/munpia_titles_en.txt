@@ -6173,6 +6173,7 @@
 150447|||박쥐 인간의 도시|||City of the Bat-Man
 15045|||권마협제(拳魔俠帝)|||The Fist Demon Heroic Emperor
 150451|||잠든 고요의 눈|||The Eye of Sleeping Silence
+150456|||귀환검제의 무림공략|||The Returning Sword Emperor's Guide to the Martial World
 150473|||눈떠보니 세계최강|||I Woke Up as the World's Strongest
 150487|||미래에서 온 사나이|||The Man from the Future
 150499|||어느 날 고양이가 되었을 때|||The Day I Became a Cat
@@ -22674,6 +22675,7 @@
 285264|||귀인:완성형 인간|||The Noble One: The Perfected Human
 285268|||아포칼립스의 마물 포식자|||Monster Eater of the Apocalypse
 285273|||다시는 공동을 무시하지 마라!|||Never Ignore the Empty Lot Again!
+285286|||일반인 이세계 공략기|||An Ordinary Person's Guide to Another World
 285288|||던전도시에 갇힌 도사할아버지|||The Taoist Grandfather Trapped in a Dungeon City
 285296|||눈물받이|||Tear Catcher
 285308|||SF를 탈출했더니 스릴러 였습니다.|||I Escaped Sci-Fi and Found a Thriller
@@ -30817,6 +30819,7 @@
 342691|||아포칼립스 전생용병 [D]|||Reincarnated Mercenary of the Apocalypse
 342693|||아이돌로 회귀하다 [D]|||I Regressed as an Idol
 342698|||포수가 공을 잘 던짐|||The Catcher Throws Well
+342705|||死者 doctor (죽은 자들의 의사)|||Dead Doctor (The Doctor of the Dead)
 342708|||가면 바선생|||The Masked Cockroach
 342717|||천재 귀환자의 힐링카페|||The Genius Returnee’s Healing Cafe
 342718|||제7의 밀사(密使) - 조선왕조 비밀첩보원|||The Seventh Secret Envoy: Joseon’s Secret Agent
@@ -39903,6 +39906,7 @@
 399702|||정마검 [D]|||The Righteous-Demonic Sword [D]
 399703|||이세계 빚쟁이 공작 [D]|||The Otherworldly Debt-Ridden Duke [D]
 399704|||제육천주|||The Sixth Heavenly Lord
+399705|||뒷세계 뱀파이어의 이세계 공략기|||A Back-Alley Vampire's Guide to Another World
 399713|||악마가 들어드립니다|||The Devil Will Listen
 399716|||낙하산 대표가 일을 너무 잘함 [D]|||The Parachute CEO Is Too Good at His Job [D]
 399726|||나는 영주, 딸은 드래곤|||I’m a Lord, and My Daughter Is a Dragon
@@ -41778,6 +41782,7 @@
 413076|||소설 속 몰락한 귀족이 되었다|||I Became a Fallen Noble in a Novel
 413080|||무협 포차|||Martial Arts Pocha
 413085|||이세계 최강자로 각성했습니다|||I Awakened as the Strongest in Another World
+413101|||몬스터 마스터의 이세계 공략|||The Monster Master's Guide to Another World
 413106|||외모사슬|||The Chain of Appearance
 413107|||재벌이 반도체 전쟁을 기다림|||The Chaebol Awaits the Semiconductor War
 413121|||내가 천하제일 대물이라니!|||I'm the World's Greatest Big Shot!
@@ -45178,6 +45183,7 @@
 431857|||무공독학(武功獨學)|||Self-Taught Martial Arts
 431860|||운으로 살아남기|||Surviving on Luck
 431863|||노 데스 플레이어|||The No-Death Player
+431890|||가면남의 게이트 공략기|||The Masked Man's Guide to the Gate
 431915|||나의 아름다운 요괴 매니저|||My Beautiful Yokai Manager
 43193|||드레인 몬스터|||Drain Monster
 431937|||한스의 그림자에 리치가 산다|||A Lich Lives in Hans’s Shadow
@@ -80892,6 +80898,7 @@
 602962|||천하제일인은 은퇴하고 싶다|||The World’s Greatest Wants to Retire
 602964|||평양 증발시킨 UFO의 주인이 되었다|||I Became the Owner of the UFO That Vaporized Pyongyang
 602965|||내 눈엔 7일 후 가격이 보인다|||I Can See Prices Seven Days into the Future
+602966|||우주에 빵집을 열었더니 외계인들이 집착함|||I Opened a Bakery in Space, and the Aliens Became Obsessed
 602969|||2222년 AI가 인간을 좃간으로 정의한다면|||If AI Defines Humans as “Jotgan” in 2222
 602971|||선을 넘지 않는 관측자|||The Observer Who Never Crosses the Line
 602977|||사이버펑크 속 인간으로 살아남기|||Surviving as a Human in Cyberpunk
@@ -80985,6 +80992,7 @@
 603138|||기본만 이십 년|||Twenty Years of the Basics
 603139|||아포칼립스에 마법을 숨김|||I Hid Magic in the Apocalypse
 603140|||우리 목사님이 신점을 너무 잘 봄|||Our Pastor Is Too Good at Fortune-Telling
+603141|||퇴사 후 퓨전펑크에서 나 혼자 마법사|||After Quitting My Job, I'm the Only Mage in Fusion Punk
 603142|||무당 될 팔자인데 경찰이 됐다|||Destined to Become a Shaman, I Became a Police Officer
 603144|||죽은 헌터의 스킬을 상속받았다|||I Inherited the Skills of a Dead Hunter
 603145|||섹스로봇으로 빙의함|||I Possessed a Sex Robot
@@ -81074,6 +81082,7 @@
 603309|||미래 재벌들의 장기 이식 창고|||The Organ-Transplant Warehouse of Future Chaebols
 603314|||마왕님이 대한민국에 떨어지다|||The Demon King Lands in South Korea
 603316|||갤러리에서 신점 봐줬더니 헌터들이 집착한다|||I Read Fortunes on a Forum, and the Hunters Became Obsessed
+603320|||남태평양 한가운데에 국가를 세움|||I Founded a Nation in the Middle of the South Pacific
 603322|||귀환한 리퍼닥은 쉬고싶다|||The Returning Reaper Doctor Wants to Rest
 603325|||전장의 여우|||Fox of the Battlefield
 603331|||톱배우는 퇴근 후 대본을 쓴다|||The Top Actor Writes Scripts After Work
@@ -81095,6 +81104,7 @@
 603389|||아포칼립스에서 나 혼자 상태창|||I’m the Only One with a Status Window in the Apocalypse
 60339|||인생을 디자인하라|||Design Your Life
 603400|||무림에서 귀환했더니 퓨전펑크였다|||I Returned from Murim to a Fusionpunk World
+603401|||B급인데 궤적이 다 보임|||I'm B-Rank, but I Can See Every Trajectory
 60342|||애랑 : 단 하나의 꽃|||Aelang: The Only Flower
 603468|||멸망한 세계의 레벨업하는 사냥꾼이 되었다|||I Became a Leveling Hunter in a Ruined World
 603484|||초파리로 환생했는데 뇌 신경망이 복제됨|||I Reincarnated as a Fruit Fly, but My Neural Network Was Duplicated
@@ -81105,26 +81115,38 @@
 603732|||대한제국 황제는 자동화로 탑 등반한다|||The Korean Empire's Emperor Climbs the Tower Through Automation
 603770|||머스크, 외계인 커밍아웃. 이제 다 죽었다.|||Musk Comes Out as an Alien. We're All Dead Now.
 603776|||그 중심엔 우리가 있었다|||We Were at the Center of It
+603777|||날 해고한 회사의 최대주주가 되었다|||I Became the Largest Shareholder of the Company That Fired Me
 60378|||휴먼크래프트|||Human Craft
 603789|||게임 속 기갑으로 살아남기|||Surviving as Armor in a Game
 603798|||에일리언 흡수로 강해짐|||I Get Stronger by Absorbing Aliens
 603849|||선협에서 저그를 숨김|||I Hide the Zerg in a Xianxia World
 603868|||할리우드 여배우가 나도 모르게 내 아이를 잉태함|||A Hollywood Actress Conceived My Child Without Me Knowing
 60387|||무풍지대(武風地帶)|||Land of Martial Winds
+603880|||해고 후 SSS급 마법사로 각성함|||I Awakened as an SSS-Rank Mage After Being Fired
 60389|||달의 저편 : 상제의 레시피|||Beyond the Moon: The Heavenly Emperor's Recipe
 60390|||엘더 워커즈|||Elder Walkers
 603905|||보컬로이드인데 천재 가수로 오해받음|||I'm a Vocaloid, but Everyone Mistakes Me for a Genius Singer
 60391|||천명 [E]|||Heaven's Will [E]
+603920|||탈영한 우주 해병이 전투 순양함을 안 숨김|||The Deserted Space Marine Doesn't Hide His Battlecruiser
+603933|||퓨전펑크에 귀환한 전능의 마신|||The Omnipotent Demon God Returns to Fusion Punk
+603955|||불경기에 실직했더니 절대지능이 애원한다|||I Lost My Job in a Recession, and Absolute Intelligence Begs Me
 603974|||곤충지상주의|||Insect Supremacy
+603976|||나 혼자만 무한능력|||I'm the Only One with Infinite Abilities
 603984|||플로리다에 땅을 샀더니 이세계 포탈이 열렸다|||I Bought Land in Florida and an Otherworld Portal Opened
+603999|||나 혼자 7000경으로 은하제국 건설|||I Alone Build a Galactic Empire with 7,000 Quadrillion
 60400|||미엘다|||Mielda
+604009|||[나세진] 나는 세계의 진실을 알고 있다|||[Na Se-jin] I Know the Truth of the World
 604011|||방치형 스페이스 배럭 키우기|||Idle Space Barracks
+604014|||국가에게 버림받은 헌터가 재앙급 사이보그로 각성했다|||The Hunter Abandoned by His Nation Awakened as a Calamity-Class Cyborg
 60407|||white blood cell|||White Blood Cell
+604094|||1000원 시드로 1000억 까지|||From a 1,000-Won Seed to 100 Billion
 60411|||하산|||Hasan
 60415|||l금서l 나는 용사다|||[Forbidden Book] I Am the Hero
+604197|||나는 200년째 항해 중인, 유일한 승무원이었다|||I Was the Only Crew Member, Sailing for 200 Years
 60424|||묵혼|||Silent Soul
 60426|||배트맨: 하드라인|||Batman: Hardline
 60427|||내 맘대로 제 멋대로|||My Way, My Rules
+604271|||초월급 우주선 삼키고 탑등반|||I Swallowed a Transcendent Spaceship and Climbed the Tower
 60428|||살았니 죽었니 죽었다|||Alive, Dead, Dead
 60438|||엘리제|||Elise
 60440|||물의 유희|||The Play of Water
@@ -86487,7 +86509,6 @@
 110565|||나만 공략법을 알고 있다 [E]|||
 121712|||1980|||
 129380|||1111111|||
-150456|||귀환검제의 무림공략|||
 165289|||438|||
 169643|||2,800,000|||
 170489|||초심을 지킨 회귀자|||
@@ -86520,7 +86541,6 @@
 276141|||ㅁㅇㅁㄴㅇㅁㄴㅇ|||
 283177|||서녀공략|||
 284500|||내 스킬은 공략집 [D]|||
-285286|||일반인 이세계 공략기|||
 286326|||?!,?!?.,|||
 28761|||000001|||
 289322|||제이피그린 공략기|||
@@ -86536,7 +86556,6 @@
 332679|||11121212|||
 333510|||( )|||
 333565|||현질로 소설 공략 [D]|||
-342705|||死者 doctor (죽은 자들의 의사)|||
 350596|||000000000|||
 362816|||백룸 공략은 인테리어부터|||
 36332|||72%|||
@@ -86549,7 +86568,6 @@
 386435|||090523|||
 389397|||던전공략으로 무한성장|||
 39047|||공략왕의 생존비법|||
-399705|||뒷세계 뱀파이어의 이세계 공략기|||
 405213|||디펜스게임에 빙의 했는데 탑공략으로 바뀌었다|||
 406271|||ㅁㅁㅁㅁㅁㅁㅁ|||
 406468|||11112222|||
@@ -86558,7 +86576,6 @@
 408987|||20240416-5|||
 410591|||121231|||
 411134|||111232|||
-413101|||몬스터 마스터의 이세계 공략|||
 413511|||아마겟돈 여신공략전|||
 421301|||던전 엔 공략자: 반지하의 마왕|||
 421553|||ㄹㄷㄹㄷㄹㄷㄷㄹㄷㄹㄹㄷㄹㄹ|||
@@ -86566,7 +86583,6 @@
 424364|||ㅎㅎㄱㄱㄱ|||
 42989|||공략왕 in 던전|||
 431628|||5264|||
-431890|||가면남의 게이트 공략기|||
 435491|||240924|||
 435686|||20240925-13!|||
 435826|||20240926-8|||
@@ -86622,24 +86638,8 @@
 592010|||4095|||
 595765|||ㅌㅅㅌㅌㅌ|||
 596700|||.............................|||
-602966|||우주에 빵집을 열었더니 외계인들이 집착함|||
 603137|||1-1|||
-603141|||퇴사 후 퓨전펑크에서 나 혼자 마법사|||
 603183|||13-017|||
-603320|||남태평양 한가운데에 국가를 세움|||
-603401|||B급인데 궤적이 다 보임|||
-603777|||날 해고한 회사의 최대주주가 되었다|||
-603880|||해고 후 SSS급 마법사로 각성함|||
-603920|||탈영한 우주 해병이 전투 순양함을 안 숨김|||
-603933|||퓨전펑크에 귀환한 전능의 마신|||
-603955|||불경기에 실직했더니 절대지능이 애원한다|||
-603976|||나 혼자만 무한능력|||
-603999|||나 혼자 7000경으로 은하제국 건설|||
-604009|||[나세진] 나는 세계의 진실을 알고 있다|||
-604014|||국가에게 버림받은 헌터가 재앙급 사이보그로 각성했다|||
-604094|||1000원 시드로 1000억 까지|||
-604197|||나는 200년째 항해 중인, 유일한 승무원이었다|||
-604271|||초월급 우주선 삼키고 탑등반|||
 60633|||ㅓ|||
 63401|||49|||
 7571|||5시 16분|||
