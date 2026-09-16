@@ -20305,6 +20305,7 @@
 268743|||학생도 아니고 선생도 아니고|||Neither Student nor Teacher
 268744|||아카데미 천재 마학자가 되었다|||I Became the Academy's Genius Demonologist
 268747|||재능 없는 코치의 생존일기|||The Untalented Coach's Survival Diary
+268752|||침범|||Invasion
 268753|||[배신자]|||[The Traitor]
 268770|||사랑을 알고 싶은 황제는 시간을 되돌린다|||The Emperor Who Wants to Know Love Turns Back Time
 268778|||계세(繼世)|||Gyesae
@@ -23808,6 +23809,7 @@
 29350|||퇴폐한 세계로부터의 편지|||Letter from a Decadent World
 293500|||피폐한 생존일지|||A Harsh Survival Journal
 29351|||황제의 길|||The Emperor's Path
+293516|||진지하게 쓰는 마왕성 공략|||A Serious Guide to Conquering the Demon King’s Castle
 293519|||그렇게 그들은 XX하게 살았다고 합니다.|||And So They Lived XX-ly Ever After.
 293520|||별궁애문 [물 위에 뜬 달, 왕으로 품다]|||The Star Palace's Love Story [Embracing the Moon Floating on Water as a King]
 293533|||검은색|||Black
@@ -86513,7 +86515,6 @@
 265707|||...ㅇ.ㅇ.|||
 266119|||공략법을 아는 런던의 마법사|||
 267720|||3.6.5|||
-268752|||침범|||
 270596|||321231|||
 271989|||123432432|||
 276141|||ㅁㅇㅁㄴㅇㅁㄴㅇ|||
@@ -86526,7 +86527,6 @@
 289421|||57794|||
 290294|||공략합니다|||
 291678|||만렙 플레이어의 쓸만한 공략방송 [D]|||
-293516|||진지하게 쓰는 마왕성 공략|||
 301020|||01300930|||
 302140|||데스 게임 공략하기|||
 312368|||12323112|||
