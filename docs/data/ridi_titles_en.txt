@@ -6387,6 +6387,7 @@
 2065161661|||삼류낭인은 검제되기가 싫다|||The Third-Rate Wanderer Doesn't Want to Become a Sword Emperor
 2065162169|||예고의 음악 천재가 되었다|||I Became the Arts High School's Music Genius
 2065162444|||회귀하고 더 강해진다|||I Get Stronger After Regressing
+2065162780|||몰락명가의 절대무신|||The Absolute Martial God of a Fallen Noble House
 2067000093|||대협: 개천에서 용 나다|||The Great Hero: A Dragon Rises from a Small Stream
 2067000406|||면왕|||The Noodle King
 2067000767|||야도[野刀]|||Wild Sword
@@ -8846,6 +8847,8 @@
 2336050119|||멋있게 죽으려다 가이드로 눈떴다 (15세 개정판)|||I Woke Up as a Guide While Trying to Die Coolly (15+ Revised Edition)
 2336050438|||여기 고양이 카페 아니다|||This Isn't a Cat Café
 2336050506|||여기 고양이 카페 아니다 (15세 개정판)|||This Isn't a Cat Café (15+ Revised Edition)
+2336050945|||욕계|||The Realm of Desire
+2336051005|||욕계 (15세 개정판)|||The Realm of Desire (Revised 15+ Edition)
 2351000198|||배구 마에스트로|||Volleyball Maestro
 2351001414|||괴수 세계의 한의사|||The Oriental Doctor in the Monster World
 2351001673|||레이드 커맨더|||Raid Commander
@@ -16547,6 +16550,7 @@
 425681710|||행운부적 아이돌 멤버가 탈퇴했다|||The Lucky-Charm Idol Member Quit
 425682063|||재벌 매니저는 조용히 살고 싶다|||The Tycoon Manager Wants to Live Quietly
 425682256|||광산 찍고 건설 재벌|||From Mining to Construction Tycoon
+425682792|||미래를 보는 정치인|||The Politician Who Sees the Future
 4267000001|||오르카 맨션(ORCA MANSION)|||ORCA MANSION
 4274000001|||윈터 헌팅|||Winter Hunting
 4287000267|||새벽달 이울다|||The Dawn Moon Wanes
@@ -18756,6 +18760,10 @@
 6083000051|||달빛조각사|||The Legendary Moonlight Sculptor
 6083002915|||달콤, 찬란한 재벌기|||The Sweet, Brilliant Life of a Chaebol
 6083003207|||이혼 후 코인 대박|||A Huge Coin Windfall After Divorce
+6083003554|||전장의 마에스트로|||The Maestro of the Battlefield
+6083004163|||궁극의 대제|||The Ultimate Great Emperor
+6083004388|||전사의 나라|||The Land of Warriors
+6083004638|||바람의 칼날|||Blade of the Wind
 6130000150|||업어 키운 BJ|||The BJ I Raised on My Back
 6130000427|||회귀한 축구선수가 혼자만 스킬 씀|||The Regressed Soccer Player Is the Only One with Skills
 6131000003|||퍼스트일루전|||First Illusion
@@ -20167,6 +20175,8 @@
 809062259|||제로아워 로맨스|||Zero Hour Romance
 809062341|||신혼집이 괴담 유령선이다|||Our Newlywed Home Is a Horror Ghost Ship
 809062412|||신혼집이 괴담 유령선이다 (15세 개정판)|||Our Newlywed Home Is a Horror Ghost Ship (15+ Revised Edition)
+809062759|||망돌 10년 덕질하기 vs 죽기|||Stanning a Failed Idol for 10 Years vs. Dying
+809062820|||망돌 10년 덕질하기 vs 죽기 (15세 개정판)|||Stanning a Failed Idol for 10 Years vs. Dying (Revised 15+ Edition)
 839000135|||후작 영애는 무위도식 하고 싶어|||The Marchioness's Daughter Wants to Live Idly
 839000223|||캣츠가든|||Cat's Garden
 839000614|||캣츠가든 외전|||Cat's Garden: Side Story
@@ -20675,6 +20685,7 @@
 875174625|||내 새끼 데뷔시키려다 내가 데뷔하게 생김|||I Tried to Debut My Kid, but I’m About to Debut Instead
 875175114|||초월급 헌터는 미등록 귀환자|||The Transcendent-Rank Hunter Is an Unregistered Returner
 875175405|||177km를 던지는 천재 좌완투수는 야구가 쉽다|||Baseball Is Easy for the Genius Left-Hander Who Throws 177 km/h
+875175658|||프로 아이돌의 육성 공략|||Raising a Pro Idol
 875175878|||개정판 \u007c 홍염의 성좌|||Revised Edition \u007c Constellation of Crimson Flame
 875176124|||개정판 \u007c 북천의 사슬|||Revised Edition \u007c Chains of the Northern Heavens
 875176400|||라스베이거스의 마법사|||The Mage of Las Vegas
@@ -21028,11 +21039,8 @@
 1823031533|||공략 당하는 고인물|||
 1962127958|||시한부 플레이어의 천재적 공략법|||
 2008050786|||공략집 든 이방인|||
-2065162780|||몰락명가의 절대무신|||
 2107157934|||전생 소드마스터의 탑 공략|||
 2313000001|||던전 공략 LIVE|||
-2336050945|||욕계|||
-2336051005|||욕계 (15세 개정판)|||
 2877000379|||공략은 전지적으로|||
 3092045772|||회귀한 혈기사의 공략법|||
 3228124263|||국정원의 마탑 공략|||
@@ -21047,15 +21055,7 @@
 425606091|||1903|||
 425629250|||1973|||
 425666977|||유부녀 공략 시스템 각성!|||
-425682792|||미래를 보는 정치인|||
 505027633|||현질로 소설 공략|||
-6083003554|||전장의 마에스트로|||
-6083004163|||궁극의 대제|||
-6083004388|||전사의 나라|||
-6083004638|||바람의 칼날|||
 777039546|||공략자들|||
 777103514|||역대급 시한부 공략자|||
-809062759|||망돌 10년 덕질하기 vs 죽기|||
-809062820|||망돌 10년 덕질하기 vs 죽기 (15세 개정판)|||
-875175658|||프로 아이돌의 육성 공략|||
 945008054|||40,41|||
