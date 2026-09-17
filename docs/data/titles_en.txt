@@ -365,7 +365,7 @@
 434613|||얼마면 돼요, 오빠?|||How Much Will It Cost, Oppa?
 348150|||망한 영지의 여기사가 됐다|||I Became a Female Knight of a Ruined Territory
 442208|||이세계 야만인으로 살아남기|||The Barbarian Enters the Dungeon Again Today
-450428|||아카데미에 편의점을 차렸더니 집착한다|||I Opened a Convenience Store at the Academy and Now They're Obsessed
+450428|||아카데미에 편의점을 차렸다|||I Opened a Convenience Store at the Academy and Now They're Obsessed
 448500|||《단편모음 – 원탁의 마녀》|||The Undying Immortal Witch
 443583|||《전직 청부업자의 악당 생활》|||A Former Killer's Villain Life
 285419|||미인인 소꿉친구가 나에게 들이댄다|||My Beautiful Childhood Friend Is Coming onto Me
@@ -59975,6 +59975,7 @@
 442605|||[원피스]최강의 검사가 되어 원피스에 떨어졌다!|||(One Piece) I Became the Strongest Swordsman and Dropped Into One Piece!
 451774|||[프문 X SCP] 내가 로보토미 펀치가 될게.....|||[Project Moon X SCP] I'll Be the Lobotomy Punch.....
 451638|||[원피스] 로빈의 소꿉친구가 되었다.|||[One Piece] I Became Robin's Childhood Friend
+451859|||[던만추] 백야검귀(白夜劍鬼)|||[DanMachi] White Night Sword Demon
 451543|||(포켓몬스터) 세계챔피언하고 칼로스퀸의 아이로 살아간다는 것|||(Pokémon) Living as the Child of the World Champion and the Kalos Queen
 432437|||내가 했던 쯔꾸르 게임에 빙의하다|||I Possessed the RPG Maker Game I Made
 443275|||[유희생활] 별빛의 마술사|||[Yuhee Life] The Magician of Starlight
@@ -60109,6 +60110,7 @@
 406124|||[페그오×가면라이더] 페이트 이대로 가면... 오더!|||[FGO x Kamen Rider] Fate, If It Goes Like This... Order!
 431503|||[전독시/로보토미] 관리자 X는 A가 아니에요!|||[The Novel's Extra X Lobotomy Corporation] Manager X Is Not A!
 286381|||[히로아카] 빙의한 아카데미 속 고인물|||[MHA] Veteran in the Academy I Possessed
+450588|||[동방] 매화록(賣花錄)|||[Touhou] The Plum Blossom Seller's Chronicle
 428634|||[프문]주인공 아니니까 그만 좀 합시다|||[PrMoon] I'm Not the Protagonist So Please Stop
 443377|||[블루 아카이브] 선생님의 뒷모습|||[Blue Archive] Sensei's Back
 430301|||[블리치]이 캐릭터 하나면 니들이 빠는 캐릭 몰살 가능|||[Bleach] With Just This One Character, I Can Wipe Out All Your Favorites
@@ -75763,7 +75765,7 @@
 24172|||그냥 백합 이야기|||Just a Yuri Story
 226120|||다른 학교의 여학생을 도왔더니 친구부터 시작하게 되었습니다|||I Helped a Female Student from Another School and We Started as Friends
 224455|||전속 집사를 그만두니 모셨던 아가씨가 유난히 가까운데|||I Quit Being a Personal Butler and the Young Lady I Served is Unusually Close
-227044|||세드릭 디고리에게 씀 |해리포터|||||
+227044|||세드릭 디고리에게 씀 |해리포터|||Written to Cedric Diggory | Harry Potter
 169165|||초능력 고등학교|||Superpower High School
 212173|||여사친 진|||Female Friend Jin
 155802|||(전) 무림맹주 (현) 미소녀|||(Former) Murim Alliance Leader (Current) Beautiful Girl
@@ -92262,6 +92264,4 @@
 451017|||더 복싱|||The Boxing
 450847|||수선자가 강호를 주유함|||A Mender Tours the Martial World
 450404|||죽음의 게임에 채용되었다.|||Hired Into a Death Game
-451859|||[던만추] 백야검귀(白夜劍鬼)|||[DanMachi] White Night Sword Demon
-450588|||[동방] 매화록(賣花錄)|||[Touhou] The Plum Blossom Seller's Chronicle
 439888|||ㅗㅕ요요|||
