@@ -372,6 +372,7 @@ $유선이$|||$Yuseon$
 15번째|||15th
 15세|||15 Years Old
 15세기|||15th Century
+15세이상|||Ages 15+
 15세이상관람가|||Rated 15+
 15세이상권장|||Recommended for 15+
 15세이용|||Rated 15+
@@ -423,6 +424,7 @@ $유선이$|||$Yuseon$
 199X년.|||199X
 19PLUS|||19+
 19X|||19X
+19ㄱ|||19G
 19금|||R-19
 19금X|||No 19+
 19금같은15금|||15+ Like 19+
@@ -7556,6 +7558,7 @@ z커리어우먼|||Z Career Woman
 ㅗㅗ|||Oo
 ㅜㅜ|||Sad
 ㅜㅜㅜㅜㅜㅜ|||Uuuuuu
+ㅠ|||T_T
 ㅠㅎ률ㅇ휴|||Keyboard Smash
 ㅠㅠㅠ|||T_T_T
 ㅠㅠㅠㅠ|||Crying
@@ -30998,6 +31001,7 @@ z커리어우먼|||Z Career Woman
 대부호|||Tycoon
 대북사업가|||North Korea Businessman
 대뷔작|||Debut Work
+대비|||Preparation
 대사가|||Dialogue
 대사관|||Embassy
 대사제_딸|||High Priest's Daughter
@@ -38534,6 +38538,7 @@ z커리어우먼|||Z Career Woman
 만능|||Versatile
 만능경비원|||All-Purpose Guard
 만능공|||All-Rounder Top
+만능남주|||All-Rounder Male Lead
 만능내비어플|||Omni Navi App
 만능녀|||All-Rounder Woman
 만능돌|||All-Rounder Idol
@@ -40293,6 +40298,7 @@ z커리어우먼|||Z Career Woman
 모든시리즈예정|||All Series Planned
 모든어드벤트|||All Advent
 모든연예인|||All Celebrities
+모든욕망의집합|||Sum of All Desires
 모든유형의여캐|||All Heroine Types
 모든장르|||All Genres
 모든장르가능|||All Genres OK
@@ -42116,6 +42122,7 @@ z커리어우먼|||Z Career Woman
 물괴|||Water Monster
 물귀신|||Water Ghost
 물낭비|||Water Waste
+물드는|||Falling Under the Spell
 물든|||Colored
 물랑루즈|||Moulin Rouge
 물랑말랑|||Squishy
@@ -54010,6 +54017,7 @@ z커리어우먼|||Z Career Woman
 소녀가장|||Girl Breadwinner
 소녀가장(?)|||Breadwinner Girl?
 소녀가장여주|||Breadwinner Girl Heroine
+소녀감성J의|||Girlhood Sensibility J's
 소녀검객|||Girl Swordswoman
 소녀는|||The Girl
 소녀더와일즈|||Girls de Wilde
@@ -54093,6 +54101,7 @@ z커리어우먼|||Z Career Woman
 소년점프|||Shonen Jump
 소년주인공|||Boy Protagonist
 소년탐정김전일|||Detective Kim Jeon-il
+소년탐정단|||Boy Detectives
 소년판타지|||Boy Fantasy
 소년황제|||Boy Emperor
 소노라|||Sonora
@@ -69916,6 +69925,7 @@ z커리어우먼|||Z Career Woman
 우정과|||Friendship and
 우정과사랑|||Friendship and Love
 우정과사랑사이|||Between Friendship And Love
+우정관|||View of Friendship
 우정권|||Friendship Rights
 우정노력승리|||Friendship Effort Win
 우정링|||Friendship Ring
@@ -72053,6 +72063,7 @@ z커리어우먼|||Z Career Woman
 육성|||Raising/Nurturing
 육성.|||Raising
 육성게임|||Raising Game
+육성계획|||Growth Plan
 육성물|||Voice Tale
 육성방법|||Training Method
 육성법|||Raising Method
@@ -77988,6 +77999,7 @@ z커리어우먼|||Z Career Woman
 전개_빠름|||Fast-Paced Plot
 전개가느림|||Slow Plot
 전개가빠른|||Fast-Paced Plot
+전개가씨원한|||Fast-Paced
 전개가어질어질함|||Dizzy Plot
 전개느릴수도|||May Have Slow Pacing
 전개느림|||Slow Development
@@ -97411,6 +97423,7 @@ z커리어우먼|||Z Career Woman
 호카게|||Hokage
 호쾌|||Refreshing
 호쾌한액션물|||Exhilarating Action
+호쾌한주인공|||Bold Protagonist
 호크룩스|||Horcrux
 호크마|||Hokma
 호크모스|||Hawk Moth
