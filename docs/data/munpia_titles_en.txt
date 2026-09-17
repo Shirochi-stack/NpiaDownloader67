@@ -79171,6 +79171,7 @@
 599378|||로또 당첨 후 아포칼립스를 인수함|||I Bought the Apocalypse After Winning the Lottery
 599379|||지구, 철거합니다|||Earth, We’re Demolishing It
 599381|||물리학 박사학위 땄더니 마법대학교 신입생이 됐다|||I Earned a PhD in Physics and Became a Freshman at a Magic University
+599387|||사이버펑크 검은머리 FBI 요원이 되었다|||I Became a Black-Haired FBI Agent in Cyberpunk
 599388|||불가사리(혼돈을 삼키는 소년)|||Starfish (The Boy Who Swallows Chaos)
 599390|||2370년 고고학자 한지우 고전게임으로 재벌되다|||In 2370, Archaeologist Han Ji-woo Becomes a Tycoon through Classic Games
 599392|||아이돌 서바이벌인 줄 알았는데 데스게임이랍니다|||I Thought It Was an Idol Survival Show, but It's a Death Game
@@ -81108,11 +81109,13 @@
 60342|||애랑 : 단 하나의 꽃|||Aelang: The Only Flower
 603468|||멸망한 세계의 레벨업하는 사냥꾼이 되었다|||I Became a Leveling Hunter in a Ruined World
 603484|||초파리로 환생했는데 뇌 신경망이 복제됨|||I Reincarnated as a Fruit Fly, but My Neural Network Was Duplicated
+603556|||조선의 대마왕이 되었다|||I Became Joseon’s Great Demon King
 60359|||심해로 가는 길|||The Road to the Deep Sea
 60369|||비공식직업|||Unofficial Occupation
 603698|||전지전능의 ai 관리자가 되었다|||I Became an Omnipotent AI Administrator
 603727|||퇴사 후 초월형 AI와 힐링 라이프를 만끽한다|||After Quitting, I Enjoy a Healing Life with a Transcendent AI
 603732|||대한제국 황제는 자동화로 탑 등반한다|||The Korean Empire's Emperor Climbs the Tower Through Automation
+603762|||외신의 전뇌칩을 주웠다|||I Picked Up an Outer God’s Cyberbrain Chip
 603770|||머스크, 외계인 커밍아웃. 이제 다 죽었다.|||Musk Comes Out as an Alien. We're All Dead Now.
 603776|||그 중심엔 우리가 있었다|||We Were at the Center of It
 603777|||날 해고한 회사의 최대주주가 되었다|||I Became the Largest Shareholder of the Company That Fired Me
@@ -81138,9 +81141,11 @@
 604009|||[나세진] 나는 세계의 진실을 알고 있다|||[Na Se-jin] I Know the Truth of the World
 604011|||방치형 스페이스 배럭 키우기|||Idle Space Barracks
 604014|||국가에게 버림받은 헌터가 재앙급 사이보그로 각성했다|||The Hunter Abandoned by His Nation Awakened as a Calamity-Class Cyborg
+604024|||국가에 버림받고, 골렘마스터가 됐다|||Abandoned by the Nation, I Became a Golem Master
 60407|||white blood cell|||White Blood Cell
 604094|||1000원 시드로 1000억 까지|||From a 1,000-Won Seed to 100 Billion
 60411|||하산|||Hasan
+604130|||김전뇌, 100조 달러짜리 육신의 주인.|||Kim Jeon-noe, Master of a Hundred Trillion Dollar Body
 60415|||l금서l 나는 용사다|||[Forbidden Book] I Am the Hero
 604197|||나는 200년째 항해 중인, 유일한 승무원이었다|||I Was the Only Crew Member, Sailing for 200 Years
 60424|||묵혼|||Silent Soul
@@ -81149,12 +81154,19 @@
 604271|||초월급 우주선 삼키고 탑등반|||I Swallowed a Transcendent Spaceship and Climbed the Tower
 60428|||살았니 죽었니 죽었다|||Alive, Dead, Dead
 60438|||엘리제|||Elise
+604399|||귀환수선전 (歸還修仙傳)|||The Returner’s Cultivation Chronicle
 60440|||물의 유희|||The Play of Water
+604426|||제로필드(Zero Field)|||Zero Field
+604430|||내가 딸친 휴지 들고 백악관에서 찾아옴|||I Went to the White House with the Tissue I Used to Masturbate
+604434|||사랑을 배운 AI는 폐기될 예정이다|||The AI That Learned Love Is Scheduled for Disposal
+604438|||왕따가 다 씹어먹음|||The Outcast Devours Everything
 60444|||Quest(퀘스트)|||Quest
+604445|||미래 돈이 현재의 내게 쏟아짐|||Future Money Pours into My Present
 60451|||내 심장은 필드에 있다|||My Heart Is on the Field
 60455|||본능의 시대 [E]|||The Age of Instinct [E]
 60459|||아포엘 (모험의 시대)|||Apoel: The Age of Adventure
 60460|||신낙원 (新樂園)|||The New Paradise
+604617|||나노 삼국지 상인전, 제국을 품다|||Nano Romance of the Three Kingdoms: The Merchant Embraces an Empire
 60463|||공주의 생일|||The Princess's Birthday
 60466|||그 남자 용이었답니다|||That Man Was a Dragon
 60469|||단편(모음)|||Short Stories
@@ -86638,21 +86650,9 @@
 592010|||4095|||
 595765|||ㅌㅅㅌㅌㅌ|||
 596700|||.............................|||
-599387|||사이버펑크 검은머리 FBI 요원이 되었다|||
 603137|||1-1|||
 603183|||13-017|||
-603556|||조선의 대마왕이 되었다|||
-603762|||외신의 전뇌칩을 주웠다|||
-604024|||국가에 버림받고, 골렘마스터가 됐다|||
-604130|||김전뇌, 100조 달러짜리 육신의 주인.|||
-604399|||귀환수선전 (歸還修仙傳)|||
-604426|||제로필드(Zero Field)|||
-604430|||내가 딸친 휴지 들고 백악관에서 찾아옴|||
-604434|||사랑을 배운 AI는 폐기될 예정이다|||
-604438|||왕따가 다 씹어먹음|||
-604445|||미래 돈이 현재의 내게 쏟아짐|||
 604512|||냉동인간인데 우주 전쟁 공략법이 보임|||
-604617|||나노 삼국지 상인전, 제국을 품다|||
 60633|||ㅓ|||
 63401|||49|||
 7571|||5시 16분|||
