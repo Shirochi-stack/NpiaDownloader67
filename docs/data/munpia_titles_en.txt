@@ -81112,6 +81112,7 @@
 603556|||조선의 대마왕이 되었다|||I Became Joseon’s Great Demon King
 60359|||심해로 가는 길|||The Road to the Deep Sea
 60369|||비공식직업|||Unofficial Occupation
+603694|||천도가 내게 배당금을 준다|||Heaven’s Way Pays Me Dividends
 603698|||전지전능의 ai 관리자가 되었다|||I Became an Omnipotent AI Administrator
 603727|||퇴사 후 초월형 AI와 힐링 라이프를 만끽한다|||After Quitting, I Enjoy a Healing Life with a Transcendent AI
 603732|||대한제국 황제는 자동화로 탑 등반한다|||The Korean Empire's Emperor Climbs the Tower Through Automation
@@ -81121,15 +81122,18 @@
 603777|||날 해고한 회사의 최대주주가 되었다|||I Became the Largest Shareholder of the Company That Fired Me
 60378|||휴먼크래프트|||Human Craft
 603789|||게임 속 기갑으로 살아남기|||Surviving as Armor in a Game
+603793|||목숨걸고 탈옥했더니 세상이 망했다|||I Risked My Life to Escape Prison, Only to Find the World Destroyed
 603798|||에일리언 흡수로 강해짐|||I Get Stronger by Absorbing Aliens
 603849|||선협에서 저그를 숨김|||I Hide the Zerg in a Xianxia World
 603868|||할리우드 여배우가 나도 모르게 내 아이를 잉태함|||A Hollywood Actress Conceived My Child Without Me Knowing
 60387|||무풍지대(武風地帶)|||Land of Martial Winds
 603880|||해고 후 SSS급 마법사로 각성함|||I Awakened as an SSS-Rank Mage After Being Fired
+603889|||최강 전자 냥이에게 간택당해 탑 등반|||Chosen by the Strongest Cyber Cat to Climb the Tower
 60389|||달의 저편 : 상제의 레시피|||Beyond the Moon: The Heavenly Emperor's Recipe
 60390|||엘더 워커즈|||Elder Walkers
 603905|||보컬로이드인데 천재 가수로 오해받음|||I'm a Vocaloid, but Everyone Mistakes Me for a Genius Singer
 60391|||천명 [E]|||Heaven's Will [E]
+603915|||정자 주고 탑 배우로 회귀했습니다|||I Donated Sperm and Regressed as a Tower Actor
 603920|||탈영한 우주 해병이 전투 순양함을 안 숨김|||The Deserted Space Marine Doesn't Hide His Battlecruiser
 603933|||퓨전펑크에 귀환한 전능의 마신|||The Omnipotent Demon God Returns to Fusion Punk
 603955|||불경기에 실직했더니 절대지능이 애원한다|||I Lost My Job in a Recession, and Absolute Intelligence Begs Me
@@ -81153,9 +81157,12 @@
 60427|||내 맘대로 제 멋대로|||My Way, My Rules
 604271|||초월급 우주선 삼키고 탑등반|||I Swallowed a Transcendent Spaceship and Climbed the Tower
 60428|||살았니 죽었니 죽었다|||Alive, Dead, Dead
+604302|||우주 최강의 실험체가 되었다|||I Became the Strongest Test Subject in the Universe
+604368|||외계어를 나만 알아듣자 전 세계가 집착함|||When Only I Could Understand Alien Language, the Whole World Became Obsessed
 60438|||엘리제|||Elise
 604399|||귀환수선전 (歸還修仙傳)|||The Returner’s Cultivation Chronicle
 60440|||물의 유희|||The Play of Water
+604409|||국가에게 버림받은 S급 헌터는 미국으로 갈아탑니다|||The S-Class Hunter Abandoned by His Country Switches to America
 604426|||제로필드(Zero Field)|||Zero Field
 604430|||내가 딸친 휴지 들고 백악관에서 찾아옴|||I Went to the White House with the Tissue I Used to Masturbate
 604434|||사랑을 배운 AI는 폐기될 예정이다|||The AI That Learned Love Is Scheduled for Disposal
@@ -81170,8 +81177,13 @@
 60463|||공주의 생일|||The Princess's Birthday
 60466|||그 남자 용이었답니다|||That Man Was a Dragon
 60469|||단편(모음)|||Short Stories
+604694|||망각은 더 이상 사라지지 않는다|||Oblivion No Longer Disappears
 6047|||한걸음씩|||One Step at a Time
+604710|||뉴욕 할렘가에서 치킨팔아 살아남기|||Surviving by Selling Chicken in Harlem, New York
 60476|||초월의 탑R|||Tower of Transcendence R
+604762|||수명은행 차렸더니 재벌들이 줄을 섬 [선협]|||I Opened a Lifespan Bank, and Chaebol Line Up [Xianxia]
+604824|||단풍이야기 게임 속 아시안느가 되었다|||I Became Asianne in the MapleStory Game
+604895|||국가에 버림받고 탑에 집을 차렸는데 아포칼립스|||Abandoned by the Nation, I Built a Home in the Tower—Then the Apocalypse Came
 60491|||다인종 수사 팀|||Multiracial Investigation Team
 605|||지존귀환|||Return of the Supreme
 60506|||마지막 빗방울|||The Last Raindrop
@@ -86652,19 +86664,7 @@
 596700|||.............................|||
 603137|||1-1|||
 603183|||13-017|||
-603694|||천도가 내게 배당금을 준다|||
-603793|||목숨걸고 탈옥했더니 세상이 망했다|||
-603889|||최강 전자 냥이에게 간택당해 탑 등반|||
-603915|||정자 주고 탑 배우로 회귀했습니다|||
-604302|||우주 최강의 실험체가 되었다|||
-604368|||외계어를 나만 알아듣자 전 세계가 집착함|||
-604409|||국가에게 버림받은 S급 헌터는 미국으로 갈아탑니다|||
 604512|||냉동인간인데 우주 전쟁 공략법이 보임|||
-604694|||망각은 더 이상 사라지지 않는다|||
-604710|||뉴욕 할렘가에서 치킨팔아 살아남기|||
-604762|||수명은행 차렸더니 재벌들이 줄을 섬 [선협]|||
-604824|||단풍이야기 게임 속 아시안느가 되었다|||
-604895|||국가에 버림받고 탑에 집을 차렸는데 아포칼립스|||
 60633|||ㅓ|||
 63401|||49|||
 7571|||5시 16분|||
