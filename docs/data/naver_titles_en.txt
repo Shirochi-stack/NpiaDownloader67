@@ -30221,7 +30221,6 @@
 1161673|||시한부 모태솔로 작가 대마법사의 기연을 얻고 각성하다.|||A Terminally Ill Forever-Single Writer Awakens After Gaining an Archmage’s Fortuitous Opportunity
 1161681|||나에게도 죽음이 허락되길|||May Death Be Granted to Me Too
 1161682|||방패 용사와 이세계 공주!|||The Shield Hero and the Otherworldly Princess!
-1161684|||게임 속 능력을 가지고 만능 대학생을 꿈꾼다.|||With Game Abilities, I Dream of Becoming an All-Purpose College Student
 1161685|||앙숙인데요, 계약 연인이 되었습니다|||We’re Enemies, but We Became Contract Lovers
 1161686|||중독짜|||The Addict
 1161687|||이데아|||Idea
@@ -80958,6 +80957,7 @@
 1159404|||: )*|||
 1159578|||.|||
 1160797|||?|||
+1161684|||겜능력을 얻고나니 여신급 히로인이 자꾸 엮임|||
 1162515|||.|||
 1163187|||.|||
 1163379|||-|||
