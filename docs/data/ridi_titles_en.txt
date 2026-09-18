@@ -7333,6 +7333,7 @@
 2107156912|||종말의 마법사가 되었다|||I Became the Mage of the Apocalypse
 2107157419|||네크로 대장장이였던 전생을 각성했다|||I Awakened My Past Life as a Necro-Blacksmith
 2107157420|||나 혼자 생존으로 레벨업|||I Level Up by Surviving Alone
+2107157934|||전생 소드마스터의 탑 공략|||The Reincarnated Sword Master Conquers the Tower
 2107157970|||역대급 다재다능 제작 플레이어|||The Legendary All-Round Crafting Player
 2107158035|||회귀한 정령사는 호텔 경영이 너무 쉽다|||Hotel Management Is Too Easy for the Regressed Spirit Mage
 2107158644|||회귀 후 역대급 귀환자가 되었다|||After Regression, I Became a Legendary Returnee
@@ -8849,6 +8850,7 @@
 2336050506|||여기 고양이 카페 아니다 (15세 개정판)|||This Isn't a Cat Café (15+ Revised Edition)
 2336050945|||욕계|||The Realm of Desire
 2336051005|||욕계 (15세 개정판)|||The Realm of Desire (Revised 15+ Edition)
+2336051186|||일단 악역이 맞긴 한데요|||I Am a Villain, Technically
 2351000198|||배구 마에스트로|||Volleyball Maestro
 2351001414|||괴수 세계의 한의사|||The Oriental Doctor in the Monster World
 2351001673|||레이드 커맨더|||Raid Commander
@@ -11798,6 +11800,7 @@
 3228123323|||전생이 천재였다|||My Past Life Was a Genius
 3228123650|||정령 하렘왕|||The Elemental Harem King
 3228123956|||두 번 사는 소드마스터|||The Swordmaster Who Lives Twice
+3228124263|||국정원의 마탑 공략|||The NIS Conquers the Magic Tower
 3228124483|||회귀자의 삼시세끼|||The Regressor's Three Meals a Day
 3228124835|||연예계 괴물 천재들이 날 너무 좋아함|||The Entertainment World's Monster Geniuses Love Me Too Much
 3228125092|||곧 망할 대기업의 오너 일가가 되었다|||I Became Part of a Soon-to-Fail Conglomerate Family
@@ -21039,12 +21042,9 @@
 1823031533|||공략 당하는 고인물|||
 1962127958|||시한부 플레이어의 천재적 공략법|||
 2008050786|||공략집 든 이방인|||
-2107157934|||전생 소드마스터의 탑 공략|||
 2313000001|||던전 공략 LIVE|||
-2336051186|||일단 악역이 맞긴 한데요|||
 2877000379|||공략은 전지적으로|||
 3092045772|||회귀한 혈기사의 공략법|||
-3228124263|||국정원의 마탑 공략|||
 3586109071|||호텔리어의 이세계 공략|||
 3586122711|||미리보기 마법사의 던전 공략법|||
 4178000348|||던전공략 특별회수반|||
