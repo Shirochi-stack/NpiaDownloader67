@@ -31596,6 +31596,7 @@ z커리어우먼|||Z Career Woman
 던전경영물|||Dungeon Management
 던전계획|||Dungeon Plan
 던전공략|||Dungeon攻略
+던전공략하는여주|||Female Lead Who Clears Dungeons
 던전관리|||Dungeon Management
 던전도서관|||Dungeon Library
 던전도시|||Dungeon City
@@ -57491,6 +57492,7 @@ z커리어우먼|||Z Career Woman
 시원여주|||Refreshing Female Lead
 시원의정령|||Cool Spirit
 시원찮은|||Underwhelming
+시원통쾌|||Cathartic
 시원한|||Refreshing
 시원한사이다|||Refreshing Catharsis
 시원함|||Refreshing
@@ -88186,6 +88188,7 @@ z커리어우먼|||Z Career Woman
 콰활발랄녀|||Cheerful Girl
 콴시|||Quincy
 콸콸|||Gushing
+쾌|||Catharsis
 쾌감|||Pleasure
 쾌검|||Swift Sword
 쾌고지수|||Cheerful Sadist
