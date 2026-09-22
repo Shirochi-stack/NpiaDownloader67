@@ -342,6 +342,8 @@ $유선이$|||$Yuseon$
 12서클의|||Of the 12th Circle
 12성좌|||12 Zodiac Signs
 12세|||12 Years Old
+12시01분|||12:01 AM
+12시1분|||12:01 AM
 12월|||December
 12월21일|||December 21
 12인의|||12 People
@@ -26279,6 +26281,7 @@ z커리어우먼|||Z Career Woman
 나이차이|||Age Gap
 나이차이.|||Age Difference.
 나이차이극복스토리|||Overcoming an Age Gap
+나이차이로맨스|||Age Gap Romance
 나이차이많은|||Large Age Gap
 나이차이많이남|||Large Age Gap
 나이차이커플|||Age-Gap Couple
@@ -45635,6 +45638,7 @@ z커리어우먼|||Z Career Woman
 벤다!x하이스쿨DXD|||Benda! x High School DxD
 벤다.|||Benda
 벤더우드|||Venderwood
+벤베크만|||Ben Beckman
 벤상|||Ben-Sang
 벤시|||Banshee
 벤처CEO|||Venture CEO
@@ -65853,6 +65857,7 @@ z커리어우먼|||Z Career Woman
 여주서사|||Heroine's Story
 여주서사물|||FL Narrative
 여주서사중심|||Heroine-Centered Story
+여주선장|||Female Captain
 여주성격변화|||FL Personality Change
 여주성공|||FL Success
 여주성공기|||FL's Success Story
@@ -85435,7 +85440,9 @@ z커리어우먼|||Z Career Woman
 초식설명|||Herbivore Explanation
 초식여주|||Herbivore Heroine
 초신성|||Supernova
+초심|||Beginner's Mind
 초심돌|||Rookie Idol
+초심을잃지말아라|||Never Lose Your Beginner's Mind
 초아|||Choa
 초안정수|||Extremely Stable Bottom
 초약약피폐|||Ultra Weak Ruin
@@ -95716,6 +95723,7 @@ z커리어우먼|||Z Career Woman
 해적과|||With Pirates
 해적남주|||Pirate Male Lead
 해적단|||Pirate Crew
+해적단창설|||Pirate Crew Founding
 해적물|||Pirate Story
 해적선|||Pirate Ship
 해적왕|||Pirate King
