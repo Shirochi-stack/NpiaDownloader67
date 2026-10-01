@@ -17876,6 +17876,7 @@
 5098000647|||이따금 낭만적인 악의|||Occasionally Romantic Evil
 5098000648|||이따금 낭만적인 악의(15세 개정판)|||Occasionally Romantic Evil (15+ Revised Edition)
 5098000986|||마굴|||Demon Den
+5098000987|||마굴(15세 개정판)|||Demon Den (Revised 15+ Edition)
 5100000001|||하룻강아지 범이 물어간다|||The Young Puppy Gets Carried Away by the Tiger
 5100000140|||하룻강아지 범이 물어간다 외전|||The Young Puppy Gets Carried Away by the Tiger: Side Story
 5100000184|||공포 게임 속 시종이 수상하다|||The Servant in the Horror Game Is Suspicious
@@ -21145,7 +21146,6 @@
 425629250|||1973|||
 425666977|||유부녀 공략 시스템 각성!|||
 505027633|||현질로 소설 공략|||
-5098000987|||마굴(15세 개정판)|||
 777039546|||공략자들|||
 777103514|||역대급 시한부 공략자|||
 945008054|||40,41|||
