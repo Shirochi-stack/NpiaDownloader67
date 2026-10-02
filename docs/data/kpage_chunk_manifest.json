@@ -1,0 +1,10 @@
+{
+  "chunks": 3,
+  "totalEntries": 74109,
+  "files": [
+    "kpage_chunk_0.json.gz",
+    "kpage_chunk_1.json.gz",
+    "kpage_chunk_2.json.gz"
+  ],
+  "embedded": true
+}

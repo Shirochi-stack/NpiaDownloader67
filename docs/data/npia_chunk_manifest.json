@@ -1,0 +1,12 @@
+{
+  "chunks": 5,
+  "totalEntries": 93548,
+  "files": [
+    "npia_chunk_0.json.gz",
+    "npia_chunk_1.json.gz",
+    "npia_chunk_2.json.gz",
+    "npia_chunk_3.json.gz",
+    "npia_chunk_4.json.gz"
+  ],
+  "embedded": true
+}

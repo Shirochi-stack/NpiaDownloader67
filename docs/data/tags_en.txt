@@ -5861,7 +5861,7 @@ bl?아닐수도|||BL? Maybe Not
 black|||Black
 blblblbl주의!!!|||BL Warning!!!
 bleach|||Bleach
-blog.naver.com|||blog.naver.com
+blog.nweb.com|||blog.nweb.com
 blood|||blood
 blood-c|||Blood-C
 bloodborne|||Bloodborne
@@ -5925,7 +5925,7 @@ cacher|||Cacher
 cadilet|||Cadilet
 cafe|||Cafe
 cafe.daum.net|||cafe.daum.net
-cafe.naver.com|||cafe.naver.com
+cafe.nweb.com|||cafe.nweb.com
 calamity|||Calamity
 caliopea|||Caliopea
 call|||Call
@@ -7182,7 +7182,7 @@ touch|||Touch
 touhou|||Touhou
 tow|||Tow
 tower|||Tower
-tpfla077@naver.com|||tpfla077@naver.com
+tpfla077@nweb.com|||tpfla077@nweb.com
 travelers|||Travelers
 trek|||Trek
 tri|||Tri
@@ -7309,7 +7309,7 @@ wudf|||wudf
 www|||WWW
 www.cyworld.com|||www.cyworld.com
 www.google.co.kr|||www.google.co.kr
-www.joara.com|||www.joara.com
+www.jara.com|||www.jara.com
 www.pixiv.net|||www.pixiv.net
 x|||X
 x-over|||X-Over
@@ -26148,7 +26148,7 @@ z커리어우먼|||Z Career Woman
 나랑같이있자공|||Top Who Says Stay with Me
 나래|||Narae
 나런|||Naren
-나런&나이트런|||Naver Webtoon & Knight Run
+나런&나이트런|||Nweb Webtoon & Knight Run
 나레이션|||Narration
 나레이션양반|||Narration Normal
 나레이터|||Narrator
@@ -28252,20 +28252,20 @@ z커리어우먼|||Z Career Woman
 네온감성|||Neon Aesthetic
 네온사인|||Neon Sign
 네온시티|||Neon City
-네웹|||Naver Web Novel
-네웹작두|||Naver Web Novel Axe
+네웹|||Nweb
+네웹작두|||Nweb Axe
 네이라프|||Neiraf
 네이머|||Namer
 네이몬|||Neimon
 네이밍센스가|||Naming Sense
-네이버|||Naver
-네이버동시연재|||Simultaneous Naver Serialization
-네이버베스트리그|||Naver Best League
-네이버왭툰|||Naver Webtoon
-네이버용|||For Naver
-네이버웹소설|||Naver Web Novel
-네이버웹툰|||Naver Webtoon
-네이버폰.|||Naver Phone.
+네이버|||Nweb
+네이버동시연재|||Simultaneous Nweb Serialization
+네이버베스트리그|||Nweb Best League
+네이버왭툰|||Nweb Webtoon
+네이버용|||For Nweb
+네이버웹소설|||Nweb
+네이버웹툰|||Nweb Webtoon
+네이버폰.|||Nweb Phone.
 네이비블루|||Navy Blue
 네이슨|||Nathan
 네이처|||Nature
@@ -28586,8 +28586,8 @@ z커리어우먼|||Z Career Woman
 노벨상|||Nobel Prize
 노벨의제자|||Nobel's Disciple
 노벨쨩|||Novel-chan
-노벨피아|||Nobelpia
-노벨피아공식|||Novelpia Official
+npia|||Nobelpia
+npia공식|||Npia Official
 노벰버|||November
 노병|||Old Soldier
 노병귀환|||Return Of The Old Soldier
@@ -34587,7 +34587,7 @@ z커리어우먼|||Z Career Woman
 떡대|||Sex Height
 떡대.근육.로맨스.판타지.|||Big Build, Muscles, Romance, Fantasy
 떡대공|||Sex Emperor ML
-떡대공리디광공|||Muscular Top, Ridi Obsessive Top
+떡대공리디광공|||Muscular Top, Rbooks Obsessive Top
 떡대남|||Burly Man
 떡대떡타지|||No Big Plot Twists
 떡대수|||Sex Height Level
@@ -37138,7 +37138,7 @@ z커리어우먼|||Z Career Woman
 리듬|||Rhythm
 리듬게임|||Rhythm Game
 리듬체조|||Rhythmic Gymnastics
-리디|||Ridi
+리디|||Rbooks
 리디아|||Lydia
 리디큘러스|||Riddikulus
 리딩|||Reading
@@ -38056,7 +38056,7 @@ z커리어우먼|||Z Career Woman
 마법소녀특수전아스카|||Magical Girl Special Ops Asuka
 마법소년|||Magic Boy
 마법소설|||Magic Novel
-마법소설.마술소설.마법.마술.소설.개인소설.조아라소설.공상마법학교|||Magic Novel, Sorcery Novel, Magic, Sorcery, Novel, Original Novel, Joara Novel, Fantasy Magic School
+마법소설.마술소설.마법.마술.소설.개인소설.jara소설.공상마법학교|||Magic Novel, Sorcery Novel, Magic, Sorcery, Novel, Original Novel, Jara Novel, Fantasy Magic School
 마법소품|||Magical Items
 마법쇠퇴세계관|||Magic-Declining World
 마법수|||Magic Bottom
@@ -42167,7 +42167,7 @@ z커리어우먼|||Z Career Woman
 무협-범죄-수사-서문세가|||Wuxia-Crime-Investigation-Seomun Clan
 무협.|||Murim
 무협.로맨스|||Wuxia. Romance
-무협.무협지.신무협.무협소설.신무협소설.장르소설.강호.무림.액션.소설.조아라무협.조아라신무협.|||Wuxia. Wuxia Fiction. New Wuxia. Wuxia Novel. New Wuxia Novel. Genre Fiction. Jianghu. Wulin. Action. Novel. Joara Wuxia. Joara New Wuxia.
+무협.무협지.신무협.무협소설.신무협소설.장르소설.강호.무림.액션.소설.jara무협.jara신무협.|||Wuxia. Wuxia Fiction. New Wuxia. Wuxia Novel. New Wuxia Novel. Genre Fiction. Jianghu. Wulin. Action. Novel. Jara Wuxia. Jara New Wuxia.
 무협.역사.대체역사.퓨전|||Wuxia. History. Alternate History. Fusion
 무협.지존.|||Wuxia. Supreme Master.
 무협;|||Murim
@@ -42401,7 +42401,7 @@ z커리어우먼|||Z Career Woman
 문파전쟁|||Sect War
 문평|||Literature Average
 문풍당당|||Proudly Literary
-문피아|||Munpia
+mpia|||Mpia
 문학|||Literature
 문학.|||Literature
 문학가|||Literary Figure
@@ -53405,7 +53405,7 @@ z커리어우먼|||Z Career Woman
 성장코하|||Growth Koha
 성장통|||Growing Pains
 성장판무|||Growth Martial
-성장판무(네이버)|||Coming-Of-Age Wuxia (Naver
+성장판무(네이버)|||Coming-Of-Age Wuxia (Nweb
 성장판타지|||Coming-Of-Age Fantasy
 성장판타지.|||Coming-Of-Age Fantasy
 성장판타지소설|||Coming-Of-Age Fantasy Novel
@@ -80719,19 +80719,19 @@ z커리어우먼|||Z Career Woman
 조심하세요|||Be Careful
 조씨와원중|||Jo and Won-jung
 조씨이야기|||Jo's Story
-조아라|||Joara
-조아라Born|||Joara Born
-조아라_투베도전|||Joara Top-100 Challenge
-조아라공모전|||Joara Contest
-조아라단독선공개|||Joara Exclusive Preview
-조아라세계관|||Joara Universe
-조아라소설|||Joara Novel
-조아라신입사원|||Joara New Employee
-조아라여|||Joara Woman
-조아라연재소설|||Joara Serialized Novel
-조아라의|||Joara's
-조아라첫작|||Joara First Work
-조아라판타지소설|||Joara Fantasy Novel
+jara|||Jara
+jaraBorn|||Jara Born
+jara_투베도전|||Jara Top-100 Challenge
+jara공모전|||Jara Contest
+jara단독선공개|||Jara Exclusive Preview
+jara세계관|||Jara Universe
+jara소설|||Jara Novel
+jara신입사원|||Jara New Employee
+jara여|||Jara Woman
+jara연재소설|||Jara Serialized Novel
+jara의|||Jara's
+jara첫작|||Jara First Work
+jara판타지소설|||Jara Fantasy Novel
 조아리|||Jo Ari
 조아미|||Jo Ami
 조안페레로|||Joan Ferrero
@@ -81482,7 +81482,7 @@ z커리어우먼|||Z Career Woman
 주변만피폐|||Surroundings Only Ruined
 주변사람|||People Around Them
 주변사람들도|||People Around Them Too
-주변사람들이다리디북스공|||People Around Them; Ridibooks Top
+주변사람들이다rbooks공|||People Around Them; Rbooks Top
 주변사람이적응안돼|||Can't Adjust to the People Around Me
 주변약피폐|||Side Character Mild Yandere
 주변에|||Around
@@ -87746,10 +87746,10 @@ z커리어우먼|||Z Career Woman
 카카시_회귀물|||Kakashi Regression
 카카시ts|||Kakashi TS
 카카시루트|||Kakashi Route
-카카오|||Kakao
-카카오스토리|||KakaoStory
+카카오|||Kpage
+카카오스토리|||KpageStory
 카카오쿠키런|||Cookie Run: Kingdom
-카카오톡|||KakaoTalk
+카카오톡|||KpageTalk
 카카이루|||KakaIru
 카카카|||Kakaka
 카캡사|||Cardcaptor Sakura
@@ -87783,7 +87783,7 @@ z커리어우먼|||Z Career Woman
 카타클리즘|||Cataclysm
 카탈로그|||Catalogue
 카테고리|||Category
-카톡|||KakaoTalk
+카톡|||KpageTalk
 카톨릭|||Catholic
 카툰|||Cartoon
 카툰네트워크|||Cartoon Network

@@ -236,7 +236,7 @@
 436180|||히로인 스킬 뽑는 기둥서방이 되었다|||I Became the Retired Hero’s Stay-at-Home Husband
 412600|||난 빙의물 주인공들과는 다르니까|||I'm Different from Possession Story Protagonists
 403263|||동방사도록 - 리메이크|||Eastern History Record - Remake
-416081|||촉수 슬라임은 노벨피아짱에게 패배해버렸다.|||Tentacle Slime Defeated by Novelpia Champ
+416081|||촉수 슬라임은 npia짱에게 패배해버렸다.|||Tentacle Slime Defeated by Npia Champ
 449003|||눈꽃이 녹는 계절|||The Season When Snowflakes Melt
 441861|||다크 판타지에 에로 트랩 던전을 만들었다|||Erotic Trap Designer of Dark Fantasy
 446152|||용사를 위해 NTR 당하는 용사파티|||The Hero's Party Gets NTR'd for the Hero
@@ -3262,7 +3262,7 @@
 334574|||무직전생 세계관의 검술을 가지고 오버로드로|||Bringing Mushoku Tensei Swordsmanship to Overlord
 330310|||땅끝에 영지를 만들었다.|||I Built a Territory at the End of the World.
 449558|||중고 버튜버입니다|||I'm a Secondhand VTuber
-443956|||작가판타지 노벨피아 -챌린-|||Author Fantasy Novelpia -Challin-
+443956|||작가판타지 npia -챌린-|||Author Fantasy Npia -Challin-
 447545|||후회한 천재 지휘자는 새롭게 시작한다|||The Regretful Genius Conductor Starts Anew
 423913|||남녀역전 세계에서 번식의무관이 되었다|||Became a Breeding Officer in a Gender-Reversed World
 449516|||또라이 하남자의 폭망 무인도 생존기|||A Crazy Wimp's Catastrophic Desert-Island Survival Log
@@ -8724,7 +8724,7 @@
 423350|||노피아 작품을보며 아쉽거나 좋았던점을 써주세요|||Please Write What You Liked or Regretted About Nopia Works
 422805|||황룡의 제자가 아카데미에서 살아남는 법|||How the Yellow Dragon's Disciple Survives the Academy
 423343|||【공지】무료 커미션 받습니다|||【Notice】Accepting Free Commissions
-423339|||(공지)노벨피아 작품 대나무숲 갤러리입니다|||(Notice) Nobelpia Works Bamboo Grove Gallery
+423339|||(공지)npia 작품 대나무숲 갤러리입니다|||(Notice) Nobelpia Works Bamboo Grove Gallery
 403522|||딸깍시대의 만능 제작자|||The All-Purpose Creator of the Click Era
 395678|||지구온라인에서 쌀먹합니다|||Farming for Money in Earth Online
 168865|||이무기로 귀환했습니다|||Returned as an Imoogi
@@ -10307,7 +10307,7 @@
 411822|||장난꾸러기 영물님!|||The Mischievous Spirit!
 412207|||S급 히로인들의 전속 정비사가 되었다|||I Became the Exclusive Mechanic for S-Class Heroines
 384893|||판타지 속 과학문명|||Scientific Civilization in Fantasy
-413682|||노벨피아 버섯이 되었다|||I Became a Novelpia Mushroom
+413682|||npia 버섯이 되었다|||I Became a Npia Mushroom
 320101|||음침한 성녀는 죽음에게 집착한다|||The Gloomy Saintess Is Obsessed with Death
 401776|||천재 나태공자가 제국을 정상화|||The Genius Lazy Noble Normalizes the Empire
 408693|||천마가 되어 돌아왔다|||Returned as the Heavenly Demon
@@ -10626,7 +10626,7 @@
 409836|||소울실버(전생편)|||Soul Silver (Reincarnation Edition)
 398397|||야쿠자 오야붕의 딸은 한국에서 버튜버를 한다|||Yakuza Boss's Daughter Is a VTuber in Korea
 411329|||세계 최강 돌맹이를 얻었다|||I Obtained the World's Strongest Pebble
-384231|||노벨리아 PD가 소설을 찢음|||Novelpia PD Tore the Novel
+384231|||노벨리아 PD가 소설을 찢음|||Npia PD Tore the Novel
 410346|||소설 속 희대의 악역이 되었다|||I Became the Rare Villain in a Novel
 369880|||망한 게임에 빙의한 썩은 물(모든 공략을 기억하는데 공략이랑 다름)|||Veteran Possessed in a Ruined Game (I Remember All the Guides, but It's Different from the Guides)
 409294|||무한 미궁 도전|||Infinite Labyrinth Challenge
@@ -12906,7 +12906,7 @@
 396015|||공작님의 비밀을 열어버렸다|||I Opened the Duke's Secret
 319789|||용사 파티에게 고백 받았다|||I Was Confessed to by the Hero Party
 364318|||마왕의 마망은 마녀님|||The Demon King's Mommy is a Witch
-395503|||노벨 퍼스트 가디언 - 노벨피아에 빙의했다.|||Novel First Guardian - I Possessed Novelpia.
+395503|||노벨 퍼스트 가디언 - npia에 빙의했다.|||Novel First Guardian - I Possessed Npia.
 384588|||야가다 갔더니 엘프만남|||I Went to Construction Work and Met an Elf
 392601|||극밀성의 벽안 마녀가 되었다.|||I Became the Blue-Eyed Witch of Extreme Secrecy.
 394954|||눈 떴는데 탑의 맛집 셰프가 되었다*|||I Opened My Eyes and Became the Tower's Gourmet Chef*
@@ -21058,7 +21058,7 @@
 337291|||[원신] Re : 제로 부터 시작하는 티바트 생활|||[Genshin Impact] Re: Life in Teyvat Starting from Zero
 290877|||평행우주의 스마트폰|||Smartphone of the Parallel Universe
 262317|||서큐버스와 수녀가 북극을 녹이는 법|||How a Succubus and a Nun Melt the Arctic
-337687|||노벨피아 업데이트|||Novelpia Update
+337687|||npia 업데이트|||Npia Update
 335340|||레이디버그|||Ladybug
 30864|||수중전기(水中傳記)|||Underwater Biography
 314933|||[원신/림컴]이상이 무엇이라 생각하시오.|||[Genshin Impact/Limbus Company] What Do You Think an Ideal Is?
@@ -22196,7 +22196,7 @@
 266435|||천마신교 아카데미 지부|||Heavenly Demon Cult Academy Branch.
 327479|||픽셀 캐릭터 생존기|||Pixel Character Survival Story.
 317211|||[히로아카X주술회전] 스쿠나의 술식을 가지게 되었다|||[MHA x Jujutsu Kaisen] I Obtained Sukuna's Cursed Technique.
-74035|||노벨피아 기능 알아보기|||Learning About Novelpia Features.
+74035|||npia 기능 알아보기|||Learning About Npia Features.
 29383|||전생마왕의 합리적인 생존전략|||The Reincarnated Demon King's Rational Survival Strategy.
 309720|||초능력 학교_나만 치트능력자|||Superpower School_I'm the Only Cheat User.
 307918|||신화급 차원 유랑을 얻었다|||I Obtained Myth-Class Dimensional Wandering.
@@ -30143,7 +30143,7 @@
 247752|||이세계 설산 생존기|||Isekai Snowy Mountain Survival
 247888|||[동방X워크래프트] 환상크래프트 III|||[Touhou X Warcraft] GensokyoCraft III
 129599|||M U L T I V E R S E|||M U L T I V E R S E
-249356|||꿈속의 악마 노벨피아 판|||Demon in the Dream: Novelpia Edition
+249356|||꿈속의 악마 npia 판|||Demon in the Dream: Npia Edition
 249194|||갈비지|||Garbage
 249339|||사랑에 다시가 어디있나요?|||Where Is There a 'Second Time' in Love?
 246833|||대물마계흑기사로 환생했다|||I Reincarnated as a Well-Endowed Demon World Black Knight
@@ -31470,7 +31470,7 @@
 233985|||(구작)S급들에게 집착 당함|||(Old) Obsessed Over by S-Classes
 197529|||여왕을 모시는 자|||One Who Serves the Queen
 232693|||똥겜에서 살아남기|||Surviving in a Trash Game
-67788|||노벨피아 소설 그림|||Novelpia Novel Illustration
+67788|||npia 소설 그림|||Npia Novel Illustration
 238338|||그 수인용사마왕|||That Beastman Hero Demon King
 196664|||시작은 섹스파트너부터|||Starting as Sex Partners
 144718|||바바리안인데 성기사임|||I'm a Barbarian, But I'm a Paladin
@@ -32923,7 +32923,7 @@
 222091|||황녀의 렌탈남친이 되었다|||I Became the Princess's Rental Boyfriend
 218977|||흑마법사는 다시 죽는다|||The Black Mage Dies Again
 222836|||밤이 온다면|||If Night Comes
-54118|||노벨피아 서버실에서 라면 끓여먹지 말라고|||Don't Cook Ramen in the Novelpia Server Room
+54118|||npia 서버실에서 라면 끓여먹지 말라고|||Don't Cook Ramen in the Npia Server Room
 96066|||게임 속 버림받은 황자가 되었다|||I Became the Abandoned Prince in the Game
 214294|||나 혼자만 상태창 두 개로 탑을 오른다.|||I Alone Climb the Tower with Two Status Windows.
 147243|||마법소녀 게임속 구미호 중간보스가 되었다.|||I Became a Gumiho Mid-Boss in a Magical Girl Game.
@@ -33882,7 +33882,7 @@
 198694|||이면의 마법사|||Mage of the Hidden Side
 215495|||아카데미 일진 성자|||Academy Bully Saint
 214383|||던전에서 죽기 싫어서|||Because I Don't Want to Die in a Dungeon
-212908|||실험실-노벨피아 시스템, 폰트 등등 여러가지 연구중|||Lab - Researching Novelpia System, Fonts, etc.
+212908|||실험실-npia 시스템, 폰트 등등 여러가지 연구중|||Lab - Researching Npia System, Fonts, etc.
 215467|||블라인드 필름|||Blind Film
 173533|||[TS/피폐] 실험체 0호, 개처럼 짖으세요.|||[TS/Depressing] Subject 0, Bark Like a Dog.
 211447|||[원신]내 손 안의 백합 한송이|||[Genshin Impact] A Lily in My Hand
@@ -36586,7 +36586,7 @@
 173140|||천신과 마왕의 아이|||Child of the Heavenly God and Demon Lord
 184198|||기억상실 입니다|||I Have Amnesia
 33392|||회귀자의 아카데미 생활|||Regressor's Academy Life
-176317|||실제 여친과 까톡에서 19금상황극|||19+ Roleplay With My Real Girlfriend on KakaoTalk
+176317|||실제 여친과 까톡에서 19금상황극|||19+ Roleplay With My Real Girlfriend on KpageTalk
 184239|||아카데미 정시 파이터가 되었다.|||I Became an Academy Regular Admission Fighter.
 139327|||고통 속의 시나리오|||Scenario in Pain
 161243|||퍼펙트 빅터|||Perfect Victor
@@ -36669,7 +36669,7 @@
 176356|||삼국지: 무력 999 곽가가 되었다|||Three Kingdoms: I Became Guo Jia With 999 Martial Arts
 175111|||가챠에서 누나  캐릭터만 나옴|||Only Older Sister Characters Come Out of Gacha
 139382|||복귀한 각성자에게 인류는 함락당합니다.|||Humanity Falls to the Returned Awakened.
-110289|||과연 노벨피아의 작품제목의 글자제한수는 몇자인지 알아보기 위해 쓰는 소설이고 대충 판타지 코미디 백합 Ts  아카데미물로 생각중인데 아직도 제목이 안끝났네 이거 어디까지 쓸 수 있는 거야 나도 모르겠지만 일단 갈 때까지 가보는 거야 우와 아직도 쓸 수 있어 이러다 제목부터 글 써도 되겠는데 그냥 프롤로그를 여기다 쓸려 생각해봤지만 언제 끝날지 몰라서 안적으려했는데 아직도 안 끝나니 방금 적었으면 프롤로그에 20화까지 연재하고 플러스신청도 보낼 수 있었겠는데 정말 언제 끝나는 거야 아직도 이 글을 보고 계시다면 감사한 마음으로 제가 재밌는 유머를 해드릴게요 다정함의 반대말은 과연 뭘까요 정답은 바로 선택장애입니다 아직 이해를 못하신 분들을 위해 설명해 드리자면 다정함을 각각 다 + 정함 으로 분리함으로써 그에 대비되는 말인 선택 + 장애 로 치환해 성립되는 유머지요 이렇게 재미있는 유머를 알려드렸지만 감사인사는 하지 않아도 돼요 역시 전 너무 양심적이네요 그나저나 왜 아직도 제한이 안|||Novel Written to Find Out the Character Limit of Novelpia Titles, Thinking of Fantasy Comedy Yuri TS Academy Genre, But the Title Still Isn't Ending...
+110289|||과연 npia의 작품제목의 글자제한수는 몇자인지 알아보기 위해 쓰는 소설이고 대충 판타지 코미디 백합 Ts  아카데미물로 생각중인데 아직도 제목이 안끝났네 이거 어디까지 쓸 수 있는 거야 나도 모르겠지만 일단 갈 때까지 가보는 거야 우와 아직도 쓸 수 있어 이러다 제목부터 글 써도 되겠는데 그냥 프롤로그를 여기다 쓸려 생각해봤지만 언제 끝날지 몰라서 안적으려했는데 아직도 안 끝나니 방금 적었으면 프롤로그에 20화까지 연재하고 플러스신청도 보낼 수 있었겠는데 정말 언제 끝나는 거야 아직도 이 글을 보고 계시다면 감사한 마음으로 제가 재밌는 유머를 해드릴게요 다정함의 반대말은 과연 뭘까요 정답은 바로 선택장애입니다 아직 이해를 못하신 분들을 위해 설명해 드리자면 다정함을 각각 다 + 정함 으로 분리함으로써 그에 대비되는 말인 선택 + 장애 로 치환해 성립되는 유머지요 이렇게 재미있는 유머를 알려드렸지만 감사인사는 하지 않아도 돼요 역시 전 너무 양심적이네요 그나저나 왜 아직도 제한이 안|||Novel Written to Find Out the Character Limit of Npia Titles, Thinking of Fantasy Comedy Yuri TS Academy Genre, But the Title Still Isn't Ending...
 183155|||직업은 성기사인데 터무니없는 마법을 배웠습니다|||My Job Is a Paladin, But I Learned Ridiculous Magic
 177503|||사랑하는 용사의 딸이 되었다|||I Became the Daughter of the Hero I Love
 183143|||사실 이 세상은 버그투성이|||Actually, This World Is Full of Bugs
@@ -36871,7 +36871,7 @@
 167083|||더 롱 다크 (The Long Dark)|||The Long Dark
 132627|||(구)크로놀로지아|||(Old) Chronologia
 179580|||NTR 당하고 싶은 용사님!|||The Hero Who Wants to Be NTR'd!
-180799|||카톡전생! 메신저로 즐기는 이세계 라이프|||KakaoTalk Reincarnation! Otherworld Life Enjoyed via Messenger
+180799|||카톡전생! 메신저로 즐기는 이세계 라이프|||KpageTalk Reincarnation! Otherworld Life Enjoyed via Messenger
 169535|||라스트 파라다이스|||Last Paradise
 180763|||친절한 이세계 가이드, 한오 씨|||Kind Otherworld Guide, Mr. Han-o
 164062|||아이들이 따르는 몬스터 사육사가 되었다.|||I Became a Monster Breeder Followed by Children.
@@ -39491,7 +39491,7 @@
 139934|||블루아카이브×가면라이더 현실세계와 가면라이더 블루아카이브가 합쳐졌다.?|||Blue Archive X Kamen Rider: Reality and Kamen Rider Blue Archive Merged.?
 151382|||마족을 사랑하는 법|||How to Love a Demon
 127559|||아래아 일기장|||Ara Diary
-147871|||노벨피아 단편선|||Novelpia Short Story Collection
+147871|||npia 단편선|||Npia Short Story Collection
 141223|||판게아 인류|||Pangaea Humanity
 148752|||어린 악마를 올바르게 키우는 방법|||How to Raise a Young Demon Correctly
 135937|||마신의 주인님이 되어버렸다|||I Became the Master of the Demon God
@@ -44699,7 +44699,7 @@
 63776|||판타지 세상에서 농부로 살고싶어|||I Want to Live as a Farmer in a Fantasy World
 77926|||이세계 여행 스트리머가 되었습니다?|||I Became an Otherworld Travel Streamer?
 62594|||단 하나의 이야기|||The Only Story
-75874|||노벨피아 서버 폭파 기록장|||Novelpia Server Explosion Record
+75874|||npia 서버 폭파 기록장|||Npia Server Explosion Record
 67661|||남녀역전 세계의 하프엘프|||Half-Elf in a Gender-Reversed World
 71752|||[쿠베라] 하프 노예가 생겼다|||[Kubera] Got a Half-Breed Slave
 75662|||서큐버스 드래곤 설정집|||Succubus Dragon Setting Book
@@ -45147,7 +45147,7 @@
 59226|||장면 저장용|||For Scene Storage
 13470|||[동방] 환상향에 떨어진 외래인|||[Touhou] Outsider Who Fell into Gensokyo
 39852|||아카데미의 흑챙천마(黑瞪天魔)|||Academy's Black-Eyed Heavenly Demon
-26285|||노벨피아짱의 기묘한 모험|||Novelpia-chan's Bizarre Adventure
+26285|||npia짱의 기묘한 모험|||Npia-chan's Bizarre Adventure
 69063|||대현자의 백합 라이프|||The Great Sage's Yuri Life
 60159|||여자 바바리안|||Female Barbarian
 73285|||네크로맨서와 최후의 구울|||Necromancer and the Last Ghoul
@@ -45496,7 +45496,7 @@
 69771|||현자의 나라|||Land of the Sage
 71429|||오늘부터 솔로플레이|||Solo Play From Today
 71506|||스테이크소스 영웅전|||Steak Sauce Hero Tale
-20612|||노벨피아에서 만남을 추구하다 이세계전생트럭에 치일뻔 했지만 다시한번치여서 이세카이 추방 용사가되어 세계최강 마법사가 된 건에 대하여 라는애니를보고 전생해서 재시작하게 되어 거유미녀엘프와 sss급 헌터가 나혼자만 레벨업하다 1000만 유튜버의 꿈을 꾸고 원피스 세계로 들어가 전생열매를 먹고 무협세계에서 귀여운 딸을 얻어 다시 한번 전생 모험가를 꿈꾼다|||Regarding That Time I Tried to Find Love on Novelpia, Almost Got Hit by an Isekai Truck, Got Hit Again, Became an Exiled Hero, Watched an Anime About Becoming the World's Strongest Mage, Reincarnated to Start Over, Leveled Up Alone With a Busty Elf and an SSS-Class Hunter, Dreamed of Being a 10 Million Subscriber YouTuber, Entered the One Piece World, Ate the Reincarnation Fruit, Got a Cute Daughter in the Murim World, and Dreamed of Being an Adventurer Again
+20612|||npia에서 만남을 추구하다 이세계전생트럭에 치일뻔 했지만 다시한번치여서 이세카이 추방 용사가되어 세계최강 마법사가 된 건에 대하여 라는애니를보고 전생해서 재시작하게 되어 거유미녀엘프와 sss급 헌터가 나혼자만 레벨업하다 1000만 유튜버의 꿈을 꾸고 원피스 세계로 들어가 전생열매를 먹고 무협세계에서 귀여운 딸을 얻어 다시 한번 전생 모험가를 꿈꾼다|||Regarding That Time I Tried to Find Love on Npia, Almost Got Hit by an Isekai Truck, Got Hit Again, Became an Exiled Hero, Watched an Anime About Becoming the World's Strongest Mage, Reincarnated to Start Over, Leveled Up Alone With a Busty Elf and an SSS-Class Hunter, Dreamed of Being a 10 Million Subscriber YouTuber, Entered the One Piece World, Ate the Reincarnation Fruit, Got a Cute Daughter in the Murim World, and Dreamed of Being an Adventurer Again
 71389|||리그오브레전드 창작 단편선|||League of Legends Creative Short Story Collection
 58249|||방구석에서 세계정복|||World Conquest From My Room
 65116|||나의 죽음, 당신의 죽음|||My Death, Your Death
@@ -46979,7 +46979,7 @@
 44152|||신화의 전쟁은 이세계에서|||The War of Myths Is in Another World
 21869|||[귀멸의 칼날]군머의 칼날|||[Demon Slayer] Blade of the Military
 49449|||난 무섭지 않아!|||I'm Not Scared!
-52089|||노벨피아의 버튜버 '고라니'가 되었다.|||I Became Novelpia's Vtuber 'Gorani'.
+52089|||npia의 버튜버 '고라니'가 되었다.|||I Became Npia's Vtuber 'Gorani'.
 51675|||별자리를 그리는 법|||How to Draw Constellations
 46516|||검후 레니아|||Sword Empress Renia
 27314|||꿈만 꿔도 세계 최강|||World's Strongest Just by Dreaming
@@ -48195,7 +48195,7 @@
 33735|||친구 망상 속에서|||Inside a Friend's Delusion
 33109|||세계 멸망 7일 전, 용사(나)는 강아지가 되었다.|||7 Days Before the World Ends, The Hero (Me) Became a Puppy.
 29516|||강간당하지 않을 거야|||I Won't Be Raped
-33645|||노벨피아 개발자 일대기|||Novelpia Developer Biography
+33645|||npia 개발자 일대기|||Npia Developer Biography
 32706|||광|||Madness
 32641|||파이트 클럽|||Fight Club
 33657|||성전의 부름|||Call of the Holy War
@@ -48345,7 +48345,7 @@
 31227|||현역군에서 전역한 군인, 슬로우 라이프+총이 곁 들어진 것을 원합니다.|||A Discharged Soldier Wants a Slow Life with Guns
 31344|||너를 만나러 가는 길|||The Road to Meet You
 27566|||빌런에게 고백해버렸다|||I Confessed to the Villain
-17060|||쿼터 엘프 (노벨피아 ver.)|||Quarter Elf (Novelpia ver.)
+17060|||쿼터 엘프 (npia ver.)|||Quarter Elf (Npia ver.)
 19352|||고문받는 현자님|||The Tortured Sage
 22280|||고로 그녀는 해체된다|||Thus, She Is Disassembled
 24877|||이세계로 전생하려다 실패한 모양입니다!|||Looks Like I Failed to Reincarnate into Another World!
@@ -48521,7 +48521,7 @@
 18999|||나혼자 하렘 플레이어|||Solo Harem Player
 10614|||야설2 (옴니버스 +29)|||Erotic Story 2 (Omnibus +29)
 24748|||마왕은 다시금 학원에 간다.|||The Demon King Goes to the Academy Again
-28810|||노피아 디팬스|||Novelpia Defense
+28810|||노피아 디팬스|||Npia Defense
 28328|||시공간의 감정사|||Appraiser of Space-Time
 1044|||[TS] 눈발을 기어서|||[TS] Crawling Through the Snow
 28268|||키스하는 마법사|||The Kissing Mage
@@ -50401,7 +50401,7 @@
 437569|||완벽했던 누나가 망가져 있었다|||My Perfect Big Sister Was Broken
 346518|||찐따일지|||Loser's Journal
 450488|||치라는 떡은 안 치고!|||I'm Not Doing That!
-450653|||[네이버 웹툰 캐슬] 이세계 빙의로 느와르 물을 찍던 도중 캐슬 세계관인 걸 깨달았다.|||[Naver Webtoon Castle] Mid-Noir Possession in Another World, I Realized It Was the Castle Universe
+450653|||[네이버 웹툰 캐슬] 이세계 빙의로 느와르 물을 찍던 도중 캐슬 세계관인 걸 깨달았다.|||[Nweb Webtoon Castle] Mid-Noir Possession in Another World, I Realized It Was the Castle Universe
 450052|||소꿉친구가 타락했다|||My Childhood Friend Fell
 215602|||너와 걷는 한 걸음|||One Step Walking With You
 417791|||아래로 여자가 기어온다|||Why They Come to Italy
@@ -52102,7 +52102,7 @@
 399676|||요리로 독립운동합니다.|||I Do Independence Movement Through Cooking.
 407312|||장사하자 먹고살자|||Let's Do Business, Let's Live
 381412|||동경하던 유부녀가 개변태였다|||The Married Woman I Admired Was a Huge Pervert
-407240|||미래 주가 읽는 천재가 노벨피아 작가로 수익화하는 법|||How a Genius Who Reads Future Stock Prices Monetizes as a Novelpia Author
+407240|||미래 주가 읽는 천재가 npia 작가로 수익화하는 법|||How a Genius Who Reads Future Stock Prices Monetizes as a Npia Author
 325368|||수녀에게 길러진 아이가 여행길로 떠날려고 하면 생기는 일|||What Happens When a Child Raised by a Nun Tries to Go on a Journey
 358841|||떡볶이를 좋아하게 된 나는, 돈까스를 좋아하는 그 녀석에게 자꾸만 기대게 된다.|||I, Who Came to Like Tteokbokki, Keep Relying on That Guy Who Likes Pork Cutlet.
 407046|||지상낙원|||Earthly Paradise
@@ -52282,7 +52282,7 @@
 383863|||세상이 그렇게 싫었다. [完]|||I Hated the World That Much. [End]
 401195|||글 보관함|||Writing Archive
 373975|||과거의 나와 결혼했다.|||I Married My Past Self.
-383696|||[노벨피아] 작가쨩의 우당탕탕 플롯 이야기|||[Novelpia] Author-chan's Chaotic Plot Story
+383696|||[npia] 작가쨩의 우당탕탕 플롯 이야기|||[Npia] Author-chan's Chaotic Plot Story
 398843|||전 아이돌 연습생이 사는 법|||How a Former Idol Trainee Lives
 394988|||[히로아카] 빛의 히어로 아카데미아|||[My Hero Academia] Light Hero Academia
 383985|||야설로 코스프레 모델들을 따먹음|||Fucked Cosplay Models With Erotic Novels
@@ -53563,7 +53563,7 @@
 278520|||testtttttt|||testtttttt
 238935|||네토라세 사이트의 운영자입니다.|||I Am the Operator of an Netorase Site.
 339079|||아다 떼주는 누나|||Older Sister Who Takes My Virginity
-354089|||노벨피아로 웹소설을 시작했다!|||I Started Web Novels on Novelpia!
+354089|||npia로 웹소설을 시작했다!|||I Started Web Novels on Npia!
 354073|||나는 방송인님의 만능편집자|||I Am the All-Purpose Editor for the Streamer
 348675|||버튜버 말고 다 하는 잡캐가 되었다.|||I Became a Jack-of-All-Trades Who Does Everything But VTubing.
 136468|||그녀는 외출을 좋아한다|||She Likes Going Out
@@ -55479,7 +55479,7 @@
 264385|||[블루아카이브] 캣맘은 남동생을 주웠다|||[Blue Archive] The Cat Mom Picked Up Her Younger Brother
 235401|||검은 피에서는 달콤한 맛이 난다|||Black Blood Tastes Sweet
 260131|||[ts] 나라는 것|||[ts] Being Me
-265321|||노벨피아에는|||On Novelpia
+265321|||npia에는|||On Npia
 265274|||[철권X수요웹툰의 나강림] 카자마 진의 위여신|||[Tekken X Na Gang-rim of Wednesday Webtoon] Kazama Jin's False Goddess
 264787|||니가 원하는대로|||As You Wish
 263900|||수기|||Memoirs
@@ -56018,7 +56018,7 @@
 239708|||방구석폐인 군인|||Room-Corner Addict Soldier
 192016|||[뷰티풀군바리] 다나와 고구마|||[Beautiful Gunbari] Dana and Sweet Potato
 202777|||미친년을 기르고 있다|||I'm Raising a Crazy Bitch
-239678|||노벨피아라는 사이트에서 이런거나 보고 있는 인생이 레전드|||My Life Is Legendary for Watching This Stuff on a Site Called Novelpia
+239678|||npia라는 사이트에서 이런거나 보고 있는 인생이 레전드|||My Life Is Legendary for Watching This Stuff on a Site Called Npia
 188266|||아포칼립스의 약탈자|||Looter of the Apocalypse
 212080|||편의점의 그녀|||The Girl at the Convenience Store
 225653|||(즙)배우부터 시작하는 AV배우 생활|||AV Actor Life Starting from (Juice) Actor
@@ -56162,7 +56162,7 @@
 177440|||형사김정일|||Detective Kim Jeongil
 91110|||내 누나들과 여동생은 여캠 bj(리메이크 전)|||My Older Sisters and Younger Sister Are Female Streamer BJs (Before Remake)
 232815|||서큐버스가 너무 많다|||There Are Too Many Succubi
-232372|||노벨피아 부수기|||Destroying Novelpia
+232372|||npia 부수기|||Destroying Npia
 96571|||섹스를 해야 탈출할 수 있는 방에 갇혔습니다|||I'm Trapped in a Room Where I Must Have Sex to Escape
 231717|||[동방] 한국 전체가 환상들이해버렸다.|||[Touhou] All of Korea Has Entered Gensokyo.
 226526|||[프로세카] 누나 몸 좀 챙겨..|||[Project Sekai] Take Care of Yourself, Older Sister..
@@ -57297,7 +57297,7 @@
 172929|||아편왕 선우혁|||Opium King Seon Woo-hyuk
 166907|||참교육- 미투로 인생 망쳐놓은 얀데레 자매 음란 타락 조교 복수기|||True Education - Revenge Story of Training Yandere Sisters Who Ruined My Life with MeToo
 172681|||삐뚤어진 순문학도|||Twisted Pure Literature Student
-172492|||노벨피아 싫어하는 만화|||Manga That Hates Novelpia
+172492|||npia 싫어하는 만화|||Manga That Hates Npia
 172488|||상사와의 은밀한 관계|||Secret Relationship with My Boss
 157211|||지뢰설치반|||Landmine Installation Team
 150074|||[블루 아카이브] 하루하루 힘들지 모르지만, 보람을 얻는|||[Blue Archive] Days Might Be Hard, But Gaining Fulfillment
@@ -57324,7 +57324,7 @@
 151184|||육변기 교도소|||Sex Toy Prison
 169891|||치어리더가 되었습니다|||I Became a Cheerleader
 171194|||살리고 싶었던 사람|||The Person I Wanted to Save
-171122|||노피아 판형에 대해 알아보는 중|||Learning About Novelpia Formats
+171122|||노피아 판형에 대해 알아보는 중|||Learning About Npia Formats
 171107|||성녀님의 히키코모리 갱생|||The Saintess's Hikikomori Rehabilitation
 170006|||폭탄해체 Alpha팀|||Bomb Disposal Alpha Team
 169224|||6호실은 비밀입니다?|||Room 6 Is a Secret?
@@ -58377,7 +58377,7 @@
 105204|||자서전|||Autobiography
 83525|||미래에서 회귀한 마왕(女)이 남편을 사랑함|||The Demon King (Female) Who Regressed From the Future Loves Her Husband
 104974|||삼국지 더 비즈니스|||Three Kingdoms: The Business
-96752|||월드클래스 라노벨 작가가 노벨피아로 갈아탐|||A World-Class Light Novel Author Switched to Novelpia
+96752|||월드클래스 라노벨 작가가 npia로 갈아탐|||A World-Class Light Novel Author Switched to Npia
 104598|||집착은 정신병이다|||Obsession is a Mental Illness
 103176|||지독한 집착의 끝|||The End of Terrible Obsession
 101864|||나와 당신의 이중주|||A Duet of Me and You
@@ -70557,7 +70557,7 @@
 156100|||[블루아카이브] 게헨나 국방부|||[Blue Archive] Gehenna Ministry of National Defense
 87224|||[귀멸의 칼날] 귀살대 개혁제도|||[Demon Slayer] Demon Slayer Corps Reform System
 134495|||테란인가 저그인가|||Terran or Zerg
-167019|||노벨피아 적응을 위한 단편 모음|||Short Story Collection for Adapting to Novelpia
+167019|||npia 적응을 위한 단편 모음|||Short Story Collection for Adapting to Npia
 174302|||[체인소맨×데어라] 콘|||[Chainsaw Man X Date A Live] Kon
 172886|||[블루아카이브] 메인스토리 2부The men over the boundaries|||[Blue Archive] Main Story Part 2: The Men Over the Boundaries
 174537|||[던만추/다중] 나 혼자만 다중 던전|||[DanMachi/Multi-Crossover] I Am the Only One with a Multi-Dungeon
@@ -71887,7 +71887,7 @@
 93430|||[언더테일 × 대지의 기적] 젤다테일|||[Undertale x Spirit Tracks] Zeldatale
 92752|||[Fate/Fgo] 환생하는 그리스의 영웅|||[Fate/FGO] Reincarnating Greek Hero
 84011|||이나즈마에서 작가하고 있습니다|||I’m a Writer in Inazuma
-81384|||조아라로 이동|||Moving to Joara
+81384|||jara로 이동|||Moving to Jara
 93936|||[원신] 카즈하다|||[Genshin Impact] Kazuha-da
 2752|||[LoL] 역시 내 룬테라 환생은 잘못되어있다.|||[LoL] My Runeterra Reincarnation is Wrong, As Expected.
 92072|||[LOL×FATE] 과학은 위대하다|||[LoL x Fate] Science is Great
@@ -74459,7 +74459,7 @@
 366605|||뱀파이어에게 반하면|||If You Fall for a Vampire
 365196|||8월의 환희 (Augusterlebnis)|||August Experience (Augusterlebnis)
 333764|||일본여성성우 오타쿠는 애니송 작곡가가 되면 안되나요?|||Can't a Japanese Voice Actress Otaku Become an Anime Song Composer?
-353501|||노피아 온라인|||Novelpia Online
+353501|||노피아 온라인|||Npia Online
 363840|||《숨겨진 페이지》|||《Hidden Page》
 361559|||월급을 못 받았을 뿐인데, 왜 내가 악당이 됨?|||I Just Didn't Get Paid, So Why Did I Become a Villain?
 362332|||딜도 리뷰어|||Dildo Reviewer
@@ -74977,7 +74977,7 @@
 1876|||우리 집 메이드는 학교 제일의 미인입니다|||My House's Maid is the School's Greatest Beauty
 71274|||[히로아카]  스테인의 (양)여동생 입니다|||[My Hero Academia] I Am Stain's (Adopted) Younger Sister
 27631|||내 여자친구는 새침데기|||My Girlfriend is a Prude
-84984|||소설에 제목의 한계를 도전한다~ 과연 이 제목 칸에는 한계가 있을까. 지금부터 제가 여러분들께 보여드릴 뻘짓은 일반적인 뻘짓과는 스케일이 다를겁니다. 왜냐하면 저는 지금부터 어느 제목보다 길이가 긴 제목을 지을겁니다. 아, 이미 짓고 있군요.ㅎ 우선 이런 제목을 짓게된 계기를 쓰도도록 하죠 저는 이 앱 즉 노벨피아에는 소설 제목을 지을때 과연 글자수 제한있을까 하고 생각해 봤습니다. 그리고 직접 해봤습니다. 아마 제 프로필을 들어가면 그 제목이 있을겁니다. 그리고 저는 지금 그 제목을 훨씬 뛰어넘는 제목을 짓고 있습니다. 우선 먼저 양산형 라노벨풍 제목으로 제목을 계속 이어서 짓도록 하죠 시작. 히키코모리 생활을 하다 밖에 나갔다가 이세카이 트럭에 치여 여신한테 이세계 초대받아 엄청난 행운으로 감정Ex, 마력치트를 얻고 미소녀 엘프와 수인미소녀와 기타등등과 함께 모험가 생활을 하다 초엘리트 던전에 들어가 대충 엄청난 Lv.9999999비둘기야밥먹자999999구9 짜리 마법창조 대충|||Challenging the Limits of Novel Titles~ I Wonder If There's a Limit to This Title Box. The Nonsense I'm About to Show You Will Be on a Different Scale Than Usual. Because I'm Going to Create a Title Longer Than Any Other. Ah, I'm Already Doing It. Heh. First, Let's Write the Reason for Creating Such a Title. I Thought About Whether There's a Character Limit for Novel Titles on This App, Novelpia. And I Tried It Myself. If You Go to My Profile, That Title Will Be There. And I Am Now Creating a Title That Far Exceeds That One. First, Let's Continue Creating a Title in a Mass-Produced Light Novel Style. Start. Living a Hikikomori Life, Going Outside, Getting Hit by an Isekai Truck, Invited to Another World by a Goddess, Getting Appraisal Ex and Magic Cheats with Incredible Luck, Living an Adventurer Life with Beautiful Elves, Beast Girls, Etc., Entering a Super-Elite Dungeon, Roughly Creating a Magic of Lv.9999999HeyPigeonEatFood999999Gu9 Roughly
+84984|||소설에 제목의 한계를 도전한다~ 과연 이 제목 칸에는 한계가 있을까. 지금부터 제가 여러분들께 보여드릴 뻘짓은 일반적인 뻘짓과는 스케일이 다를겁니다. 왜냐하면 저는 지금부터 어느 제목보다 길이가 긴 제목을 지을겁니다. 아, 이미 짓고 있군요.ㅎ 우선 이런 제목을 짓게된 계기를 쓰도도록 하죠 저는 이 앱 즉 npia에는 소설 제목을 지을때 과연 글자수 제한있을까 하고 생각해 봤습니다. 그리고 직접 해봤습니다. 아마 제 프로필을 들어가면 그 제목이 있을겁니다. 그리고 저는 지금 그 제목을 훨씬 뛰어넘는 제목을 짓고 있습니다. 우선 먼저 양산형 라노벨풍 제목으로 제목을 계속 이어서 짓도록 하죠 시작. 히키코모리 생활을 하다 밖에 나갔다가 이세카이 트럭에 치여 여신한테 이세계 초대받아 엄청난 행운으로 감정Ex, 마력치트를 얻고 미소녀 엘프와 수인미소녀와 기타등등과 함께 모험가 생활을 하다 초엘리트 던전에 들어가 대충 엄청난 Lv.9999999비둘기야밥먹자999999구9 짜리 마법창조 대충|||Challenging the Limits of Novel Titles~ I Wonder If There's a Limit to This Title Box. The Nonsense I'm About to Show You Will Be on a Different Scale Than Usual. Because I'm Going to Create a Title Longer Than Any Other. Ah, I'm Already Doing It. Heh. First, Let's Write the Reason for Creating Such a Title. I Thought About Whether There's a Character Limit for Novel Titles on This App, Npia. And I Tried It Myself. If You Go to My Profile, That Title Will Be There. And I Am Now Creating a Title That Far Exceeds That One. First, Let's Continue Creating a Title in a Mass-Produced Light Novel Style. Start. Living a Hikikomori Life, Going Outside, Getting Hit by an Isekai Truck, Invited to Another World by a Goddess, Getting Appraisal Ex and Magic Cheats with Incredible Luck, Living an Adventurer Life with Beautiful Elves, Beast Girls, Etc., Entering a Super-Elite Dungeon, Roughly Creating a Magic of Lv.9999999HeyPigeonEatFood999999Gu9 Roughly
 31382|||분노하라 절규하라 고통을 불태워라 이그나이트|||Rage, Scream, Burn the Pain, Ignite
 81924|||사자가 되었네!|||I Became a Lion!
 83695|||항우(項羽) 키우기|||Raising Xiang Yu
@@ -75147,7 +75147,7 @@
 19008|||수상한 단톡방에 초대되었다.|||I Was Invited to a Suspicious Group Chat.
 18658|||첫 사랑의 사계절|||Four Seasons of First Love
 18994|||내 여동생은 동반자님|||My Younger Sister is My Companion
-18887|||[헌터,TS,순애] 군대 간 친구에게 인편쓰려고 컴퓨터를 켰는데, 옆에 있는 노벨피아 광고가 개꼴려서 들어가봤더니 TOP100까지 개좆같은 소설이 너무 많길래, 나도 대충 요즘 유명하다는 SSS급 헌터도 넣고, 이세계 헬창남을 TS시켰더니 도내 S급 미소녀가 되어버렸다. 때마침 교내 아다 씹선비 선생님에게 키잡을 당하는데, 이새끼 남자의 자긍심은 모두 잊어버리고 선생님에게 보탬이 되기 위해 SSS급 얀데레 헌터가 되는 자본주의 100%감성의 소설을 쓰면 나도 이 바닥에서 돈을 좀 벌 수 있을까???|||[Hunter, TS, Pure Love] I Turned on the Computer to Write an Internet Letter to My Friend in the Army, But the Novelpia Ad Next to It Was So Hot That I Clicked It, and There Were Too Many Fucking Trash Novels in the Top 100, So I Roughly Put in an SSS-Class Hunter That's Popular These Days, TS'd an Otherworld Gym-Rat Guy, and He Became an S-Class Beautiful Girl in the City. Just in Time, He Gets Raised by the School's Virgin Scholar Teacher, and This Guy Forgets All His Male Pride and Becomes an SSS-Class Yandere Hunter to Be Useful to the Teacher. If I Write a 100% Capitalist Sentiment Novel Like This, Can I Make Some Money in This Field???
+18887|||[헌터,TS,순애] 군대 간 친구에게 인편쓰려고 컴퓨터를 켰는데, 옆에 있는 npia 광고가 개꼴려서 들어가봤더니 TOP100까지 개좆같은 소설이 너무 많길래, 나도 대충 요즘 유명하다는 SSS급 헌터도 넣고, 이세계 헬창남을 TS시켰더니 도내 S급 미소녀가 되어버렸다. 때마침 교내 아다 씹선비 선생님에게 키잡을 당하는데, 이새끼 남자의 자긍심은 모두 잊어버리고 선생님에게 보탬이 되기 위해 SSS급 얀데레 헌터가 되는 자본주의 100%감성의 소설을 쓰면 나도 이 바닥에서 돈을 좀 벌 수 있을까???|||[Hunter, TS, Pure Love] I Turned on the Computer to Write an Internet Letter to My Friend in the Army, But the Npia Ad Next to It Was So Hot That I Clicked It, and There Were Too Many Fucking Trash Novels in the Top 100, So I Roughly Put in an SSS-Class Hunter That's Popular These Days, TS'd an Otherworld Gym-Rat Guy, and He Became an S-Class Beautiful Girl in the City. Just in Time, He Gets Raised by the School's Virgin Scholar Teacher, and This Guy Forgets All His Male Pride and Becomes an SSS-Class Yandere Hunter to Be Useful to the Teacher. If I Write a 100% Capitalist Sentiment Novel Like This, Can I Make Some Money in This Field???
 17880|||아카시아라는 이름의 여자|||A Woman Named Acacia
 15840|||나는 여장이 좋은거지, 여자가 되고싶지는 않아 !|||I Like Cross-dressing, But I Don't Want to Become a Woman!
 1175|||놀게 교미 밖에 없는 음란한 시골에서 개변태 성활|||Perverted Sex Life in an Obscene Countryside Where There's Nothing to Do But Mate
@@ -76072,7 +76072,7 @@
 69627|||[원신]메스가키 트윈테일이 되었다.|||[Genshin] I Became a Twin-Tailed Brat
 68281|||그곳에선 편히 주무시길|||Rest Peacefully There
 68993|||이건 내 친구의 이야기인데|||This is My Friend's Story
-45040|||노벨피아 자료 참고집|||Novelpia Reference Collection
+45040|||npia 자료 참고집|||Npia Reference Collection
 66348|||RBD, IPX, FDSS, STARS, INU, MIDE, SSIS, VDD...|||RBD, IPX, FDSS, STARS, INU, MIDE, SSIS, VDD...
 68101|||파도와 바람에서|||From the Waves and Wind
 64037|||오 나의 찬혁님!|||Oh My Chanhyeok!
@@ -76619,7 +76619,7 @@
 155778|||천마의 딸이 집착한다|||The Heavenly Demon's Daughter is Obsessed
 328600|||선배에게 꼬셔졌습니다|||I Was Seduced by a Senior
 325548|||플로라스의 슬픔|||Floras' Sorrow
-327864|||요즘 노피아 말이야,조금 변한거같지않아?|||Novelpia these days, don't you think it's changed a bit?
+327864|||요즘 노피아 말이야,조금 변한거같지않아?|||Npia these days, don't you think it's changed a bit?
 243077|||[클로저스 단편 모음집]|||[Closers Short Story Collection]
 261321|||아내에게 들켰다 (S아내와 M남편의 실화 스토리)|||Caught by My Wife (True Story of an S-Wife and M-Husband)
 325318|||신이 주셨고, 신이 거두어가셨다|||God Gave, and God Took Away
@@ -76641,7 +76641,7 @@
 262937|||재벌녀가 후원하는 축구천재가 되었다|||I Became a Soccer Genius Sponsored by a Chaebol Woman
 285701|||언젠가는 함락될 완벽주의자 엘프님!|||The Perfectionist Elf Who Will Eventually Fall!
 316556|||너에게 가는 길이 독이 되어도|||Even If the Path to You Becomes Poison
-288825|||백합물이 쓰고 싶어서 노벨피아에 가입했습니다.|||I Joined Novelpia Because I Wanted to Write Yuri.
+288825|||백합물이 쓰고 싶어서 npia에 가입했습니다.|||I Joined Npia Because I Wanted to Write Yuri.
 316003|||ㅇㅇㅇㅇㅇㅇㅇㅇ맛|||Taste of ㅇㅇㅇㅇㅇㅇㅇㅇ
 310410|||누나라고 하지마|||Don't Call Me Noona
 305916|||어쩌면 돌이킬 수도 있는 그러나 돌이킬 수가 없는(단편선 모음집)|||Maybe Irreversible, But Irreversible (Short Story Collection)
@@ -77643,7 +77643,7 @@
 28689|||새로운 여생|||New Life
 27094|||키워준 하꼬가 집착합니다|||The Small Streamer I Raised is Obsessed
 24889|||[TS]아카데미의 마마가 되었다|||[TS] I Became the Academy's Mama
-26582|||#노벨피아_인기_해시태그_세계에_빙의 되었다|||#Possessed the World of Novelpia Popular Hashtags
+26582|||#npia_인기_해시태그_세계에_빙의 되었다|||#Possessed the World of Npia Popular Hashtags
 26219|||마왕님 안짐(생략)|||Demon King Doesn't Lose (Omitted)
 25080|||Time Lapse|||Time Lapse
 5352|||Date a live and different spirit|||Date a live and different spirit
@@ -78158,7 +78158,7 @@
 14263|||[히로아카] Heal ANd ReTUrN|||[My Hero Academia] Heal And ReTUrN
 9746|||나 심심함|||I'm Bored
 14491|||박상민은 좌절하지 않는다|||Park Sang-min Does Not Give Up
-14405|||노벨피아와 함께 하는 html 공부|||Learning HTML with Novelpia
+14405|||npia와 함께 하는 html 공부|||Learning HTML with Npia
 399576|||홍콩 2099:결벽증 마녀는 나를 만져야만 숨을 쉰다|||Hong Kong 2099: The Germaphobe Witch Can Only Breathe When She Touches Me
 449225|||폭군과 사는 남자가되었다|||I Became a Man Living with the Tyrant
 423047|||앞집사는 절친에게 길들여지고 있습니다|||The Neighbor Is Being Tamed by My Best Friend
@@ -78594,7 +78594,7 @@
 283386|||노예여교사|||Slave Female Teacher
 278840|||뺑소니|||Hit and Run
 284085|||요정 납치해서 기르기|||Kidnapping and Raising a Fairy
-288030|||모탈컴뱃 노벨피아|||Mortal Kombat Novelpia
+288030|||모탈컴뱃 npia|||Mortal Kombat Npia
 285434|||최면으로 동급생 따먹기|||Fucking a Classmate with Hypnosis
 260235|||어느 한 여농업인의 비밀|||A Female Farmer's Secret
 277249|||정석|||Standard
@@ -80108,7 +80108,7 @@
 337462|||진짜 가끔 쓰는 단편집|||Unhwa Short Story Collection
 340244|||전선기행|||Frontline Travel
 339009|||기록용|||For Recording
-337767|||노벨피아 업데이트 리뷰|||Novelpia Update Review
+337767|||npia 업데이트 리뷰|||Npia Update Review
 338365|||[메탈카드봇X가면라이더] 기계 생명체와 모든 가면라이더 로 변신할수 있는자|||[Metal Card Bot x Kamen Rider] Mechanical Lifeform and the One Who Can Transform into All Kamen Riders
 258503|||sole mode|||sole mode
 336921|||『 검은 숲 이야기 』|||『 Black Forest Story 』
@@ -80250,7 +80250,7 @@
 61906|||역배기사 공지보관함|||Reverse Bet Knight Notice Storage
 246619|||생각날때마다 쓰는 주제 모음|||Collection of Topics Written Whenever I Think of Them
 243406|||가출한 전하|||The Runaway Highness
-245488|||노발피아의 서버 관리자가 되었다|||I Became the Server Administrator of Novelpia
+245488|||노발피아의 서버 관리자가 되었다|||I Became the Server Administrator of Npia
 168010|||레지굴라그|||Regulag
 208505|||새로운소재창고(라쓰곤의뢰신청이라읽는다)|||New Material Warehouse (Read as Request Application)
 236300|||모든 것은 다이스의 뜻대로|||Everything According to the Dice
@@ -80269,7 +80269,7 @@
 172426|||지옥탈출 1|||Hell Escape 1
 224317|||구독알림이안와요|||Subscription Notifications Not Coming
 230490|||치킨신의 이야기|||Story of the Chicken God
-236710|||노벨피아 기능을 알아보자|||Let's Learn About Novelpia Features
+236710|||npia 기능을 알아보자|||Let's Learn About Npia Features
 239039|||수많은 고찰|||Numerous Reflections
 238820|||enlxmffls ehrckath|||enlxmffls ehrckath
 193655|||1화싸개의 아이디어 모음집|||Episode 1 Writer's Idea Collection
@@ -80322,7 +80322,7 @@
 207133|||(데어라)에간 한국인 노래소년|||(Date A Live) Korean Singing Boy Who Went There
 206831|||작가 수첩|||Author Notebook
 204827|||생각에 잠겨서 살아가는|||Living While Lost in Thought
-5900|||노벨피아 나 때는 말이야!|||Novelpia Back in My Day!
+5900|||npia 나 때는 말이야!|||Npia Back in My Day!
 38645|||단편 문학 집.|||Short Literature Collection.
 46897|||만화속 캐릭터가 영령이 된다면?|||What If a Manga Character Becomes a Heroic Spirit?
 201935|||가장 무서운 아이|||The Scariest Child
@@ -80359,9 +80359,9 @@
 159525|||[소설 아님] 오리카(?) 저장소|||[Not a Novel] Orica(?) Warehouse
 175216|||살아서 있는 사람들|||People Who Are Alive
 144645|||중생대 1억 6천만 년의 왕조|||Mesozoic Era 160 Million Year Dynasty
-173870|||노벨피아에서사람을검색하는방법은무엇인가요|||How do I search for people on Novelpia
+173870|||npia에서사람을검색하는방법은무엇인가요|||How do I search for people on Npia
 173510|||13년의 살인자|||13-Year Murderer
-170812|||과메기 노벨피아 탐방일지|||Gwamegi Novelpia Exploration Journal
+170812|||과메기 npia 탐방일지|||Gwamegi Npia Exploration Journal
 171516|||성경말씀 잠언|||Bible Proverbs
 168525|||와샌즈|||Wasans
 167862|||두루치기|||Stir-fry
@@ -80675,7 +80675,7 @@
 68412|||나는 어제 학생 하나를 죽였다.|||I Killed a Student Yesterday.
 58208|||룩셈부르크 정상영업 중|||Luxembourg Open for Business
 53017|||내 생애 첫 프랑스 여행은 죽어서 간다!|||My First Trip to France in My Life is After I Die!
-36539|||본격 노벨피아에서 만화그리기|||Drawing Manga on Novelpia
+36539|||본격 npia에서 만화그리기|||Drawing Manga on Npia
 11223|||북조선 애미나이가 되었다|||I Became a North Korean Girl
 5561|||타락 부처|||Corrupted Buddha
 72674|||카스의 기묘한 모험|||JoJo's Bizarre Adventure of CS
@@ -80913,7 +80913,7 @@
 56431|||[DC]고담의 시민단체,엠프라(amfra)|||[DC] Gotham Civic Group, AMFRA
 19766|||[외전]히로인이 히로인을 공략함|||[Side Story] Heroine Attacks Heroine
 25395|||이계엄마(異界Mother)|||Isekai Mother
-14852|||노벨피아 1화 빌런의 아뜰리에|||Novelpia Episode 1 Villain's Atelier
+14852|||npia 1화 빌런의 아뜰리에|||Npia Episode 1 Villain's Atelier
 84621|||대충 단편집|||Rough Short Story Collection
 87492|||옛날옛적에|||Once Upon a Time
 71313|||그가 찾아왔다|||He Has Come
@@ -88118,7 +88118,7 @@
 412830|||성검 들고 도망쳤는데요|||I Ran Away with the Holy Sword
 412404|||빌런에게 집착당하는 악당이 되었다|||I Became a Villain Obsessed Over by Other Villains
 412375|||우주여행을 꿈꾸는 블랙 드래곤이 되었다|||I Became a Black Dragon Who Dreams of Space Travel
-403194|||노벨피아 -챌린-|||NoveLpia -Challenge-
+403194|||npia -챌린-|||Npia -Challenge-
 415263|||아카데미 속 예언가로 착각당했다|||I Was Mistaken for a Prophet in the Academy
 415371|||로판을 혐오하는 대마법사가 되었다|||I Became an Archmage Who Hates Romance Fantasy Novels
 414783|||로판 속 야매 혁명가가 되었다|||I Became a Back-Alley Revolutionary in a Romance Fantasy Novel

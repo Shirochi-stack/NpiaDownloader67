@@ -1,0 +1,17 @@
+{
+  "chunks": 10,
+  "totalEntries": 284015,
+  "files": [
+    "sfc_chunk_0.json.gz",
+    "sfc_chunk_1.json.gz",
+    "sfc_chunk_2.json.gz",
+    "sfc_chunk_3.json.gz",
+    "sfc_chunk_4.json.gz",
+    "sfc_chunk_5.json.gz",
+    "sfc_chunk_6.json.gz",
+    "sfc_chunk_7.json.gz",
+    "sfc_chunk_8.json.gz",
+    "sfc_chunk_9.json.gz"
+  ],
+  "embedded": true
+}
