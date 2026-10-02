@@ -1195,6 +1195,7 @@
 120112518|||그 밀밭에 늑대가 서 있다|||A Wolf Stands in That Wheat Field
 120112755|||감정을 못 느끼는 남편을 버렸더니|||After I Abandoned My Emotionless Husband
 120112757|||감정을 못 느끼는 남편을 버렸더니 (15세 개정판)|||After I Abandoned My Emotionless Husband (15+ Revised Edition)
+120114866|||반석부터 시작하는 영지 생활 백서|||A Complete Guide to Estate Management, Starting from Bedrock
 1239001461|||계약|||Contract
 1239001510|||해적: 제왕의 포로|||Pirate: Captive of the Emperor
 1239001855|||은밀한 유희|||Secret Amusement
@@ -16614,6 +16615,7 @@
 425684684|||자본주의 주술사의 퇴마 라이프|||The Capitalist Shaman’s Exorcism Life
 425684787|||방출당한 S급 각성자의 힐링 라이프|||The Healing Life of a Banished S-Rank Awakened
 425685018|||경제왕 연산군|||Yeonsangun, King of the Economy
+425686291|||무당파 둔재의 엘프환생|||The Wudang Sect’s Fool Reincarnates as an Elf
 4267000001|||오르카 맨션(ORCA MANSION)|||ORCA MANSION
 4274000001|||윈터 헌팅|||Winter Hunting
 4287000267|||새벽달 이울다|||The Dawn Moon Wanes
@@ -18090,6 +18092,7 @@
 5453000633|||제물이 될지어다|||Become the Sacrifice
 5453000634|||제물이 될지어다(15세 개정판)|||Become the Sacrifice (15+ Revised Edition)
 5453000923|||아가씨는 그 개가 갖고 싶다|||The Lady Wants That Dog
+5453000924|||아가씨는 그 개가 갖고 싶다(15세 개정판)|||The Young Lady Wants That Dog (Age-Rated Edition)
 5454000001|||그 아카데미의 근무 수칙|||The Work Rules of That Academy
 5454000002|||그 아카데미의 근무 수칙(15세 개정판)|||The Work Rules of That Academy (15+ Revised Edition)
 5468000001|||무협 소설에 빙의하면 마감 안 해도 되나요|||If I Possess a Murim Novel, Do I Not Have to Meet Deadlines?
@@ -21129,7 +21132,6 @@
 961089747|||귀신 잡는 아이돌의 퇴마 라인업|||The Ghost-Hunting Idol’s Exorcism Lineup
 1190004304|||36.5|||
 120086367|||아카데미 청소부의 은밀한 공략|||
-120114866|||반석부터 시작하는 영지 생활 백서|||
 1823031533|||공략 당하는 고인물|||
 1962127958|||시한부 플레이어의 천재적 공략법|||
 2313000001|||던전 공략 LIVE|||
@@ -21146,9 +21148,7 @@
 425606091|||1903|||
 425629250|||1973|||
 425666977|||유부녀 공략 시스템 각성!|||
-425686291|||무당파 둔재의 엘프환생|||
 505027633|||현질로 소설 공략|||
-5453000924|||아가씨는 그 개가 갖고 싶다(15세 개정판)|||
 777039546|||공략자들|||
 777103514|||역대급 시한부 공략자|||
 945008054|||40,41|||
