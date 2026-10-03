@@ -66037,6 +66037,7 @@
 1245608|||구매 불가한 서이준 씨|||Mr. Seo Ijun Is Not for Sale
 1245611|||베이징 스캔들|||Beijing Scandal
 1245613|||불사학교|||Immortal School
+1245614|||악깡통합 43회|||Badass Integration, Episode 43
 1245615|||학생주임 선생님과 돌아온 제자|||The Dean of Students and the Returning Disciple
 1245617|||신의 장의사|||God’s Funeral Director
 1245619|||매화꽃 피던 날|||The Day the Plum Blossoms Bloomed
@@ -100824,6 +100825,7 @@
 403385|||그녀의 카레|||Her Curry
 40339|||아버지|||Father
 403403|||대한민국 암행어사|||Korea’s Royal Inspector
+403407|||대리인|||The Proxy
 403408|||여우야여우야~ 뭐하니?|||Fox, Fox~ What Are You Doing?
 40341|||SF단편 콩트 따위...|||Just Some SF Short Fiction...
 403420|||신하가 들려주는 이야기|||Stories Told by a Subject
@@ -188621,7 +188623,6 @@
 1243630|||1960|||
 1244519|||9.99|||
 1245105|||87.2314%|||
-1245614|||악깡통합 43회|||
 125690|||127|||
 127430|||1|||
 130976|||.|||
@@ -188754,7 +188755,6 @@
 399897|||達觀世代 BY|||
 401671|||.|||
 40231|||ㅇㅇ|||
-403407|||대리인|||
 405419|||ㅣㄷㄱㄷㅍ|||
 40949|||D아이E|||
 411989|||100+|||
