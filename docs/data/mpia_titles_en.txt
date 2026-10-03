@@ -65139,6 +65139,7 @@
 546899|||100억 날린 고인물의 결자해지|||The Veteran Who Lost 1 Billion Won Ties Up Loose Ends
 5469|||월드 크래쉬|||World Crash
 546909|||퍼펙트피지컬(Perfect Pycical)|||Perfect Physical (Perfect Pycical)
+546918|||Lu빛chy의 짧은글 모음집|||LuBitChy's Short Story Collection
 546932|||조선에 떨어진 육군 중사가 너무 강함|||The Army Sergeant Who Fell into Joseon Is Too Strong
 546933|||망나니 왕자가 회귀를 너무 잘함|||The Wastrel Prince Is Too Good at Regressing
 546935|||미래에서 돌아온 회귀자의 각성 능력이 기억상실 초난타|||The Regressor from the Future’s Awakened Ability Is a Memory-Loss Beatdown
@@ -67754,6 +67755,7 @@
 56034|||종말론|||Apocalypse
 560348|||귀인퇴|||The Nobleman Retreats
 560349|||AI와 회귀했더니 돈이 쏟아짐 [D]|||I Regressed with an AI, and Money Started Pouring In [D]
+560350|||전생 epl 명장은 탑 공략이 너무 쉽다|||The Reincarnated EPL Legend Finds Conquering the Tower Too Easy
 56036|||그때 우리들의 이야기|||Our Story Back Then
 560374|||SSS급 사격 국대의 탑 등반|||An SSS-Rank National Shooting Champion Climbs the Tower
 560378|||조용히 살고 싶었는데, 너무 강해졌다 [D]|||I Wanted to Live Quietly, but I Became Too Strong [D]
@@ -72124,6 +72126,7 @@
 575352|||낙화를 밟고 돌아온 검(劍)|||The Sword That Returned, Treading on Fallen Flowers
 575354|||슬럼가 대천사장은 소주병을 깬다|||The Archangel of the Slums Smashes Soju Bottles
 575357|||세계관 최강자의 장비를 물려받았다|||I Inherited the Strongest Being's Equipment
+575358|||재앙급 오브젝트의 탑 공략.|||A Calamity-Class Object Conquers the Tower.
 575359|||창조신의 힐링라이프|||The Creator God's Healing Life
 575363|||펑크 유닛 : 범죄자들로 쓰레기 사냥하는 법|||Punk Unit: How to Hunt Trash with Criminals
 575368|||92U|||92U
@@ -79736,6 +79739,7 @@
 600065|||백색봉쇄선|||The White Blockade Line
 600066|||나노 머신을 주웠더니 우주 최강|||I Found Nanomachines and Became the Strongest in Space
 600068|||공부만이 살 길이다|||Studying Is the Only Way to Survive
+600069|||탑 공략이 너무 쉬움|||Conquering the Tower Is Too Easy
 600072|||소원을 이루다|||Granting Wishes
 600073|||중고장터에서 천마신공을 나눔당함|||Someone Gave Me the Heavenly Demon's Divine Art on a Secondhand Marketplace
 600077|||게이트를 나왔지만 마나 반납은 안합니다|||I Left the Gate, but I’m Not Returning My Mana
@@ -81583,6 +81587,7 @@
 603776|||그 중심엔 우리가 있었다|||We Were at the Center of It
 603777|||날 해고한 회사의 최대주주가 되었다|||I Became the Largest Shareholder of the Company That Fired Me
 603778|||몽록(夢錄)|||Dream Records
+603779|||귀환 용사의 사이버펑크 공략법|||The Returned Hero's Guide to Cyberpunk
 60378|||휴먼크래프트|||Human Craft
 603780|||멸망하는 우주제국에서 살아남기.|||Surviving a Dying Space Empire
 603782|||배신당한 형사가 마공으로 때려죽임|||The Betrayed Detective Beats Them to Death with Demonic Arts
@@ -81863,6 +81868,7 @@
 60438|||엘리제|||Elise
 604380|||국가에 버림받고 재앙급 마법사로 각성했다|||Abandoned by the State, I Awakened as a Calamity-Class Mage
 604382|||죽음을 대가로 아스트라를 탄다|||I Ride Astra at the Cost of My Life
+604383|||Two프의 모험 : 우리는 엘프가 되었다. 아마도.|||Twopeu's Adventure: We Became Elves. Probably.
 604385|||천하회류록|||Chronicles of the World's Return
 604388|||노이즈 플로어|||Noise Floor
 604389|||귀환자는 아포칼립스에 건물주 대신 탑주가 되기로 했다|||The Returnee Chose to Become the Tower Lord Instead of a Landlord in the Apocalypse
@@ -83278,6 +83284,7 @@
 607176|||소환수의 힘이 내게 쌓인다|||My Summons' Power Accumulates in Me
 607177|||사은리(蛇隱里)|||Saeun-ri
 60718|||몽키 레이드|||Monkey Raid
+607181|||몸을팔았더니탑공략이너무쉬움.|||I Sold My Body, and Now Conquering the Tower Is Too Easy.
 607182|||삼국지, 문추 천하를 얻다.|||Three Kingdoms: Wen Chou Conquers All Under Heaven
 607183|||재벌가 버린 자식이 너무 유능함|||The Chaebol Family's Cast-Off Is Too Competent
 607184|||푸른 도깨비불|||Blue Goblin Fire
@@ -83783,14 +83790,18 @@
 60843|||부마 신익성|||Prince Consort Shin Ik-seong
 608460|||돼지 멱 따던 백정, 회귀해서 무림을 해체함|||The Butcher Who Slit Pigs' Throats Regressed and Dismantled the Martial World
 608720|||죽었더니 재벌집 망나니 본부장|||I Died and Became the Chaebol Family's Black Sheep Executive
+608790|||나혼자 쉘터 능력으로 탑 등반|||Climbing the Tower Alone with My Shelter Ability
 60891|||타락한 신|||Fallen God
 60895|||고수 기업경영기|||The Master Runs a Corporation
 60897|||패 자 지 천|||The Sky Falls on the Defeated
+608999|||천재의 아카이브를 다운로드했다. - 축구편|||I Downloaded a Genius's Archive - Soccer Edition
 60901|||Everywhere|||Everywhere
 60908|||천하를 꿈꾸다 [E]|||Dreaming of the World [E]
 6091|||용 니야기|||Dragon Story
 60910|||그녀와 나의 시간들|||Her Time and Mine
+609105|||각성했는데 패시브가 너무 사기임|||I Awakened, but My Passive Is Totally Broken
 60912|||위저드 스톤 [E]|||Wizard Stone [E]
+609134|||천재의 아카이브를 다운로드했다.|||I Downloaded a Genius's Archive
 60920|||여러분 화이팅|||Everyone, Fighting!
 60945|||직무유기|||Dereliction of Duty
 60948|||살수행|||The Assassin's Path
@@ -89174,21 +89185,18 @@
 537597|||1979.04.09|||
 540326|||ㄴㅇㄹㄴㅇㄹ|||
 542735|||2033|||
-546918|||Lu빛chy의 짧은글 모음집|||
 548517|||666|||
 54859|||96|||
 548709|||42|||
 552492|||외신 먹고 던전공략이 너무 쉬움|||
 55941|||0418|||
 559773|||20260427-4444|||
-560350|||전생 epl 명장은 탑 공략이 너무 쉽다|||
 564325|||.....3|||
 565765|||,,,,|||
 569530|||1592|||
 570221|||2083|||
 571616|||소드마스터의 외신 공략|||
 574017|||354867|||
-575358|||재앙급 오브젝트의 탑 공략.|||
 575548|||0100101010000101010|||
 585883|||23시59분60초|||
 588812|||7389|||
@@ -89196,22 +89204,14 @@
 592010|||4095|||
 595765|||ㅌㅅㅌㅌㅌ|||
 596700|||.............................|||
-600069|||탑 공략이 너무 쉬움|||
 602754|||The great sentinel (센티넬)|||
 603137|||1-1|||
 603183|||13-017|||
 603458|||2012|||
-603779|||귀환 용사의 사이버펑크 공략법|||
-604383|||Two프의 모험 : 우리는 엘프가 되었다. 아마도.|||
 605986|||The Gate of Heroes(더게이트오브히어로즈)|||
 606176|||52|||
-607181|||몸을팔았더니탑공략이너무쉬움.|||
 607188|||1층에 3년 머물다 탑 공략의 신이 되었다|||
 607814|||공략왕의 기록원이 회귀했다|||
 608033|||Axiom(공리)|||
-608790|||나혼자 쉘터 능력으로 탑 등반|||
-608999|||천재의 아카이브를 다운로드했다. - 축구편|||
-609105|||각성했는데 패시브가 너무 사기임|||
-609134|||천재의 아카이브를 다운로드했다.|||
 63401|||49|||
 7571|||5시 16분|||
