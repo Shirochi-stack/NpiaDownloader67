@@ -370,6 +370,7 @@ $유선이$|||$Yuseon$
 14번수감자|||Prisoner 14
 14번째|||14th
 14세|||14 Years Old
+15~17금|||Ages 15–17
 15구역|||District 15
 15금|||15+
 15금(?)로맨스중심|||15+? Romance-Focused
@@ -393,6 +394,7 @@ $유선이$|||$Yuseon$
 169금|||16+9
 16세|||16 Years Old
 16연패박고씀|||16 Losses Then Write
+17~18금|||Ages 17–18
 17군주|||17 Lords
 17금|||17+
 17살|||17 Years Old
@@ -4656,6 +4658,7 @@ Z기술|||Z Skill
 [MC][조교][TS]|||[MC] [Training] [TS]
 [MMORPG]|||[MMORPG]
 [MOD|||[MOD
+[Memory]|||[Memory]
 [NBA]|||[NBA]
 [NPC|||[NPC
 [NPC]|||[NPC]
@@ -4921,6 +4924,7 @@ Z기술|||Z Skill
 [라이트|||Light
 [라이트노벨]|||Light Novel
 [라일라]|||Lyla
+[레귤러스]|||[Regulus]
 [레이드]|||Raid
 [레이드물]|||Raid
 [로맨스|||[Romance]
@@ -5053,6 +5057,7 @@ Z기술|||Z Skill
 [뷰군]|||Beautiful Military Life
 [뷰티풀군바리]|||Beautiful Military Life
 [브라콘]|||Brother Complex
+[블랙]|||[Black]
 [비]|||Rain
 [비유]|||Metaphor
 [비장함]|||[Gravitas]
@@ -98693,6 +98698,7 @@ z커리어우먼|||Z Career Woman
 활의명수|||Master Of The Bow
 활이야기|||Bow Story
 활자돌|||Type Boy
+활자오락|||Text-Based Game
 활자조합물|||Text Combo
 활자중독자|||Type Addict
 활자포르노|||Text Porn

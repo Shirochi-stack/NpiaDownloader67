@@ -27537,6 +27537,7 @@
 1237585|||나의 멋지고,야한 이세계 생활|||My Wonderful, Sexy Life in Another World
 1237589|||계절대륙 서사시|||Epic of the Seasonal Continent
 12376|||drama*1|||drama*1
+1237608|||しあわせ, 행복이란|||Shiawase, What Happiness Means
 1237611|||[강철의 연금술사] 이슈발의 영웅|||[Fullmetal Alchemist] Hero of Ishval
 1237624|||[신의탑/헌터] 암살자|||[Tower of God/Hunter] Assassin
 1237632|||[BL]나의 비망록|||[BL] My Memoir
@@ -32660,6 +32661,7 @@
 12776|||하루를 여는 작은시|||A Little Poem to Open the Day
 1277600|||뉴아네스|||Nuanes
 1277635|||꼭 다시 돌아올게|||I Will Definitely Come Back
+1277647|||[쿠로바스/bl] 매니저를 하자, 하이자키 쇼고!|||[KuroBasu/BL] Let's Be Manager, Shogo Haizaki!
 1277660|||[히로아카] SPOTLIGHT|||[My Hero Academia] SPOTLIGHT
 1277680|||그때 우리의 약속|||Our Promise Back Then
 1277695|||여우에서 살아남기|||Surviving as a Fox
@@ -45746,6 +45748,7 @@
 1374817|||동산전|||The Tale of Dongsan
 137484|||남자는 힘!|||A Man's Strength!
 1374841|||[마블][BL] 스타크사 미성년 비서의 일기|||[Marvel][BL] Diary of Stark Industries' Underage Secretary
+1374865|||프롤로그부터 악연 공략하기|||Winning Over My Nemesis from the Prologue
 1374873|||이웃집 악당|||The Villain Next Door
 1374875|||내가 더 잘할게|||I'll Do Better
 1374879|||흔들어도 될까요?|||May I Shake It?
@@ -56495,6 +56498,7 @@
 1447280|||손영|||Sonyeong
 1447283|||[GL] 왕좌를 위하여|||[GL] For the Throne
 1447285|||쉐어하우스|||Share House
+1447293|||[해리포터]The Memory of R.A.B|||[Harry Potter] The Memory of R.A.B
 14473|||환생|||Reincarnation
 1447300|||이세계에서 레벨업!|||Level Up in Another World!
 1447311|||오늘의 운세|||Today's Fortune
@@ -123406,6 +123410,7 @@
 1815891|||보스 몹이 너무 강함|||The Boss Monster Is Too Strong
 1815892|||사이코패스 살인마는 살고 싶다|||The Psychopathic Killer Wants to Live
 18159|||과대망상증|||Delusions of Grandeur
+1815916|||회귀한 혈기사의 공략법|||How the Regressed Blood Knight Conquers
 1815918|||내가 키운 골프 여제|||The Golf Empress I Raised
 1815919|||고양이를 구해라|||Save the Cat
 1815920|||별수저 물고 데뷔하겠습니다|||I'll Debut with a Silver Spoon in My Mouth
@@ -125804,6 +125809,7 @@
 1825450|||의도불순한 맞선|||A Matchmaking Date with Ulterior Motives
 1825451|||[DC] I’m Fine, thank you. And you?|||[DC] I’m Fine, Thank You. And You?
 1825457|||[코난/BL] 군자보구 십년불만|||[Conan/BL] A Gentleman Takes Revenge Ten Years Later
+1825465|||[히로아카/도리벤] 범죄 천국에 어서오세요!|||[MHA/Tokyo Revengers] Welcome to Crime Heaven!
 1825467|||삭제|||Deleted
 182547|||MSL-Middle Scool LIfe|||MSL-Middle School Life
 1825477|||악신의 사도가 되었다 [출간]|||I Became the Evil God's Apostle [Published]
@@ -144784,6 +144790,7 @@
 1889158|||[코난/BL] 거리 추정 실패!|||[Conan/BL] Distance Estimation Failed!
 1889160|||케이지 셀베이션 (​Caged Salvation)|||Caged Salvation
 1889162|||선생님이 죽은 여름|||The Summer the Teacher Died
+1889164|||배역 뽑기로 천재 대배우|||A Genius Megastar Thanks to Casting Luck
 1889174|||지구인 이능금|||The Earthling Lee Neung-geum
 1889181|||이세계에서 메이드 구함!|||Hiring a Maid in Another World!
 1889195|||[完]어느 기사와 왕자 이야기|||[Complete] The Story of a Knight and a Prince
@@ -144915,6 +144922,8 @@
 1889541|||오늘도, 퀘스트를 수락하시겠습니까?|||Will You Accept the Quest Today, Too?
 1889543|||[원피스] 로빈의 소꿉친구가 되었다.|||[One Piece] I Became Robin's Childhood Friend
 1889546|||제가 마존을 감금한 모양입니다|||It Seems I've Imprisoned the Demon Lord
+1889566|||도살자의 아포칼립스|||The Butcher's Apocalypse
+1889569|||아포칼립스의 유일한 건물주|||The Apocalypse's Only Landlord
 1889592|||린린|||Linlin
 1889594|||[코난] 피차일반|||[Conan] We're Both the Same
 1889595|||내 이야기|||My Story
@@ -144938,6 +144947,7 @@
 1889734|||맛이 이상하다|||It Tastes Strange
 1889738|||[괴담출근/전독시] 줍줍(가제)|||[Working the Horror Shift/Omniscient Reader] Pick-Up (Working Title)
 1889759|||[히로아카×사이버 펑크: 엣지러너] 투 더 문|||[My Hero Academia × Cyberpunk: Edgerunners] To the Moon
+1889805|||공매도 쳤더니 백악관에서 전화 옴|||I Shorted the Market and Got a Call from the White House
 1889847|||살인마 갤러리 보는 회사원|||An Office Worker Who Browses the Murderer Gallery
 1889848|||재벌 매니저는 조용히 살고 싶다|||The Conglomerate's Manager Wants to Live Quietly
 1889866|||날개옷을 꿰메는 밤|||The Night I Sew the Feathered Robe
@@ -145825,10 +145835,12 @@
 18918|||에스텔라|||Estella
 189184|||The Knight|||The Knight
 189187|||Eternal.Love.Story|||Eternal.Love.Story
+1891895|||분해의 형태학[주술회전]|||Morphology of Disassembly [Jujutsu Kaisen]
 18919|||총기류에대한 해설|||A Guide to Firearms
 1891925|||버려진 오메가의 화려한 귀환|||The Abandoned Omega's Triumphant Return
 1892|||운명의 수레바퀴|||The Wheel of Fate
 18920|||루드라|||Rudra
+1892058|||시한부 아기 오메가가 가문을 구하는 법|||How a Terminally Ill Baby Omega Saves Their Family
 18921|||먼치킨|||Munchkin
 189212|||블랙 시티 - BLACK CITY|||Black City
 189216|||[왕따, 태 자 비 太子妃 되다]|||[The Outcast Becomes the Crown Princess]
@@ -145837,6 +145849,7 @@
 189235|||정해진 왕후|||The Chosen Queen
 1892401|||[작두]용 내려온다|||[Jakdu] The Dragon Descends
 18925|||【 P O L A R I S    L O V E 】|||【 P O L A R I S    L O V E 】
+1892528|||황제는 개를 길들인다|||The Emperor Tames a Dog
 1892536|||[헌터x헌터] 사랑x헌터|||[Hunter x Hunter] Love x Hunter
 18927|||미확정(아직 못정했어여....)|||Undecided (I Haven't Chosen Yet....)
 189271|||聖皇(성황)|||Holy Emperor
@@ -183256,6 +183269,7 @@
 439995|||시작의 땅|||Land of Beginnings
 439996|||제갈량 연대기|||The Chronicles of Zhuge Liang
 44|||봄|||Spring
+4400|||정리|||In Order
 44001|||카레니디아|||Karenidia
 440030|||Legendist|||Legendist
 440032|||feel|||Feel
@@ -218848,6 +218862,7 @@
 811178|||[Type - Moon x 그 외 x Original] HERO LINE WARS|||[Type-Moon x Others x Original] HERO LINE WARS
 811191|||INDEX ONLINE|||INDEX ONLINE
 811199|||[원핏스 X드래곤볼]  몽키 D 루피|||[One Piece X Dragon Ball] Monkey D. Luffy
+8112|||ㅅl나브로━‥프롤로그|||ㅅlnaBro━‥Prologue
 811200|||illusion|||Illusion
 811202|||(가제) 용의 둥지|||[Working Title] Dragon’s Nest
 811257|||기어와라! 찌찌드래곤!|||Come on! Boob Dragon!
@@ -235521,7 +235536,6 @@
 1233748|||1=2|||
 1236435|||.|||
 1236789|||....//|||
-1237608|||しあわせ, 행복이란|||
 1237906|||0%|||
 1239693|||/|||
 1241249|||1/2|||
@@ -235553,7 +235567,6 @@
 1276717|||1|||
 1276919|||ㅡㅡ|||
 1277512|||.|||
-1277647|||[쿠로바스/bl] 매니저를 하자, 하이자키 쇼고!|||
 1277887|||.|||
 1280381|||.|||
 1283539|||2020|||
@@ -235692,7 +235705,6 @@
 1373053|||1|||
 1374327|||ㅇ.|||
 1374814|||...|||
-1374865|||프롤로그부터 악연 공략하기|||
 1376291|||24242424|||
 1378246|||.|||
 1379684|||.|||
@@ -235775,7 +235787,6 @@
 14391|||....|||
 1441|||명 <命>|||
 1442447|||.|||
-1447293|||[해리포터]The Memory of R.A.B|||
 1447680|||.|||
 1448235|||.|||
 1448426|||..|||
@@ -236240,7 +236251,6 @@
 1808109|||상태창과 함께하는 가이드 연애 공략기|||
 1813773|||ㅣ|||
 1814923|||ㅤㅤㅤ|||
-1815916|||회귀한 혈기사의 공략법|||
 1816034|||-|||
 1817997|||.|||
 1818013|||2040|||
@@ -236262,7 +236272,6 @@
 1824184|||25|||
 1824823|||ㆍ|||
 1825160|||.|||
-1825465|||[히로아카/도리벤] 범죄 천국에 어서오세요!|||
 1826303|||.|||
 1826755|||1|||
 1826941|||.|||
@@ -236351,10 +236360,6 @@
 1886312|||ㄴ|||
 1886519|||ㆍ|||
 1887427|||.|||
-1889164|||배역 뽑기로 천재 대배우|||
-1889566|||도살자의 아포칼립스|||
-1889569|||아포칼립스의 유일한 건물주|||
-1889805|||공매도 쳤더니 백악관에서 전화 옴|||
 1890305|||0|||
 1890688|||하노(夏爐) - 여름이 끝나지 않는 도시|||
 1890735|||[인소의 법칙] 과잉사고(過剩思考).|||
@@ -236366,9 +236371,6 @@
 1891411|||[해리포터] 파랑 波浪|||
 1891481|||민화(民畵)|||
 1891622|||사무라이 애상록(劍客 哀想錄)|||
-1891895|||분해의 형태학[주술회전]|||
-1892058|||시한부 아기 오메가가 가문을 구하는 법|||
-1892528|||황제는 개를 길들인다|||
 1892954|||[작두/BL] 辰|||
 193749|||200.|||
 198509|||6666666666|||
@@ -236471,7 +236473,6 @@
 43621|||123|||
 43873|||12312|||
 439749|||-|||
-4400|||정리|||
 4441|||....|||
 449626|||*|||
 452791|||604800|||
@@ -236594,7 +236595,6 @@
 809054|||읗;ㅎ;ㅎ히누굴ㄴ눈치봐|||
 810674|||^^|||
 811135|||1|||
-8112|||ㅅl나브로━‥프롤로그|||
 812834|||ㅇㄴㄹㄴㅇ|||
 817232|||?|||
 818168|||ㅇ|||
