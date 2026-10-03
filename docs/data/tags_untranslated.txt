@@ -19,8 +19,8 @@
 18|||->|||
 19|||.....|||
 20|||2050년|||
-21|||​|||
-22|||키드갱에서|||Kid Gang
+21|||blog.\u006e\u0061\u0076\u0065\u0072.com|||blog.nweb.com
+22|||​|||
 23|||﻿|||
 24|||1.|||
 25|||15+|||
@@ -29,498 +29,126 @@
 28|||2006년|||
 29|||3:1|||
 30|||51053;|||
-31|||7살차이|||7-Year Age Gap
-32|||????|||
-33|||?????|||
-34|||[]|||
-35|||·|||
-36|||×|||
-37|||가짜용서|||Fake Forgiveness
-38|||아스오라|||Asora
-39|||영감받음|||Inspired
-40|||원역|||Original Timeline
-41|||청소년작|||Teen Fiction
-42|||!!|||
-43|||!!!|||
-44|||\"|||
-45|||(???)|||
-46|||(_|||
-47|||***|||
-48|||+1|||
-49|||+@|||
-50|||--|||
-51|||-_-|||
-52|||....|||
-53|||.......|||
-54|||................|||
-55|||...~|||
-56|||0%|||
-57|||0.|||
-58|||01.|||
-59|||1%|||
-60|||1-1|||
-61|||100%|||
-62|||100명공략|||100 Conquests
-63|||11.|||
-64|||13세기|||13th Century
-65|||14금|||
-66|||15~17금|||
-67|||15금?|||
-68|||16금|||
-69|||16금?|||
-70|||17.5금|||
-71|||17~18금|||
-72|||19+|||
-73|||1903년|||
-74|||1942년|||
-75|||1945년|||
-76|||1990년|||
-77|||1992년|||
-78|||19>30|||
-79|||1호선|||Line 1
-80|||2+2=5|||
-81|||2-8|||
-82|||2.|||
-83|||2002년|||
-84|||2014년|||
-85|||2015년|||
-86|||2020년|||
-87|||2031년|||
-88|||2035년|||
-89|||2054년|||
-90|||2068년|||
-91|||2450년|||
-92|||3-1|||
-93|||30%|||
-94|||4.3|||
-95|||4.5|||
-96|||45461;|||
-97|||4858-9715|||
-98|||5%|||
-99|||5.18|||
-100|||50%|||
-101|||50524;|||
-102|||50751;&|||
-103|||50751;~|||
-104|||51053;??|||
-105|||51760;|||
-106|||53192;|||
-107|||53349;|||
-108|||54643;|||
-109|||5@|||
-110|||70%|||
-111|||7:1|||
-112|||8.15|||
-113|||95%|||
-114|||978-89-993-9450-8|||
-115|||979-11-03-31840-6|||
-116|||979-11-6600-303-5|||
-117|||::|||
-118|||;|||
-119|||;;|||
-120|||======|||
-121|||=>|||
-122|||>.<7|||
-123|||>_<|||
-124|||?!?!?!?|||
-125|||?....|||
-126|||??????|||
-127|||?????????????????|||
-128|||AI제작|||AI-Generated
-129|||GMYB|||GMYB
-130|||LD|||LD
-131|||MANWA|||MANWA
-132|||SF퓨전|||Sci-Fi Fusion
-133|||SOLS|||SOLS
-134|||TS스킨아님|||Not a TS Skin
-135|||[-]|||
-136|||[15금]|||
-137|||^^*|||
-138|||_|||
-139|||_)|||
-140|||d조|||Group D
-141|||\u007c서리\u007c|||\u007cFrost\u007c
-142|||~?|||
-143|||~~|||
-144|||¿?|||
-145|||ᯣ_ᯣ|||
-146|||…|||
-147|||■※□¿¤|||
-148|||□□□|||
-149|||●|||
-150|||☁️☁️☁️|||
-151|||★|||
-152|||★★|||
-153|||♃|||
-154|||♡|||
-155|||♡♡|||
-156|||♥|||
-157|||♥♥♥♪|||
-158|||✅|||
-159|||》|||
-160|||가끔일상물|||Occasional Slice of Life
-161|||갈색|||Brown
-162|||갑질여주|||Bossy Heroine
-163|||강인녀|||Strong Heroine
-164|||같은얼굴다른사람|||Same Face, Different Person
-165|||개그물됨|||Turns Into Comedy
-166|||개노답파티|||Hopeless Party
-167|||갬모에남주|||Charming Male Lead
-168|||거다이맥스|||Gigantamax
-169|||거북선류|||Turtle Ship Style
-170|||검머수|||Black-Haired Bottom
-171|||검조물|||Crime Thriller
-172|||게이트공략|||
-173|||게임현실화|||Game Becomes Reality
-174|||결핍남|||Flawed Male Lead
-175|||경계심많수|||Wary Bottom
-176|||경호수|||Bodyguard Bottom
-177|||고대영웅|||Ancient Hero
-178|||고도비만|||Morbid Obesity
-179|||고딩인척하수|||Pretends to Be a High Schooler
-180|||고라니수|||Water Deer Bottom
-181|||고수여주|||Skilled Heroine
-182|||고죠사토루드림|||Satoru Gojo Dream
-183|||공략게임|||
-184|||공략기|||
-185|||공략대상|||Love Interest
-186|||공략수|||Targeted Bottom
-187|||공략쉽지않다|||Hard to Win Over
-188|||공략자|||Conqueror
-189|||공략자들|||Conquerors
-190|||공략중|||
-191|||공략캐|||Target Character
-192|||공일줄알았수|||Thought He Was the Top
-193|||공주님공|||Princess Top
-194|||공포썰아님|||Not a Horror Story
-195|||관계선택|||Choose Your Relationship
-196|||괴이시점공포|||Horror from the Monster's POV
-197|||교차서사|||Interwoven Narratives
-198|||구원과절망|||Salvation and Despair
-199|||권력형얀데레|||Powerful Yandere
-200|||권왕환생|||Reincarnated Fist King
-201|||귀농수|||Farmer Bottom
-202|||글쿤녀|||Unbothered Heroine
-203|||기개수|||Strong-Willed Bottom
-204|||길드성장물|||Guild Growth
-205|||까칠대형견남|||Grumpy Puppy-Like Male Lead
-206|||깔칠남|||Sharp-Tongued Male Lead
-207|||꿻횘뷿|||
-208|||내면의악|||Inner Evil
-209|||노가다수|||Laborer Bottom
-210|||놈ㅋㅋ|||That Guy lol
-211|||높수|||Tall Bottom
-212|||뇌없수|||Airheaded Bottom
-213|||뇽|||Nyong
-214|||능력녀주|||Powerful Heroine
-215|||능력여남주|||Capable Female and Male Leads
-216|||능력열화카피|||Weakened Ability Copy
-217|||능력은먼치킨|||Overpowered Abilities
-218|||능력장사|||Ability Business
-219|||다니카|||Danika
-220|||다인로맨스|||Multi-Partner Romance
-221|||다정물|||Sweet Romance
-222|||다정한척싸패공|||Psychopath Top Pretending to Be Sweet
-223|||다정헌신남|||Sweet, Devoted Male Lead
-224|||다크여주|||Dark Heroine
-225|||단체빙의|||Group Possession
-226|||달콤쌉싸름로코|||Bittersweet Rom-Com
-227|||담백함|||Understated
-228|||당당캐|||Confident Character
-229|||대립관계|||Rivalry
-230|||대문자T|||Big T Personality
-231|||대통령제|||Presidential System
-232|||대형묘공|||Big Cat Top
-233|||덤덤한|||Stoic
-234|||덮개깔개|||Cover and Bedding
-235|||데이터분석가|||Data Analyst
-236|||도시경영|||City Management
-237|||도우미수|||Helper Bottom
-238|||독립적수|||Independent Bottom
-239|||동거녀|||Live-In Girlfriend
-240|||동물교정|||Animal Training
-241|||두뇌형먼치킨|||Genius Overpowered MC
-242|||뒤뇌싸움|||Battle of Wits
-243|||드림커플|||Dream Couple
-244|||디지몬02|||Digimon Adventure 02
-245|||디지몬제로투|||Digimon Zero Two
-246|||떡밥회수맛집|||Satisfying Payoffs
-247|||또라이아가씨|||Unhinged Lady
-248|||레드플러드|||Red Flood
-249|||레이드진심수|||Raid-Obsessed Bottom
-250|||로드무비형|||Road Movie
-251|||로맨스마니아여주|||Romance-Loving Heroine
-252|||로봇심판|||Robot Referee
-253|||로쟈|||Rozha
-254|||리락쿠마|||Rilakkuma
-255|||마력공학|||Magical Engineering
-256|||마물숲|||Monster Forest
-257|||마법소녀아저씨|||Magical Girl Uncle
-258|||마법소품|||Magical Items
-259|||마저씨|||Middle-Aged Man
-260|||마흐트|||Macht
-261|||막장물포함|||Contains Makjang
-262|||만듦|||Making
-263|||말랑공|||Soft Top
-264|||망나니남|||Rake Male Lead
-265|||매국노누명탈피쇼|||Clearing Traitor Accusations
-266|||먹먹물|||Melancholy
-267|||멍냥공|||Dog-and-Cat Top
-268|||메디치|||Medici
-269|||메이플2차창작|||MapleStory Fanfiction
-270|||메키닉|||Mechanic
-271|||명화|||Masterpiece
-272|||모럴레스|||Moralless
-273|||목숨값|||Price of a Life
-274|||몬스터카드|||Monster Cards
-275|||몸vs머리|||Brawn vs. Brains
-276|||무감정주인공|||Emotionless Protagonist
-277|||무능력천재|||Powerless Genius
-278|||무당대역수|||Shaman Stand-In Bottom
-279|||무대공포증극복|||Overcoming Stage Fright
-280|||무뚝뚝다정남|||Stoic but Sweet Male Lead
-281|||무장일부TS|||Partial Gender Swap
-282|||무태두|||Mu Taedu
-283|||문파재건|||Rebuilding the Sect
-284|||물려버린남주|||Bitten Male Lead
-285|||미래의분실물|||Lost Things of the Future
-286|||미래인수|||Bottom from the Future
-287|||미청년집사|||Handsome Young Butler
-288|||미켈란젤로|||Michelangelo
-289|||민성하제|||Min Seonghaje
-290|||바이올리니스트수|||Violinist Bottom
-291|||바퀴는동그라미|||Wheels Are Round
-292|||반응물|||Reaction Fic
-293|||반카이|||Bankai
-294|||받음|||Received
-295|||배려공|||Considerate Top
-296|||백룸탐방|||Backrooms Exploration
-297|||버디로드|||Buddy Road
-298|||번개열매|||Lightning Fruit
-299|||베타에서오메가수|||Beta-to-Omega Bottom
-300|||베타연기수|||Beta-Pretending Bottom
-301|||병목|||Bottleneck
-302|||보급관|||Supply Officer
-303|||보스육성|||Boss Raising
-304|||보은공|||Grateful Top
-305|||복원|||Restoration
-306|||봉누도2|||Bongnudo 2
-307|||부유섬|||Floating Island
-308|||불경|||Buddhist Sutra
-309|||불여시|||Vixen
-310|||블아진입언제할지모름|||Blue Archive Crossover Uncertain
-311|||비관주의자|||Pessimist
-312|||비극적순애|||Tragic True Love
-313|||비밀을품은|||Hiding a Secret
-314|||비처녀아님|||Not a Virgin
-315|||비회귀|||No Regression
-316|||삣삐|||Ppipppi
-317|||사기아님|||Not a Scam
-318|||사람으로취급받지못하는자들|||Treated as Less Than Human
-319|||사육사여주|||Zookeeper Heroine
-320|||사향노루수|||Musk Deer Bottom
-321|||산신여주|||Mountain God Heroine
-322|||살인\u007c|||Murder\u007c
-323|||살짝느린전개|||Slightly Slow Pacing
-324|||삼형제|||Three Brothers
-325|||상극로맨스|||Opposites Romance
-326|||상남자호소인|||Wannabe Tough Guy
-327|||상사물|||Office Romance
-328|||상처없는|||No Angst
-329|||새세력추가|||New Faction Added
-330|||생명의가치|||Value of Life
-331|||생체슈트|||Bio-Suit
-332|||서서히스며듦|||Slow Burn
-333|||선택과대가|||Choices and Consequences
-334|||성장형고수|||Growing Stronger
-335|||성제시은|||Seongje Sieun
-336|||셋이살아요|||Throuple
-337|||소꿉친구의몸|||Childhood Friend's Body
-338|||소년만회|||Boy's Redemption
-339|||소도시|||Small Town
-340|||소화기|||Fire Extinguisher
-341|||손목위의백사|||White Snake on the Wrist
-342|||솔스RNG|||SOLS RNG
-343|||솔직히긴장됨|||Honestly Tense
-344|||쇼타남척자|||Shota Male Protagonist
-345|||수리공|||Repairman
-346|||수명거래|||Lifespan Trading
-347|||수명경제|||Lifespan Economy
-348|||수상한여주|||Suspicious Heroine
-349|||수포자|||Math Dropout
-350|||수혐오공|||Bottom-Hating Top
-351|||수호시은|||Suho Sieun
-352|||순종공|||Obedient Top
-353|||숲속왕국|||Forest Kingdom
-354|||슈나쟝|||Shuna-chan
-355|||스킬삭제|||Skill Removal
-356|||스킬작성|||Skill Creation
-357|||스파르타여전사|||Spartan Warrior Woman
-358|||스포츠남주|||Sports Male Lead
-359|||시간거래|||Time Trading
-360|||신들의음모|||Gods' Conspiracy
-361|||실눈캐수|||Narrow-Eyed Bottom
-362|||실천남|||Man of Action
-363|||실천녀|||Woman of Action
-364|||쌍남주|||Dual Male Leads
-365|||썩은슬라임|||Rotten Slime
-366|||아기다람쥐수|||Baby Squirrel Bottom
-367|||아련공|||Melancholy Top
-368|||아카플|||Academy Romance
-369|||아키비리|||Akivili
-370|||안하무인수|||Arrogant Bottom
-371|||알중수|||Alcoholic Bottom
-372|||알파주인공수|||Alpha Protagonist Bottom
-373|||암흑대륙|||Dark Continent
-374|||야매수학|||Amateur Mathematics
-375|||야무진수|||Capable Bottom
-376|||야성순정남|||Wild Romantic Male Lead
-377|||약간백하렘요소|||Some Reverse Harem Elements
-378|||약방|||Apothecary
-379|||양아치입덕부정공|||Delinquent Top in Denial
-380|||어바다|||Eobada
-381|||얼렁뚱땅수|||Clumsy Bottom
-382|||엉뚱햇살녀|||Quirky Sunshine Heroine
-383|||엑셀방송|||Excel Livestream
-384|||엔딩예상|||Predicted Ending
-385|||엔티티남주|||Entity Male Lead
-386|||엔필|||Enfield
-387|||여주도비밀있소|||The Heroine Has Secrets Too
-388|||여주은혼모름|||Heroine Doesn't Know Gintama
-389|||역세뇌|||Reverse Brainwashing
-390|||역하렘이불편하신분들은뒤로가기를|||Reverse Harem: Please Back Out If Uncomfortable
-391|||연시뮬|||Dating Sim
-392|||연애?물|||Romance?
-393|||연하리버스|||Younger Partner Reversal
-394|||엽떡|||Yupdduk
-395|||예수천국불신지옥|||Believe in Jesus or Go to Hell
-396|||예술계물|||Art World
-397|||오메가공주|||Omega Princess
-398|||오블리주|||Oblige
-399|||오비랍토르|||Oviraptor
-400|||옥절|||Jade Token
-401|||와미즈|||Wamiz
-402|||왕제공|||Royal Prince Top
-403|||외강내정병|||Tough Outside, Mentally Ill Inside
-404|||외계체|||Alien Being
-405|||외국풍|||Foreign Setting
-406|||요리잘하수|||Good Cook Bottom
-407|||요리하는여주|||Cooking Heroine
-408|||용사파티원|||Hero's Party Member
-409|||우당탕탕!|||Ruckus!
-410|||우리호텔정상영업합니다|||Our Hotel Is Open for Business
-411|||우주무협|||Space Wuxia
-412|||우호정|||Uhojeong
-413|||웃으라고|||Make Me Laugh
-414|||위기협상|||Crisis Negotiation
-415|||유루산|||Yurusan
-416|||유루스|||Yurus
-417|||유사집착|||Pseudo-Obsession
-418|||유사탑등반|||Tower-Climbing-Like
-419|||유희X|||No Games
-420|||은근적극수|||Subtly Forward Bottom
-421|||은빛황녀|||Silver Princess
-422|||이세계모험록|||Another World Adventure
-423|||이중TS|||Double Gender Swap
-424|||인간의욕망|||Human Desire
-425|||인간충전기|||Human Charger
-426|||인재육성|||Talent Development
-427|||임신순애|||Pregnancy and True Love
-428|||입험한공|||Rugged Top
-429|||자영업자|||Small Business Owner
-430|||장르비밀|||Genre Mystery
-431|||재건물|||Rebuilding
-432|||재창작|||Retelling
-433|||재화물|||Resource Management
-434|||저스펙공|||Low-Stats Top
-435|||저주장비|||Cursed Equipment
-436|||저질공|||Trashy Top
-437|||전도|||Proselytizing
-438|||전생귀족|||Reincarnated Noble
-439|||전투수녀|||Battle Nun
-440|||전현시|||Jeon Hyeonsi
-441|||절박공|||Desperate Top
-442|||절세미인공|||Peerlessly Beautiful Top
-443|||점점수위있음|||Gets Spicier Over Time
-444|||정ㅊ;|||Politics;
-445|||정발|||Official Release
-446|||정사스토리|||Canon Story
-447|||정신아픔이|||Mentally Ill
-448|||정치모략|||Political Intrigue
-449|||제주도배경|||Set on Jeju Island
-450|||조선왕실|||Joseon Royal Family
-451|||조직집안공|||Top from a Crime Family
-452|||주방|||Kitchen
-453|||줌마공|||Middle-Aged Woman Top
-454|||중1|||7th Grade
-455|||중국인남주|||Chinese Male Lead
-456|||중새시대|||Middle Ages
-457|||중화판타지|||Chinese Fantasy
-458|||직관남|||Intuitive Male Lead
-459|||직장빌런|||Workplace Villain
-460|||진지물포함|||Includes Serious Themes
-461|||쫄았수|||Scared Bottom
-462|||쫙쫙|||Stretching
-463|||차기로드|||Future Lord
-464|||착한공|||Kind Top
-465|||찬다라|||Chandara
-466|||찬다라물|||Chandara Story
-467|||찬다라소설|||Chandara Novel
-468|||처녀서큐버스|||Virgin Succubus
-469|||처절|||Harsh
-470|||천년묵은|||A Thousand Years Old
-471|||초고도비만|||Severe Obesity
-472|||초반피폐향첨가|||Early Angst
-473|||초식동물수|||Herbivore Bottom
-474|||추측|||Speculation
-475|||카라이치|||Karaichi
-476|||카미키다이아|||Kamiki Daia
-477|||카미키레드다이아|||Kamiki Red Daia
-478|||카미키레드다이아몬드|||Kamiki Red Diamond
-479|||카미키히키루|||Kamiki Hikaru
-480|||케토고죠|||KetoGojo
-481|||콜드스타트|||Cold Start
-482|||클리닝|||Cleaning
-483|||타세계관다수|||Multiple Alternate Universes
-484|||탑개발|||Tower Development
-485|||태양신|||Sun God
-486|||터무니없는|||Absurd
-487|||테그넣기귀찮다|||Too Lazy to Tag
-488|||테니스의왕자님|||The Prince of Tennis
-489|||트레이딩카드|||Trading Cards
-490|||파수꾼공|||Watchman Top
-491|||판타지로판.|||Fantasy Romance.
-492|||페르소나3리로드|||Persona 3 Reload
-493|||폭력히로인|||Violent Heroine
-494|||프랫|||Pratt
-495|||피곤남주|||Tired Male Lead
-496|||피곤하공|||Tired Top
-497|||피부|||Skin
-498|||피클|||Pickle
-499|||하드코어전투물|||Hardcore Combat
-500|||하얀여우|||White Fox
-501|||학장|||Dean
-502|||한번물면안놓는여주|||Tenacious Heroine
-503|||한중커플|||Korean-Chinese Couple
-504|||해군항공대|||Naval Air Force
-505|||해대감|||Lord Hae
-506|||해외학교|||Overseas School
-507|||행동파공|||Action-Oriented Top
-508|||행정물|||Administrative Fiction
-509|||허약남주|||Weak Male Lead
-510|||현대귀환|||Return to Modern Times
-511|||현대식던전|||Modern Dungeon
-512|||현대헌터물|||Modern Hunter
-513|||현대황실|||Modern Royal Family
-514|||현무팀|||Hyunmu Team
-515|||호림의이야기|||Horim's Story
-516|||홍콩풍|||Hong Kong Style
-517|||환결|||Hwangyeol
-518|||황도12궁|||Zodiac
-519|||황예찬|||Hwang Yechan
-520|||황폐화|||Desolation
-521|||후루야레이루트|||Rei Furuya Route
-522|||후반전독시설정포함|||Contains Late-Story Poisoning
-523|||히어로즈프로젝트|||Heroes Project
-524|||＃공략|||
-525|||／|||
+31|||????|||
+32|||?????|||
+33|||[]|||
+34|||·|||
+35|||×|||
+36|||!!|||
+37|||!!!|||
+38|||\"|||
+39|||(???)|||
+40|||(_|||
+41|||***|||
+42|||+1|||
+43|||+@|||
+44|||--|||
+45|||-_-|||
+46|||....|||
+47|||.......|||
+48|||................|||
+49|||...~|||
+50|||0%|||
+51|||0.|||
+52|||01.|||
+53|||1%|||
+54|||1-1|||
+55|||100%|||
+56|||11.|||
+57|||14금|||
+58|||15~17금|||
+59|||15금?|||
+60|||16금|||
+61|||16금?|||
+62|||17.5금|||
+63|||17~18금|||
+64|||19+|||
+65|||1903년|||
+66|||1942년|||
+67|||1945년|||
+68|||1990년|||
+69|||1992년|||
+70|||19>30|||
+71|||2+2=5|||
+72|||2-8|||
+73|||2.|||
+74|||2002년|||
+75|||2014년|||
+76|||2015년|||
+77|||2020년|||
+78|||2031년|||
+79|||2035년|||
+80|||2054년|||
+81|||2068년|||
+82|||2450년|||
+83|||3-1|||
+84|||30%|||
+85|||4.3|||
+86|||4.5|||
+87|||45461;|||
+88|||4858-9715|||
+89|||5%|||
+90|||5.18|||
+91|||50%|||
+92|||50524;|||
+93|||50751;&|||
+94|||50751;~|||
+95|||51053;??|||
+96|||51760;|||
+97|||53192;|||
+98|||53349;|||
+99|||54643;|||
+100|||5@|||
+101|||70%|||
+102|||7:1|||
+103|||8.15|||
+104|||95%|||
+105|||978-89-993-9450-8|||
+106|||979-11-03-31840-6|||
+107|||979-11-6600-303-5|||
+108|||::|||
+109|||;|||
+110|||;;|||
+111|||======|||
+112|||=>|||
+113|||>.<7|||
+114|||>_<|||
+115|||?!?!?!?|||
+116|||?....|||
+117|||??????|||
+118|||?????????????????|||
+119|||[-]|||
+120|||[15금]|||
+121|||^^*|||
+122|||_|||
+123|||_)|||
+124|||cafe.\u006e\u0061\u0076\u0065\u0072.com|||cafe.nweb.com
+125|||tpfla077@\u006e\u0061\u0076\u0065\u0072.com|||tpfla077@nweb.com
+126|||www.\u006a\u006f\u0061\u0072\u0061.com|||www.jara.com
+127|||\u007c서리\u007c|||\u007cFrost\u007c
+128|||~?|||
+129|||~~|||
+130|||¿?|||
+131|||ᯣ_ᯣ|||
+132|||…|||
+133|||■※□¿¤|||
+134|||□□□|||
+135|||●|||
+136|||☁️☁️☁️|||
+137|||★|||
+138|||★★|||
+139|||♃|||
+140|||♡|||
+141|||♡♡|||
+142|||♥|||
+143|||♥♥♥♪|||
+144|||✅|||
+145|||》|||
+146|||게이트공략|||
+147|||공략게임|||
+148|||공략기|||
+149|||공략중|||
+150|||꿻횘뷿|||
+151|||살인\u007c|||Murder\u007c
+152|||＃공략|||
+153|||／|||
