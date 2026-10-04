@@ -12709,6 +12709,7 @@
 3586108249|||폭탄마, 세상을 불태우다.|||The Bomb Mage Burns the World
 3586108519|||죽이고 스킬 빼먹는 용병이 되었다|||I Became a Mercenary Who Kills and Steals Skills
 3586108866|||회귀자는 드래곤 계약자가 되었습니다|||The Regressionist Became a Dragon Contractor
+3586109071|||호텔리어의 이세계 공략|||A Hotelier’s Guide to Conquering Another World
 3586109328|||안전제일주의 공간능력자|||The Safety-First Spatial Ability User
 3586109527|||환생살수|||Reincarnated Assassin
 3586109730|||예언의 아이가 살아남는 법|||How the Child of Prophecy Survives
@@ -21168,7 +21169,6 @@
 2313000001|||던전 공략 LIVE|||
 2877000379|||공략은 전지적으로|||
 3092045772|||회귀한 혈기사의 공략법|||
-3586109071|||호텔리어의 이세계 공략|||
 3586122711|||미리보기 마법사의 던전 공략법|||
 4178000348|||던전공략 특별회수반|||
 4186000571|||설계자의 공략방법|||
