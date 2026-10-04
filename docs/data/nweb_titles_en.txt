@@ -8247,7 +8247,6 @@
 1055625|||[M물류센터]헌터의 야간알바|||[M Logistics Center] A Hunter's Night Shift
 1055629|||너의 선택을 후회하지 않길|||I Hope You Don't Regret Your Choice
 1055634|||마녀님이 결혼하자고 하셨잖아요|||You Said We Should Get Married, Witch
-1055635|||누구에게나 하찮은 인생은 없다|||No Life Is Worthless
 1055636|||일리의 일기장|||Illy's Diary
 1055639|||후회 서브남을 사랑했다.|||I Loved the Regretful Second Male Lead
 1055644|||다시 만난 소꿉친구|||Reunited Childhood Friend
@@ -10297,7 +10296,6 @@
 1065715|||오크지만 괜찮은 편|||I'm an Orc, but I'm Doing Fine
 1065718|||꿈 속의 남자|||The Man in My Dream
 1065724|||신 죽이기(부제: 신을 거부하는 세상)|||Killing God (Subtitle: A World That Rejects God)
-1065730|||죄송하지만, 제가 그래야 할 이유가 있나요?|||Sorry, but Why Should I?
 1065733|||아포칼립스: 변종플라워|||Apocalypse: Mutant Flower
 1065735|||천한 사제|||The Lowly Priest
 1065738|||Lv.99 흑염의 프린세스|||Lv. 99 Princess of Black Flames
@@ -22311,7 +22309,6 @@
 1119696|||정체를 숨긴 모용가의 시비가 되었다.|||I Became a Hidden Servant of the Moyong Clan
 1119698|||클레임 걸(Claim Girl)|||Claim Girl
 1119702|||로판 속 판잣집 막내딸|||The Youngest Daughter of a Shack in a Romance Fantasy
-1119703|||러브 스타일링|||Love Styling
 1119707|||빙의하자마자 집안 망해도 해피엔딩|||Even If My Family Goes Bankrupt Upon Possession, It’s a Happy Ending
 1119713|||추락한 성녀에게 황후의 관을 바치니|||I Offered the Fallen Saintess the Empress’s Crown
 1119716|||용비망연가|||Song of the Dragon’s Forgotten Memory
@@ -187848,7 +187845,6 @@
 997049|||할아버지와 버블티(단편모음집)|||Grandfather and Bubble Tea (Short Story Collection)
 99705|||달의 늑대아이|||The Moon’s Wolf Child
 997067|||신조선건국기 1부|||The Founding of New Joseon, Part 1
-997092|||nweb에서 묻힌 명작들을 위해|||For the Buried Masterpieces of Nwebs
 997093|||이 이야기의 제목은 '무제'이다|||This Story Is Titled ‘Untitled’
 997117|||내가 끄적인 단편소설 모음집|||A Collection of Short Stories I Scribbled
 997120|||왕궁에서 사생아로 살아남기|||Surviving as a Bastard in the Royal Palace
@@ -188313,6 +188309,7 @@
 1052310|||....|||
 105320|||-|||
 1054288|||2051|||
+1055635|||오후 5시|||
 1055782|||.|||
 1057385|||.|||
 1057575|||..|||
@@ -188321,6 +188318,7 @@
 1063548|||ㅇㄴㅇㄹㄹㄴㅇㄴㅇㄹ|||
 1065561|||.|||
 1065705|||.|||
+1065730|||방랑마녀 서은재 : 인플루언서로 살아남기|||
 1065970|||..|||
 1065995|||0526|||
 1066440|||+×÷=%￦★♥|||
@@ -188382,6 +188380,7 @@
 1119084|||111111111111111111111111111111|||
 1119282|||3.3|||
 1119580|||.|||
+1119703|||퍼스트 피버(First Fever)|||
 1121349|||.|||
 1123602|||43. 23.|||
 1124152|||.|||
@@ -189166,6 +189165,7 @@
 993391|||마왕성 공략기|||
 994523|||ㅇ|||
 995183|||.|||
+997092|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124에서 묻힌 명작들을 위해|||
 998469|||1111111|||
 999640|||18:43|||
 999951|||~~~~~~|||
