@@ -41259,6 +41259,7 @@
 1187565|||충청통합 40회   김윤성 각성 !|||Chungcheong Unity Episode 40: Kim Yunseong Awakens!
 1187566|||작전명: 코드제로|||Operation Name: Code Zero
 1187567|||다음 생의 나는 기억하지 못한다|||I Won’t Remember This Life in My Next
+1187568|||1999년|||Year 1999
 1187570|||살충 스킬을 만렙으로 찍었다|||I Maxed Out My Insect-Killing Skill
 1187575|||이곳은 호텔 한울 입니다|||This Is Hotel Hanul
 1187577|||미망인라프리쉐|||The Widow Lafriche
@@ -129523,6 +129524,7 @@
 60445|||죽음의 끝|||The End of Death
 604455|||이세계에 가장 아름다운 사람이 되었다.|||I Became the Most Beautiful Person in Another World.
 604458|||헤비 투 라이트|||Heavy to Light
+604459|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124 덕후가 쓰는 잡다한 글|||Random Ramblings by a \u004e\u0061\u0076\u0065\u0072\u0020\u0057\u0065\u0062\u0020\u004e\u006f\u0076\u0065\u006c Fan
 604481|||아직은 병아리들|||Still Chicks
 604484|||[이영싫]정상인의 굴레|||[I Hate This Kind of Hero] The Burden of Being Normal
 604498|||해르민의 세계|||Haermin's World
@@ -139415,6 +139417,7 @@
 672275|||Stagger[스태거] (엇갈림)|||Stagger (Crossed Paths)
 672287|||월풀(Whirlpool)|||Whirlpool
 672288|||피격 ! 서울공항|||Under Attack! Seoul Airport
+672291|||희연|||Heeyeon
 672293|||shooting star|||Shooting Star
 672297|||Slow|||Slow
 6723|||토르멘타|||Tormenta
@@ -140044,6 +140047,7 @@
 676667|||크라메르 전기|||The Chronicles of Cramer
 676683|||태양이 품은 무지개빛 하늘|||Rainbow Sky Embraced by the Sun
 676684|||우리들의 일그러진 자소서|||Our Twisted Personal Statements
+676689|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124은 내가 접수|||I’ll Take Over \u004e\u0061\u0076\u0065\u0072\u0020\u0057\u0065\u0062\u0020\u004e\u006f\u0076\u0065\u006cs
 676690|||월화(月花)|||Moon Flower
 676705|||손톱 속 쥐새끼|||A Rat Under the Fingernail
 676706|||그믐달이 떠오르던 밤|||The Night the New Moon Rose
@@ -153181,6 +153185,7 @@
 765226|||삼천제|||Three Thousand Emperors
 765227|||마법학교 영웅들 이야기|||The Story of the Magic School Heroes
 765243|||한밤의 사자|||Lion at Midnight
+765252|||아이구 \uc870\uc544\ub77c|||Oh My, \u004a\u006f\u0061\u0072\u0061
 765255|||어항 속의 불사조|||The Phoenix in the Fishbowl
 765305|||능구렁이 공작님|||The Cunning Duke
 765312|||로스트킹덤|||Lost Kingdom
@@ -179958,6 +179963,7 @@
 94442|||EVIL|||EVIL
 944425|||작가가 쓴 세계는 존재했었다!|||The World Written by the Author Existed!
 944430|||우리들의 시골생활[완결]|||Our Country Life [Complete]
+944434|||\uc870\uc544\ub77c 가기 전|||Before Going to \u004a\u006f\u0061\u0072\u0061
 944449|||판타지 세계에서도 재입대는 싫어!|||I Don't Want to Reenlist Even in a Fantasy World!
 944453|||할미꽃|||Pasque Flower
 944465|||동물 친구들|||Animal Friends
@@ -188537,7 +188543,6 @@
 1186694|||flowers 花|||
 1186733|||3584|||
 1187183|||---|||
-1187568|||1999년|||
 1188238|||.|||
 1188291|||-|||
 1189349|||.|||
@@ -188873,7 +188878,6 @@
 598410|||2016.11.23|||
 603456|||000|||
 604095|||.|||
-604459|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124 덕후가 쓰는 잡다한 글|||
 604586|||.|||
 605425|||1|||
 606783|||ㅇ|||
@@ -188914,8 +188918,6 @@
 66647|||37.5|||
 666913|||2017-10-16|||
 667082|||.|||
-672291|||희연|||
-676689|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124은 내가 접수|||
 676867|||.|||
 678019|||1997년|||
 678690|||.|||
@@ -188977,7 +188979,6 @@
 755060|||1024|||
 76228|||.`|||
 763091|||.|||
-765252|||아이구 \uc870\uc544\ub77c|||
 76679|||3000|||
 767615|||.|||
 767762|||_|||
@@ -189116,7 +189117,6 @@
 937668|||0.1|||
 937920|||.|||
 942878|||.|||
-944434|||\uc870\uc544\ub77c 가기 전|||
 945212|||--------|||
 945885|||.|||
 947417|||666666|||
