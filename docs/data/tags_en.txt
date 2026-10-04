@@ -19547,6 +19547,7 @@ z커리어우먼|||Z Career Woman
 게이츠|||Gates
 게이트|||Gate
 게이트.|||Gate
+게이트공략|||Gate Strategy
 게이트도어|||Gate Door
 게이트문|||Gate Moon
 게이트물|||Gate
@@ -21288,6 +21289,7 @@ z커리어우먼|||Z Career Woman
 공때려서위아프공|||Top with a Stomachache from Hitting
 공란|||Blank Space
 공략|||Conquest
+공략게임|||Strategy Game
 공략대상|||Love Interest
 공략법|||攻略 Guide
 공략본이라도줘|||At Least Give Me a Walkthrough
@@ -25982,6 +25984,7 @@ z커리어우먼|||Z Career Woman
 꿋꿋한여주|||Steadfast Female Lead
 꿍끄리|||Kkungkkeuri
 꿰뚫는수|||Perceptive Bottom
+꿻횘뷿|||Kkyohbyul
 뀨수|||Kkyu Bottom
 뀸|||Kkyum
 뀽!|||Kkyung!
@@ -81313,6 +81316,7 @@ z커리어우먼|||Z Career Woman
 좆문가|||Shit Expert
 좆물보온통|||Cum Warmer
 좆물이백신|||NTR Vaccine
+좆밥수|||Weak Bottom
 좆뱀수|||Snake Bottom
 좆소|||Small Company
 좆소기업|||Shit Small Company
@@ -100702,6 +100706,7 @@ z커리어우먼|||Z Career Woman
 ﻿현대물|||Modern Setting
 ＃Upside|||#Upside
 ＃가상현실|||#Virtual Reality
+＃공략|||#Strategy
 ＃기업물|||#Corporate Story
 ＃로맨스|||#Romance
 ＃복수|||#Revenge

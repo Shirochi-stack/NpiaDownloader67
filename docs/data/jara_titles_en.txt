@@ -29836,6 +29836,7 @@
 1255136|||[히로아카/카캡사][번역]찬연한 빛은 타오르기를 멈출것이다|||[My Hero Academia/Cardcaptor Sakura][Translation] The Brilliant Light Will Cease to Burn
 1255137|||얼굴이 밥 먹여준다.|||My Face Earns My Living.
 1255138|||인간 전광판|||The Human Billboard
+1255157|||357-1번지|||Lot 357-1
 1255160|||[번역][FGO]＜Fate/Grand ONLINE＞|||[Translation][FGO] <Fate/Grand ONLINE>
 1255164|||단편 모음|||Short Story Collection
 1255175|||[LOL]마지막 전쟁|||[LoL] The Final War
@@ -125783,6 +125784,7 @@
 1825326|||너라는 하루가 내게 왔다|||A Day Called You Came to Me
 1825332|||세상에서 가장 약한 S급 ※진짜※|||The Weakest S-Rank in the World ※Really※
 1825334|||[하이큐/BL]황혼의 까마귀|||[Haikyuu/BL] Crow at Twilight
+1825341|||[데못죽/이착헌] 이세계 외계인 아이돌|||[Debut or Die/Transmigrator's Privilege] An Alien Idol from Another World
 1825343|||무에타이 승부사|||Muay Thai Gambler
 1825346|||시한부인데 흑막을 꼬시는 중입니다|||I'm Terminally Ill, but I'm Seducing the Mastermind
 182535|||버서커|||Berserker
@@ -130128,6 +130130,7 @@
 1842105|||공략 캐릭터가 살아 움직여요!|||The Target Character Is Alive!
 1842109|||미친 남편에게 버림받는 법|||How to Be Abandoned by a Mad Husband
 1842112|||[에스파] 채운|||[aespa] Filled
+1842118|||NPC는 선교에 적합하지 않다|||NPCs Are Not Fit for Proselytizing
 1842121|||모리엔 백작가의 사이코 영애|||The Psycho Lady of House Morien
 1842122|||[히로아카x원피스] 신시대|||[My Hero Academia x One Piece] New Era
 1842127|||별의 경계|||The Boundary of the Stars
@@ -145828,9 +145831,11 @@
 1891657|||[하이큐] 오타쿠도 사랑이 하고 싶어!|||[Haikyuu] Even Otaku Want to Fall in Love!
 1891658|||뜻밖의 행운을 조심하세요|||Beware of Unexpected Good Fortune
 1891662|||바지상|||Bajisang
+1891671|||[주술회전] 영원한 저주|||[Jujutsu Kaisen] Eternal Curse
 18917|||사념(思念), Poem|||Longing, Poem
 1891708|||S급 무당이 된 SSS급 초월자|||An SSS-Rank Transcendent Became an S-Rank Shaman
 189171|||reincarnate|||reincarnate
+1891739|||[이영싫] 시한부 서장님 오늘도 정상 영업합니다|||[My Abnormality is a Problem] The Terminally Ill Captain Is Open for Business as Usual Today
 1891759|||우리집 괴담은 안전합니다|||The Ghost Stories in Our House Are Safe
 18918|||에스텔라|||Estella
 189184|||The Knight|||The Knight
@@ -235546,7 +235551,6 @@
 1248991|||.....|||
 1249524|||1|||
 1252297|||.|||
-1255157|||357-1번지|||
 12567|||-|||
 1258688|||.|||
 1259017|||1313122344|||
@@ -236272,7 +236276,6 @@
 1824184|||25|||
 1824823|||ㆍ|||
 1825160|||.|||
-1825341|||[데못죽/이착헌] 이세계 외계인 아이돌|||
 1826303|||.|||
 1826755|||1|||
 1826941|||.|||
@@ -236297,7 +236300,6 @@
 1838035|||.|||
 1839317|||공략이 필요한 대상입니다|||
 1841305|||1978|||
-1842118|||NPC는 선교에 적합하지 않다|||
 1842474|||1980=2080|||
 1845402|||11|||
 1845453|||-|||
@@ -236373,8 +236375,6 @@
 1891411|||[해리포터] 파랑 波浪|||
 1891481|||민화(民畵)|||
 1891622|||사무라이 애상록(劍客 哀想錄)|||
-1891671|||[주술회전] 영원한 저주|||
-1891739|||[이영싫] 시한부 서장님 오늘도 정상 영업합니다|||
 1892954|||[작두/BL] 辰|||
 193749|||200.|||
 198509|||6666666666|||
