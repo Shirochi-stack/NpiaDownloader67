@@ -6499,6 +6499,7 @@ keeper|||Keeper
 kei|||Kei
 key|||key
 keystar|||Keystar
+key式治愈|||Key-Style Healing
 kgb|||KGB
 khk|||KHK
 kid|||Kid
@@ -7660,6 +7661,7 @@ z커리어우먼|||Z Career Woman
 一点也不重口|||Not Heavy at All
 一点都不爽|||Not Refreshing At All
 一点都不虐|||No Angst
+一片一油画|||Every Scene Is a Painting
 一片汪洋|||Vast Ocean
 一百天生命|||100 Days of Life
 一看就是理科|||Clearly Science Major
@@ -7834,6 +7836,7 @@ z커리어우먼|||Z Career Woman
 不正常游戏|||Abnormal Game
 不正经|||Not Serious
 不正经男主|||Not Serious Male Protagonist
+不正经的异界|||Wacky Otherworld
 不死|||Immortal
 不死之王|||Overlord
 不死者之王|||Overlord
@@ -7927,6 +7930,7 @@ z커리어우먼|||Z Career Woman
 世界观大作|||Grand Worldbuilding
 世界观好庞大|||Huge World Building
 世界观宏大|||Epic Worldbuilding
+世界观巨大|||Vast Worldbuilding
 世界观庞大|||Huge Worldview
 世界观很大|||Huge Worldview
 世界观很宏大|||Worldbuilding Is Grand
@@ -8076,6 +8080,7 @@ z커리어우먼|||Z Career Woman
 主角开挂|||MC Cheats
 主角开挂预警|||MC Cheat Warning
 主角弱渣|||Weak MC
+主角強大|||Powerful Protagonist
 主角強無敵|||Protagonist Is Invincible
 主角强大|||Powerful MC
 主角强无敌|||Protagonist Is Invincibly Strong
@@ -8088,6 +8093,7 @@ z커리어우먼|||Z Career Woman
 主角快变萝莉|||MC About to Become Loli
 主角性别未知|||MC Gender Unknown
 主角性无能|||MC Is Sexually Incompetent
+主角性格喜欢|||Likeable Protagonist
 主角恶人|||MC Is a Villain
 主角情智商高|||High EQ IQ
 主角才是大佬|||MC Is The True Boss
@@ -8212,6 +8218,7 @@ z커리어우먼|||Z Career Woman
 书面小瞬女装|||Written Shizun Crossdressing
 买断妹妹股|||Bought Out Little Sister Stock
 买胃药买穷|||Bought Stomach Medicine Until Broke
+乱七八糟|||All Over the Place
 乱世英雄|||Chaos Hero
 乱伦|||Incest
 乱入|||Crossover
@@ -8292,6 +8299,7 @@ z커리어우먼|||Z Career Woman
 人格分裂|||Split Personality
 人格分裂的男主|||Male Lead with Multiple Personalities
 人格转换|||Personality Swap
+人渣|||Scumbag
 人渣系主角|||Scum-Type Protagonist
 人物乱入|||Character Cameos
 人物内心挣扎|||Character's Inner Struggle
@@ -8735,6 +8743,7 @@ z커리어우먼|||Z Career Woman
 作者是高冷女|||Author Is A Cool Beauty
 作者是鸽子|||Author Is a Pigeon
 作者是鸽子精|||Author is a Pigeon Spirit
+作者智障|||Idiot Author
 作者更可爱|||Author Is Even Cuter
 作者更新勤|||Frequent Updates
 作者更新慢|||Author Updates Slowly
@@ -8848,6 +8857,7 @@ z커리어우먼|||Z Career Woman
 作者野心很大|||Author Has Big Ambitions
 作者错字受|||Author's Typos Suffer
 作者长发控|||Author Is a Long-Hair Fetishist
+作者长期不更|||Long Hiatus
 作者非常可口|||Author Is Very Delicious
 作者骇人|||Author Is Terrifying
 作者高产|||Prolific Author
@@ -9335,6 +9345,7 @@ z커리어우먼|||Z Career Woman
 剧情脱节|||Plot Disconnected
 剧情至上|||Plot Above All
 剧情虐心|||Heart-Wrenching Plot
+剧情补坑|||Plot Hole Filling
 剧情设计好|||Well-Planned Plot
 剧情赞|||Plot is Great
 剧情超棒|||Amazing Story
@@ -9402,9 +9413,11 @@ z커리어우먼|||Z Career Woman
 勇者很顽强|||Hero Is Very Tenacious
 勇者成为魔王后开后宫|||Hero Becomes Demon King Then Builds Harem
 勇者新八唧|||Hero Shinpachi
+勇者是变态|||Perverted Hero
 勇者是妹子|||Hero Is a Girl
 勇者渣男|||Scumbag Hero
 勇者的儿子|||Hero's Son
+勇者肉盾|||Hero Tank
 勇者脑子有坑|||Hero Has A Hole In His Brain
 勇者萝莉控|||Hero is Loli Con
 勇者魔王|||Hero and Demon King
@@ -9552,6 +9565,7 @@ z커리어우먼|||Z Career Woman
 双身|||Two Bodies
 双身份大佬|||Dual Identity Bigshot
 双重人格|||Dual Personality
+双重人格魔王|||Demon Lord with a Split Personality
 双重人生|||Double Life
 双重开挂|||Double Cheat
 双重开挂系列|||Double Cheat Series
@@ -9574,6 +9588,7 @@ z커리어우먼|||Z Career Woman
 反差|||Gap Moe
 反差哲学|||Gap Moe Philosophy
 反差萌|||Gap Moe
+反常规吐槽|||Subversive Snark
 反思|||Reflection
 反战|||Anti-War
 反战思考|||Anti-War
@@ -9654,6 +9669,7 @@ z커리어우먼|||Z Career Woman
 变身文|||Transformation Novel
 变身流|||Transformation Story
 变身百合|||MTF Yuri
+变身百合吧有|||Gender-Bender Yuri
 变身系|||Transformation Genre
 变身系我最爱|||Transformation Genre Is My Favorite
 变身莉莉娅|||Lilia Transformation
@@ -9908,6 +9924,7 @@ z커리어우먼|||Z Career Woman
 吐槽流|||Snarky Style
 吐槽狂|||Sarcasm Maniac
 吐槽狂魔|||Roast Demon
+吐槽王|||King of Snark
 吐槽质量很棒|||Great Roasts
 吐槽风格|||Roast Style
 吐糟|||Roast
@@ -9958,6 +9975,7 @@ z커리어우먼|||Z Career Woman
 周纶羽和夢明|||Zhou Lunyu and Meng Ming
 呪術廻戰|||Jujutsu Kaisen
 呵呵|||Heh
+呵呵呵|||Heh Heh Heh
 命运|||Fate
 命运的选择|||Choice of Fate
 命运石|||Fate Stone
@@ -10198,6 +10216,7 @@ z커리어우먼|||Z Career Woman
 基佬才会看的|||Only Gays Would Read This
 基佬文|||BL Novel
 基佬标嫁人|||Gay Guy Marries Someone
+基佬翼|||Gay Wing
 基友互坑|||Bros Screwing Each Other
 基友可推倒|||Bros Can Be Pushed Down
 基友的后宫|||Best Friend's Harem
@@ -10533,6 +10552,7 @@ z커리어우먼|||Z Career Woman
 女主抖S|||Female Lead Is Sadistic
 女主掉线|||Heroine MIA
 女主无敌|||Invincible Female Lead
+女主无敌流|||Overpowered Female Lead
 女主是H萝莉|||Female Lead Is H-Loli
 女主是个渣|||Female Lead is Scum
 女主是公主|||Heroine Is a Princess
@@ -10661,6 +10681,7 @@ z커리어우먼|||Z Career Woman
 奴隶少女|||Slave Girl
 奴隶流|||Slave Stream
 奴隶老婆|||Slave Wife
+奴隶赛高|||Slaves Are the Best
 奶子|||Boobs
 奶子大长腿|||Big Breasts Long Legs
 奶熙良心作|||Nai Xi Conscience Work
@@ -11019,6 +11040,7 @@ z커리어우먼|||Z Career Woman
 完美猫娘|||Perfect Cat Girl
 完美童养媳|||Perfect Child Bride
 完美萝莉|||Perfect Loli
+完美著作|||Perfect Masterpiece
 宏大世界观|||Epic Worldbuilding
 宏大叙事|||Grand Narrative
 宏大的世界观|||Grand Worldview
@@ -11058,6 +11080,7 @@ z커리어우먼|||Z Career Woman
 宿管员|||Dorm Supervisor
 寄刀片系列|||Razor Blade Mailing Series
 寄生獸|||Parasyte
+富婆别走|||Sugar Mommy, Don't Go
 富婆调教|||Sugar Mommy
 富萝莉|||Rich Loli
 对冥界阴间不同的印象|||Different Impression of the Underworld
@@ -11232,6 +11255,7 @@ z커리어우먼|||Z Career Woman
 就是搞笑类吧|||It's a Comedy
 就是练习|||Just Practice
 就是要写嫁人|||Just Want to Write About Marriage
+就是这么屌|||Just That Badass
 尸体|||Corpse
 尸鬼|||Shiki
 尼克斯赛高|||Nix High
@@ -11337,6 +11361,7 @@ z커리어우먼|||Z Career Woman
 师父师父|||Master Master
 师父救我|||Master Save Me
 师生恋|||Teacher-Student Romance
+希|||Hope
 希儿|||Seele
 希尔薇|||Sylvie
 希望|||Hope
@@ -11364,6 +11389,7 @@ z커리어우먼|||Z Career Woman
 干姐姐|||Dry Older Sister
 平凡无味的作品|||Bland and Ordinary Work
 平凡的故事|||Ordinary Story
+平凡的神作|||Ordinary Masterpiece
 平实风趣|||Down-to-Earth Humor
 平淡|||Plain
 平淡的日常|||Plain Daily Life
@@ -11417,6 +11443,7 @@ z커리어우먼|||Z Career Woman
 序章倒置|||Prologue Inverted
 序章大结局|||Prologue Is The Grand Finale
 序章女主男身|||Prologue: Female Lead in Male Body
+序章虐心|||Heartbreaking Prologue
 序言较长|||Long Prologue
 应该不算坑|||Probably Not a Pit
 应该是无敌流|||Should Be Invincible Genre
@@ -11499,6 +11526,7 @@ z커리어우먼|||Z Career Woman
 异世界的日常|||Daily Life in Another World
 异世界穿越|||Isekai
 异世界英雄传|||Otherworldly Hero Saga
+异世界转生|||Isekai Reincarnation
 异世网游|||Otherworld MMO
 异世重生|||Otherworld Rebirth
 异变|||Mutation
@@ -11625,6 +11653,7 @@ z커리어우먼|||Z Career Woman
 很好啊|||Very Good
 很好很强大|||Very Good Very Strong
 很好玩|||Very Fun
+很好的作品|||Great Work
 很好的剧情|||Great Plot
 很好看|||Very Good Looking
 很好看剧情蛮赞的|||Very Nice Plot
@@ -11955,6 +11984,7 @@ z커리어우먼|||Z Career Woman
 意外的温馨呢|||Unexpectedly Heartwarming
 意识流|||Stream of Consciousness
 愛|||Love
+愛的戰士|||Warrior of Love
 感人|||Touching
 感动|||Touching
 感动向|||Heartwarming
@@ -11976,6 +12006,7 @@ z커리어우먼|||Z Career Woman
 感觉蛮不错的一本书|||Feels Like a Pretty Good Book
 感觉要火|||Feels Like It Will Be Popular
 感觉还不错哟|||Feels Pretty Good
+感觸很深|||Deeply Moving
 感谢支持|||Thanks For The Support
 慢慢来|||Take It Slow
 慢热|||Slow Start
@@ -12019,6 +12050,7 @@ z커리어우먼|||Z Career Woman
 成哥|||Brother Cheng
 成神|||Ascension to Godhood
 成绩全S|||All S-Rank Grades
+成長|||Growth
 成长|||Character Growth
 我、悪鬼となりて|||I Become A Demon
 我不信后宫只有两个人|||I Don't Believe the Harem Has Only Two People
@@ -12152,6 +12184,7 @@ z커리어우먼|||Z Career Woman
 打破均衡|||Breaking Balance
 打破第四道墙|||Breaking the Fourth Wall
 打酱油的主角|||Bystander MC
+托更狂魔|||Serial Hiatus Taker
 托马斯小火车|||Thomas the Tank Engine
 执事|||Butler
 执杖AL|||Staff-Wielding AL
@@ -12185,6 +12218,7 @@ z커리어우먼|||Z Career Woman
 把衣服脱下来|||Take Off Your Clothes
 抑郁|||Depressing
 抑郁症作者|||Author Has Depression
+投错分区|||Misfiled Genre
 投错分区系列|||Wrong Category
 投错区|||Wrong Section
 投错区系列|||Wrong Section Series
@@ -12286,6 +12320,7 @@ z커리어우먼|||Z Career Woman
 推到啊|||Push Her Down
 推到男主吧|||Push Down the Male Lead
 推到阿|||Push Down
+推到魔王|||Seduce the Demon Lord
 推土机|||Bulldozer
 推理|||Mystery/Detective
 推荐|||Recommended
@@ -12385,6 +12420,7 @@ z커리어우먼|||Z Career Woman
 故事不错|||Good Story
 故事不错下|||Story Is Good
 故事情节挺好的|||Good Plot
+故事感人|||Heartwarming Story
 故事新说|||New Story Retelling
 故事构思新颖|||Original Story Concept
 故事清新流畅|||Story Is Fresh And Smooth
@@ -12400,6 +12436,7 @@ z커리어우먼|||Z Career Woman
 教你如何撩妹|||Teaching You How to Flirt
 教师|||Teacher
 敢不敢多更点|||Dare To Update More
+散仙|||Rogue Immortal
 散文|||Prose
 敬业鬼才|||Dedicated Genius
 数学分析|||Mathematical Analysis
@@ -12455,6 +12492,7 @@ z커리어우먼|||Z Career Woman
 文笔超赞|||Superb Writing
 文笔还不错|||Decent Writing
 文笔还行|||Decent Writing
+文笔震撼|||Stunning Prose
 文筆出類拔萃|||Outstanding Writing
 文筆極好|||Excellent Writing Style
 文筆沉穩|||Solid Writing
@@ -12512,6 +12550,7 @@ z커리어우먼|||Z Career Woman
 新现代主义|||New Modernism
 新的|||New
 新神作|||New God-Tier
+新穎|||Innovative
 新设定|||New Setting
 新超越主义|||New Transcendentalism
 新颖|||Innovative
@@ -12882,6 +12921,7 @@ z커리어우먼|||Z Career Woman
 有点骚|||A Bit Slutty
 有爱|||Heartwarming
 有爱日常|||Loving Daily Life
+有爱的兄妹|||Loving Siblings
 有爱的小说|||Loving Novel
 有生之年|||In This Lifetime
 有生之年更新|||Updates In This Lifetime
@@ -13252,6 +13292,7 @@ z커리어우먼|||Z Career Woman
 毁童年|||Childhood Ruiner
 毋庸置疑的好作品|||Undeniably Good
 母上无敌|||Mother Is Invincible
+母女|||Mother and Daughter
 母子盖浇饭|||Mother-Son Incest
 母控|||Mother Complex
 母狼师傅|||Wolf Mother Teacher
@@ -13289,6 +13330,7 @@ z커리어우먼|||Z Career Woman
 水文小能手|||Master Of Filler
 水水大美女|||Shuishui Beauty
 水污染治理|||Water Pollution Control
+水狐狸|||Water Fox
 水精灵|||Water Spirit
 水花零|||Water Flower Zero
 水表危机文章好评|||Water Meter Crisis Story Good Review
@@ -13319,6 +13361,7 @@ z커리어우먼|||Z Career Woman
 求生|||Survival
 求生之路|||Left 4 Dead
 求百合|||Begging for Yuri
+求福利|||Fanservice, Please
 求肉戏|||Begging for Smut
 求评论|||Begging for Comments
 求赞求收藏|||Begging for Likes and Favorites
@@ -13819,6 +13862,7 @@ z커리어우먼|||Z Career Woman
 王厨|||King Chef
 王女殿下|||Princess
 王子|||Prince
+王子复仇|||Prince's Revenge
 王子的逆袭|||Prince's Counterattack
 王级不良|||King-Class Delinquent
 王群即为马卡罗夫|||Wang Qun Is Makarov
@@ -13912,6 +13956,7 @@ z커리어우먼|||Z Career Woman
 用绳命吐槽|||Using Life to Roast
 用苹果拍死|||Killed by an Apple
 用身体养妹子|||Raising Girls Physically
+甩掉|||Dumping
 甩节操|||Throwing Away Integrity
 田园牧歌|||Idyllic Pastoral
 申田N|||Shinda N
@@ -14016,6 +14061,7 @@ z커리어우먼|||Z Career Woman
 男主普通人|||Male Lead Is An Ordinary Person
 男主智商很高|||Male Lead Has Very High IQ
 男主智商碾压|||MC Intelligence Crush
+男主暖男|||Warmhearted Male Lead
 男主有故事|||Male Lead Has a Story
 男主有点厉害|||Male Lead Is Quite Strong
 男主有点坏|||Male Protagonist is a Bit Bad
@@ -14067,6 +14113,7 @@ z커리어우먼|||Z Career Woman
 男人变态有什么错|||What's Wrong With Men Being Perverted
 男人的友情|||Bromance
 男冷女热|||Cold Male Hot Female
+男变女|||Gender Bender
 男女主分不清|||Can't Tell Male and Female Leads Apart
 男女通吃|||Bisexual
 男子|||Male
@@ -14144,6 +14191,7 @@ z커리어우먼|||Z Career Woman
 病娇姑姑|||Yandere Aunt
 病娇小学生|||Yandere Schoolgirl
 病娇少女|||Yandere Girl
+病娇淫欲魔王|||Yandere Lustful Demon Lord
 病娇爱病娇|||Yandere Loves Yandere
 病娇美少女|||Yandere Beautiful Girl
 病娇萌|||Yandere
@@ -14623,6 +14671,7 @@ z커리어우먼|||Z Career Woman
 穿越后期|||Late-Stage Transmigration
 穿越成精灵|||Transmigrated Into An Elf
 穿越文|||Transmigration
+穿越百合|||Isekai Yuri
 穿越继续开后宫|||Isekai Harem Continues
 穿越者多如狗|||Transmigrators Are Everywhere
 穿越者大军|||Army of Transmigrators
@@ -14705,6 +14754,7 @@ z커리어우먼|||Z Career Woman
 简直有毒|||Simply Addictive
 简直棒|||Simply Awesome
 简直苟利国家|||Simply Benefits the Nation
+简直闹|||Ridiculous
 简约|||Simple
 算是热血流|||Sort of Hot-Blooded
 管家|||Butler
@@ -14721,6 +14771,7 @@ z커리어우먼|||Z Career Woman
 类型多样|||Diverse Genres
 类型大雾|||Genre in Thick Fog
 类绯弹轻小说|||Like Baka-Tsuki Light Novel
+类英雄|||Hero-Type
 粉切黑|||Cute but Dark
 粉毛萝莉|||Pink-Haired Loli
 粪作|||Shit Work
@@ -14730,11 +14781,13 @@ z커리어우먼|||Z Career Woman
 精品|||Masterpiece
 精壮的猛萝莉|||Strong and Fierce Loli
 精彩|||Wonderful
+精彩但有点虐主|||Great but Harsh on the Protagonist
 精悍|||Concise and Powerful
 精灵|||Elf
 精灵使的剑舞|||Blade Dance of the Elementalers
 精灵使的剑舞伪|||Pseudo-Blade Dance
 精灵公主|||Elf Princess
+精灵后宫|||Elf Harem
 精灵妹妹|||Elf Little Sister
 精灵宝可梦|||Pokémon
 精神侵蚀系|||Mental Corrosion
@@ -15073,6 +15126,7 @@ z커리어우먼|||Z Career Woman
 膜蛤|||Memes About Toad
 膨胀男主|||Arrogant Male Lead
 臥槽虐心啊|||Heart-Wrenching
+自产自嫁|||Self-Pairing
 自以为是|||Self-Righteous
 自以为是的正义|||Self-Righteous Justice
 自传|||Autobiography
@@ -15323,6 +15377,7 @@ z커리어우먼|||Z Career Woman
 萝莉狐仙|||Loli Fox Spirit
 萝莉画师|||Loli Artist
 萝莉癌晚期|||Terminal Loli Syndrome
+萝莉百合|||Loli Yuri
 萝莉的保姆|||Loli's Babysitter
 萝莉童养媳|||Loli Child Bride
 萝莉老婆|||Loli Wife
@@ -15610,6 +15665,7 @@ z커리어우먼|||Z Career Woman
 说粪作的出来|||Those Who Call It Shit Come Out
 诶嘿嘿嘿|||Ehehehe
 请加油|||Please Keep Going
+请多提建议|||Feedback Welcome
 请大家支持|||Please Everyone Support
 请注意排版|||Please Pay Attention to Formatting
 请细细品尝|||Please Savor Slowly
@@ -16065,6 +16121,7 @@ z커리어우먼|||Z Career Woman
 都市超规格魔幻|||Supernatural Urban Fantasy
 都市魔幻|||Urban Fantasy
 都市魔法|||Urban Magic
+都是世界的错|||It's All the World's Fault
 都是作者加的|||All Added by the Author
 都是套路|||All Are Routines
 都是御姐|||All Onee-sans
@@ -16163,6 +16220,7 @@ z커리어우먼|||Z Career Woman
 闪闪不要嫁人|||Shiny Don't Get Married
 闪闪才不要死|||Shiny Doesn't Want to Die
 问题儿童的及视感|||Problem Children Vibes
+问题少女|||Troubled Girl
 问题魔王|||Troublesome Demon Lord
 闯荡江湖|||Wandering The Jianghu
 闷声发大财|||Silent Riches
@@ -16197,6 +16255,7 @@ z커리어우먼|||Z Career Woman
 阿赖耶好萌|||Moe Alaya
 阿阿阿|||Ahhhh
 阿阿阿是啥鬼|||Ahhh WTF
+附体|||Possession
 附身|||Possession
 降维打击|||Dimensionality Reduction
 除了短挺好|||Good Except It's Short
@@ -16396,6 +16455,7 @@ z커리어우먼|||Z Career Woman
 高甜高虐|||High Sugar High Abuse
 高科技|||High-Tech
 高端向装逼|||High-End Showing Off
+高考|||College Entrance Exam
 高考帝|||Gaokao Emperor
 高能预警|||High Energy Warning
 高评作品不更新|||Highly Rated But No Updates
