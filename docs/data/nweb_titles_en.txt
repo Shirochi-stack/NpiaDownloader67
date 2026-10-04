@@ -129523,7 +129523,6 @@
 60445|||죽음의 끝|||The End of Death
 604455|||이세계에 가장 아름다운 사람이 되었다.|||I Became the Most Beautiful Person in Another World.
 604458|||헤비 투 라이트|||Heavy to Light
-604459|||nweb 덕후가 쓰는 잡다한 글|||Miscellaneous Writings by a Nweb Fan
 604481|||아직은 병아리들|||Still Chicks
 604484|||[이영싫]정상인의 굴레|||[I Hate This Kind of Hero] The Burden of Being Normal
 604498|||해르민의 세계|||Haermin's World
@@ -139416,7 +139415,6 @@
 672275|||Stagger[스태거] (엇갈림)|||Stagger (Crossed Paths)
 672287|||월풀(Whirlpool)|||Whirlpool
 672288|||피격 ! 서울공항|||Under Attack! Seoul Airport
-672291|||희연(稀緣)|||Rare Fate
 672293|||shooting star|||Shooting Star
 672297|||Slow|||Slow
 6723|||토르멘타|||Tormenta
@@ -140046,7 +140044,6 @@
 676667|||크라메르 전기|||The Chronicles of Cramer
 676683|||태양이 품은 무지개빛 하늘|||Rainbow Sky Embraced by the Sun
 676684|||우리들의 일그러진 자소서|||Our Twisted Personal Statements
-676689|||nweb은 내가 접수|||I'll Take Over Nwebs
 676690|||월화(月花)|||Moon Flower
 676705|||손톱 속 쥐새끼|||A Rat Under the Fingernail
 676706|||그믐달이 떠오르던 밤|||The Night the New Moon Rose
@@ -148013,7 +148010,6 @@
 729551|||문스텔라|||Moonstella
 729554|||전하, 재워주세요!|||Your Highness, Please Put Me to Sleep!
 729556|||사모곡 [思母曲]|||A Song for Mother
-729563|||愛之重之애지중지-는 jara로 옮겨집니다.|||Beloved: Moving to Jara
 729568|||피아노가 흐르는 다락방|||The Attic Where Piano Music Flows
 729573|||용사는 땅파서 돈을 법니다만 문제라도?|||The Hero Digs for Money—Got a Problem?
 729578|||제일 껄끄러운 남자와 한 침대에서 눈을 떴다.|||I Woke Up in Bed with the Most Uncomfortable Man
@@ -188877,6 +188873,7 @@
 598410|||2016.11.23|||
 603456|||000|||
 604095|||.|||
+604459|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124 덕후가 쓰는 잡다한 글|||
 604586|||.|||
 605425|||1|||
 606783|||ㅇ|||
@@ -188917,6 +188914,8 @@
 66647|||37.5|||
 666913|||2017-10-16|||
 667082|||.|||
+672291|||희연|||
+676689|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124은 내가 접수|||
 676867|||.|||
 678019|||1997년|||
 678690|||.|||
@@ -188963,6 +188962,7 @@
 728053|||-|||
 72816|||ㅇㄹㄹㄹ4|||
 728300|||.|||
+729563|||愛之重之애지중지-는 \uc870\uc544\ub77c로 옮겨집니다.|||
 733945|||1524|||
 736198|||ㅇㄹㅇㄹ|||
 738720|||20%|||
