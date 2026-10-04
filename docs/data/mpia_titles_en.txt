@@ -23237,6 +23237,7 @@
 289247|||아카데미 사이보그 교수가 되었다|||I Became a Cyborg Professor at the Academy
 28925|||차원던전마스터|||Dimensional Dungeon Master
 289308|||구원자들|||The Saviors
+289322|||제이피그린 공략기|||J. P. Green's Strategy Guide
 289331|||선택지로 꿀빠는 매니저|||The Manager Who Enjoys Easy Mode Through Choices
 289335|||내 친구의 첫사랑|||My Friend's First Love
 289340|||델리사람들|||People of Delhi
@@ -83760,6 +83761,7 @@
 608052|||일곱 번째 아침|||The Seventh Morning
 608059|||아카데미 기레기는 기사를 참지 않는다|||The Academy Rag Reporter Can't Resist a Scoop
 608062|||고졸 게임회사 들어간 썰|||How I Got a Job at a Game Company with Only a High School Diploma
+608063|||경리팀 막내가 재계 순위를 바꿔버림|||The Junior Accountant Changed the Corporate Rankings
 608066|||미국 갱단에게 곡 팔다 톱스타|||I Sold Songs to American Gangs and Became a Top Star
 608068|||마지막 용은 기도하지 않는다.|||The Last Dragon Does Not Pray
 608069|||해고당한 과장이 헌터를 너무 잘 키움|||The Fired Manager Is Too Good at Raising Hunters
@@ -83783,6 +83785,7 @@
 608257|||퇴사 하고 함장|||I Quit My Job and Became a Captain
 60826|||스멜 오브 데블|||Smell of the Devil
 608294|||내 AI에 미래가 업데이트 되었다|||My AI Got a Future Update
+608297|||유일한 지구 출신 대군주가 되었다.|||I Became the Only Overlord from Earth.
 60832|||600년의 그녀|||The Girl from Six Hundred Years Ago
 60838|||환생하고 보니 드래곤|||I Reincarnated as a Dragon
 608386|||빌보드 1위 저작권자인데, 해고당함|||I Own the Rights to a Billboard No. 1 Hit, but I Got Fired
@@ -83791,6 +83794,7 @@
 608460|||돼지 멱 따던 백정, 회귀해서 무림을 해체함|||The Butcher Who Slit Pigs' Throats Regressed and Dismantled the Martial World
 608720|||죽었더니 재벌집 망나니 본부장|||I Died and Became the Chaebol Family's Black Sheep Executive
 608790|||나혼자 쉘터 능력으로 탑 등반|||Climbing the Tower Alone with My Shelter Ability
+608907|||권고사직 명단에 올랐는데 최고 에이스임|||I Was Put on the Layoff List, but I'm the Top Ace
 60891|||타락한 신|||Fallen God
 60895|||고수 기업경영기|||The Master Runs a Corporation
 60897|||패 자 지 천|||The Sky Falls on the Defeated
@@ -83802,7 +83806,11 @@
 609105|||각성했는데 패시브가 너무 사기임|||I Awakened, but My Passive Is Totally Broken
 60912|||위저드 스톤 [E]|||Wizard Stone [E]
 609134|||천재의 아카이브를 다운로드했다.|||I Downloaded a Genius's Archive
+609183|||선협인데 수명이 무한임|||It's a Xianxia, but I Have an Infinite Lifespan
+609190|||핵심 특허가 내 것인데 그런 나를 해고함!|||They Fired Me Even Though the Key Patent Is Mine!
 60920|||여러분 화이팅|||Everyone, Fighting!
+609200|||내가 핵심 설계자인 줄 모르고 해고당함|||They Fired Me Without Knowing I Was the Lead Designer
+609393|||연개소문네 망나니가 너무 유능함|||Yeon Gaesomun's Rake Is Way Too Competent
 60945|||직무유기|||Dereliction of Duty
 60948|||살수행|||The Assassin's Path
 60959|||엔지니어 드래곤|||Engineer Dragon
@@ -89117,7 +89125,6 @@
 276141|||ㅁㅇㅁㄴㅇㅁㄴㅇ|||
 286326|||?!,?!?.,|||
 28761|||000001|||
-289322|||제이피그린 공략기|||
 289421|||57794|||
 291678|||만렙 플레이어의 쓸만한 공략방송 [D]|||
 301020|||01300930|||
@@ -89213,12 +89220,5 @@
 607188|||1층에 3년 머물다 탑 공략의 신이 되었다|||
 607814|||공략왕의 기록원이 회귀했다|||
 608033|||Axiom(공리)|||
-608063|||경리팀 막내가 재계 순위를 바꿔버림|||
-608297|||유일한 지구 출신 대군주가 되었다.|||
-608907|||권고사직 명단에 올랐는데 최고 에이스임|||
-609183|||선협인데 수명이 무한임|||
-609190|||핵심 특허가 내 것인데 그런 나를 해고함!|||
-609200|||내가 핵심 설계자인 줄 모르고 해고당함|||
-609393|||연개소문네 망나니가 너무 유능함|||
 63401|||49|||
 7571|||5시 16분|||
