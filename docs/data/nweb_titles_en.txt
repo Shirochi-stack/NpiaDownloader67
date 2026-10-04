@@ -153185,7 +153185,6 @@
 765226|||삼천제|||Three Thousand Emperors
 765227|||마법학교 영웅들 이야기|||The Story of the Magic School Heroes
 765243|||한밤의 사자|||Lion at Midnight
-765252|||아이구 jara|||Oh, Jara
 765255|||어항 속의 불사조|||The Phoenix in the Fishbowl
 765305|||능구렁이 공작님|||The Cunning Duke
 765312|||로스트킹덤|||Lost Kingdom
@@ -179963,7 +179962,6 @@
 94442|||EVIL|||EVIL
 944425|||작가가 쓴 세계는 존재했었다!|||The World Written by the Author Existed!
 944430|||우리들의 시골생활[완결]|||Our Country Life [Complete]
-944434|||jara 가기 전|||Before Going to Jara
 944449|||판타지 세계에서도 재입대는 싫어!|||I Don't Want to Reenlist Even in a Fantasy World!
 944453|||할미꽃|||Pasque Flower
 944465|||동물 친구들|||Animal Friends
@@ -188979,6 +188977,7 @@
 755060|||1024|||
 76228|||.`|||
 763091|||.|||
+765252|||아이구 \uc870\uc544\ub77c|||
 76679|||3000|||
 767615|||.|||
 767762|||_|||
@@ -189117,6 +189116,7 @@
 937668|||0.1|||
 937920|||.|||
 942878|||.|||
+944434|||\uc870\uc544\ub77c 가기 전|||
 945212|||--------|||
 945885|||.|||
 947417|||666666|||
