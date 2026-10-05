@@ -91639,7 +91639,6 @@
 343762|||용의 나라|||Land of Dragons
 343763|||식물인간|||Vegetative Person
 343770|||{새벽의 연화} 붉은 주작|||{Yona of the Dawn} The Red Vermilion Bird
-343774|||nweb 하지마세요(네웹하마)|||Don’t Write Nwebs
 343777|||엘케이|||LK
 343779|||정령!|||Spirit!
 34378|||강제결혼, 내 남편은 17살 !|||Forced Marriage, My Husband Is Seventeen!
@@ -92254,7 +92253,6 @@
 347195|||[쿠키런] 쿠키 대전쟁|||[Cookie Run] The Great Cookie War
 347202|||<캐릭캐릭체인지>|||<Shugo Chara!>
 347207|||영혼의 바다|||Sea of Souls
-347216|||죽어주시겠습니까.nweb ver.2|||Would You Please Die? Nweb Ver. 2
 347228|||매직 인 스쿨|||Magic in School
 347236|||'X'로 시작되는 판타지 이야기|||A Fantasy Story Beginning with “X”
 347237|||[이영싫페러렐]사립퇴마단 나이프입니다!|||[My Secret Terrius Parallel] We Are the Private Exorcist Order Knife!
@@ -95779,7 +95777,6 @@
 368179|||토끼|||Rabbit
 368192|||행복을 찾아 떠나는 여행|||A Journey in Search of Happiness
 368200|||영혼이 실리지 않은 공은 볼이다|||A Ball Without a Soul Is Just a Ball
-368205|||nweb 서평|||Reviews of Nwebs
 368211|||HELMET|||HELMET
 368212|||한민족을 찾아서|||Searching for the Korean People
 368213|||악마계약|||Demon Contract
@@ -188729,9 +188726,11 @@
 341588|||ㅡ|||
 342362|||.....|||
 343034|||.|||
+343774|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124 하지마세요(네웹하마)|||
 343788|||365+5|||
 345829|||3|||
 346260|||.|||
+347216|||죽어주시겠습니까.\u006e\u0061\u0076\u0065\u0072 ver.2|||
 347534|||[겜판/영지물]던전공략! 힘내자! 파이팅!|||
 351319|||[개복치]돌 연 사|||
 351793|||2025|||
@@ -188741,6 +188740,7 @@
 360138|||.|||
 363869|||3시 59분 59초|||
 366029|||소환수(등)을 공략하라!!|||
+368205|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124 서평|||
 369547|||2060 → 2014|||
 375059|||.|||
 375928|||.|||
