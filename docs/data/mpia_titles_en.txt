@@ -83800,6 +83800,7 @@
 60897|||패 자 지 천|||The Sky Falls on the Defeated
 608999|||천재의 아카이브를 다운로드했다. - 축구편|||I Downloaded a Genius's Archive - Soccer Edition
 60901|||Everywhere|||Everywhere
+609024|||낙하산인 줄 모르고 좌천당함|||Demoted Because They Thought I Was a Nepo Hire
 60908|||천하를 꿈꾸다 [E]|||Dreaming of the World [E]
 6091|||용 니야기|||Dragon Story
 60910|||그녀와 나의 시간들|||Her Time and Mine
@@ -89220,6 +89221,5 @@
 607188|||1층에 3년 머물다 탑 공략의 신이 되었다|||
 607814|||공략왕의 기록원이 회귀했다|||
 608033|||Axiom(공리)|||
-609024|||낙하산인 줄 모르고 좌천당함|||
 63401|||49|||
 7571|||5시 16분|||
