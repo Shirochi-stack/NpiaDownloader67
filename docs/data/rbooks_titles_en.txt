@@ -2721,6 +2721,7 @@
 1534178613|||회귀한 명장이 20세기 EPL을 정복하는 법|||How a Regressed Master Conquers 20th-Century EPL
 1534179090|||불사군신|||The Immortal God of War
 1534179417|||수선광도|||The Mad Cultivator
+1534179850|||신입이라 후계 1순위를 들키면 안 됨|||As a Rookie, I Must Hide That I’m the Number One Heir
 1539008050|||부적격 남편 (15세 개정판)|||The Unqualified Husband (15+ Revised Edition)
 1539008091|||부적격 남편|||The Unqualified Husband
 1539008823|||위태로운 동거|||Perilous Cohabitation
@@ -3620,6 +3621,7 @@
 1823031213|||회귀 취소할래요|||I Want to Cancel My Regression
 1823031316|||성령천희 화이트나이트|||Holy Spirit Empress White Knight
 1823031433|||조교어플을 받았다|||I Downloaded a Training App
+1823031533|||공략 당하는 고인물|||The Veteran Getting Courted
 1823031652|||SS랭크 던전의 중간보스로 전생하다|||Reincarnated as the Mid-Boss of an SS-Rank Dungeon
 1823031755|||나에게 능력이 주어졌다|||I Was Given a Power
 1823032075|||정의란 없다|||There Is No Justice
@@ -12782,6 +12784,7 @@
 3586126070|||귀환한 삼촌은 재앙급 테이머|||The Returned Uncle Is a Catastrophe-Class Tamer
 3586126245|||사이버펑크의 사냥개는 기업에 복수한다|||The Cyberpunk Hound Takes Revenge on the Corporations
 3586126286|||북부 대공의 특명 기사|||The Grand Duke of the North’s Special Agent Knight
+3586127112|||골렘군단으로 딸깍함|||Clicking My Way with a Golem Legion
 3589000001|||독사|||Viper
 3592000001|||까마귀는 반짝이는 것을 좋아해|||Crows Like Shiny Things
 3592000150|||직장내 불순교제|||Improper Office Romance
@@ -13407,6 +13410,7 @@
 3863006105|||표시목|||The Marked Neck
 3863006273|||너드남 취향 개조 (15세 개정판)|||Reprogramming the Nerd's Taste (Revised 15+ Edition)
 3863006274|||너드남 취향 개조|||Reprogramming the Nerd's Taste
+3863006539|||권태양 후유증|||Kwon Taeyang’s Aftermath
 3864000102|||커버 유어 아이즈 (Cover Your Eyes)|||Cover Your Eyes
 3864000210|||허니 트랩 (Honey Trap)|||Honey Trap
 3864000332|||파보르 (favor)|||favor
@@ -21164,15 +21168,11 @@
 961089747|||귀신 잡는 아이돌의 퇴마 라인업|||The Ghost-Hunting Idol’s Exorcism Lineup
 1190004304|||36.5|||
 120086367|||아카데미 청소부의 은밀한 공략|||
-1534179850|||신입이라 후계 1순위를 들키면 안 됨|||
-1823031533|||공략 당하는 고인물|||
 1962127958|||시한부 플레이어의 천재적 공략법|||
 2313000001|||던전 공략 LIVE|||
 2877000379|||공략은 전지적으로|||
 3092045772|||회귀한 혈기사의 공략법|||
 3586122711|||미리보기 마법사의 던전 공략법|||
-3586127112|||골렘군단으로 딸깍함|||
-3863006539|||권태양 후유증|||
 4178000348|||던전공략 특별회수반|||
 4186000571|||설계자의 공략방법|||
 4186010140|||초월급 엑스트라의 공략집|||
