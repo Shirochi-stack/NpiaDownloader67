@@ -32380,6 +32380,7 @@
 1275374|||계획에 없던 공작부인|||The Unplanned Duchess
 1275376|||블라지미르 스토리|||Vladimir's Story
 1275383|||난파선|||Shipwreck
+1275393|||습유-남이 잃어버린 것을 주움|||Found Things—Picking Up What Others Have Lost
 1275420|||바다의 왕과 사기결혼했습니다|||I Fraudulently Married the King of the Sea
 1275423|||캐릭터 미술관|||Character Gallery
 1275433|||모솔에게도 봄날이 찾아올까...?|||Will Spring Come for a Forever Single...?
@@ -46777,6 +46778,7 @@
 1382078|||아주 괜찮은 연애(외전 포함)|||A Pretty Good Romance (Including Side Stories)
 1382099|||당신에게 영원한 안식을|||Eternal Rest to You
 13821|||단편소설|||Short Fiction
+1382106|||가나다라마바사아저씨나락|||GaNaDaRaMaBaSa Uncle's Downfall
 1382120|||당신을 위해 나 자신을 숨겼다.|||I Hid Myself for You.
 1382122|||파멸 속에서 생존을 꿈꾸다|||Dreaming of Survival Amid Ruin
 1382132|||[히로아카] 거짓말쟁이의 생존법|||[My Hero Academia] A Liar's Guide to Survival
@@ -96754,6 +96756,7 @@
 168477|||First Friend|||First Friend
 1684791|||황금 올가미를 든 신부|||The Bride with the Golden Lasso
 1684793|||[최애의 아이] Dear my Aster|||[Oshi no Ko] Dear My Aster
+16848|||少年 Expectaion。|||Boy Expectaion。
 1684801|||도깨비의 하루|||A Goblin’s Day
 1684806|||[포켓몬] Lost Memory|||[Pokémon] Lost Memory
 1684807|||[IVE] REI-203|||[IVE] REI-203
@@ -144882,6 +144885,7 @@
 1889387|||사육사의 게이트 공략법|||A Zookeeper's Guide to Clearing Gates
 1889389|||데굴데굴 가이드|||The Rolling Guide
 1889393|||[원피스] 모비딕 1번대 대장 책상 밑에는 농장이 있다|||[One Piece] There Is a Farm Under the Moby Dick's First Division Commander's Desk
+1889398|||세상을 멸망시킨 딸과 요리합니다|||Cooking with the Daughter Who Destroyed the World
 18894|||하드 보일드랜드|||Hard Boiled Land
 1889408|||구원자|||The Savior
 1889409|||반경 안에서|||Within the Radius
@@ -144916,6 +144920,7 @@
 1889517|||[BL]웜홀 안까지 얀데레가 따라왔다.|||[BL] A Yandere Followed Me into the Wormhole
 1889518|||남매 둘이 로판에서 살아남기|||Two Siblings Survive in a Romance-Fantasy Novel
 1889524|||[하이큐/쿠농/도리벤/앙스타] 자급자족하는 캐릭터 드림 모음집|||[Haikyuu!!/Kuroko's Basketball/Tokyo Revengers/Ensemble Stars] Self-Sufficient Character Dreams Collection
+1889525|||신인인데 천만배우|||A Rookie, Yet a Ten-Million-Star Actor
 1889526|||[포겟몬/이누야샤BL] 당당한 꼬부기다.-(완)-|||[Pokémon/Inuyasha BL] I Am a Proud Squirtle. (Complete)
 1889529|||룬의 계승자|||Heir of the Rune
 1889530|||잘생길수록 강해져|||The Handsomer I Am, the Stronger I Get
@@ -145841,6 +145846,7 @@
 189184|||The Knight|||The Knight
 189187|||Eternal.Love.Story|||Eternal.Love.Story
 1891895|||분해의 형태학[주술회전]|||Morphology of Disassembly [Jujutsu Kaisen]
+1891897|||페이드 브레이크업 (Paid Breakup)|||Paid Breakup (Paid Breakup)
 18919|||총기류에대한 해설|||A Guide to Firearms
 1891925|||버려진 오메가의 화려한 귀환|||The Abandoned Omega's Triumphant Return
 1892|||운명의 수레바퀴|||The Wheel of Fate
@@ -145849,6 +145855,7 @@
 18921|||먼치킨|||Munchkin
 189212|||블랙 시티 - BLACK CITY|||Black City
 189216|||[왕따, 태 자 비 太子妃 되다]|||[The Outcast Becomes the Crown Princess]
+1892161|||[해리포터] 중세에 떨어져도 별수 없지|||[Harry Potter] Not Much I Can Do If I End Up in the Middle Ages
 189219|||산 山|||Mountain
 189225|||영혼의 공명|||Resonance of Souls
 189235|||정해진 왕후|||The Chosen Queen
@@ -145866,6 +145873,7 @@
 189312|||맨홀 워프|||Manhole Warp
 189317|||차원의 지배자|||Ruler of Dimensions
 18932|||사랑을 알고 싶다면...|||If You Want to Know Love...
+1893239|||[해리포터] 재해의 아이|||[Harry Potter] Child of Disaster
 189324|||F.M.W2(Fantasy Master World)|||F.M.W2 (Fantasy Master World)
 189325|||What?|||What?
 189340|||『대륙』|||The Continent
@@ -235564,7 +235572,6 @@
 1274140|||.|||
 1274959|||.|||
 1275098|||ㅇㄹㅇ|||
-1275393|||습유-남이 잃어버린 것을 주움|||
 1275860|||123|||
 1276068|||11|||
 1276315|||.|||
@@ -235714,7 +235721,6 @@
 1379684|||.|||
 1381773|||-|||
 13818|||ⓐⓝⓖⓔⓛ' ⓣⓞⓡⓨ|||
-1382106|||가나다라마바사아저씨나락|||
 1382863|||12|||
 1384935|||..|||
 1388755|||.|||
@@ -236052,7 +236058,6 @@
 1680888|||.|||
 168447|||;;;|||
 16847|||3.31|||
-16848|||少年 Expectaion。|||
 1685696|||...|||
 16867|||.|||
 1686787|||-|||
@@ -236364,8 +236369,6 @@
 1886312|||ㄴ|||
 1886519|||ㆍ|||
 1887427|||.|||
-1889398|||세상을 멸망시킨 딸과 요리합니다|||
-1889525|||신인인데 천만배우|||
 1890305|||0|||
 1890688|||하노(夏爐) - 여름이 끝나지 않는 도시|||
 1890735|||[인소의 법칙] 과잉사고(過剩思考).|||
@@ -236377,10 +236380,7 @@
 1891411|||[해리포터] 파랑 波浪|||
 1891481|||민화(民畵)|||
 1891622|||사무라이 애상록(劍客 哀想錄)|||
-1891897|||페이드 브레이크업 (Paid Breakup)|||
-1892161|||[해리포터] 중세에 떨어져도 별수 없지|||
 1892954|||[작두/BL] 辰|||
-1893239|||[해리포터] 재해의 아이|||
 193749|||200.|||
 198509|||6666666666|||
 20001|||득 <<得>>|||
