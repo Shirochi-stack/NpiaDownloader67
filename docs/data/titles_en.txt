@@ -1998,6 +1998,7 @@
 443404|||나의 세계는 처음부터 거짓이었다|||My World Was a Lie From the Beginning
 443355|||소원을 이루어주는 재앙이 되었다.|||I Reincarnated as a Calamity That Will Destroy the World
 450848|||유전자가 같아서 귀속템이 내 거|||Same Genes, So the Bound Items Are Mine
+439888|||ㅗㅕ요요|||Oyeoyo
 448379|||지키고 싶은 단 하나|||The One Thing I Want to Protect
 232421|||이서|||Lee Seo
 362515|||이 세계 여성 전용 창녀가 되었다.|||I Became a Prostitute Only for Women in This World.
@@ -75765,7 +75766,6 @@
 24172|||그냥 백합 이야기|||Just a Yuri Story
 226120|||다른 학교의 여학생을 도왔더니 친구부터 시작하게 되었습니다|||I Helped a Female Student from Another School and We Started as Friends
 224455|||전속 집사를 그만두니 모셨던 아가씨가 유난히 가까운데|||I Quit Being a Personal Butler and the Young Lady I Served is Unusually Close
-227044|||세드릭 디고리에게 씀 |해리포터|||||A Letter to Cedric Diggory | Harry Potter
 169165|||초능력 고등학교|||Superpower High School
 212173|||여사친 진|||Female Friend Jin
 155802|||(전) 무림맹주 (현) 미소녀|||(Former) Murim Alliance Leader (Current) Beautiful Girl
@@ -92543,6 +92543,7 @@
 452927|||내가 버린 적 없는 아이들이 나를 찾는다|||The Children I Never Abandoned Are Looking for Me
 453284|||생체나노머신 가이아|||Biological Nanomachine Gaia
 452445|||감정을 배우면 죽는다|||If I Learn to Feel, I’ll Die
+450520|||탸어느|||Tyaeoneu
 453408|||아카데미 집착당하는 배신자가 되었다|||I Became a Betrayer the Academy Is Obsessed With
 453026|||괴담 갤러리의 네임드 분탕|||The Notorious Troll of the Urban Legend Gallery
 449699|||수녀가 정체를 숨김|||The Nun Hides Her Identity
@@ -93385,6 +93386,7 @@
 453917|||무명이계 (無名異界)|||The Nameless Otherworlder
 454407|||신적인|||Godlike
 454380|||네번째 피|||The Fourth Blood
+454223|||ㅈㄷㄷㄷ|||JdDdD
 454295|||아카데미 속 벌레들의 왕이 되었다|||I Became the King of Bugs in the Academy
 454232|||최면어플을 손에 넣었지만 성욕이 없습니다.|||I Got a Hypnosis App, but I Have No Sex Drive
 454099|||회귀했더니 주인공이 사라진 건에 대하여|||On the Matter of the Protagonist Disappearing After I Regressed
@@ -93542,9 +93544,6 @@
 454025|||죽은 것이 길을 묻거든|||If the Dead Ask for Directions
 454478|||뭐든지 약탈하는 미궁 해적이 되었다|||I Became a Labyrinth Pirate Who Plunders Everything
 454479|||호림의 이야기 시즌 1, 시작의 이야기|||Horim’s Story Season 1: The Beginning of the Story
-439888|||ㅗㅕ요요|||Oyeoyo
-450520|||탸어느|||Tyaeoneu
-454223|||ㅈㄷㄷㄷ|||JdDdD
 458067|||전직 기둥서방이 정치질을 잘함|||The Former Kept Man Is Great at Political Maneuvering
 457547|||대홍수 아포칼립스의 해상제독이 되었다|||I Became a Naval Admiral in the Great Flood Apocalypse
 458492|||너는 날지 못하는 마법소녀.|||You Are a Magical Girl Who Cannot Fly.
@@ -93698,7 +93697,7 @@
 456183|||미궁도시의 집착 받는 수인이 되었다|||I Became a Beastkin in the Labyrinth City Everyone's Obsessed With
 455854|||미궁에서 맵핵을 주웠다|||I Found a Map Hack in the Labyrinth
 458236|||로판 속 악녀들의 저주술사로 살아남기|||Surviving as the Curse Caster of Villainesses in a Romance Fantasy
-458004|||| 거울세계의 현존재 ||||
+458004|||| 거울세계의 현존재 |||||
 458293|||천사가 갈라놓은 세계|||A World Torn Apart by Angels
 457740|||사이버펑크 청소부의 머릿속 여신이 태어났다|||A Goddess Was Born in the Mind of a Cyberpunk Janitor
 457594|||세계관 최강자가 미식에만 충실하다.|||The Strongest in the World Only Cares About Fine Dining
@@ -96158,6 +96157,7 @@
 458147|||바보장삐는 낚인거지요|||Foolish Jangppi Got Hooked
 455704|||전술수량자승론(戰術數量自乘論)|||The Theory of Tactical Quantitative Multiplication
 455848|||강원도 광악면은 살기 좋은 마을이다|||Gwangak-myeon, Gangwon Province, Is a Wonderful Place to Live
+227044|||세드릭 디고리에게 씀 |해리포터|||
 347371|||상태창 대신 콘솔창 들고 게임 공략|||
 456449|||(一九一)191|||
 457675|||환 환 환|||
