@@ -99114,7 +99114,6 @@
 1698193|||공작가의 게으른 무공천재|||The Duke’s Lazy Martial Arts Genius
 1698194|||힐링이 필요해!|||I Need Healing!
 1698196|||귀여운 에스퍼들|||Cute Espers
-16982|||nweb dream|||nweb dream
 1698201|||[림버스]유리 속의 유리|||[Limbus] Glass in Glass
 1698202|||sss급 헌터는 은퇴하고싶다|||The SSS-Rank Hunter Wants to Retire
 1698204|||예민한 닥터 허스키|||The Sensitive Doctor Husky
@@ -148554,7 +148553,6 @@
 208599|||무한의여제(無限之女帝)|||Empress of Infinity
 2086|||왕따|||The Outcast
 208604|||[FateX月姬X그 외] 수호자|||[Fate x Tsukihime x Others] Guardian
-20861|||nweb ending story|||Nweb Ending Story
 208625|||레이어스|||Rayearth
 208628|||브로큰 게이머(Broken Gamer)|||Broken Gamer
 208629|||헉스! 드워프|||Gasp! A Dwarf
@@ -149967,7 +149965,6 @@
 218285|||B.o.B|||B.o.B
 21829|||영. 혼.|||S. O. U. L.
 218296|||PROJECT RED|||PROJECT RED
-2183|||Welcome to Jara World|||Welcome to Jara World
 21830|||새로 쓰는 삼국지|||A New Romance of the Three Kingdoms
 218301|||삶이란...|||Life Is...
 218312|||TEAR|||TEAR
@@ -177455,7 +177452,6 @@
 399875|||[로맨틱판타지] 월향소녀(月香小女)|||[Romantic Fantasy] Moon-Scented Girl
 39988|||회색칼날|||Gray Blade
 399897|||마도왕! 유유자적?|||The Magic King! Taking It Easy?
-3999|||jara|||Jara
 399904|||adventure|||Adventure
 399912|||[딸기100%] 스트로베리 팩토리|||[Strawberry 100%] Strawberry Factory
 399913|||[금서목록]어떤 소녀와 레벨6|||[A Certain Magical Index] A Certain Girl and Level 6
@@ -201663,7 +201659,6 @@
 598464|||실레스티아|||Silestia
 598487|||Idea-나와 나의 경계|||Idea: The Boundary Between Me and Myself
 598488|||[아이돌마스터]나의 호시!|||[The Idolmaster] My Hoshi!
-5985|||jara에서 살아남기|||Surviving Jara
 598503|||무제|||Untitled
 598509|||[BL]색다른 리플레이|||[BL] A Different Replay
 598512|||어젯밤 사랑이야기|||Last Night's Love Story
@@ -235982,6 +235977,7 @@
 1697373|||.|||
 1697571|||.|||
 1697858|||.|||
+16982|||\u006e\u0061\u0076\u0065\u0072 dream|||
 1699819|||.|||
 1700325|||ㅆ|||
 1700337|||14|||
@@ -237405,11 +237401,13 @@
 198509|||6666666666|||
 20001|||득 <<得>>|||
 206128|||.|||
+20861|||\u006e\u0061\u0076\u0065\u0072 ending story|||
 211304|||??|||
 212819|||4444|||
 214295|||2+2=5|||
 214312|||24|||
 21439|||내가 널 사랑한다ミ|||
+2183|||Welcome to \u004a\u006f\u0061\u0072\u0061 World|||
 2197|||new \uc870\uc544\ub77c 타운|||
 224461|||.|||
 2259|||습|||
@@ -237480,6 +237478,7 @@
 395726|||09.11.12|||
 397658|||왜 페이크 사역마는 \uc870\uc544\ub77c를 대표하는가.|||
 3982|||+-ⓟⓡⓞⓜⓘⓢⓔ-+|||
+3999|||\uc870\uc544\ub77c|||
 40168|||123|||
 40659|||..|||
 406923|||??|||
@@ -237567,6 +237566,7 @@
 581343|||1|||
 586101|||1|||
 597977|||11|||
+5985|||\uc870\uc544\ub77c에서 살아남기|||
 604163|||1|||
 611373|||2012.    12.   21.|||
 611546|||.|||
