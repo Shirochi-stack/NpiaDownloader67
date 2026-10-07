@@ -6,7 +6,7 @@
 5|||...|||
 6|||:|||
 7|||??|||
-8|||\ub178\ubca8\ud53c\uc544|||npia
+8|||\ub178\ubca8\ud53c\uc544|||
 9|||[|||
 10|||+|||
 11|||@|||
@@ -14,360 +14,113 @@
 13|||*|||
 14|||]|||
 15|||^^|||
-16|||2012년|||
-17|||!|||
-18|||(?)|||
-19|||->|||
-20|||.....|||
-21|||2050년|||
-22|||blog.\u006e\u0061\u0076\u0065\u0072.com|||blog.nweb.com
-23|||​|||
-24|||﻿|||
-25|||1.|||
-26|||15+|||
-27|||1945년|||
-28|||1950년|||
-29|||1999년|||
-30|||2006년|||
-31|||3:1|||
-32|||51053;|||
-33|||????|||
-34|||?????|||
-35|||[]|||
-36|||·|||
-37|||×|||
-38|||네크로펑크|||Necropunk
-39|||순애일수도아닐수도|||Maybe Pure Love
-40|||오지콘|||Older Man Fetish
-41|||위장혼인|||Fake Marriage
-42|||저주받은대군|||Cursed Grand Duke
-43|||전연령아마도|||Probably All Ages
-44|||!!|||
-45|||!!!|||
-46|||\"|||
-47|||(???)|||
-48|||(_|||
-49|||***|||
-50|||+1|||
-51|||+@|||
-52|||--|||
-53|||-_-|||
-54|||....|||
-55|||.......|||
-56|||................|||
-57|||...~|||
-58|||0%|||
-59|||0.|||
-60|||01.|||
-61|||1%|||
-62|||1-1|||
-63|||100%|||
-64|||11.|||
-65|||14금|||Rated 14+
-66|||15금?|||Rated 15?
-67|||16금|||Rated 16+
-68|||16금?|||Rated 16?
-69|||17.5금|||Rated 17.5+
-70|||19+|||
-71|||1903년|||
-72|||1942년|||
-73|||1990년|||
-74|||1992년|||
-75|||19>30|||
-76|||2+2=5|||
-77|||2-8|||
-78|||2.|||
-79|||2002년|||
-80|||2014년|||
-81|||2015년|||
-82|||2020년|||
-83|||2031년|||
-84|||2035년|||
-85|||2054년|||
-86|||2068년|||
-87|||2450년|||
-88|||3-1|||
-89|||30%|||
-90|||4.3|||
-91|||4.5|||
-92|||45461;|||
-93|||4858-9715|||
-94|||5%|||
-95|||5.18|||
-96|||50%|||
-97|||50524;|||
-98|||50751;&|||
-99|||50751;~|||
-100|||51053;??|||
-101|||51760;|||
-102|||53192;|||
-103|||53349;|||
-104|||54643;|||
-105|||5@|||
-106|||70%|||
-107|||7:1|||
-108|||7성|||Seven-Star
-109|||8.15|||
-110|||95%|||
-111|||978-89-993-9450-8|||
-112|||979-11-03-31840-6|||
-113|||979-11-6600-303-5|||
-114|||::|||
-115|||;|||
-116|||;;|||
-117|||======|||
-118|||=>|||
-119|||>.<7|||
-120|||>_<|||
-121|||?!?!?!?|||
-122|||?....|||
-123|||??????|||
-124|||?????????????????|||
-125|||AI채팅|||AI Chat
-126|||DND|||DND
-127|||H사|||Company H
-128|||K컵|||K-Cup
-129|||MCU첨가|||MCU Crossover
-130|||NO개연성|||No Plausibility
-131|||NTR드리프트없음|||No NTR Drift
-132|||OPUS|||OPUS
-133|||[-]|||
-134|||[15금]|||[Rated 15+]
-135|||^^*|||
-136|||_|||
-137|||_)|||
-138|||cafe.\u006e\u0061\u0076\u0065\u0072.com|||cafe.nweb.com
-139|||tpfla077@\u006e\u0061\u0076\u0065\u0072.com|||tpfla077@nweb.com
-140|||www.\u006a\u006f\u0061\u0072\u0061.com|||www.jara.com
-141|||\u007c서리\u007c||||Seori|
-142|||~?|||
-143|||~~|||
-144|||¿?|||
-145|||ᯣ_ᯣ|||
-146|||…|||
-147|||■※□¿¤|||
-148|||■■■■■|||
-149|||□□□|||
-150|||●|||
-151|||☁️☁️☁️|||
-152|||★|||
-153|||★★|||
-154|||♃|||
-155|||♡|||
-156|||♡♡|||
-157|||♥|||
-158|||♥♥♥♪|||
-159|||✅|||
-160|||》|||
-161|||갑사|||Gapsa
-162|||개발비리|||Development Corruption
-163|||개찐빠|||Epic Blunder
-164|||갱생순애|||Redemption Romance
-165|||거대곰|||Giant Bear
-166|||거점확보작전|||Base Securing Operation
-167|||게임운영|||Game Management
-168|||격일연재|||Every-Other-Day Updates
-169|||고대의비밀|||Ancient Secret
-170|||고등동창|||High School Classmates
-171|||고려는고구려의고려|||Goryeo Is Goguryeo's Goryeo
-172|||고스트워커|||Ghost Walker
-173|||고스트헌팅|||Ghost Hunting
-174|||고용계약|||Employment Contract
-175|||고유클래스|||Unique Class
-176|||공격력약함|||Low Attack Power
-177|||공대감성|||Engineering Student Vibes
-178|||공략기|||
-179|||공략중|||
-180|||교수후회|||Regretful Professor
-181|||구마사제|||Exorcist Priest
-182|||국가운영물|||Nation Management
-183|||국정원블랙옵스|||NIS Black Ops
-184|||군대회귀|||Military Regression
-185|||규방과외|||Private Lessons in the Women's Quarters
-186|||그나음그|||That, Then That
-187|||그리고더많은우주들|||And More Universes
-188|||그림천재|||Art Prodigy
-189|||기억물질|||Memory Substance
-190|||기후|||Climate
-191|||김선달|||Kim Seondal
-192|||나대나대|||Show-Off
-193|||남학생주의|||Male Students
-194|||낭만남녀|||Romantic Couple
-195|||노근본MZ어반향첨가|||Unhinged MZ Urban Flavor
-196|||노력계|||Hardworking MC
-197|||노머외|||No More Outsiders
-198|||\ub178\ubca8\ud53c\uc544공식|||Official npia
-199|||노히로인|||No Heroine
-200|||능글남팀장|||Flirty Team Leader
-201|||능력공유|||Ability Sharing
-202|||능력전|||Ability Battle
-203|||능력치조작|||Stat Manipulation
-204|||다른애니기술나옴|||Other Anime Techniques
-205|||다크힐링|||Dark Healing
-206|||대체역사도아님|||Not Even Alternate History
-207|||대통령선거|||Presidential Election
-208|||데이타분석|||Data Analysis
-209|||도태남|||Loser Male
-210|||독립리그|||Independent League
-211|||동물동료|||Animal Companion
-212|||디지털장의사|||Digital Undertaker
-213|||락앤롤|||Rock and Roll
-214|||로코스릴러|||Romantic Comedy Thriller
-215|||로판7성|||Seven-Star Romantasy
-216|||로판세계관|||Romantasy Setting
-217|||마교살수|||Demonic Cult Assassin
-218|||마나치료사|||Mana Healer
-219|||마도혁명|||Magic Revolution
-220|||마타하리|||Mata Hari
-221|||망한세상|||Ruined World
-222|||명사수|||Sharpshooter
-223|||모험을통해알아가세요|||Discover Through Adventure
-224|||무녕왕|||King Munyeong
-225|||무림황제|||Martial Arts Emperor
-226|||무한회귀X|||No Infinite Regression
-227|||미소녀가챠|||Cute Girl Gacha
-228|||민원상담원|||Public Complaints Counselor
-229|||밀리터리일수도잇고|||Maybe Military
-230|||밀집모자일당|||Straw Hat Pirates
-231|||바이오하자드8|||Resident Evil Village
-232|||반반치킨|||Half-and-Half Chicken
-233|||반쯤모험|||Half-Adventure
-234|||반쯤영지|||Half-Domain
-235|||보통사람들|||Ordinary People
-236|||부동산임장|||Property Viewing
-237|||사업가물|||Businessman Story
-238|||산고|||Sango
-239|||살기가|||Killing Intent
-240|||살인\u007c|||Murder|
-241|||생체지팡이|||Living Wand
-242|||생활용품판타지|||Household Goods Fantasy
-243|||선스킨십후감정|||Physical Intimacy Before Feelings
-244|||선후회남|||Regretful Male Lead
-245|||설화재해석|||Folklore Reinterpretation
-246|||성경체|||Biblical Style
-247|||성냥팔이|||Match Seller
-248|||세가물|||SEGA Story
-249|||세계관이먼치킨|||Overpowered Worldbuilding
-250|||세력경영|||Faction Management
-251|||소설적창작|||Fictional Invention
-252|||쇼생크탈출|||The Shawshank Redemption
-253|||수나라|||Sui Dynasty
-254|||수명흡수|||Lifespan Absorption
-255|||수선백예|||Cultivation, Baiyi
-256|||술술읽히기|||Easy Read
-257|||슈트광인|||Suit Fanatic
-258|||습득력|||Learning Ability
-259|||시간강사|||Adjunct Professor
-260|||시공간여행|||Space-Time Travel
-261|||시리어스한스푼|||A Spoonful of Seriousness
-262|||시뮬|||Simulation
-263|||신국경영|||New Nation Management
-264|||아가멤논|||Agamemnon
-265|||아라마키|||Aramaki
-266|||아라마키야쿠모|||Aramaki Yakumo
-267|||악당빙의|||Villain Possession
-268|||악역영애구원|||Villainess Redemption
-269|||안티테제|||Antithesis
-270|||야추폭발|||Testosterone Explosion
-271|||약간원작붕괴|||Slight Canon Divergence
-272|||약괴이|||Mild Supernatural
-273|||약물제작|||Drug Making
-274|||약욕설주의|||Mild Profanity
-275|||양제|||Emperor Yang
-276|||언더테일옐로우|||Undertale Yellow
-277|||엘프주인공|||Elf Protagonist
-278|||역사사이다|||Satisfying History
-279|||엽기사랑|||Hunter Romance
-280|||엽사|||Hunter
-281|||영혼교환|||Soul Swap
-282|||영혼상점|||Soul Shop
-283|||영혼순애|||Soulful Romance
-284|||오네쇼타향첨가|||Onee-Shota Elements
-285|||오피스시트콤|||Office Sitcom
-286|||왕국재건|||Kingdom Reconstruction
-287|||요루시카|||Yorushika
-288|||용사키우기|||Raising a Hero
-289|||웨이브|||Wave
-290|||유능한신입|||Competent Rookie
-291|||유사청춘|||Pseudo-Youth
-292|||유사퇴마물|||Pseudo-Exorcism
-293|||유횡|||Yuheng
-294|||이게왜북부대공|||Why Is He the Northern Grand Duke?
-295|||이상한동거|||Strange Cohabitation
-296|||이혼위기|||Divorce Crisis
-297|||인생막장|||Life in Shambles
-298|||인재수집|||Talent Collection
-299|||인재영입|||Talent Recruitment
-300|||일꾼|||Worker
-301|||일꾼유닛|||Worker Unit
-302|||일상지향|||Slice of Life
-303|||자가치유|||Self-Healing
-304|||장풍|||Force Palm
-305|||재난문자|||Emergency Alert
-306|||재치있는청년|||Witty Young Man
-307|||전생²|||Reincarnation²
-308|||정산|||Settlement
-309|||정형외과|||Orthopedics
-310|||조건부전사|||Conditional Warrior
-311|||졸라잘생김|||Ridiculously Handsome
-312|||좀비술사|||Zombie Mage
-313|||종족초월|||Beyond Race
-314|||주룡류|||Juryong Style
-315|||주인공2명이상|||Multiple Protagonists
-316|||주인공고딩됨|||Protagonist Becomes a High Schooler
-317|||주인공이성애자|||Straight Protagonist
-318|||중개사|||Broker
-319|||증거전|||Evidence Battle
-320|||지배파충류|||Dominant Reptile
-321|||지상복원|||Surface Restoration
-322|||쯔꾸르야겜체|||RPG Maker H-Game Style
-323|||천사족|||Angel Race
-324|||체격역전|||Size Reversal
-325|||최강병기|||Ultimate Weapon
-326|||최애구원|||Saving Your Favorite
-327|||최초의게이트|||First Gate
-328|||추리요소있음|||Mystery Elements
-329|||치이킨|||Chikin
-330|||칼퇴요망|||Hoping to Leave on Time
-331|||커뮤반응있음|||Community Reactions
-332|||커플하나는조금슬퍼요|||One Couple Is a Little Sad
-333|||쿠아아아아|||Kuaaah
-334|||쿨찐|||Edgy Loner
-335|||타오르지마버스터|||Don't Burn, Buster
-336|||태몽|||Pregnancy Dream
-337|||턴제게임|||Turn-Based Game
-338|||퇴물용사|||Washed-Up Hero
-339|||팔조법|||Eight Articles of Law
-340|||패기만|||Only Swagger
-341|||퍼리물아님|||Not Furry
-342|||편의점알바|||Convenience Store Part-Timer
-343|||폭력배|||Thug
-344|||표독|||Venomous
-345|||피가레스크|||Picaresque
-346|||피폐요소주의|||Mind the Angst
-347|||피폐포함|||Contains Angst
-348|||픽뚫|||Off-Banner Pull
-349|||하드생존|||Hardcore Survival
-350|||하렘비슷함|||Harem-Like
-351|||하렘일수도아닐수도|||Maybe a Harem
-352|||하이닉X|||Hyunick X
-353|||한국오컬트|||Korean Occult
-354|||한국호랑이|||Korean Tiger
-355|||한밤중하트튠|||Midnight Heart Tune
-356|||해달|||Sea Otter
-357|||해룡|||Sea Dragon
-358|||해리X드라카|||Harry x Draca
-359|||헌터들의조상|||Ancestor of Hunters
-360|||현대선협|||Modern Xianxia
-361|||현실감성판타지|||Realistic Fantasy
-362|||혼자가좋아주인공|||Lone-Loving Protagonist
-363|||홍경래|||Hong Gyeong-rae
-364|||홍국영|||Hong Guk-yeong
-365|||후라이드치킨|||Fried Chicken
-366|||후피집아닙니다|||Not a Regret-and-Chase Story
-367|||후회NTR있음|||Regret and NTR
-368|||후회향첨가|||A Hint of Regret
-369|||히로인최강|||Strongest Heroine
-370|||힘든인생산주인공|||Hard-Life Protagonist
-371|||힘들어요|||It's Tough
-372|||／|||
+16|||!|||
+17|||(?)|||
+18|||->|||
+19|||.....|||
+20|||blog.\u006e\u0061\u0076\u0065\u0072.com|||
+21|||​|||
+22|||﻿|||
+23|||1.|||
+24|||15+|||
+25|||3:1|||
+26|||51053;|||
+27|||????|||
+28|||?????|||
+29|||[]|||
+30|||·|||
+31|||×|||
+32|||!!|||
+33|||!!!|||
+34|||\"|||
+35|||(???)|||
+36|||(_|||
+37|||***|||
+38|||+1|||
+39|||+@|||
+40|||--|||
+41|||-_-|||
+42|||....|||
+43|||.......|||
+44|||................|||
+45|||...~|||
+46|||0%|||
+47|||0.|||
+48|||01.|||
+49|||1%|||
+50|||1-1|||
+51|||100%|||
+52|||11.|||
+53|||19+|||
+54|||19>30|||
+55|||2+2=5|||
+56|||2-8|||
+57|||2.|||
+58|||3-1|||
+59|||30%|||
+60|||4.3|||
+61|||4.5|||
+62|||45461;|||
+63|||4858-9715|||
+64|||5%|||
+65|||5.18|||
+66|||50%|||
+67|||50524;|||
+68|||50751;&|||
+69|||50751;~|||
+70|||51053;??|||
+71|||51760;|||
+72|||53192;|||
+73|||53349;|||
+74|||54643;|||
+75|||5@|||
+76|||70%|||
+77|||7:1|||
+78|||8.15|||
+79|||95%|||
+80|||978-89-993-9450-8|||
+81|||979-11-03-31840-6|||
+82|||979-11-6600-303-5|||
+83|||::|||
+84|||;|||
+85|||;;|||
+86|||======|||
+87|||=>|||
+88|||>.<7|||
+89|||>_<|||
+90|||?!?!?!?|||
+91|||?....|||
+92|||??????|||
+93|||?????????????????|||
+94|||[-]|||
+95|||^^*|||
+96|||_|||
+97|||_)|||
+98|||cafe.\u006e\u0061\u0076\u0065\u0072.com|||
+99|||tpfla077@\u006e\u0061\u0076\u0065\u0072.com|||
+100|||www.\u006a\u006f\u0061\u0072\u0061.com|||
+101|||\u007c서리\u007c|||
+102|||~?|||
+103|||~~|||
+104|||¿?|||
+105|||ᯣ_ᯣ|||
+106|||…|||
+107|||■※□¿¤|||
+108|||■■■■■|||
+109|||□□□|||
+110|||●|||
+111|||☁️☁️☁️|||
+112|||★|||
+113|||★★|||
+114|||♃|||
+115|||♡|||
+116|||♡♡|||
+117|||♥|||
+118|||♥♥♥♪|||
+119|||✅|||
+120|||》|||
+121|||공략기|||
+122|||공략중|||
+123|||\ub178\ubca8\ud53c\uc544공식|||
+124|||살인\u007c|||
+125|||／|||
