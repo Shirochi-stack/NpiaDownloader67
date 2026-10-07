@@ -21101,7 +21101,6 @@
 274560|||워블(War-ble) [D]|||War-ble [D]
 274562|||내 청춘 그리고 사랑|||My Youth and Love
 274575|||국정원 페미던전에서 살아남기|||Surviving the NIS Feminist Dungeon
-274578|||mpia를 다시 위대하게|||Make Mpia Great Again
 274591|||이세계 페미니즘|||Feminism in Another World
 274596|||내가 이세계에 마법사라고?|||I'm a Mage in Another World?
 274613|||창공에 스미는 종묘의 향기|||The Scent of Jongmyo in the Blue Sky
@@ -28504,7 +28503,6 @@
 32573|||능력 추출사|||Ability Extractor
 325738|||왕위 계승자는 군 복무중|||The Heir to the Throne Is Serving in the Military
 325740|||그 섬의 아이들|||The Children of That Island
-325741|||복음상착전투서재(mpia 버전)|||The Gospel Sangchak Battle Archive (Mpia Version)
 325787|||던전 관리 공사 김정환 출근합니다|||Dungeon Management Corporation: Kim Jeonghwan Reports for Work
 32579|||헤드샷!|||Headshot!
 325810|||엄청난 기연으로 천재가 되었다|||A Fortuitous Encounter Made Me a Genius
@@ -88904,6 +88902,7 @@
 267720|||3.6.5|||
 270596|||321231|||
 271989|||123432432|||
+274578|||\ubb38\ud53c\uc544를 다시 위대하게|||
 276141|||ㅁㅇㅁㄴㅇㅁㄴㅇ|||
 286326|||?!,?!?.,|||
 28761|||000001|||
@@ -88915,10 +88914,12 @@
 312368|||12323112|||
 319132|||1%|||
 320323|||1231343346345643564363|||
+325741|||복음상착전투서재(\ubb38\ud53c\uc544 버전)|||
 332402|||2082|||
 332679|||11121212|||
 333510|||( )|||
 333565|||현질로 소설 공략 [D]|||
+339863|||더 블라썸|||
 350596|||000000000|||
 362816|||백룸 공략은 인테리어부터|||
 36332|||72%|||
