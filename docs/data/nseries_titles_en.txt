@@ -2359,6 +2359,7 @@
 10354275|||이전 생에 검마였다|||I Was the Sword Demon in My Previous Life
 10354635|||별 사이의 빈 공간 [BL][합본][단행본]|||The Empty Space Between Stars [BL]
 10354664|||별 사이의 빈 공간 [BL]|||The Empty Space Between Stars [BL]
+10354940|||초월급 엑스트라의 공략집|||The Transcendent Extra’s Strategy Guide
 10354953|||광마전생|||Reincarnation of the Mad Demon
 10355809|||계약은 신중하게 [BL][합본][단행본]|||Contracts Must Be Made Carefully [BL]
 10355814|||지옥에서 돌아온 아이돌 [단행본]|||The Idol Who Returned from Hell
@@ -8917,6 +8918,7 @@
 11246890|||귀왕무|||Ghost King Martial Arts
 11247022|||반드시 죽어야 할 운명 [BL]|||Destined to Die
 11247227|||귀왕무 [단행본]|||Ghost King Martial Arts
+11247250|||7942 [BL]|||7942 [BL]
 11247904|||오류발생! 국민구단주의 아이돌 [시즌 1-2][미니노블]|||Error! The National Team Owner’s Idol, Seasons 1–2
 11247913|||다시 사는 재벌가 망나니 [단행본]|||The Chaebol Family’s Brat Gets a Second Life
 11248039|||회귀 서생 [단행본]|||The Regressed Scholar
@@ -10967,6 +10969,7 @@
 11540167|||왕후의 우아한 복수 [단행본]|||The Queen's Elegant Revenge [Novel]
 11540399|||집착 황제와 안전하게 이혼하는 법 [단행본]|||How to Safely Divorce an Obsessive Emperor [Novel]
 11540761|||대공의 배덕한 밤 [단행본]|||The Grand Duke's Immoral Night [Novel]
+11540785|||리버티: 천재 게이머의 VR 게임 공략법 [독점]|||Liberty: A Genius Gamer’s VR Game Guide [Exclusive]
 11540838|||최애의 전서구에 빙의했다 [단행본]|||I Possessed My Favorite's Carrier Pigeon [Novel]
 11541005|||연기상점 괴물 천재배우 [독점]|||The Monster Genius Actor from the Acting Shop [Exclusive]
 11541024|||그 웬수와의 SS급 협력관계 [단행본]|||An SSS-Rank Alliance with That Nemesis [Novel]
@@ -25439,6 +25442,7 @@
 13119557|||나의 작은 새 [단행본]|||My Little Bird
 13119933|||잿빛의 고요한 숲 [BL][단행본]|||The Quiet Ashen Forest
 13119941|||대표님, 저 진짜 망했어요 [BL][단행본]|||Boss, I’m Really Screwed
+13120041|||52 [BL][단행본]|||52 [BL][Novel]
 13120045|||나의 X-mas의 침입자에게, XOXO [BL][단행본]|||To the Intruder in My X-Mas, XOXO
 13120048|||백작 부인의 드레스 속 사정 [단행본]|||What Lies Beneath the Countess’s Dress
 13120064|||내가 너의 천적이라면 [단행본]|||If I Were Your Natural Enemy
@@ -27088,6 +27092,8 @@
 13300868|||원나잇 이후의 관계|||A Relationship After a One-Night Stand
 13300918|||원나잇 이후의 관계 [단행본]|||A Relationship After a One-Night Stand
 13300924|||복수의 시작은 결혼부터 [단행본]|||Revenge Begins with Marriage
+13300930|||0.5 [BL][단행본]|||0.5 [BL][Novel]
+13301000|||0.5 [BL]|||0.5 [BL]
 13301113|||차갑고 꿈 없는 당신 [BL]|||You, Cold and Dreamless
 13301229|||회귀자는 NBA가 너무 쉽다.|||The Regressor Finds the NBA Too Easy
 13301241|||선협에서 탈출하기 [독점]|||Escaping the Xianxia World
@@ -38605,6 +38611,7 @@
 14490553|||유혹하는 겁니다|||I’m Seducing You
 14490636|||망겜 속 황태자가 아이돌을 잘함 [단행본]|||The Crown Prince in a Dead Game Is Great at Being an Idol [Novel]
 14490677|||유혹하는 겁니다 [단행본]|||I’m Seducing You [Novel]
+14490765|||공략 대상이 아카데미에 있습니다 [단행본]|||My Target Is at the Academy [Novel]
 14490856|||몬스터 월드에서 PK 중입니다 [단행본]|||I’m Player-Killing in the Monster World [Novel]
 14490871|||집착 도련님들 사이에서 살아남기 [외전 선공개]|||Surviving Among Obsessive Young Masters [Side Story Early Release]
 14490880|||삼국지 이계난장 [단행본]|||Romance of the Three Kingdoms: Otherworldly Chaos [Novel]
@@ -42532,6 +42539,7 @@
 2582467|||명군이 되어보세!|||Let's Become a Great King!
 2582767|||간을 주면 안 잡아먹지 [단행본]|||Give Me Your Liver and I Won't Eat You
 2582769|||간을 주면 안 잡아먹지|||Give Me Your Liver and I Won't Eat You
+2585620|||1831 [단행본]|||1831 [Novel]
 2585716|||대영반|||The Grand Yingpan
 2585790|||딘의 문장 [단행본]|||Dean's Crest
 2587695|||황셰프 천마 되다 [단행본]|||Chef Hwang Becomes the Heavenly Demon
@@ -46262,6 +46270,7 @@
 541445|||장랑행로 [단행본]|||The Journey of the Long Wolf
 541446|||장의남 강시녀 [단행본]|||The Jiangnan Jiangshi Girl
 541447|||일척도건곤 [단행본]|||A Single Measure Spans Heaven and Earth
+5414616|||40,41 [단행본]|||40,41 [Novel]
 5414675|||대한민국 발차기 [단행본]|||Korea's Kick
 5415246|||핵과금 헌터 [단행본]|||The Big-Spending Hunter
 541528|||좌검우도전 [단행본]|||Left Sword, Right Blade
@@ -53112,6 +53121,7 @@
 8754315|||리터너즈 [단행본]|||Returners
 8754355|||꿈만 꾸면 강해져 [단행본]|||I Get Stronger When I Dream
 8754391|||오펜스 챌린지 [단행본]|||Offense Challenge
+8754403|||나만 보는 탑 공략집 [단행본]|||The Tower Guide Only I Can See [Novel]
 8754440|||나만 아는 주인공들 [단행본]|||The Protagonists Only I Know
 8754468|||농사짓는 영주님 [단행본]|||The Farming Lord
 8754484|||닥터, 조선 가다 [단행본]|||Doctor Goes to Joseon
@@ -58606,15 +58616,9 @@
 9999732|||무협지 속 조무래기 악역입니다 [독점]|||I'm a Minor Villain in a Martial Arts Novel
 9999738|||잘못 찾아오신 것 같아요 [단행본]|||I Think You've Come to the Wrong Place
 9999953|||업화[BL][단행본]|||Karmic Flames
-10354940|||초월급 엑스트라의 공략집|||
-11247250|||7942 [BL]|||
-11540785|||리버티: 천재 게이머의 VR 게임 공략법 [독점]|||
 12600022|||서녀공략 [단행본]|||
-13120041|||52 [BL][단행본]|||
 13234979|||전생 소드마스터의 탑 공략|||
 13286977|||귀환자는 공략이 너무 쉽다 [독점]|||
-13300930|||0.5 [BL][단행본]|||
-13301000|||0.5 [BL]|||
 13476950|||1313|||
 13700500|||1903|||
 13733626|||고인물이 공략을 알려줌 [단행본]|||
@@ -58622,17 +58626,13 @@
 13891747|||1973|||
 14368200|||동일 인물 공략기 [BL][단행본]|||
 14368232|||동일 인물 공략기 [BL]|||
-14490765|||공략 대상이 아카데미에 있습니다 [단행본]|||
 14657761|||전생 소드마스터의 탑 공략 [단행본]|||
 2190297|||1831|||
-2585620|||1831 [단행본]|||
 5317276|||40,41|||
 5412912|||던전공략 특별회수반|||
-5414616|||40,41 [단행본]|||
 6133179|||만렙 플레이어의 쓸만한 공략방송|||
 6332699|||현질로 소설 공략|||
 8499928|||설계자의 공략방법 [단행본]|||
-8754403|||나만 보는 탑 공략집 [단행본]|||
 8782815|||신선은 공략한다 [독점]|||
 8846832|||Q. 공략대로 했는데 안 되던데요? [BL]|||
 8995903|||역대급 시한부 공략자|||
