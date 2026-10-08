@@ -5777,6 +5777,8 @@
 2057340855|||최강 암살자가 듀얼 클래스로 귀환했다|||The Strongest Assassin Returns with a Dual Class
 2057341107|||전남편을 상속받았다|||I Inherited My Ex-Husband
 2057341350|||죽어도 아깝지 않은 놈들|||Men Not Worth Regretting Even in Death
+2057341906|||야구단 신입이 너무 잘함|||The Baseball Team’s New Recruit Is Too Good
+2057342751|||30억 달러 당첨금 받고 계속 출근함|||I Won $3 Billion and Still Show Up for Work
 2065000061|||영업사원 김유빈|||Salesman Kim Yu-bin
 2065000225|||미티어 스트라이커|||Meteor Striker
 2065000386|||전능의 지배자|||Ruler of Omnipotence
@@ -12784,6 +12786,7 @@
 3586126070|||귀환한 삼촌은 재앙급 테이머|||The Returned Uncle Is a Catastrophe-Class Tamer
 3586126245|||사이버펑크의 사냥개는 기업에 복수한다|||The Cyberpunk Hound Takes Revenge on the Corporations
 3586126286|||북부 대공의 특명 기사|||The Grand Duke of the North’s Special Agent Knight
+3586126866|||1972년 바둑계 전설들이 기다리던 천재가 되었다|||I Became the Go Genius the Legends of 1972 Had Been Waiting For
 3586127112|||골렘군단으로 딸깍함|||Clicking My Way with a Golem Legion
 3589000001|||독사|||Viper
 3592000001|||까마귀는 반짝이는 것을 좋아해|||Crows Like Shiny Things
@@ -13410,6 +13413,7 @@
 3863006105|||표시목|||The Marked Neck
 3863006273|||너드남 취향 개조 (15세 개정판)|||Reprogramming the Nerd's Taste (Revised 15+ Edition)
 3863006274|||너드남 취향 개조|||Reprogramming the Nerd's Taste
+3863006485|||권태양 후유증 (15세 개정판)|||Kwon Taeyang: The Aftermath (15+ Revised Edition)
 3863006539|||권태양 후유증|||Kwon Taeyang’s Aftermath
 3864000102|||커버 유어 아이즈 (Cover Your Eyes)|||Cover Your Eyes
 3864000210|||허니 트랩 (Honey Trap)|||Honey Trap
@@ -13698,6 +13702,7 @@
 3885050147|||해고 후 999레벨 요리사로 각성했다|||I Was Fired and Awakened as a Level 999 Chef
 3885050469|||악기빨로 음악천재|||A Music Genius Thanks to Instruments
 3885050765|||군집 오메가|||Cluster Omega
+3885051347|||못생긴 거 보면 토합니다|||I Throw Up When I See Ugly Things
 3938000001|||사랑받기 원하지 않는다|||I Don’t Want to Be Loved
 3938000133|||내게 대답해 주세요|||Answer Me
 3943005016|||악마의 그놈|||That Devil
@@ -16971,6 +16976,8 @@
 4402009243|||아무도 모르고 돈이 많음|||No One Knows I’m Rich
 4402009472|||1원상점으로 탑 폭파|||Blowing Up the Tower with a One-Won Shop
 4402009751|||천년마도|||Millennium Demon Way
+4402010038|||신빨 좋은 S급 헌터님|||The S-Rank Hunter with Divine Luck
+4402010367|||천재 기갑파일럿으로 살아남는 법|||How to Survive as a Genius Mecha Pilot
 4403002724|||마법사를 꿀꺽한 아가씨|||The Lady Who Swallowed a Mage
 4403002913|||미명의 추적자|||The Nameless Tracker
 4403005329|||현자를 위한 네 심장|||Your Four Hearts for the Sage
@@ -17201,6 +17208,7 @@
 4610006694|||유이의 연승이 이어진다면|||If Yui's Winning Streak Continues
 4610006892|||천재 정령사가 가문을 계승하는 방법|||How a Genius Spirit Mage Inherits the Family
 4610007145|||교화한 몬스터로 영지 디펜스|||Domain Defense with Reformed Monsters
+4610007595|||한양 이방인 - 공대생, 조선을 개조하다|||A Stranger in Hanyang: An Engineering Student Rebuilds Joseon
 4611000001|||체대생 김상|||Kim Sang, the Physical Education Major
 4621000226|||개정판 \u007c 진혼기|||Revised Edition \u007c The Soul-Requiem Chronicles
 4621000474|||반월당의 기묘한 이야기|||The Strange Tales of Banwoldang
@@ -18553,6 +18561,7 @@
 5958040836|||절정강호 사기협|||The Supreme Jianghu's Swindling Hero
 5958041118|||기연검신|||The Sword God of Fortuitous Encounters
 5958041718|||아이엠 이블|||I Am Evil
+5958042283|||미국 씹어먹는 야구 천재|||The Baseball Genius Who Dominates America
 5959000001|||정치의 일기장|||The Political Diary
 5959000209|||40살까지 못 해본 남자|||The Man Who Has Never Done It by Forty
 5959000259|||회장님의 핵몽둥이|||The Chairman's Nuclear Club
@@ -18873,6 +18882,7 @@
 6070000004|||사춘기|||Puberty
 6072000001|||내 사랑에 그대 흔적을 남기지 말지어다|||Leave No Trace of Yourself in My Love
 6072000082|||내 사랑에 그대 흔적을 남기지 말지어다(15세 개정판)|||Leave No Trace of Yourself in My Love (15+ Revised Edition)
+6072000282|||나는 네 손을 잡으려 했어|||I Tried to Hold Your Hand
 6073000001|||저승도 햇빛이 좋단다|||Even the Afterlife Has Nice Sunshine
 6074000001|||신회귀자를 위한 지침|||A Guide for New Regression Returnees
 6075000001|||만렙 뉴비가 힘을 숨김|||The Max-Level Newbie Hides His Power
@@ -18904,6 +18914,7 @@
 6167000352|||언더커버 오피스 (15세 개정판)|||Undercover Office (15+ Revised Edition)
 6167000562|||신그릇|||The Divine Vessel
 6167000563|||신그릇 (15세 개정판)|||The Divine Vessel (15+ Revised Edition)
+6167000759|||빙산|||Iceberg
 6175000001|||나의 고결한 포식자에게|||To My Noble Predator
 6175000002|||나의 고결한 포식자에게(15세 개정판)|||To My Noble Predator (15+ Revised Edition)
 6176000001|||악역 소장은 육아 중!|||The Villainous Major Is Raising a Child!
@@ -19927,6 +19938,7 @@
 777189486|||AI 대마법사|||AI Archmage
 777189687|||낙양진가 막내아들|||The Youngest Son of the Luoyang Jin Family
 777190192|||창천무제|||Azure Heaven Martial Emperor
+777191855|||은퇴한 헌터가 드래곤 하트를 얻음|||A Retired Hunter Gets a Dragon Heart
 793002786|||머신|||Machine
 793002996|||푸른 늑대|||Blue Wolf
 793003760|||궁중 스캔들|||Court Scandal
@@ -21169,15 +21181,10 @@
 1190004304|||36.5|||
 120086367|||아카데미 청소부의 은밀한 공략|||
 1962127958|||시한부 플레이어의 천재적 공략법|||
-2057341906|||야구단 신입이 너무 잘함|||
-2057342751|||30억 달러 당첨금 받고 계속 출근함|||
 2313000001|||던전 공략 LIVE|||
 2877000379|||공략은 전지적으로|||
 3092045772|||회귀한 혈기사의 공략법|||
 3586122711|||미리보기 마법사의 던전 공략법|||
-3586126866|||1972년 바둑계 전설들이 기다리던 천재가 되었다|||
-3863006485|||권태양 후유증 (15세 개정판)|||
-3885051347|||못생긴 거 보면 토합니다|||
 4178000348|||던전공략 특별회수반|||
 4186000571|||설계자의 공략방법|||
 4186010140|||초월급 엑스트라의 공략집|||
@@ -21187,14 +21194,7 @@
 425606091|||1903|||
 425629250|||1973|||
 425666977|||유부녀 공략 시스템 각성!|||
-4402010038|||신빨 좋은 S급 헌터님|||
-4402010367|||천재 기갑파일럿으로 살아남는 법|||
-4610007595|||한양 이방인 - 공대생, 조선을 개조하다|||
 505027633|||현질로 소설 공략|||
-5958042283|||미국 씹어먹는 야구 천재|||
-6072000282|||나는 네 손을 잡으려 했어|||
-6167000759|||빙산|||
 777039546|||공략자들|||
 777103514|||역대급 시한부 공략자|||
-777191855|||은퇴한 헌터가 드래곤 하트를 얻음|||
 945008054|||40,41|||
