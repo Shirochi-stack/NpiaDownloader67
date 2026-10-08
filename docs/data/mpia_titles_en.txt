@@ -12186,6 +12186,7 @@
 20382|||Re : 테이머|||Re: Tamer
 203820|||학교 교도소|||School Prison
 203825|||조선무사 현대적응기|||A Joseon Warrior Adapts to Modern Life
+20384|||piece 2098年|||piece 2098
 203858|||오버(Over)|||Over
 203863|||형상고 난간부|||Hyeongsanggo Student Council
 203867|||작전명 그녀|||Operation: Her
@@ -17528,6 +17529,7 @@
 246122|||낙하산이 그렇게 일을 잘한다고?|||The Nepotist Is That Good at His Job?
 24613|||변수의 굴레|||The Shackles of Variables
 246133|||나 혼자만 일일 보상 [D]|||Only I Get Daily Rewards
+246143|||던전 공략 LIVE [D]|||Dungeon Strategy LIVE [D]
 246147|||이과생 둘이 회귀했다 [D]|||Two Science Students Regressed
 246149|||나의 경비원 (My Keeper)|||My Keeper
 246150|||헌터세계 재벌가주|||Chaebol Patriarch of the Hunter World
@@ -23622,6 +23624,7 @@
 291675|||해부학과 학생은 게임 중 [D]|||The Anatomy Student Is Gaming [D]
 291676|||망나니 7황자는 꿀 빨고 싶다 [D]|||The Seventh Prince Wants an Easy Life [D]
 291677|||만렙 금손의 독점공방 [D]|||The Max-Level Golden-Handed Crafter's Exclusive Workshop [D]
+291678|||만렙 플레이어의 쓸만한 공략방송 [D]|||The Max-Level Player’s Useful Strategy Stream [D]
 291679|||만렙 회귀자입니다만? [D]|||I'm a Max-Level Regressor, Though? [D]
 291680|||우리 영주님은 무공고수 [D]|||Our Lord Is a Martial Arts Master [D]
 291681|||만렙 농부의 무한 꿀파밍 [D]|||The Max-Level Farmer's Infinite Easy Farming [D]
@@ -49919,6 +49922,7 @@
 462063|||천마신교 절대기재 [D]|||The Heavenly Demon Cult’s Peerless Genius [D]
 462065|||MLB 천재들이 방출 포수를 너무 좋아함 [D]|||MLB Geniuses Love the Released Catcher Too Much [D]
 462066|||매국노의 원수 자식 [D]|||The Traitor’s Enemy’s Child [D]
+462087|||청성낙도|||Cheongseongnakdo
 462098|||빌어먹을 시스템 [D]|||Damn System [D]
 462099|||그 탑스타의 음악에는 악마가 산다 [D]|||A Demon Lives in That Top Star’s Music [D]
 462101|||이 세계 텃밭 재료로 천재요리사?! [D]|||A Genius Chef with Ingredients from This World?! [D]
@@ -53294,6 +53298,7 @@
 47993|||모험의 예렐|||Yerel's Adventure
 479937|||판타지 세계에 5성 가챠 캐릭터로 빙의했다.|||I Possessed a Five-Star Gacha Character in a Fantasy World
 479951|||근로기준법 위반으로 각성함|||I Awakened After Violating the Labor Standards Act
+479955|||미친 선배가 만든 파멸 플래그 게임 공략하기|||Conquering the Doom-Flag Game Made by My Crazy Senior
 479956|||백 년을 품었으니 이제는 너를 버린다|||After Holding You for a Hundred Years, I’ll Abandon You
 479959|||그냥 검 좀 쓰는 18살입니다|||I’m Just an Eighteen-Year-Old Who Uses a Sword
 479960|||별의 유산|||Legacy of the Stars
@@ -57051,6 +57056,7 @@
 497267|||환생했더니 불에 미친 정령사가 되었다 [D]|||I Reincarnated as a Fire-Crazed Spirit Mage [D]
 497268|||1조클럽 복싱천재 [D]|||The Trillion-Club Boxing Genius [D]
 497269|||전직 용병의 슬기로운 빙의 생활 [D]|||The Former Mercenary's Wise Possession Life [D]
+49727|||공략! Dungeon|||Conquer! Dungeon
 497270|||역대급 고인물이 메이저리그를 깨부숨 [D]|||The Legendary Veteran Wrecks the Major Leagues [D]
 497271|||중세 땅마법사, 요리를 곁들인 [D]|||The Medieval Earth Mage, with Cooking [D]
 497272|||회귀? 개꿈? 젠장. 회귀였다. [D]|||Regression? A Stupid Dream? Damn. It Was Regression. [D]
@@ -79131,6 +79137,7 @@
 598915|||멸망 판타지의 관우가 되었다|||I Became Guan Yu in a Doomed Fantasy World
 598917|||불시착한 김에 행성 개발자가 되었다.|||I Crash-Landed and Became a Planet Developer
 598918|||Oracle system|||Oracle system
+598919|||연습용sdfjvksjh|||Practice sdfjvksjh
 598921|||유토피아에 검은 편지가 도착했다|||A Black Letter Arrived in Utopia
 598922|||500만 유튜버가 되다. 그리고 오버테크놀로지를 얻었다|||I Became a Five-Million-Subscriber YouTuber—and Obtained Overtechnology
 598923|||권한이 있습니다|||I Have the Authority
@@ -84623,6 +84630,7 @@
 609627|||나의 아픈 사랑|||My Painful Love
 609628|||보이스피싱 회사에서 떼돈 범|||I Made a Fortune at a Voice Phishing Company
 609629|||회귀한 군주가 세상을 구하는 법|||How a Regressed Lord Saves the World
+609630|||해고당한 탑 공략 분석관이 정답을 다 알고 있음|||The Fired Tower Strategy Analyst Knows All the Answers
 609634|||검끝에 깃든 백조|||The Swan at the Sword’s Tip
 609636|||국가전력급 정령의 계승자|||Heir to a National-Strategic-Class Spirit
 609637|||괴담 속에서 스트리머 데뷔임박이라고!|||I’m About to Debut as a Streamer in an Urban Legend!
@@ -90261,7 +90269,6 @@
 176528|||8760|||
 187018|||ㄻㅇㄻㄴㅇㄻㄴㅇㄹ|||
 193589|||9|||
-20384|||piece 2098年|||
 204775|||14790|||
 205671|||ㅏㅓㅏㄷ|||
 209462|||11110|||
@@ -90271,7 +90278,6 @@
 227787|||2048|||
 233676|||438..|||
 244822|||3023|||
-246143|||던전 공략 LIVE [D]|||
 247549|||30|||
 249068|||1235123|||
 25325|||3|||
@@ -90287,7 +90293,6 @@
 286326|||?!,?!?.,|||
 28761|||000001|||
 289421|||57794|||
-291678|||만렙 플레이어의 쓸만한 공략방송 [D]|||
 301020|||01300930|||
 302140|||데스 게임 공략하기|||
 312368|||12323112|||
@@ -90327,11 +90332,9 @@
 435686|||20240925-13!|||
 435826|||20240926-8|||
 45834|||게이트 공략왕|||
-462087|||청성낙도|||
 46467|||공략왕의 생존비법 [E]|||
 474735|||탑 공략 AI를 위해 데이터 센터를 지었다|||
 476128|||20250508|||
-479955|||미친 선배가 만든 파멸 플래그 게임 공략하기|||
 480353|||망상충의 지하 공략전|||
 48039|||40,41|||
 481225|||31|||
@@ -90339,7 +90342,6 @@
 491596|||0313|||
 492465|||11222322|||
 496866|||6.6.6|||
-49727|||공략! Dungeon|||
 501598|||25555|||
 50414|||100|||
 506916|||41-42|||
@@ -90375,7 +90377,6 @@
 592010|||4095|||
 595765|||ㅌㅅㅌㅌㅌ|||
 596700|||.............................|||
-598919|||연습용sdfjvksjh|||
 602754|||The great sentinel (센티넬)|||
 603137|||1-1|||
 603183|||13-017|||
@@ -90388,7 +90389,6 @@
 607188|||1층에 3년 머물다 탑 공략의 신이 되었다|||
 608033|||Axiom(공리)|||
 608414|||번학무사 (番學武士)|||
-609630|||해고당한 탑 공략 분석관이 정답을 다 알고 있음|||
 609976|||일연승급용|||
 610021|||2035|||
 63401|||49|||
