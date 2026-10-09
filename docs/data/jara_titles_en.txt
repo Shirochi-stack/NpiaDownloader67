@@ -118721,6 +118721,7 @@
 1796790|||[하이큐/최애의 아이]밤하늘 멜로디|||[Haikyuu/Oshi no Ko] Melody of the Night Sky
 1796794|||종생불변|||Eternal and Unchanging
 1796798|||최강자를 건드리지 마라.|||Don't Mess with the Strongest
+17968|||進 - Geno|||Advance - Geno
 1796800|||[원피스] 오니가시마 탐관오리 생존기|||[One Piece] A Corrupt Official's Survival on Onigashima
 1796801|||시간을 보내는 남자에게|||To the Man Who Passes the Time
 1796814|||[도리벤/BL] 청명(淸明)|||[Tokyo Revengers/BL] Clear and Bright
@@ -145038,6 +145039,7 @@
 1889524|||[하이큐/쿠농/도리벤/앙스타] 자급자족하는 캐릭터 드림 모음집|||[Haikyuu!!/Kuroko's Basketball/Tokyo Revengers/Ensemble Stars] Self-Sufficient Character Dreams Collection
 1889525|||신인인데 천만배우|||A Rookie, Yet a Ten-Million-Star Actor
 1889526|||[포겟몬/이누야샤BL] 당당한 꼬부기다.-(완)-|||[Pokémon/Inuyasha BL] I Am a Proud Squirtle. (Complete)
+1889527|||이 집안을 일으켜세우겠습니다!|||I’ll Restore This Family!
 1889529|||룬의 계승자|||Heir of the Rune
 1889530|||잘생길수록 강해져|||The Handsomer I Am, the Stronger I Get
 1889531|||패왕, 다시 살다|||The Overlord Lives Again
@@ -145077,6 +145079,7 @@
 1889711|||별빛이 사라진 은하수 아래서|||Beneath the Milky Way Where the Starlight Faded
 1889723|||헬 난이도에서 캠핑합니다|||Camping on Hell Difficulty
 1889725|||그날 밤 사정|||What Happened That Night
+1889728|||레벨업 하는 약물 치료사|||The Leveling Pharmacist
 1889734|||맛이 이상하다|||It Tastes Strange
 1889738|||[괴담출근/전독시] 줍줍(가제)|||[Working the Horror Shift/Omniscient Reader] Pick-Up (Working Title)
 1889759|||[히로아카×사이버 펑크: 엣지러너] 투 더 문|||[My Hero Academia × Cyberpunk: Edgerunners] To the Moon
@@ -237260,7 +237263,6 @@
 1796216|||.|||
 1796274|||.|||
 1796389|||..|||
-17968|||進 - Geno|||
 1797385|||.|||
 1797434|||ㆍ|||
 1797903|||-|||
@@ -237389,8 +237391,6 @@
 1886519|||ㆍ|||
 1887427|||.|||
 1888381|||병미인화살저도|||
-1889527|||이 집안을 일으켜세우겠습니다!|||
-1889728|||레벨업 하는 약물 치료사|||
 1890305|||0|||
 1890688|||하노(夏爐) - 여름이 끝나지 않는 도시|||
 1890735|||[인소의 법칙] 과잉사고(過剩思考).|||
