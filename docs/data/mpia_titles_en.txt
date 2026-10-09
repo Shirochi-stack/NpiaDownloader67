@@ -24978,6 +24978,7 @@
 302122|||산새들이 노래하는 곳|||Where Mountain Birds Sing
 302123|||아카데미 학생들이 내게 집착한다|||The Academy Students Obsess Over Me
 302125|||조선반도는 두 번째로 불탄다|||The Korean Peninsula Burns a Second Time
+302140|||데스 게임 공략하기|||How to Beat a Death Game
 302141|||그렇게 나는 기억을 잃었다|||And So I Lost My Memory
 302143|||좀비 세상의 교환소|||The Exchange in the Zombie World
 302151|||어차피 사랑, 그래도 사랑|||Love Anyway, Love Still
@@ -34527,6 +34528,7 @@
 366669|||다르다넬|||Dardanell
 366673|||SSS급 재능러 [D]|||The SSS-Rank Talent [D]
 366674|||축따 [D]|||Chuktta [D]
+366675|||미리보기 마법사의 던전 공략법 [D]|||Preview: The Wizard’s Guide to Clearing Dungeons [D]
 366676|||던전에서 식당합니다 [D]|||I Run a Restaurant in a Dungeon [D]
 366686|||죽은 마법사의 소원|||The Dead Mage's Wish
 366693|||무신은 서로를 이해하지 못한다|||The Martial Gods Don't Understand Each Other
@@ -35002,6 +35004,7 @@
 369371|||동화가 놀람|||Fairy Tales Are Surprised
 369373|||종족 초월로 게임 최강! [D]|||The Strongest in the Game Through Transcending Species! [D]
 369374|||신이 내린 바둑왕 최강석 [D]|||Choi Kang-seok, the God-Given Go King [D]
+369375|||공략을 포기하다 [D]|||Giving Up on the Walkthrough [D]
 369376|||금은방의 연금술사 [D]|||The Goldsmith Alchemist [D]
 369378|||은퇴 후 귀환한 오빠는 최강 헌터 [D]|||My Brother Returned from Retirement as the Strongest Hunter [D]
 369379|||악마 사냥|||Demon Hunt
@@ -52107,6 +52110,7 @@
 474712|||데칼코마니 : 시선|||Decalcomanie: Gaze
 474723|||죽기전에 ai전공자를 소환한 제갈량, 뭘 본거야??|||What Did Zhuge Liang See When He Summoned an AI Major Before Dying?
 474733|||발더대쉬|||Baldash
+474735|||탑 공략 AI를 위해 데이터 센터를 지었다|||I Built a Data Center for the Tower-Clearing AI
 474739|||조선 대령숙수가 탑의 요리사?|||Joseon's Head Royal Chef Is a Tower Cook?
 474741|||보이지 말라고 했잖아!|||I Told You Not to Look!
 474742|||우주 미아|||Lost in Space
@@ -60082,6 +60086,7 @@
 516860|||하고 싶은 일만 하는데 줄줄이 대박남|||I Only Do What I Want, Yet Everything Becomes a Hit
 516871|||종각|||Jonggak
 516874|||삼국지 : 최애는 조조인데 유비 딸이 되었다|||Romance of the Three Kingdoms: Cao Cao Is My Favorite, but I Became Liu Bei’s Daughter
+516875|||일타강사의 탑 공략 커리큘럼|||The Top Instructor's Tower-Clearing Curriculum
 516895|||전세계가 집착하는 광산재벌이 되었다|||I Became the Mining Tycoon the Whole World Obsesses Over
 5169|||마리오네트 -어느 한 인형사의 이야기-|||Marionette - The Story of a Puppeteer -
 516904|||일면식도 없던 친척에게 1조 원을 상속받았다|||I Inherited One Trillion Won from a Relative I’d Never Met
@@ -61620,6 +61625,7 @@
 52666|||제 검은 정령입니다|||My Sword Is a Spirit
 526661|||여동생을 위해 갱생한 망나니 헌터|||The Reformed Bastard Hunter for His Little Sister
 526666|||베드로 외전|||Peter: Side Story
+526677|||절대영도의 탑 공략 방송|||Tower-Clearing Streams at Absolute Zero
 526679|||직장생활|||Working Life
 52668|||천명 (天命)|||Heavenly Mandate
 526694|||전직 검신의 아포칼립스|||The Apocalypse of a Former Sword God
@@ -66169,6 +66175,7 @@
 552486|||내 탑만 클리어|||Only My Tower Gets Cleared
 552488|||미친 탑의 S급 헌터|||The S-Rank Hunter of the Insane Tower
 55249|||유렌|||Yuren
+552492|||외신 먹고 던전공략이 너무 쉬움|||Dungeon Crawling Is Easy After Eating an Outer God
 552495|||Hermes 1320|||Hermes 1320
 552498|||Flow : 대만 운명의 72시간|||Flow: Taiwan’s 72 Hours of Fate
 552501|||Therapist : 당신이 지운 감정|||Therapist: The Emotions You Erased
@@ -71057,6 +71064,7 @@
 57161|||유리잔 속에 담긴 바람|||Wind in a Glass
 571610|||AI로 헌터|||Hunter with AI
 571612|||물리치료사 성공기|||The Physical Therapist's Road to Success
+571616|||소드마스터의 외신 공략|||The Swordmaster's Guide to Outer Gods
 571617|||망겜에서 0원으로 내 집 마련|||Getting My Own Home for Free in a Terrible Game
 571619|||열일곱, 애가 생겼다.|||Seventeen, and I Had a Baby
 571627|||딸깍 한 번에 천재가 됐다|||One Click Turned Me into a Genius
@@ -83393,6 +83401,7 @@
 607184|||푸른 도깨비불|||Blue Goblin Fire
 607185|||천재 아역 배우로 살아남기|||Surviving as a Child Acting Prodigy
 607187|||아포칼립스는 점심시간에 시작됐다.|||The Apocalypse Began at Lunchtime
+607188|||1층에 3년 머물다 탑 공략의 신이 되었다|||I Spent Three Years on the First Floor and Became a Tower-Clearing God
 607191|||우리가 사랑했던 사람들|||The People We Loved
 607194|||배틀로얄에서 혼자 구조대를 차렸다|||I Started a Rescue Squad All by Myself in a Battle Royale
 607195|||해고된 거물들 모아서 인생역전|||I Turned My Life Around by Gathering Fired Big Shots
@@ -90294,7 +90303,6 @@
 28761|||000001|||
 289421|||57794|||
 301020|||01300930|||
-302140|||데스 게임 공략하기|||
 312368|||12323112|||
 319132|||1%|||
 320323|||1231343346345643564363|||
@@ -90307,8 +90315,6 @@
 362816|||백룸 공략은 인테리어부터|||
 36332|||72%|||
 365849|||2323434|||
-366675|||미리보기 마법사의 던전 공략법 [D]|||
-369375|||공략을 포기하다 [D]|||
 374382|||98%|||
 38284|||36.5|||
 386435|||090523|||
@@ -90333,7 +90339,6 @@
 435826|||20240926-8|||
 45834|||게이트 공략왕|||
 46467|||공략왕의 생존비법 [E]|||
-474735|||탑 공략 AI를 위해 데이터 센터를 지었다|||
 476128|||20250508|||
 480353|||망상충의 지하 공략전|||
 48039|||40,41|||
@@ -90347,12 +90352,10 @@
 506916|||41-42|||
 507582|||1903|||
 511312|||01101011|||
-516875|||일타강사의 탑 공략 커리큘럼|||
 519054|||4093|||
 520367|||20251117-1|||
 5208|||???|||
 524345|||1973|||
-526677|||절대영도의 탑 공략 방송|||
 536276|||2007|||
 537597|||1979.04.09|||
 540326|||ㄴㅇㄹㄴㅇㄹ|||
@@ -90360,14 +90363,12 @@
 548517|||666|||
 54859|||96|||
 548709|||42|||
-552492|||외신 먹고 던전공략이 너무 쉬움|||
 55941|||0418|||
 559773|||20260427-4444|||
 564325|||.....3|||
 565765|||,,,,|||
 569530|||1592|||
 570221|||2083|||
-571616|||소드마스터의 외신 공략|||
 574017|||354867|||
 575548|||0100101010000101010|||
 585883|||23시59분60초|||
@@ -90386,7 +90387,6 @@
 604886|||\ubb38\ud53c\uc544 그리스 로마 신화|||
 605986|||The Gate of Heroes(더게이트오브히어로즈)|||
 606176|||52|||
-607188|||1층에 3년 머물다 탑 공략의 신이 되었다|||
 608033|||Axiom(공리)|||
 608414|||번학무사 (番學武士)|||
 609976|||일연승급용|||
