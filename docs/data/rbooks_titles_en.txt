@@ -5791,6 +5791,7 @@
 2057341350|||죽어도 아깝지 않은 놈들|||Men Not Worth Regretting Even in Death
 2057341906|||야구단 신입이 너무 잘함|||The Baseball Team’s New Recruit Is Too Good
 2057342751|||30억 달러 당첨금 받고 계속 출근함|||I Won $3 Billion and Still Show Up for Work
+2057342966|||명가의 역대급 재능천재로 환생했다|||Reborn as the Greatest Prodigy of a Prestigious Family
 2065000061|||영업사원 김유빈|||Salesman Kim Yu-bin
 2065000225|||미티어 스트라이커|||Meteor Striker
 2065000386|||전능의 지배자|||Ruler of Omnipotence
@@ -17105,6 +17106,7 @@
 4516012332|||오차 범위 (15세 개정판)|||Margin of Error (15+ Revised Edition)
 4516012503|||세 번의 밤 (15세 개정판)|||Three Nights (15+ Revised Edition)
 4516012564|||세 번의 밤|||Three Nights
+4516012704|||거절은 거절해|||I Refuse to Take No for an Answer
 4529000001|||텐세그리티(Tensegrity)|||Tensegrity
 4529000151|||텐세그리티(Tensegrity) 외전|||Tensegrity: Side Story
 4529000176|||라그랑주 포인트|||Lagrange Point
@@ -18612,6 +18614,7 @@
 5958041118|||기연검신|||The Sword God of Fortuitous Encounters
 5958041718|||아이엠 이블|||I Am Evil
 5958042283|||미국 씹어먹는 야구 천재|||The Baseball Genius Who Dominates America
+5958043483|||역대급 좋소기업 성공기|||The Greatest Small Business Success Story
 5959000001|||정치의 일기장|||The Political Diary
 5959000209|||40살까지 못 해본 남자|||The Man Who Has Never Done It by Forty
 5959000259|||회장님의 핵몽둥이|||The Chairman's Nuclear Club
@@ -21240,7 +21243,6 @@
 961089747|||귀신 잡는 아이돌의 퇴마 라인업|||The Ghost-Hunting Idol’s Exorcism Lineup
 1190004304|||36.5|||
 120086367|||아카데미 청소부의 은밀한 공략|||
-2057342966|||명가의 역대급 재능천재로 환생했다|||
 2313000001|||던전 공략 LIVE|||
 2877000379|||공략은 전지적으로|||
 3092045772|||회귀한 혈기사의 공략법|||
@@ -21254,8 +21256,6 @@
 425606091|||1903|||
 425629250|||1973|||
 425666977|||유부녀 공략 시스템 각성!|||
-4516012704|||거절은 거절해|||
 505027633|||현질로 소설 공략|||
-5958043483|||역대급 좋소기업 성공기|||
 777039546|||공략자들|||
 945008054|||40,41|||
