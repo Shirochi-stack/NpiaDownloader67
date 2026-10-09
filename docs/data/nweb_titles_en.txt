@@ -111597,6 +111597,7 @@
 343762|||용의 나라|||Land of Dragons
 343763|||식물인간|||Vegetative Person
 343770|||{새벽의 연화} 붉은 주작|||{Yona of the Dawn} The Red Vermilion Bird
+343774|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124 하지마세요(네웹하마)|||Please Don't Upload Web Novels to \u004e\u0061\u0076\u0065\u0072 (\u004e\u0061\u0076\u0065\u0072\u0020\u0057\u0065\u0062\u0020\u004e\u006f\u0076\u0065\u006c Forum)
 343777|||엘케이|||LK
 343779|||정령!|||Spirit!
 34378|||강제결혼, 내 남편은 17살 !|||Forced Marriage, My Husband Is Seventeen!
@@ -117198,6 +117199,7 @@
 36818|||훈남&훈녀|||Handsome Guys & Pretty Girls
 368192|||행복을 찾아 떠나는 여행|||A Journey in Search of Happiness
 368200|||영혼이 실리지 않은 공은 볼이다|||A Ball Without a Soul Is Just a Ball
+368205|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124 서평|||\u004e\u0061\u0076\u0065\u0072\u0020\u0057\u0065\u0062\u0020\u004e\u006f\u0076\u0065\u006c Review
 368211|||HELMET|||HELMET
 368212|||한민족을 찾아서|||Searching for the Korean People
 368213|||악마계약|||Demon Contract
@@ -169159,6 +169161,7 @@
 613845|||불협화음의 하모니|||Harmony of Discord
 613847|||우타이테 조각조각|||Utaite Fragments
 613850|||레돈도|||Redondo
+613859|||망연잘의|||Mangyeonjal-ui
 613862|||유랑극단 라이프|||Traveling Troupe Life
 61387|||왕따|||Outcast
 613870|||거울아 거울아|||Mirror, Mirror
@@ -169348,6 +169351,7 @@
 614718|||경(鯨)애(愛)전|||Whale Love Story
 614719|||자격지심|||Insecurity
 614723|||추격자: 10년전 그XX|||The Chaser: That Bastard from Ten Years Ago
+614731|||앙기머찌|||Angimeojji
 614736|||로맨스 인디고|||Romance Indigo
 614737|||일상의 히어로|||Everyday Hero
 614739|||전하와 나|||His Highness and Me
@@ -171891,6 +171895,7 @@
 627404|||[ 암살교실 ] 빙의했습니다 .|||[Assassination Classroom] I’ve Been Possessed.
 627410|||조금 다른 사랑들 단편집|||Collection of Slightly Different Love Stories
 627416|||신과나|||God and Me
+627417|||여모이|||Yeomoi
 627431|||이세계 온라인에 접속해버렸습니다|||I Logged into Another World Online
 627433|||동건이와민서의 여정(수위..)|||Donggeon and Minseo’s Journey (Mature..)
 627435|||외국인의 슬픈 눈물|||A Foreigner’s Sad Tears
@@ -191921,6 +191926,7 @@
 729556|||사모곡 [思母曲]|||A Song for Mother
 729557|||우리 치킨같이 먹은사이야|||We’ve Shared Chicken
 729558|||뜰 수 있어?|||Can We Make It?
+729563|||愛之重之애지중지-는 \uc870\uc544\ub77c로 옮겨집니다.|||Cherish Them Dearly - will be moved to Jorara.
 729566|||[상수동 싱싱골목]|||[Sangsu-dong Fresh Alley]
 729568|||피아노가 흐르는 다락방|||The Attic Where Piano Music Flows
 729573|||용사는 땅파서 돈을 법니다만 문제라도?|||The Hero Digs for Money—Got a Problem?
@@ -217437,6 +217443,7 @@
 863358|||중재자|||The Mediator
 863367|||기사단장 황녀님|||The Princess Is the Knight Commander
 863370|||레이디는 우아하게 검을 든다|||The Lady Wields a Sword Elegantly
+863374|||벚꽃[さくら]|||Cherry Blossoms [Sakura]
 863377|||한여름의 오로라|||Midsummer Aurora
 863397|||꿈속의 너|||You in My Dreams
 863399|||인연|||Fate
@@ -234801,6 +234808,7 @@
 954733|||아기 교황님은 꽃길을 걸어요|||The Baby Pope Walks a Flower Road
 954735|||우리가 본 하늘은|||The Sky We Saw
 954739|||악당의 누나는 처음이야.|||It's My First Time Being a Villain's Sister
+954746|||人과憐|||People and Compassion
 954753|||갤럭시 얼스!: 동물중심의 우화|||Galaxy Earth!: Animal-Centered Fables
 954756|||트윈유카7|||Twin Yuka 7
 954758|||ㅇㅇ|||Yeah
@@ -243793,7 +243801,6 @@
 341588|||ㅡ|||
 342362|||.....|||
 343034|||.|||
-343774|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124 하지마세요(네웹하마)|||
 343788|||365+5|||
 34404|||...|||
 344771|||5+5=♡|||
@@ -243813,7 +243820,6 @@
 363869|||3시 59분 59초|||
 363920|||Atlantis_(禁忌)|||
 365145|||?|||
-368205|||\ub124\uc774\ubc84\u0020\uc6f9\uc18c\uc124 서평|||
 36825|||ㅅㄹㅇ ㅇ ㄷㅁㄱ|||
 369547|||2060 → 2014|||
 375059|||.|||
@@ -244024,9 +244030,7 @@
 612754|||.|||
 613379|||ㅤㅤㅤㅤ|||
 613620|||2950|||
-613859|||망연잘의|||
 614612|||-|||
-614731|||앙기머찌|||
 616967|||20090117|||
 618074|||.|||
 620987|||ㅡㅡㅡㅡㅡㅡㅡㅡㅡ|||
@@ -244035,7 +244039,6 @@
 622202|||.|||
 624418|||00.|||
 627168|||-|||
-627417|||여모이|||
 630383|||■■■■ ■■■ ■■|||
 631081|||ㄳ놎ㄱ|||
 632216|||24, 17|||
@@ -244122,7 +244125,6 @@
 728053|||-|||
 72816|||ㅇㄹㄹㄹ4|||
 728300|||.|||
-729563|||愛之重之애지중지-는 \uc870\uc544\ub77c로 옮겨집니다.|||
 732387|||[愛情缺乏]애정결핍 : 사랑이 필요해|||
 733945|||1524|||
 736198|||ㅇㄹㅇㄹ|||
@@ -244222,7 +244224,6 @@
 86168|||5%|||
 861737|||..|||
 863261|||[BL]DesTiny(영:霙)|||
-863374|||벚꽃[さくら]|||
 864619|||.|||
 86471|||개화[開花]|||
 864730|||1|||
@@ -244329,7 +244330,6 @@
 952899|||1235123|||
 953030|||.|||
 954433|||2002-2002|||
-954746|||人과憐|||
 956771|||- - - - - - - -|||
 957681|||공략묵시록|||
 958130|||..|||
