@@ -28509,6 +28509,7 @@
 32573|||능력 추출사|||Ability Extractor
 325738|||왕위 계승자는 군 복무중|||The Heir to the Throne Is Serving in the Military
 325740|||그 섬의 아이들|||The Children of That Island
+325741|||복음상착전투서재(\ubb38\ud53c\uc544 버전)|||Gospel Shipwreck Battle Archive (\u004d\u0075\u006e\u0070\u0069\u0061 Version)
 325787|||던전 관리 공사 김정환 출근합니다|||Dungeon Management Corporation: Kim Jeonghwan Reports for Work
 32579|||헤드샷!|||Headshot!
 325810|||엄청난 기연으로 천재가 되었다|||A Fortuitous Encounter Made Me a Genius
@@ -75995,6 +75996,7 @@
 588643|||Honeymoon 13th Avenue|||Honeymoon 13th Avenue
 588650|||법이 안 죽이길래 그냥 내가 죽임|||The Law Wouldn't Kill Him, So I Did
 588652|||마수조리사가 힐러보다 버프를 잘 줌|||The Monster Chef Gives Better Buffs Than Healers
+588653|||\ubb38\ud53c\uc544 소재글|||\u004d\u0075\u006e\u0070\u0069\u0061 Prompt Post
 588656|||공작가의 숨겨진 아이를 치료했습니다|||I Healed the Duke's Hidden Child
 588662|||꿈 주식회사|||Dream Corporation
 588665|||라스트 레오넴 : 하녀의 이름을 훔친 자|||Last Leonem: The One Who Stole the Maid's Name
@@ -82101,7 +82103,9 @@
 604686|||막내 동생이 규격 외 음악 천재였다|||My Youngest Sibling Was an Out-of-Spec Music Prodigy
 604687|||인류 보호 기간이 종료되었습니다.|||Humanity's Protection Period Has Ended
 604688|||탑 안에 배럭 올렸더니 전 세계가 매달림|||I Built Barracks in the Tower, and the Whole World Got Hooked
+604689|||고대렵호적양가일상|||The Everyday Life of an Ancient Hunting Family
 60469|||단편(모음)|||Short Stories
+604690|||충복지처|||The Faithful Wife
 604691|||외계생명을 찍었더니 돈이 된다|||I Filmed an Alien Life Form and Made a Fortune
 604692|||필터 아웃(Filter-Out)|||Filter-Out
 604693|||책 속으로 들어갔는데 다 아는 세계다|||I Entered a Book, but I Know This World
@@ -82211,6 +82215,7 @@
 604882|||탑등반세계관 프리퀄 : 지구는 시뮬레이션입니다.|||Tower-Climbing Universe Prequel: Earth Is a Simulation
 604884|||왜 그런 소원을 빌었나요, 들려주실 수 있나요?|||Why Did You Make That Wish? Would You Tell Me?
 604885|||카이스트 나온 노가다 달인의 세상 구하기|||A KAIST-Trained Construction Hand Saves the World
+604886|||\ubb38\ud53c\uc544 그리스 로마 신화|||\u004d\u0075\u006e\u0070\u0069\u0061 Greek and Roman Mythology
 604890|||형사귀|||Detective Ghost
 604892|||미래를 보는 아이|||The Child Who Sees the Future
 604894|||키루스 출생의 비밀|||The Secret of Cyrus's Birth
@@ -84800,6 +84805,7 @@
 60997|||매트릭스|||The Matrix
 609971|||별빛의 시차|||The Starry Time Difference
 609973|||나의, 히나|||My Hina
+609976|||일연승급용|||A Dragon Who Levels Up Every Day
 609977|||회장님 난초를 살려냈습니다|||I Saved the Chairman’s Orchid
 609979|||0.1초가 할 수 있는 일(감정배급도시의 필경사)|||What 0.1 Seconds Can Do (The Scribe of the Emotion-Rationing City)
 609980|||톱스타 다 만들어줬는데 해고당했다|||I Made All Their Top Stars, Then Got Fired
@@ -90306,7 +90312,6 @@
 312368|||12323112|||
 319132|||1%|||
 320323|||1231343346345643564363|||
-325741|||복음상착전투서재(\ubb38\ud53c\uc544 버전)|||
 332402|||2082|||
 332679|||11121212|||
 333510|||( )|||
@@ -90372,7 +90377,6 @@
 574017|||354867|||
 575548|||0100101010000101010|||
 585883|||23시59분60초|||
-588653|||\ubb38\ud53c\uc544 소재글|||
 588812|||7389|||
 592002|||10시26분|||
 592010|||4095|||
@@ -90382,14 +90386,10 @@
 603137|||1-1|||
 603183|||13-017|||
 603458|||2012|||
-604689|||고대렵호적양가일상|||
-604690|||충복지처|||
-604886|||\ubb38\ud53c\uc544 그리스 로마 신화|||
 605986|||The Gate of Heroes(더게이트오브히어로즈)|||
 606176|||52|||
 608033|||Axiom(공리)|||
 608414|||번학무사 (番學武士)|||
-609976|||일연승급용|||
 610021|||2035|||
 63401|||49|||
 7571|||5시 16분|||
