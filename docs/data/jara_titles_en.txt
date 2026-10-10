@@ -76326,6 +76326,7 @@
 1570290|||모정이 묻힌 태봉의 신비|||The Mystery of Taebong, Where Maternal Love Lies Buried
 15703|||- r e q u i e m -|||- r e q u i e m -
 1570302|||소재 모음집|||Idea Collection
+1570307|||[은혼] 진선조 옆 편의점|||[Gintama] The Convenience Store Next to the Shinsengumi
 157031|||Danger단거|||Danger
 1570310|||템빨 짐꾼|||The Item-Favored Porter
 1570319|||그리고 상사병|||And Lovesickness
@@ -144716,6 +144717,7 @@
 1888682|||시티 오브 뱅크|||City of Bank
 1888713|||경국지색, 이번 생엔 한류로 빛나리라!|||A Beauty That Topples Nations—This Life, I'll Shine Through Hallyu!
 1888724|||나는 오라버니의 이름을 입었다|||I Took My Older Brother's Name
+1888725|||투자 실패 후 국민 여가수의 남동생으로 회귀했다|||After My Investment Failed, I Regressed as the Nation's Favorite Singer's Little Brother
 1888745|||검은 안개에 붉은 빛이 돌면|||When Red Light Shines Through the Black Fog
 1888748|||마교의 천재 의원이 되었다|||I Became the Demonic Sect's Genius Physician
 1888749|||내일을 빌려주는 회사의 경영자가 되었다|||I Became the CEO of a Company That Lends Out Tomorrows
@@ -145082,6 +145084,9 @@
 1889728|||레벨업 하는 약물 치료사|||The Leveling Pharmacist
 1889734|||맛이 이상하다|||It Tastes Strange
 1889738|||[괴담출근/전독시] 줍줍(가제)|||[Working the Horror Shift/Omniscient Reader] Pick-Up (Working Title)
+1889751|||전역했더니 저작권료가 쏟아짐|||I Got Out of the Military and Royalties Came Pouring In
+1889752|||대박나는 땅이 보여|||I Can See Land That's About to Make a Killing
+1889754|||귀환자의 현대 생활|||A Returnee's Modern Life
 1889759|||[히로아카×사이버 펑크: 엣지러너] 투 더 문|||[My Hero Academia × Cyberpunk: Edgerunners] To the Moon
 1889765|||끊어질 수 없게|||So We Can Never Be Apart
 1889766|||약점: 불순한 사정|||Weakness: Impure Circumstances
@@ -234838,6 +234843,7 @@
 985541|||은 속의 금|||Gold Within Silver
 985542|||(오버로드) 투아하 데 다난|||(Overlord) Tuatha Dé Danann
 985549|||[금서목록 x 헌터] 환상을 지우는 넨 능력자|||[A Certain Magical Index x Hunter] The Nen User Who Erases Illusions
+98555|||宮  - the 율|||Palace - the Yul
 985570|||[어벤져스] kindergarten에 놀러오세요.|||[Avengers] Come Visit Kindergarten
 985576|||[完]그 끝에는|||[Complete] At the End
 985580|||[쿠로바스] 어서와 이런 스레는 처음이지?|||[Kuroko's Basketball] Welcome, First Time in a Thread Like This?
@@ -236959,7 +236965,6 @@
 1569218|||-|||
 1569245|||.|||
 1570078|||.|||
-1570307|||[은혼] 진선조 옆 편의점|||
 157334|||人://LINK|||
 1573696|||.|||
 1573823|||.|||
@@ -237392,10 +237397,6 @@
 1886519|||ㆍ|||
 1887427|||.|||
 1888381|||병미인화살저도|||
-1888725|||투자 실패 후 국민 여가수의 남동생으로 회귀했다|||
-1889751|||전역했더니 저작권료가 쏟아짐|||
-1889752|||대박나는 땅이 보여|||
-1889754|||귀환자의 현대 생활|||
 1890305|||0|||
 1890688|||하노(夏爐) - 여름이 끝나지 않는 도시|||
 1890735|||[인소의 법칙] 과잉사고(過剩思考).|||
@@ -237738,7 +237739,6 @@
 981749|||22222'|||
 984304|||---|||
 985434|||1201|||
-98555|||宮  - the 율|||
 98803|||[BL/Y물] 弊端[폐단;eviL]|||
 988643|||500|||
 990369|||1|||
