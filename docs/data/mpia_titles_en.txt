@@ -85015,6 +85015,7 @@
 61066|||러브인더퓨처|||Love in the Future
 61072|||우주 유랑객|||Space Drifter
 61073|||무공으로 캐리한다|||I Carry with Martial Arts
+610774|||5초 먼저보는 펀드매니저를 해고했더니 펀드가 박살남|||I Fired the Fund Manager Who Could See Five Seconds Ahead, and the Fund Crashed
 61084|||인생은 한방이야!|||Life Is All or Nothing!
 61099|||패군|||Defeated Army
 61101|||유변 생존기|||Survival at the Edge
@@ -90391,6 +90392,5 @@
 608033|||Axiom(공리)|||
 608414|||번학무사 (番學武士)|||
 610021|||2035|||
-610774|||5초 먼저보는 펀드매니저를 해고했더니 펀드가 박살남|||
 63401|||49|||
 7571|||5시 16분|||
