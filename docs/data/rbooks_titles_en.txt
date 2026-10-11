@@ -10985,6 +10985,7 @@
 3076063806|||은퇴한 무신은 쉬고 싶다|||The Retired Martial God Wants to Rest
 3076064006|||게이트 제거대원이 되었다|||I Became a Gate Removal Specialist
 3076064222|||늑대의 힘으로 부활했습니다|||I Came Back with the Power of a Wolf
+3076064442|||미국 노동자는 천재 프로듀서|||The American Worker Is a Genius Producer
 3078000002|||아스텔|||Astel
 3086000832|||망천의 새|||The Bird of Mangcheon
 3086001161|||망천의 새 외전|||The Bird of Mangcheon: Side Story
@@ -11120,6 +11121,7 @@
 3092044679|||별수저 물고 데뷔하겠습니다|||I'll Debut with a Silver Spoon
 3092044984|||이레귤러 감정사의 회귀|||The Irregular Appraiser's Regression
 3092045382|||내 조카는 악녀 안 시킴!|||I Won't Let My Niece Become a Villainess!
+3092045772|||회귀한 혈기사의 공략법|||How to Conquer as a Regressed Blood Knight
 3092046075|||악마와 계약한 배우님|||The Actor Who Contracted with a Demon
 3092046275|||두 번 사는 검찰청 양아치|||The Prosecutor's Office Thug Lives Twice
 3092046671|||천재 주술사의 전생일지|||A Genius Shaman's Past-Life Journal
@@ -12787,6 +12789,7 @@
 3586122032|||딸만 키웠는데 종결급 인형 소환|||I Only Raised My Daughter, but Summoned an Endgame Doll
 3586122232|||귀환한 재앙급 무당이 다 잘함|||The Calamity-Rank Shaman Who Returned Is Good at Everything
 3586122432|||돈 씹어먹고 삽니다|||I Live by Chewing Up Money
+3586122711|||미리보기 마법사의 던전 공략법|||The Preview Mage’s Guide to Conquering Dungeons
 3586122975|||할리우드 엑스트라가 연기를 너무 잘함|||The Hollywood Extra Acts Too Well
 3586123144|||마왕 삼촌이 돌아왔다|||The Demon King's Uncle Has Returned
 3586123500|||회사에서 건물주인 걸 안 숨김|||I Don't Hide That I Own the Company Building
@@ -17107,6 +17110,7 @@
 4516012503|||세 번의 밤 (15세 개정판)|||Three Nights (15+ Revised Edition)
 4516012564|||세 번의 밤|||Three Nights
 4516012704|||거절은 거절해|||I Refuse to Take No for an Answer
+4516012777|||거절은 거절해 (15세 개정판)|||I Refuse to Take No for an Answer (15+ Revised Edition)
 4529000001|||텐세그리티(Tensegrity)|||Tensegrity
 4529000151|||텐세그리티(Tensegrity) 외전|||Tensegrity: Side Story
 4529000176|||라그랑주 포인트|||Lagrange Point
@@ -17756,6 +17760,7 @@
 5039017495|||회귀한 검신은 조용히 살고 싶다|||The Regressed Sword God Wants a Quiet Life
 5039017676|||마운드의 금태양|||The Golden Sun of the Mound
 5039017997|||녹림천하|||The Green Forest Under Heaven
+5039018312|||러시아 제국의 조선인 대원수|||The Korean Grand Marshal of the Russian Empire
 5040000003|||어드밴티지(Advantage)|||Advantage
 5040000004|||어드밴티지(Advantage)(15세 개정판)|||Advantage (15+ Revised Edition)
 5040000389|||사카린|||Saccharin
@@ -21245,9 +21250,6 @@
 120086367|||아카데미 청소부의 은밀한 공략|||
 2313000001|||던전 공략 LIVE|||
 2877000379|||공략은 전지적으로|||
-3076064442|||미국 노동자는 천재 프로듀서|||
-3092045772|||회귀한 혈기사의 공략법|||
-3586122711|||미리보기 마법사의 던전 공략법|||
 4178000348|||던전공략 특별회수반|||
 4186000571|||설계자의 공략방법|||
 4186010140|||초월급 엑스트라의 공략집|||
@@ -21257,8 +21259,6 @@
 425606091|||1903|||
 425629250|||1973|||
 425666977|||유부녀 공략 시스템 각성!|||
-4516012777|||거절은 거절해 (15세 개정판)|||
-5039018312|||러시아 제국의 조선인 대원수|||
 505027633|||현질로 소설 공략|||
 777039546|||공략자들|||
 945008054|||40,41|||
