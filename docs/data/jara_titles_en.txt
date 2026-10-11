@@ -144723,6 +144723,7 @@
 1888749|||내일을 빌려주는 회사의 경영자가 되었다|||I Became the CEO of a Company That Lends Out Tomorrows
 1888750|||백천일의 골목무관|||Baek Cheon-il's Alley Dojo
 1888754|||[블리치] 나비가 잠드는 곳 (完)|||[Bleach] Where the Butterflies Sleep (Complete)
+1888758|||전생 도서관으로 만능 배우가 되었다|||I Became a Versatile Actor Thanks to Reincarnating into a Library
 1888760|||골렘을 만들었을 뿐인데, 모두가 나를 두려워한다|||I Only Made a Golem, but Everyone Fears Me
 1888761|||걸그룹 아내와 몰래 육아 중입니다|||I'm Secretly Raising a Child with My Girl-Group Wife
 1888765|||파르파파의 낭만 이야기|||Parpapa's Romantic Tale
@@ -145057,6 +145058,9 @@
 1889568|||시한부 공자님은 암흑가 미친개|||The Terminally Ill Young Master Is the Underworld's Mad Dog
 1889569|||아포칼립스의 유일한 건물주|||The Apocalypse's Only Landlord
 1889570|||이 가문의 미친놈은 나야|||I'm the Crazy One in This Family
+1889573|||인생 2회차 효자는 홈런왕|||A Dutiful Son in His Second Life Becomes a Home Run King
+1889574|||옆집 할아버지가 재벌이었다|||The Old Man Next Door Was a Chaebol
+1889578|||회귀한 천재 닥터의 미국 정복기|||The Regressed Genius Doctor Conquers America
 1889592|||린린|||Linlin
 1889594|||[코난] 피차일반|||[Conan] We're Both the Same
 1889595|||내 이야기|||My Story
@@ -146040,6 +146044,7 @@
 1891726|||개강했는데 여자 여섯 명이 전부 나랑 잤던 눈으로 본다|||It's the First Day of Class, and Six Girls Are Looking at Me Like We Slept Together
 1891730|||외계 왕의 신부가 되면 4조 8천억 받음|||I Get 4.8 Trillion Won for Marrying an Alien King
 1891732|||축복|||Blessing
+1891735|||YOU료화 JO카|||YOUryoka JOKa
 1891739|||[이영싫] 시한부 서장님 오늘도 정상 영업합니다|||[My Abnormality is a Problem] The Terminally Ill Captain Is Open for Business as Usual Today
 1891745|||[해리포터] Wuthering Hogwarts|||[Harry Potter] Wuthering Hogwarts
 1891746|||레닌과 베스파|||Lenin and Vespa
@@ -146912,6 +146917,7 @@
 1893784|||도망수가 도망을 안감|||The Bottom Who Never Runs Away
 189386|||실크로드|||Silk Road
 18939|||다크향 시 모음집..|||Collection of Dark Poems..
+1893991|||[해리포터] 저게 어떻게 후플푸프|||[Harry Potter] How Is That a Hufflepuff?
 1894|||Epistolae obscurorum virorum|||Epistolae obscurorum virorum
 189413|||멸망|||Doom
 189415|||아스타니아전기|||Chronicles of Astania
@@ -163546,6 +163552,7 @@
 296701|||용의 노예|||Slave of the Dragon
 29671|||다섯개의 눈 - 칸|||Five Eyes: Khan
 29673|||비행소년 진|||Flying Boy Jin
+296735|||초심을잃지말아라|||Never Lose Your Beginner's Mind
 296741|||poem is life time.|||Poem Is Lifetime.
 296746|||마족헌터|||Demon Hunter
 296749|||이세계의 살인귀.|||Killer from Another World.
@@ -226200,6 +226207,7 @@
 890381|||殘渣; 잔사|||Remnants
 890388|||[리본/가히리] Tirami su!|||[Reborn/Katekyo Hitman Reborn] Tirami su!
 890396|||「감동」[단편]중요하지 않다고 생각하는 걸 잃어버리면 더 슬픈법이다.|||「Moving」[One-Shot] Losing Something You Thought Was Unimportant Hurts More
+890411|||神 Agni|||God Agni
 890435|||RULER GAME|||RULER GAME
 890437|||뭉게구름의 세상여행|||A Cumulus Cloud's World Tour
 890438|||이면의 세계|||The World Behind
@@ -237397,10 +237405,6 @@
 1886519|||ㆍ|||
 1887427|||.|||
 1888381|||병미인화살저도|||
-1888758|||전생 도서관으로 만능 배우가 되었다|||
-1889573|||인생 2회차 효자는 홈런왕|||
-1889574|||옆집 할아버지가 재벌이었다|||
-1889578|||회귀한 천재 닥터의 미국 정복기|||
 1890305|||0|||
 1890688|||하노(夏爐) - 여름이 끝나지 않는 도시|||
 1890735|||[인소의 법칙] 과잉사고(過剩思考).|||
@@ -237416,7 +237420,6 @@
 1891585|||망춘록(望春錄) (15세 개정판)|||
 1891622|||사무라이 애상록(劍客 哀想錄)|||
 1891734|||사방신록(四方神錄)-남쪽의불꽃|||
-1891735|||YOU료화 JO카|||
 1891738|||[괴담출근] 신원미상(身元未詳)|||
 1892225|||17-19|||
 1892227|||무귀 (無歸) : 돌아갈 곳이 없는|||
@@ -237432,7 +237435,6 @@
 1892954|||[작두/BL] 辰|||
 1893138|||합환(合歡)|||
 1893200|||3시 17분|||
-1893991|||[해리포터] 저게 어떻게 후플푸프|||
 193749|||200.|||
 198509|||6666666666|||
 20001|||득 <<得>>|||
@@ -237466,7 +237468,6 @@
 288414|||???|||
 289157|||1|||
 295416|||Χ|||
-296735|||초심을잃지말아라|||
 300014|||321321|||
 300557|||1.2.3..5|||
 30101|||＃|||
@@ -237691,7 +237692,6 @@
 882121|||[신의탑/마기] 던전 공략자.|||
 887654|||.|||
 887900|||99%|||
-890411|||神 Agni|||
 892834|||.|||
 896916|||-|||
 898474|||1997|||
