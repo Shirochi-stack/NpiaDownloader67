@@ -1,4 +1,4 @@
-0|||\uc870\uc544\ub77cBorn|||jaraBorn
+0|||\uc870\uc544\ub77cBorn|||jara Born
 1|||.|||
 2|||-|||
 3|||?|||
@@ -21,7 +21,7 @@
 20|||(?)|||
 21|||->|||
 22|||.....|||
-23|||blog.\u006e\u0061\u0076\u0065\u0072.com|||blog.nweb.com
+23|||blog.\u006e\u0061\u0076\u0065\u0072.com|||blog.\u006e\u0061\u0076\u0065\u0072.com
 24|||​|||
 25|||﻿|||
 26|||1.|||
@@ -99,9 +99,9 @@
 98|||^^*|||
 99|||_|||
 100|||_)|||
-101|||cafe.\u006e\u0061\u0076\u0065\u0072.com|||cafe.nweb.com
-102|||tpfla077@\u006e\u0061\u0076\u0065\u0072.com|||tpfla077@nweb.com
-103|||www.\u006a\u006f\u0061\u0072\u0061.com|||www.jara.com
+101|||cafe.\u006e\u0061\u0076\u0065\u0072.com|||cafe.\u006e\u0061\u0076\u0065\u0072.com
+102|||tpfla077@\u006e\u0061\u0076\u0065\u0072.com|||tpfla077@\u006e\u0061\u0076\u0065\u0072.com
+103|||www.\u006a\u006f\u0061\u0072\u0061.com|||www.\u006a\u006f\u0061\u0072\u0061.com
 104|||\u007c서리\u007c||||Seori|
 105|||~?|||
 106|||~~|||
@@ -124,19 +124,20 @@
 123|||》|||
 124|||공략기|||
 125|||공략중|||
-126|||\ub178\ubca8\ud53c\uc544공식|||npia Official
-127|||마법소설.마술소설.마법.마술.소설.개인소설.\uc870\uc544\ub77c소설.공상마법학교|||Magic Novel. Magic Fiction. Magic. Sorcery. Novel. Personal Novel. jara Novel. Fantasy Magic Academy
-128|||무협.무협지.신무협.무협소설.신무협소설.장르소설.강호.무림.액션.소설.\uc870\uc544\ub77c무협.\uc870\uc544\ub77c신무협.|||Wuxia. Wuxia Novel. New Wuxia. Wuxia Fiction. New Wuxia Novel. Genre Fiction. Jianghu. Murim. Action. Novel. jara Wuxia. jara New Wuxia.
-129|||살인\u007c|||Murder|
-130|||\uc870\uc544\ub77c_투베도전|||jara_Weekly Bestseller Challenge
-131|||\uc870\uc544\ub77c공모전|||jara Contest
-132|||\uc870\uc544\ub77c세계관|||jara Universe
-133|||\uc870\uc544\ub77c소설|||jara Novel
-134|||\uc870\uc544\ub77c신입사원|||jara New Employee
-135|||\uc870\uc544\ub77c여|||jara Female
-136|||\uc870\uc544\ub77c연재소설|||jara Serialized Novel
-137|||\uc870\uc544\ub77c의|||jara's
-138|||\uc870\uc544\ub77c첫작|||jara Debut Work
-139|||\uc870\uc544\ub77c판타지소설|||jara Fantasy Novel
-140|||주변사람들이다\ub9ac\ub514\ubd81\uc2a4공|||Everyone Around Them Is a rbooks Top
-141|||／|||
+126|||\ub178\ubca8\ud53c\uc544공식|||Official npia
+127|||마법소설.마술소설.마법.마술.소설.개인소설.\uc870\uc544\ub77c소설.공상마법학교|||Magic Novel. Sorcery Novel. Magic. Sorcery. Novel. Original Fiction. jara Novel. Fantasy Magic Academy
+128|||무협.무협지.신무협.무협소설.신무협소설.장르소설.강호.무림.액션.소설.\uc870\uc544\ub77c무협.\uc870\uc544\ub77c신무협.|||Wuxia. Wuxia Fiction. New Wuxia. Wuxia Novel. New Wuxia Novel. Genre Fiction. Jianghu. Murim. Action. Novel. jara Wuxia. jara New Wuxia.
+129|||살인\u007c|||Murder\u007c
+130|||재상남주|||Chancellor Male Lead
+131|||\uc870\uc544\ub77c_투베도전|||jara_Top 100 Challenge
+132|||\uc870\uc544\ub77c공모전|||jara Contest
+133|||\uc870\uc544\ub77c세계관|||jara Universe
+134|||\uc870\uc544\ub77c소설|||jara Novel
+135|||\uc870\uc544\ub77c신입사원|||jara New Hire
+136|||\uc870\uc544\ub77c여|||jara Female
+137|||\uc870\uc544\ub77c연재소설|||jara Serialized Novel
+138|||\uc870\uc544\ub77c의|||jara's
+139|||\uc870\uc544\ub77c첫작|||jara First Work
+140|||\uc870\uc544\ub77c판타지소설|||jara Fantasy Novel
+141|||주변사람들이다\ub9ac\ub514\ubd81\uc2a4공|||Everyone Around Them Is a rbooks Gong
+142|||／|||
