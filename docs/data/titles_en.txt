@@ -75766,6 +75766,7 @@
 24172|||그냥 백합 이야기|||Just a Yuri Story
 226120|||다른 학교의 여학생을 도왔더니 친구부터 시작하게 되었습니다|||I Helped a Female Student from Another School and We Started as Friends
 224455|||전속 집사를 그만두니 모셨던 아가씨가 유난히 가까운데|||I Quit Being a Personal Butler and the Young Lady I Served is Unusually Close
+227044|||세드릭 디고리에게 씀 |해리포터|||||
 169165|||초능력 고등학교|||Superpower High School
 212173|||여사친 진|||Female Friend Jin
 155802|||(전) 무림맹주 (현) 미소녀|||(Former) Murim Alliance Leader (Current) Beautiful Girl
@@ -92459,7 +92460,7 @@
 453175|||용병단의 퇴물 검객|||The Mercenary Corps’ Washed-Up Swordsman
 453072|||잔향 : REVERB|||잔향 : REVERB
 452070|||흑막 취급받는 실눈소녀는 평범합니다|||The Squinty-Eyed Girl Mistaken for a Mastermind Is Ordinary
-452010|||남의 나라 반역을 성공시켰다|||I Successfully Pulled Off a Rebellion in Another Country
+452010|||폭군의 애착 재상이 되었다|||I Successfully Pulled Off a Rebellion in Another Country
 452975|||눈 떠보니 여자라서 방송부터 켰다|||I Woke Up as a Woman and Started Streaming
 453458|||꺼진 S급들을 다시 켭니다|||I’m Bringing the Fallen S-Ranks Back Online
 452966|||[픽 미 업!]유희에 강제로 초대당했다|||[Pick Me Up!] I Was Forced Into a Game
@@ -94804,6 +94805,7 @@
 455515|||조선 초기에 장르 문학을 풀었다|||I Introduced Genre Fiction in Early Joseon
 457609|||니벨룽겐의-군주|||Lord of the Nibelungen
 456866|||다크판타지 속 폭군|||The Tyrant in Dark Fantasy
+456449|||(一九一)191|||(One Nine One) 191
 456069|||춘향전이 진짜라고 믿어?|||Do You Believe the Tale of Chunhyang Is Real?
 455996|||장르도 모르고 많이 죽음|||I Died a Lot Without Even Knowing the Genre
 455897|||신의 코끼리라 바락바락 우기는 꼬맹이와 괴이를 잡음|||Hunting Anomalies With a Kid Who Insists He's God's Elephant
@@ -96156,11 +96158,9 @@
 458147|||바보장삐는 낚인거지요|||Foolish Jangppi Got Hooked
 455704|||전술수량자승론(戰術數量自乘論)|||The Theory of Tactical Quantitative Multiplication
 455848|||강원도 광악면은 살기 좋은 마을이다|||Gwangak-myeon, Gangwon Province, Is a Wonderful Place to Live
-227044|||세드릭 디고리에게 씀 |해리포터||||
-456449|||(一九一)191|||(One Nine One) 191
-458004|||| 거울세계의 현존재 |||
-347371|||상태창 대신 콘솔창 들고 게임 공략|||
-457675|||환 환 환|||
+347371|||상태창 대신 콘솔창 들고 게임 공략|||Conquering the Game with a Console Instead of a Status Window
+458004|||| 거울세계의 현존재 ||||
+457675|||환 환 환|||Hwan Hwan Hwan
 457123|||.....ㅁㄹㅇㅁㄴㄴㅁ|||
 457223|||ㅇㅇㅇㅇ¿|||
 456636|||이세계 탑 공략 방송이지만, 저는 방송인 것을 모릅니다.|||
